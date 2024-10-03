@@ -6,7 +6,6 @@ export default  [
                 {value: "A"},
                 {value: "B"},
                 {value: "C"},
-                {value: "D"},
             ],
             "answer": "A",
             "selectedAnswer": null
@@ -17,8 +16,7 @@ export default  [
             "plans": [
                 {value: "A"},
                 {value: "B"},
-                {value: "C"},
-                {value: "D"},
+                {value: "C"}, 
             ],
             "answer": "A",
             "selectedAnswer": null
@@ -30,7 +28,6 @@ export default  [
                 {value: "A"},
                 {value: "B"},
                 {value: "C"},
-                {value: "D"},
             ],
             "answer": "A",
             "selectedAnswer": null
@@ -42,7 +39,6 @@ export default  [
                 {value: "A"},
                 {value: "B"},
                 {value: "C"},
-                {value: "D"},
             ],
             "answer": "A",
             "selectedAnswer": null
@@ -54,7 +50,6 @@ export default  [
                 {value: "A"},
                 {value: "B"},
                 {value: "C"},
-                {value: "D"},
             ],
             "answer": "A",
             "selectedAnswer": null
@@ -66,7 +61,6 @@ export default  [
                 {value: "A"},
                 {value: "B"},
                 {value: "C"},
-                {value: "D"},
             ],
             "answer": "A",
             "selectedAnswer": null
@@ -78,7 +72,6 @@ export default  [
                 {value: "A"},
                 {value: "B"},
                 {value: "C"},
-                {value: "D"},
             ],
             "answer": "A",
             "selectedAnswer": null
@@ -90,7 +83,6 @@ export default  [
                 {value: "A"},
                 {value: "B"},
                 {value: "C"},
-                {value: "D"},
             ],
             "answer": "A",
             "selectedAnswer": null
@@ -102,7 +94,6 @@ export default  [
                 {value: "A"},
                 {value: "B"},
                 {value: "C"},
-                {value: "D"},
             ],
             "answer": "A",
             "selectedAnswer": null
@@ -114,7 +105,6 @@ export default  [
                 {value: "A"},
                 {value: "B"},
                 {value: "C"},
-                {value: "D"},
             ],
             "answer": "A",
             "selectedAnswer": null
@@ -126,10 +116,8 @@ export default  [
                 {value: "A"},
                 {value: "B"},
                 {value: "C"},
-                {value: "D"},
             ],
             "answer": "A",
             "selectedAnswer": null
-        }
-        
+        }       
 ]

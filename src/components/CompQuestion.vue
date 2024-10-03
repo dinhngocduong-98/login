@@ -1,6 +1,11 @@
 <template>
   <div class="quiz-container">
-        <h2>Câu hỏi: {{index + 1 }} : {{ question.question }}</h2>
+        <h2>Câu hỏi: {{index + 1 }} : {{ question.question }}
+            <span v-if="isSubmit && isCorrect" style="color: green;">✔️</span>
+            <span v-if="isSubmit && !isCorrect" style="color: red;">
+                X
+            </span>
+        </h2>
 
         <div v-for="(plan, index) in shuffledPlans" :key="index">
             <label>
@@ -26,6 +31,10 @@ export default {
         index: {
             type: Number,
             default: 0
+        },
+        isSubmit: {
+            type: Boolean,
+            default: false
         }
     },
     data() {
@@ -36,12 +45,18 @@ export default {
     },
     created() {
         this.shuffledPlans = this.shuffleArray(this.question.plans);
+        
     },
     watch: {
         selectedAnswer(newValue) {
             this.$emit('handleChecked', this.index, newValue);
         }
     },
+    computed: {
+        isCorrect() {
+            return this.isSubmit && this.selectedAnswer === this.question.answer;
+        }
+  },
     methods: {
         shuffleArray(array) {
             for (let i = array.length - 1; i > 0; i--) {
@@ -49,6 +64,9 @@ export default {
                 [array[i], array[j]] = [array[j], array[i]];
             }
             return array;
+        },
+        handleSubmit() {
+            this.$emit('handleSubmit');
         }
     }
 }

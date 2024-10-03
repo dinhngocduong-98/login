@@ -10,7 +10,8 @@
 				v-bind:question="question"
 				v-bind:index="index"
 				v-on:handleChecked="handleChecked"
-				v-bind:isSubmit="iSubmit"
+				:isSubmit="isSubmit"
+				v-on:handleSubmit="handleSubmit"
 			/>
 		</div>
 		<button v-if="isShowForm" @click="handleSubmit">Nộp câu trả lời</button>
