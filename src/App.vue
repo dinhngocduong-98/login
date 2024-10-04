@@ -4,6 +4,9 @@
 			@click="handleStart"
 		>Start
 		</button>
+		<comp-title-vue
+			v-bind:isSubmit="isSubmit"
+		/>
 		<div v-if="isShowForm">
 			<comp-question v-for="(question, index) in listQuestion"
 				v-bind:key="question.id"
@@ -21,6 +24,7 @@
 <script>
 import question from '../mocks/data/question'
 import CompQuestion from './components/CompQuestion.vue'
+import CompTitleVue from './components/CompTitle.vue'
 
 export default {
 	name: 'app',
@@ -32,7 +36,8 @@ export default {
 		}
 	},
 	components: {
-		CompQuestion
+		CompQuestion,
+		CompTitleVue
 	},
 	methods: {
 		shuffle(array) {
@@ -50,6 +55,11 @@ export default {
 		},
 		handleStart() {
 			this.isShowForm = true;
+		},
+		handleResetData() {
+			this.listQuestion.forEach(question => {
+				question.selectedAnswer = null;
+			});
 		}
 	}
 }
