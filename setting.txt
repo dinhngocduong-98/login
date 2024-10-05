@@ -1,0 +1,9 @@
+npm install vue
+npm install
+npm run dev
+
+
+
+npm install vue@2.7.16 vue-template-compiler@2.7.16
+delete paketlog
+delete node_modul

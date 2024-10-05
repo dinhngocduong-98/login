@@ -2866,7 +2866,7 @@ export default  [
                 "value": "on"
             },
             {
-                "value": "at "
+                "value": "at"
             }
         ],
         "answer": "at",
@@ -4115,7 +4115,7 @@ export default  [
     },
     {
         "id": 243,
-        "question": "Men and women who (s erve / do not serve / serves) the passengers  on board are",
+        "question": "Men and women who (serve / do not serve / serves) the passengers  on board are called flight attendants.",
         "plans": [
             {
                 "value": "serve"
@@ -4234,7 +4234,7 @@ export default  [
     },
     {
         "id": 250,
-        "question": "If you see a British Airways A320 in Hamburg, you know it __________________ ",
+        "question": "If you see a British Airways A320 in Hamburg, you know it __________________ to London.",
         "plans": [
             {
                 "value": "did fly"
@@ -5203,7 +5203,7 @@ export default  [
     },
     {
         "id": 307,
-        "question": "The primary flight controls are powered by three hydraulic syst ems. …. the",
+        "question": "The primary flight controls are powered by three hydraulic syst ems. …. the secondary controls are powered by two.",
         "plans": [
             {
                 "value": "although"
@@ -5611,7 +5611,7 @@ export default  [
     },
     {
         "id": 331,
-        "question": "351. The \"endurance\" is the…(LONG) time an aircraft can fly without refueling.   ",
+        "question": "The \"endurance\" is the…(LONG) time an aircraft can fly without refueling.",
         "plans": [
             {
                 "value": "longest"
@@ -5620,15 +5620,15 @@ export default  [
                 "value": "longer"
             },
             {
-                "value": "longer than  "
+                "value": "longer than"
             }
         ],
-        "answer": "answer",
+        "answer": "longest",
         "selectedAnswer": null
     },
     {
         "id": 332,
-        "question": "352. The aircraft's \"ceiling\" is the ........(HIGH) altitude it can fly at.   ",
+        "question": "The aircraft's \"ceiling\" is the ........(HIGH) altitude it can fly at.",
         "plans": [
             {
                 "value": "higher"
@@ -5637,49 +5637,49 @@ export default  [
                 "value": "highest"
             },
             {
-                "value": "high "
+                "value": "high"
             }
         ],
-        "answer": "answer",
+        "answer": "highest",
         "selectedAnswer": null
     },
     {
         "id": 333,
-        "question": "353. Built-in test equipment is the...(GOOD) way of troubleshooting quickly.   ",
+        "question": "Built-in test equipment is the...(GOOD) way of troubleshooting quickly.",
         "plans": [
             {
                 "value": "better"
             },
             {
-                "value": "Built-in test equipment is the...(GOOD) way of troubleshooting quickly.   "
+                "value": "gooder"
             },
             {
-                "value": "best  "
+                "value": "best"
             }
         ],
-        "answer": "answer",
+        "answer": "best",
         "selectedAnswer": null
     },
     {
         "id": 334,
-        "question": "354. After 50 hours, the strut was ....(CR ACKED) than at the first inspectio n. (level 1  ",
+        "question": "After 50 hours, the strut was ....(CR ACKED) than at the first inspectio n. (level 1)",
         "plans": [
             {
-                "value": "After 50 hours, the strut was ....(CR ACKED) than at the first inspectio n. (level 1  "
+                "value": "Cracker"
             },
             {
                 "value": "More cracked"
             },
             {
-                "value": "CR ACKED) than at the first inspectio n. (level 1  "
+                "value": "Crack more"
             }
         ],
-        "answer": "answer",
+        "answer": "More cracked",
         "selectedAnswer": null
     },
     {
         "id": 335,
-        "question": "355. The reinforced areas offer...(GOOD) resistance the ….non -reinforced areas.    ",
+        "question": "The reinforced areas offer...(GOOD) resistance the ….non -reinforced areas.",
         "plans": [
             {
                 "value": "Better…than"
@@ -5688,41 +5688,41 @@ export default  [
                 "value": "Better…than"
             },
             {
-                "value": "the best ...than  "
+                "value": "the best ...than"
             }
         ],
-        "answer": "answer",
+        "answer": "Better…than",
         "selectedAnswer": null
     },
     {
         "id": 336,
-        "question": "356. Automatic braking enables the plane to decelerate…(SMOOTHLY).   ",
+        "question": "Automatic braking enables the plane to decelerate…(SMOOTHLY).",
         "plans": [
             {
-                "value": "Automatic braking enables the plane to decelerate…(SMOOTHLY).   "
+                "value": "Better…than"
             },
             {
                 "value": "more smoothly"
             },
             {
-                "value": "smoot ly than  "
+                "value": "smootly than"
             }
         ],
-        "answer": "answer",
+        "answer": "more smoothly",
         "selectedAnswer": null
     },
     {
         "id": 337,
-        "question": "357. Microwave Landing Systems are...(ACCURATE) conventional ILS .   ",
+        "question": "Microwave Landing Systems are...(ACCURATE) conventional ILS .",
         "plans": [
             {
-                "value": "ACCURATE) conventional ILS .   "
+                "value": "accurater"
             },
             {
                 "value": "accurater than"
             },
             {
-                "value": "CCURATE) conventional ILS .   "
+                "value": "more accurate"
             }
         ],
         "answer": "answer",
@@ -5730,7 +5730,7 @@ export default  [
     },
     {
         "id": 338,
-        "question": "358. ILS is installed at all major airports ....(conjunction) MLS is rare  .  ",
+        "question": "ILS is installed at all major airports ....(conjunction) MLS is rare.",
         "plans": [
             {
                 "value": "in while"
@@ -5739,49 +5739,49 @@ export default  [
                 "value": "while"
             },
             {
-                "value": "but "
+                "value": "but"
             }
         ],
-        "answer": "answer",
+        "answer": "while",
         "selectedAnswer": null
     },
     {
         "id": 339,
-        "question": "359. The...(SHORT) the runway, the (HARD) the braking.    ",
+        "question": "The...(SHORT) the runway, the (HARD) the braking.",
         "plans": [
             {
-                "value": "ARD) the braking.    "
+                "value": "short…hard"
             },
             {
                 "value": "shortest…hardest"
             },
             {
-                "value": "shorter…harder  "
+                "value": "shorter…harder"
             }
         ],
-        "answer": "answer",
+        "answer": "shorter…harder",
         "selectedAnswer": null
     },
     {
         "id": 340,
-        "question": "360. A jetty is...(FAST)  way of disembarking passengers.  ",
+        "question": "A jetty is...(FAST)  way of disembarking passengers.",
         "plans": [
             {
-                "value": "A jetty is...(FAST)  way of disembarking passengers.  "
+                "value": "the fastest"
             },
             {
                 "value": "the faster"
             },
             {
-                "value": "fastest  "
+                "value": "fastest"
             }
         ],
-        "answer": "answer",
+        "answer": "the fastest",
         "selectedAnswer": null
     },
     {
         "id": 341,
-        "question": "361. There is.... (MUCH) risk of ice -formation when there are clouds...in a clear sky.   ",
+        "question": "There is.... (MUCH) risk of ice -formation when there are clouds...in a clear sky.",
         "plans": [
             {
                 "value": "more…more"
@@ -5790,15 +5790,15 @@ export default  [
                 "value": "more -than"
             },
             {
-                "value": "CH) risk of ice -formation when there are clouds...in a clear sky.   "
+                "value": "mucher…than"
             }
         ],
-        "answer": "answer",
+        "answer": "more -than",
         "selectedAnswer": null
     },
     {
         "id": 342,
-        "question": "362. The...( HIGH) the engine speed, the (HOT) the EGT.    ",
+        "question": "The...( HIGH) the engine speed, the (HOT) the EGT.",
         "plans": [
             {
                 "value": "high.. Hot"
@@ -5807,15 +5807,15 @@ export default  [
                 "value": "higher - hotter"
             },
             {
-                "value": "highest - hotest  "
+                "value": "highest - hotest"
             }
         ],
-        "answer": "answer",
+        "answer": "higher - hotter",
         "selectedAnswer": null
     },
     {
         "id": 343,
-        "question": "363. The elevators are deflected symmetrically. The LH elevator is deflected ",
+        "question": "The elevators are deflected symmetrically. The LH elevator is deflected .....(MUCH) the RH elevator.",
         "plans": [
             {
                 "value": "more than"
@@ -5824,15 +5824,15 @@ export default  [
                 "value": "more"
             },
             {
-                "value": "CH) the RH elevator.   "
+                "value": "much than"
             }
         ],
-        "answer": "answer",
+        "answer": "more than",
         "selectedAnswer": null
     },
     {
         "id": 344,
-        "question": "364. The square form factor also has...(GOO D) mechanical properties...triangular ",
+        "question": "The square form factor also has...(GOO D) mechanical properties...triangular shapes.",
         "plans": [
             {
                 "value": "gooder - than"
@@ -5841,15 +5841,15 @@ export default  [
                 "value": "better - than"
             },
             {
-                "value": "best- than "
+                "value": "best- than"
             }
         ],
-        "answer": "answer",
+        "answer": "better - than",
         "selectedAnswer": null
     },
     {
         "id": 345,
-        "question": "365. The...(LONG) the path length the...(GOOD) the performance characteristics.    ",
+        "question": "The...(LONG) the path length the...(GOOD) the performance characteristics.",
         "plans": [
             {
                 "value": "longer - better"
@@ -5861,12 +5861,12 @@ export default  [
                 "value": "longer –good  "
             }
         ],
-        "answer": "answer",
+        "answer": "longer - better",
         "selectedAnswer": null
     },
     {
         "id": 346,
-        "question": "366. a disc on the brake unit .  ",
+        "question": "a disc on the brake unit.",
         "plans": [
             {
                 "value": "brake disc"
@@ -5875,15 +5875,15 @@ export default  [
                 "value": "disc brake"
             },
             {
-                "value": "disc braking  "
+                "value": "disc braking"
             }
         ],
-        "answer": "answer",
+        "answer": "brake disc",
         "selectedAnswer": null
     },
     {
         "id": 347,
-        "question": "367. a type of brake .  ",
+        "question": "a type of brake .",
         "plans": [
             {
                 "value": "brake disc"
@@ -5892,15 +5892,15 @@ export default  [
                 "value": "disc brake"
             },
             {
-                "value": "disc brake  "
+                "value": "disc brake"
             }
         ],
-        "answer": "answer",
+        "answer": "disc brake",
         "selectedAnswer": null
     },
     {
         "id": 348,
-        "question": "368. aircraft standard altitude .  ",
+        "question": "aircraft standard altitude.",
         "plans": [
             {
                 "value": "flight level"
@@ -5909,15 +5909,15 @@ export default  [
                 "value": "level flight"
             },
             {
-                "value": "levelling flight  "
+                "value": "levelling flight"
             }
         ],
-        "answer": "answer",
+        "answer": "flight level",
         "selectedAnswer": null
     },
     {
         "id": 349,
-        "question": "369. horizontal flight   ",
+        "question": "horizontal flight",
         "plans": [
             {
                 "value": "flight level"
@@ -5926,15 +5926,15 @@ export default  [
                 "value": "level flight"
             },
             {
-                "value": "levelling flight  "
+                "value": "levelling flight"
             }
         ],
-        "answer": "answer",
+        "answer": "flight level",
         "selectedAnswer": null
     },
     {
         "id": 350,
-        "question": "370. the center of the tank .  ",
+        "question": "the center of the tank.",
         "plans": [
             {
                 "value": "tank center"
@@ -5943,15 +5943,15 @@ export default  [
                 "value": "center tank"
             },
             {
-                "value": "centering t ank "
+                "value": "centering tank"
             }
         ],
-        "answer": "answer",
+        "answer": "tank center",
         "selectedAnswer": null
     },
     {
         "id": 351,
-        "question": "371. the tank in the wing center box .  ",
+        "question": "the tank in the wing center box.",
         "plans": [
             {
                 "value": "tank center"
@@ -5960,15 +5960,15 @@ export default  [
                 "value": "center tank"
             },
             {
-                "value": "centering tank  "
+                "value": "centering tank"
             }
         ],
-        "answer": "answer",
+        "answer": "center tank",
         "selectedAnswer": null
     },
     {
         "id": 352,
-        "question": "372. air used to cool hot air .  ",
+        "question": "air used to cool hot air.",
         "plans": [
             {
                 "value": "AIR COOLING"
@@ -5980,29 +5980,29 @@ export default  [
                 "value": "COOLING"
             }
         ],
-        "answer": "answer",
+        "answer": "COOLING AIR",
         "selectedAnswer": null
     },
     {
         "id": 353,
-        "question": "373. to transfer from one circuit to another .  ",
+        "question": "to transfer from one circuit to another.",
         "plans": [
             {
                 "value": "SWITCHING CIRCUIT"
             },
             {
-                "value": "CIRCUIT  SWITCHING"
+                "value": "CIRCUIT SWITCHING"
             },
             {
                 "value": "CHING CIRCUIT"
             }
         ],
-        "answer": "answer",
+        "answer": "CIRCUIT SWITCHING",
         "selectedAnswer": null
     },
     {
         "id": 354,
-        "question": "374. procedure to check lights .  ",
+        "question": "procedure to check lights.",
         "plans": [
             {
                 "value": "LIGHT TEST"
@@ -6011,32 +6011,32 @@ export default  [
                 "value": "TEST LIGHT"
             },
             {
-                "value": "TESTING LIGHT  "
+                "value": "TESTING LIGHT"
             }
         ],
-        "answer": "answer",
+        "answer": "LIGHT TEST",
         "selectedAnswer": null
     },
     {
         "id": 355,
-        "question": "375. signal sent back by the system  .      ",
+        "question": "signal sent back by the system.",
         "plans": [
             {
                 "value": "FEEDBACK SYSTEM"
             },
             {
-                "value": "BACK SYSTEM"
+                "value": "SYSTEM FEEDBACK"
             },
             {
-                "value": "CK SYSTEM"
+                "value": "SYSTEMATIC FEEDBACK"
             }
         ],
-        "answer": "answer",
+        "answer": "SYSTEM FEEDBACK",
         "selectedAnswer": null
     },
     {
         "id": 356,
-        "question": "376. large groups (looms) of wires .  ",
+        "question": "large groups (looms) of wires.",
         "plans": [
             {
                 "value": "WIRE LOOMS"
@@ -6048,12 +6048,12 @@ export default  [
                 "value": "LOOMING WIRES  "
             }
         ],
-        "answer": "answer",
+        "answer": "WIRE LOOMS",
         "selectedAnswer": null
     },
     {
         "id": 357,
-        "question": "377. non-return valve .  ",
+        "question": "non-return valve.",
         "plans": [
             {
                 "value": "CHECK VALVE"
@@ -6062,15 +6062,15 @@ export default  [
                 "value": "VALVE CHECK"
             },
             {
-                "value": "CHECK VALVE"
+                "value": "VALVE CHECKING"
             }
         ],
-        "answer": "answer",
+        "answer": "CHECK VALVE",
         "selectedAnswer": null
     },
     {
         "id": 358,
-        "question": "378. moto r to move a valve .  ",
+        "question": "moto r to move a valve.",
         "plans": [
             {
                 "value": "VALVE DRIVE"
@@ -6079,15 +6079,15 @@ export default  [
                 "value": "DRIVE VALVE"
             },
             {
-                "value": "DRIVING VALVE  "
+                "value": "DRIVING VALVE"
             }
         ],
-        "answer": "answer",
+        "answer": "VALVE DRIVE",
         "selectedAnswer": null
     },
     {
         "id": 359,
-        "question": "379. activates a valve electrically .  ",
+        "question": "activates a valve electrically.",
         "plans": [
             {
                 "value": "SOLENOID VALVE"
@@ -6096,15 +6096,15 @@ export default  [
                 "value": "VALVE SOLENOID"
             },
             {
-                "value": "VALVING SOLENOID  "
+                "value": "VALVING SOLENOID"
             }
         ],
-        "answer": "answer",
+        "answer": "SOLENOID VALVE",
         "selectedAnswer": null
     },
     {
         "id": 360,
-        "question": "380. air from engine compressor .  ",
+        "question": "air from engine compressor.",
         "plans": [
             {
                 "value": "BLEED AIR"
@@ -6113,15 +6113,15 @@ export default  [
                 "value": "BLEED AIR"
             },
             {
-                "value": "AIR BLEEDING  "
+                "value": "AIR BLEEDING"
             }
         ],
-        "answer": "answer",
+        "answer": "BLEED AIR",
         "selectedAnswer": null
     },
     {
         "id": 361,
-        "question": "381. system that provides hot air .  ",
+        "question": "system that provides hot air.",
         "plans": [
             {
                 "value": "BLEED AIR"
@@ -6130,15 +6130,15 @@ export default  [
                 "value": "BLEED AIR"
             },
             {
-                "value": "AIR B LEEDING  "
+                "value": "AIRB LEEDING"
             }
         ],
-        "answer": "answer",
+        "answer": "BLEED AIR",
         "selectedAnswer": null
     },
     {
         "id": 362,
-        "question": "382. The circuit breaker is _____ the panel.   ",
+        "question": "The circuit breaker is _____ the panel.",
         "plans": [
             {
                 "value": "At"
@@ -6150,12 +6150,12 @@ export default  [
                 "value": "In "
             }
         ],
-        "answer": "answer",
+        "answer": "On",
         "selectedAnswer": null
     },
     {
         "id": 363,
-        "question": "383. The cabin lights run ..... the ceiling .  ",
+        "question": "The cabin lights run ..... the ceiling.",
         "plans": [
             {
                 "value": "In"
@@ -6164,15 +6164,15 @@ export default  [
                 "value": "On"
             },
             {
-                "value": "Along  "
+                "value": "Along"
             }
         ],
-        "answer": "answer",
+        "answer": "Along",
         "selectedAnswer": null
     },
     {
         "id": 364,
-        "question": "384. The tanks are located ..... ribs 1 and 14 .  ",
+        "question": "The tanks are located ..... ribs 1 and 14.",
         "plans": [
             {
                 "value": "From"
@@ -6181,15 +6181,15 @@ export default  [
                 "value": "In"
             },
             {
-                "value": "Between  "
+                "value": "Between"
             }
         ],
-        "answer": "answer",
+        "answer": "Between",
         "selectedAnswer": null
     },
     {
         "id": 365,
-        "question": "4.   On",
+        "question": "The tanks are located _____ ribs 1 and 4.",
         "plans": [
             {
                 "value": "On"
@@ -6198,15 +6198,15 @@ export default  [
                 "value": "Between"
             },
             {
-                "value": "Within  "
+                "value": "Within"
             }
         ],
-        "answer": "answer",
+        "answer": "Between",
         "selectedAnswer": null
     },
     {
         "id": 366,
-        "question": "386. Pour  oil .......... the tank to top it up.  ",
+        "question": "Pour  oil .......... the tank to top it up.",
         "plans": [
             {
                 "value": "on"
@@ -6218,12 +6218,12 @@ export default  [
                 "value": "over "
             }
         ],
-        "answer": "answer",
+        "answer": "into",
         "selectedAnswer": null
     },
     {
         "id": 367,
-        "question": "387. The insulator  is _____ the wire.   ",
+        "question": "The insulator  is _____ the wire.",
         "plans": [
             {
                 "value": "On"
@@ -6235,12 +6235,12 @@ export default  [
                 "value": "At "
             }
         ],
-        "answer": "answer",
+        "answer": "Around",
         "selectedAnswer": null
     },
     {
         "id": 368,
-        "question": "388. Water  flows ...............  the drain mast.      ",
+        "question": "Water  flows ...............  the drain mast.",
         "plans": [
             {
                 "value": "Out of"
@@ -6252,12 +6252,12 @@ export default  [
                 "value": "into "
             }
         ],
-        "answer": "answer",
+        "answer": "Out of",
         "selectedAnswer": null
     },
     {
         "id": 369,
-        "question": "389. Remove  the cap..... t he overflow pipe .  ",
+        "question": "Remove  the cap..... t he overflow pipe.",
         "plans": [
             {
                 "value": "Out"
@@ -6266,15 +6266,15 @@ export default  [
                 "value": "Through"
             },
             {
-                "value": "From  "
+                "value": "From"
             }
         ],
-        "answer": "answer",
+        "answer": "From",
         "selectedAnswer": null
     },
     {
         "id": 370,
-        "question": "390. Remove  the cap……………….. the overflo w pipe.   ",
+        "question": "Remove  the cap……………….. the overflo w pipe.",
         "plans": [
             {
                 "value": "From"
@@ -6286,12 +6286,12 @@ export default  [
                 "value": "to "
             }
         ],
-        "answer": "answer",
+        "answer": "From",
         "selectedAnswer": null
     },
     {
         "id": 371,
-        "question": "391. The cable  passes ____ the cut out.   ",
+        "question": "The cable  passes ____ the cut out.",
         "plans": [
             {
                 "value": "Along"
@@ -6300,15 +6300,15 @@ export default  [
                 "value": "Over"
             },
             {
-                "value": "Through  "
+                "value": "Through"
             }
         ],
-        "answer": "answer",
+        "answer": "Through",
         "selectedAnswer": null
     },
     {
         "id": 372,
-        "question": "392. Insert  the moto r ..............  the casing.  ",
+        "question": "Insert  the moto r ..............  the casing.",
         "plans": [
             {
                 "value": "Into"
@@ -6320,63 +6320,63 @@ export default  [
                 "value": "To "
             }
         ],
-        "answer": "answer",
+        "answer": "Into",
         "selectedAnswer": null
     },
     {
         "id": 373,
-        "question": "393. Make sure  that the M ASTER switch is __________ OFF.   ",
+        "question": "Make sure  that the M ASTER switch is __________ OFF.",
         "plans": [
             {
-                "value": "ASTER switch is __________ OFF.   "
+                "value": "At "
             },
             {
                 "value": "From"
             },
             {
-                "value": "On "
+                "value": "On"
             }
         ],
-        "answer": "answer",
+        "answer": "At",
         "selectedAnswer": null
     },
     {
         "id": 374,
-        "question": "394. The pointer  is ...............  the red index! (FAULT)   ",
+        "question": "The pointer  is ...............  the red index! (FAULT)",
         "plans": [
             {
-                "value": "AULT)   "
+                "value": "within"
             },
             {
                 "value": "around"
             },
             {
-                "value": "beyond  "
+                "value": "beyond"
             }
         ],
-        "answer": "answer",
+        "answer": "beyond",
         "selectedAnswer": null
     },
     {
         "id": 375,
-        "question": "395. The indication  is .......tolerance. Not OK.   ",
+        "question": "The indication  is .......tolerance. Not OK.",
         "plans": [
             {
                 "value": "Between"
             },
             {
-                "value": "Between"
+                "value": "Beyond"
             },
             {
-                "value": "Within  "
+                "value": "Within"
             }
         ],
-        "answer": "answer",
+        "answer": "Beyond",
         "selectedAnswer": null
     },
     {
         "id": 376,
-        "question": "396. If the tire is ______, _______ it.   ",
+        "question": "If the tire is ______, _______ it.",
         "plans": [
             {
                 "value": "wore/ removed"
@@ -6385,15 +6385,15 @@ export default  [
                 "value": "wear/ remove"
             },
             {
-                "value": "worn/ remove  "
+                "value": "worn/remove"
             }
         ],
-        "answer": "answer",
+        "answer": "worn/remove",
         "selectedAnswer": null
     },
     {
         "id": 377,
-        "question": "397. It takes 10 man -hours ____ the unit.   ",
+        "question": "It takes 10 man -hours ____ the unit.",
         "plans": [
             {
                 "value": "to dismantle"
@@ -6402,32 +6402,32 @@ export default  [
                 "value": "for dismantle"
             },
             {
-                "value": "dismantle  "
+                "value": "dismantle"
             }
         ],
-        "answer": "answer",
+        "answer": "to dismantle",
         "selectedAnswer": null
     },
     {
         "id": 378,
-        "question": "398. The Audio Control Panel …………… on t he center pedestal.   ",
+        "question": "The Audio Control Panel …………… on t he center pedestal.",
         "plans": [
             {
-                "value": "Audio Control Panel …………… on t he center pedestal.   "
+                "value": "mounts"
             },
             {
                 "value": "are mounted"
             },
             {
-                "value": "Control Panel …………… on t he center pedestal.   "
+                "value": "is mounted"
             }
         ],
-        "answer": "answer",
+        "answer": "is mounted",
         "selectedAnswer": null
     },
     {
         "id": 379,
-        "question": "399. The crew  seats can ____   ",
+        "question": "The crew  seats can ____",
         "plans": [
             {
                 "value": "tilted up"
@@ -6436,15 +6436,15 @@ export default  [
                 "value": "be tilted along"
             },
             {
-                "value": "be tilted forwards  "
+                "value": "be tilted forwards"
             }
         ],
-        "answer": "answer",
+        "answer": "be tilted forwards",
         "selectedAnswer": null
     },
     {
         "id": 380,
-        "question": "400. _____ the door _____ access to the refuel/ de -fuel coupling.   ",
+        "question": "_____ the door _____ access to the refuel/ de -fuel coupling.",
         "plans": [
             {
                 "value": "Open/ have"
@@ -6456,12 +6456,12 @@ export default  [
                 "value": "Opening/ to have  "
             }
         ],
-        "answer": "answer",
+        "answer": "Open/ to have",
         "selectedAnswer": null
     },
     {
         "id": 381,
-        "question": "401. The ____  is designed  ______ (catch, collect) particles.   ",
+        "question": "The ____  is designed  ______ (catch, collect) particles.",
         "plans": [
             {
                 "value": "filter/ to trap"
@@ -6470,32 +6470,32 @@ export default  [
                 "value": "compressor casing/ to trap"
             },
             {
-                "value": "spoiler/ trapping  "
+                "value": "spoiler/ trapping"
             }
         ],
-        "answer": "answer",
+        "answer": "filter/ to trap",
         "selectedAnswer": null
     },
     {
         "id": 382,
-        "question": "402. An _____ scale displays  the values in the middle range of the VSI.   ",
+        "question": "An _____ scale displays  the values in the middle range of the VSI.",
         "plans": [
             {
-                "value": "An _____ scale displays  the values in the middle range of the VSI.   "
+                "value": "expanding"
             },
             {
                 "value": "expansion"
             },
             {
-                "value": "expanded  "
+                "value": "expanded"
             }
         ],
-        "answer": "answer",
+        "answer": "expanded",
         "selectedAnswer": null
     },
     {
         "id": 383,
-        "question": "403. Sealant ____ every 500 hours.   ",
+        "question": "Sealant ____ every 500 hours.",
         "plans": [
             {
                 "value": "is apply"
@@ -6504,15 +6504,15 @@ export default  [
                 "value": "are apply"
             },
             {
-                "value": "is applied      "
+                "value": "is applied"
             }
         ],
-        "answer": "answer",
+        "answer": "is applied",
         "selectedAnswer": null
     },
     {
         "id": 384,
-        "question": "404. The extension fitting _____ on the door.   ",
+        "question": "The extension fitting _____ on the door.",
         "plans": [
             {
                 "value": "install"
@@ -6521,32 +6521,32 @@ export default  [
                 "value": "installation"
             },
             {
-                "value": "is not installed  "
+                "value": "is not installed"
             }
         ],
-        "answer": "answer",
+        "answer": "is not installed",
         "selectedAnswer": null
     },
     {
         "id": 385,
-        "question": "405. Maintenance practices ____ the Authorities’ requirements.  ",
+        "question": "Maintenance practices ____ the Authorities’ requirements.",
         "plans": [
             {
-                "value": "Authorities’ requirements.  "
+                "value": "must fulfilled"
             },
             {
                 "value": "may be fulfilled"
             },
             {
-                "value": "must fulfill  "
+                "value": "must fulfill"
             }
         ],
-        "answer": "answer",
+        "answer": "must fulfill",
         "selectedAnswer": null
     },
     {
         "id": 386,
-        "question": "406. The   g round power unit   __ _ electrical  power on the ground.   ",
+        "question": "The ground power unit   __ electrical  power on the ground.",
         "plans": [
             {
                 "value": "providing"
@@ -6555,15 +6555,15 @@ export default  [
                 "value": "provides"
             },
             {
-                "value": "provided  "
+                "value": "provided"
             }
         ],
-        "answer": "answer",
+        "answer": "provides",
         "selectedAnswer": null
     },
     {
         "id": 387,
-        "question": "407. The box only ………… a few minutes ………… warm up.   ",
+        "question": "The box only ………… a few minutes ………… warm up.",
         "plans": [
             {
                 "value": "take/ for"
@@ -6572,15 +6572,15 @@ export default  [
                 "value": "take/ to"
             },
             {
-                "value": "takes/ to  "
+                "value": "takes/ to"
             }
         ],
-        "answer": "answer",
+        "answer": "takes/ to",
         "selectedAnswer": null
     },
     {
         "id": 388,
-        "question": "408. ____ the crank handle extends the gear in an emergency.   ",
+        "question": "____ the crank handle extends the gear in an emergency.",
         "plans": [
             {
                 "value": "Turn on"
@@ -6589,15 +6589,15 @@ export default  [
                 "value": "Turn"
             },
             {
-                "value": "Turning  "
+                "value": "Turning"
             }
         ],
-        "answer": "answer",
+        "answer": "Turning",
         "selectedAnswer": null
     },
     {
         "id": 389,
-        "question": "409. The anti -skid systems ………… the wheels ………… locking   ",
+        "question": "The anti -skid systems ………… the wheels ………… locking",
         "plans": [
             {
                 "value": "prevents/ from"
@@ -6606,32 +6606,32 @@ export default  [
                 "value": "prevent/ to"
             },
             {
-                "value": "prevent/ from  "
+                "value": "prevent/ from"
             }
         ],
-        "answer": "answer",
+        "answer": "prevent/ from",
         "selectedAnswer": null
     },
     {
         "id": 390,
-        "question": "410.  The A/C is _____ its downwind leg.   ",
+        "question": "The A/C is _____ its downwind leg.",
         "plans": [
             {
-                "value": "A/C is _____ its downwind leg.   "
+                "value": "turning into"
             },
             {
                 "value": "turning onto"
             },
             {
-                "value": "C is _____ its downwind leg.   "
+                "value": "turning up to"
             }
         ],
-        "answer": "answer",
+        "answer": "turning onto",
         "selectedAnswer": null
     },
     {
         "id": 391,
-        "question": "411. Slow, unwanted flow of fluid   ",
+        "question": "Slow, unwanted flow of fluid",
         "plans": [
             {
                 "value": "seepage"
@@ -6640,49 +6640,49 @@ export default  [
                 "value": "over flow"
             },
             {
-                "value": "spillage  "
+                "value": "spillage"
             }
         ],
-        "answer": "answer",
+        "answer": "seepage",
         "selectedAnswer": null
     },
     {
         "id": 392,
-        "question": "412. Rod moving longitudinally   ",
+        "question": "Rod moving longitudinally",
         "plans": [
             {
-                "value": "push -pull"
+                "value": "push-pull"
             },
             {
                 "value": "pull-push"
             },
             {
-                "value": "pulling push  "
+                "value": "pulling push"
             }
         ],
-        "answer": "answer",
+        "answer": "push-pull",
         "selectedAnswer": null
     },
     {
         "id": 393,
-        "question": "413. An assembly which mixes   ",
+        "question": "An assembly which mixes",
         "plans": [
             {
-                "value": "An assembly which mixes   "
+                "value": "mixing"
             },
             {
                 "value": "mixer"
             },
             {
-                "value": "mixered  "
+                "value": "mixered"
             }
         ],
-        "answer": "answer",
+        "answer": "mixer",
         "selectedAnswer": null
     },
     {
         "id": 394,
-        "question": "414. Small fragment missing from edge of part   ",
+        "question": "Small fragment missing from edge of part",
         "plans": [
             {
                 "value": "chip"
@@ -6691,15 +6691,15 @@ export default  [
                 "value": "piece"
             },
             {
-                "value": "ship "
+                "value": "ship"
             }
         ],
-        "answer": "answer",
+        "answer": "chip",
         "selectedAnswer": null
     },
     {
         "id": 395,
-        "question": "415. Conical with rounded end. Often black. Hollow. Mounted on end of fuselage.   ",
+        "question": "Conical with rounded end. Often black. Hollow. Mounted on end of fuselage.",
         "plans": [
             {
                 "value": "tube"
@@ -6708,15 +6708,15 @@ export default  [
                 "value": "fairing"
             },
             {
-                "value": "Conical with rounded end. Often black. Hollow. Mounted on end of fuselage.   "
+                "value": "radome"
             }
         ],
-        "answer": "answer",
+        "answer": "radome",
         "selectedAnswer": null
     },
     {
         "id": 396,
-        "question": "416. Front section of flap   ",
+        "question": "Front section of flap",
         "plans": [
             {
                 "value": "forelap"
@@ -6725,32 +6725,32 @@ export default  [
                 "value": "foreflap"
             },
             {
-                "value": "before flap  "
+                "value": "before flap"
             }
         ],
-        "answer": "answer",
+        "answer": "foreflap",
         "selectedAnswer": null
     },
     {
         "id": 397,
-        "question": "417. A component which heats   ",
+        "question": "A component which heats",
         "plans": [
             {
-                "value": "A component which heats   "
+                "value": "head"
             },
             {
                 "value": "heated"
             },
             {
-                "value": "heater  "
+                "value": "heater"
             }
         ],
-        "answer": "answer",
+        "answer": "heater",
         "selectedAnswer": null
     },
     {
         "id": 398,
-        "question": "418. Flexible. Made of rubber or plastiCylindrical. 3 -4 cm in diameter.   ",
+        "question": "Flexible. Made of rubber or plastiCylindrical. 3 -4 cm in diameter.",
         "plans": [
             {
                 "value": "hose"
@@ -6759,49 +6759,49 @@ export default  [
                 "value": "tab"
             },
             {
-                "value": "Cylindrical. 3 -4 cm in diameter.   "
+                "value": "rod"
             }
         ],
-        "answer": "answer",
+        "answer": "hose",
         "selectedAnswer": null
     },
     {
         "id": 399,
-        "question": "419. A/c returns to departure   ",
+        "question": "A/c returns to departure",
         "plans": [
             {
-                "value": "A/c returns to departure   "
+                "value": "turnback"
             },
             {
                 "value": "pushback"
             },
             {
-                "value": "Turnaround      "
+                "value": "Turnaround"
             }
         ],
-        "answer": "answer",
+        "answer": "turnback",
         "selectedAnswer": null
     },
     {
         "id": 400,
-        "question": "420. A lever that rocks   ",
+        "question": "A lever that rocks",
         "plans": [
             {
-                "value": "A lever that rocks   "
+                "value": "rocking"
             },
             {
                 "value": "rocked"
             },
             {
-                "value": "rocking lever  "
+                "value": "rocking lever"
             }
         ],
-        "answer": "answer",
+        "answer": "rocking lever",
         "selectedAnswer": null
     },
     {
         "id": 401,
-        "question": "421. Entry for air on engine   ",
+        "question": "Entry for air on engine",
         "plans": [
             {
                 "value": "inboard"
@@ -6813,12 +6813,12 @@ export default  [
                 "value": "inlet "
             }
         ],
-        "answer": "answer",
+        "answer": "intake",
         "selectedAnswer": null
     },
     {
         "id": 402,
-        "question": "422. Turning in different directions   ",
+        "question": "Turning in different directions",
         "plans": [
             {
                 "value": "counterclockwise"
@@ -6827,15 +6827,15 @@ export default  [
                 "value": "counter rotating"
             },
             {
-                "value": "count er order  "
+                "value": "count er order"
             }
         ],
-        "answer": "answer",
+        "answer": "counter rotating",
         "selectedAnswer": null
     },
     {
         "id": 403,
-        "question": "423. The function of detection   ",
+        "question": "The function of detection",
         "plans": [
             {
                 "value": "sensing"
@@ -6844,15 +6844,15 @@ export default  [
                 "value": "sensor"
             },
             {
-                "value": "senes  "
+                "value": "senes"
             }
         ],
-        "answer": "answer",
+        "answer": "sensing",
         "selectedAnswer": null
     },
     {
         "id": 404,
-        "question": "424. Not affected  by impacts   ",
+        "question": "Not affected  by impacts",
         "plans": [
             {
                 "value": "shocks -proof"
@@ -6861,15 +6861,15 @@ export default  [
                 "value": "shock -proof"
             },
             {
-                "value": "proof -shocks  "
+                "value": "proof -shocks"
             }
         ],
-        "answer": "answer",
+        "answer": "shock -proof",
         "selectedAnswer": null
     },
     {
         "id": 405,
-        "question": "425. mark values on a curve   ",
+        "question": "mark values on a curve",
         "plans": [
             {
                 "value": "thread"
@@ -6878,15 +6878,15 @@ export default  [
                 "value": "layer"
             },
             {
-                "value": "plot "
+                "value": "plot"
             }
         ],
-        "answer": "answer",
+        "answer": "plot",
         "selectedAnswer": null
     },
     {
         "id": 406,
-        "question": "426. when machine  is unserviceable   ",
+        "question": "when machine  is unserviceable",
         "plans": [
             {
                 "value": "turnaround"
@@ -6895,15 +6895,15 @@ export default  [
                 "value": "downtime"
             },
             {
-                "value": "step-down "
+                "value": "step-down"
             }
         ],
-        "answer": "answer",
+        "answer": "downtime",
         "selectedAnswer": null
     },
     {
         "id": 407,
-        "question": "427. Time between a/c arrival and departure   ",
+        "question": "Time between a/c arrival and departure",
         "plans": [
             {
                 "value": "turnaround"
@@ -6912,15 +6912,15 @@ export default  [
                 "value": "mismatch"
             },
             {
-                "value": "downtime  "
+                "value": "downtime"
             }
         ],
-        "answer": "answer",
+        "answer": "turnaround",
         "selectedAnswer": null
     },
     {
         "id": 408,
-        "question": "428. In direction contrary to clock   ",
+        "question": "In direction contrary to clock",
         "plans": [
             {
                 "value": "clockwise"
@@ -6929,32 +6929,32 @@ export default  [
                 "value": "downlocked"
             },
             {
-                "value": "counterclockwise  "
+                "value": "counterclockwise"
             }
         ],
-        "answer": "answer",
+        "answer": "counterclockwise",
         "selectedAnswer": null
     },
     {
         "id": 409,
-        "question": "429. A device which ignites   ",
+        "question": "A device which ignites",
         "plans": [
             {
-                "value": "A device which ignites   "
+                "value": " Igniter"
             },
             {
                 "value": "Igniting"
             },
             {
-                "value": "Ignitor  "
+                "value": "Ignitor"
             }
         ],
-        "answer": "answer",
+        "answer": "Igniter",
         "selectedAnswer": null
     },
     {
         "id": 410,
-        "question": "430. It has an independent means of lubrica tion  ",
+        "question": "It has an independent means of lubrica tion",
         "plans": [
             {
                 "value": "self-lubricate"
@@ -6963,15 +6963,15 @@ export default  [
                 "value": "self-lubricating"
             },
             {
-                "value": "self-lubricated  "
+                "value": "self-lubricated"
             }
         ],
-        "answer": "answer",
+        "answer": "self-lubricating",
         "selectedAnswer": null
     },
     {
         "id": 411,
-        "question": "431. Negative statements of she works :  ",
+        "question": "Negative statements of she works :",
         "plans": [
             {
                 "value": "She don’t working"
@@ -6983,12 +6983,12 @@ export default  [
                 "value": "She don’t work  "
             }
         ],
-        "answer": "answer",
+        "answer": "She doesn’t work",
         "selectedAnswer": null
     },
     {
         "id": 412,
-        "question": "432. Negative statements of we works :  ",
+        "question": "Negative statements of we works :",
         "plans": [
             {
                 "value": "We doesn’t work"
@@ -6997,15 +6997,15 @@ export default  [
                 "value": "We do work"
             },
             {
-                "value": "We don’t work  "
+                "value": "We don’t work"
             }
         ],
-        "answer": "answer",
+        "answer": "We don’t work",
         "selectedAnswer": null
     },
     {
         "id": 413,
-        "question": "433. Negative statements of the y works :  ",
+        "question": "Negative statements of the y works :",
         "plans": [
             {
                 "value": "They don’t work"
@@ -7014,15 +7014,15 @@ export default  [
                 "value": "They doesn’t work"
             },
             {
-                "value": "They don’t worked  "
+                "value": "They don’t worked"
             }
         ],
-        "answer": "answer",
+        "answer": "They don’t work",
         "selectedAnswer": null
     },
     {
         "id": 414,
-        "question": "434. Which occupation weld parts together?  ",
+        "question": "Which occupation weld parts together?",
         "plans": [
             {
                 "value": "Welder"
@@ -7031,15 +7031,15 @@ export default  [
                 "value": "Pilot"
             },
             {
-                "value": "Gloves  "
+                "value": "Gloves"
             }
         ],
-        "answer": "answer",
+        "answer": "Welder",
         "selectedAnswer": null
     },
     {
         "id": 415,
-        "question": "435. Which occupation fly aeroplane?  ",
+        "question": "Which occupation fly aeroplane?",
         "plans": [
             {
                 "value": "Pilot"
@@ -7051,12 +7051,12 @@ export default  [
                 "value": "Tailor  "
             }
         ],
-        "answer": "answer",
+        "answer": "Pilot",
         "selectedAnswer": null
     },
     {
         "id": 416,
-        "question": "436. Which occupation cut, form or weld sheets of metal to create useful produ ct of ",
+        "question": "Which occupation cut, form or weld sheets of metal to create useful produ ct of aeroplane?",
         "plans": [
             {
                 "value": "Drill"
@@ -7065,15 +7065,15 @@ export default  [
                 "value": "Fly"
             },
             {
-                "value": "Welders  "
+                "value": "Welders"
             }
         ],
-        "answer": "answer",
+        "answer": "Welders",
         "selectedAnswer": null
     },
     {
         "id": 417,
-        "question": "437. The captain and his co -pilot sit in the _______  ",
+        "question": "The captain and his co -pilot sit in the _______",
         "plans": [
             {
                 "value": "emergency exit"
@@ -7082,15 +7082,15 @@ export default  [
                 "value": "cockpit"
             },
             {
-                "value": "overhead compartment    "
+                "value": "overhead compartment"
             }
         ],
-        "answer": "answer",
+        "answer": "cockpit",
         "selectedAnswer": null
     },
     {
         "id": 418,
-        "question": "438. Please fasten your _______ while the captain prepares for take -off. ",
+        "question": "Please fasten your _______ while the captain prepares for take -off.",
         "plans": [
             {
                 "value": "runway"
@@ -7099,15 +7099,15 @@ export default  [
                 "value": "steward"
             },
             {
-                "value": "seatbelts    "
+                "value": "seatbelts"
             }
         ],
-        "answer": "answer",
+        "answer": "seatbelts",
         "selectedAnswer": null
     },
     {
         "id": 419,
-        "question": "439. You nee d a __________ if you want to board a plane.  ",
+        "question": "You nee d a __________ if you want to board a plane.",
         "plans": [
             {
                 "value": "Suitcase"
@@ -7116,49 +7116,49 @@ export default  [
                 "value": "Boarding pass"
             },
             {
-                "value": "window seat    "
+                "value": "window seat"
             }
         ],
-        "answer": "answer",
+        "answer": "Boarding pass",
         "selectedAnswer": null
     },
     {
         "id": 420,
-        "question": "440. A __________ is a type of luggage.  ",
+        "question": "A __________ is a type of luggage.",
         "plans": [
             {
-                "value": "A __________ is a type of luggage.  "
+                "value": "Aisle seat"
             },
             {
                 "value": "Suitcase"
             },
             {
-                "value": "Gate     "
+                "value": "Gate"
             }
         ],
-        "answer": "answer",
+        "answer": "Suitcase",
         "selectedAnswer": null
     },
     {
         "id": 421,
-        "question": "441. __________ are in charge of the security in airports.  ",
+        "question": "__________ are in charge of the security in airports.",
         "plans": [
             {
                 "value": "Flight attendants"
             },
             {
-                "value": "Security of ficers"
+                "value": "Security officers"
             },
             {
-                "value": "Passengers    "
+                "value": "Passengers"
             }
         ],
-        "answer": "answer",
+        "answer": "Security officers",
         "selectedAnswer": null
     },
     {
         "id": 422,
-        "question": "442. In the __________ security officers can see what's inside your luggage.  ",
+        "question": "In the __________ security officers can see what's inside your luggage.",
         "plans": [
             {
                 "value": "Gate"
@@ -7167,15 +7167,15 @@ export default  [
                 "value": "Arrivals"
             },
             {
-                "value": "X-ray machine  "
+                "value": "X-ray machine"
             }
         ],
-        "answer": "answer",
+        "answer": "X-ray machine",
         "selectedAnswer": null
     },
     {
         "id": 423,
-        "question": "443. You need a __________ if you want to travel to another country.  ",
+        "question": "You need a __________ if you want to travel to another country.",
         "plans": [
             {
                 "value": "Suitcase"
@@ -7184,15 +7184,15 @@ export default  [
                 "value": "Ticket"
             },
             {
-                "value": "Passport    "
+                "value": "Passport"
             }
         ],
-        "answer": "answer",
+        "answer": "Passport",
         "selectedAnswer": null
     },
     {
         "id": 424,
-        "question": "444. The __________ is  in charge of helping passengers during a flight.  ",
+        "question": "The __________ is  in charge of helping passengers during a flight.",
         "plans": [
             {
                 "value": "Flight attendant"
@@ -7201,15 +7201,15 @@ export default  [
                 "value": "Pilot"
             },
             {
-                "value": "Aisle     "
+                "value": "Aisle"
             }
         ],
-        "answer": "answer",
+        "answer": "Flight attendant",
         "selectedAnswer": null
     },
     {
         "id": 425,
-        "question": "445. The __________ is next to the window.  ",
+        "question": "The __________ is next to the window.",
         "plans": [
             {
                 "value": "Aisle seat"
@@ -7218,117 +7218,117 @@ export default  [
                 "value": "Call button"
             },
             {
-                "value": "Call button"
+                "value": "Window seat"
             }
         ],
-        "answer": "answer",
+        "answer": "Window seat",
         "selectedAnswer": null
     },
     {
         "id": 426,
-        "question": "446. What do people do when they ‘board’ an airplane?  ",
+        "question": "What do people do when they ‘board’ an airplane?",
         "plans": [
             {
-                "value": "they get on the plane    they get off the plane  "
+                "value": "they get on the plane"
             },
             {
-                "value": "they get off the plane  "
+                "value": "they get off the plane"
             },
             {
-                "value": "they fly the plane     "
+                "value": "they fly the plane"
             }
         ],
-        "answer": "answer",
+        "answer": "they get on the plane",
         "selectedAnswer": null
     },
     {
         "id": 427,
-        "question": "447. If your flight is ‘delayed’, your flight is__________  ",
+        "question": "If your flight is ‘delayed’, your flight is__________ ",
         "plans": [
             {
-                "value": "early    on time   late    "
+                "value": "early"
             },
             {
-                "value": "on time   late    "
+                "value": "on time"
             },
             {
-                "value": "late    "
+                "value": "late"
             }
         ],
-        "answer": "answer",
+        "answer": "late",
         "selectedAnswer": null
     },
     {
         "id": 428,
-        "question": "448. What does an airplane do when it ‘departs’?      ",
+        "question": "What does an airplane do when it ‘departs’?",
         "plans": [
             {
-                "value": "arrives   leaves   stays at the airport    "
+                "value": "arrives"
             },
             {
-                "value": "leaves   stays at the airport    "
+                "value": "leaves"
             },
             {
-                "value": "stays at the airport    "
+                "value": "stays at the airport"
             }
         ],
-        "answer": "answer",
+        "answer": "leaves",
         "selectedAnswer": null
     },
     {
         "id": 429,
-        "question": "449. Which of the following t hings can an ‘escalator’ do?  ",
+        "question": "Which of the following t hings can an ‘escalator’ do?",
         "plans": [
             {
-                "value": "take you up to the second floor   give you a cup of tea  "
+                "value": "take you up to the second floor"
             },
             {
-                "value": "give you a cup of tea  "
+                "value": "give you a cup of tea"
             },
             {
-                "value": "fly an airplane      "
+                "value": "fly an airplane"
             }
         ],
-        "answer": "answer",
+        "answer": "take you up to the second floor",
         "selectedAnswer": null
     },
     {
         "id": 430,
-        "question": "450. When does an airplane ‘land’ at an airport?  ",
+        "question": "When does an airplane ‘land’ at an airport?",
         "plans": [
             {
-                "value": "when it departs     when it arrives  "
+                "value": "when it departs"
             },
             {
-                "value": "when it arrives  "
+                "value": "when it arrives"
             },
             {
-                "value": "when you put on a life vest     "
+                "value": "when you put on a life vest"
             }
         ],
-        "answer": "answer",
+        "answer": "when it arrives",
         "selectedAnswer": null
     },
     {
         "id": 431,
-        "question": "451. When do people usually w ear a ‘safety belt’?  ",
+        "question": "When do people usually w ear a ‘safety belt’?",
         "plans": [
             {
-                "value": "before boarding a plane    in the morning  "
+                "value": "before boarding a plane"
             },
             {
-                "value": "in the morning  "
+                "value": "in the morning"
             },
             {
-                "value": "during take -off and landing  "
+                "value": "during take-off and landing"
             }
         ],
-        "answer": "answer",
+        "answer": "during take-off and landing",
         "selectedAnswer": null
     },
     {
         "id": 432,
-        "question": "487. My family______ to Sapa next week.  ",
+        "question": "My family______ to Sapa next week.",
         "plans": [
             {
                 "value": "gone"
@@ -7337,15 +7337,15 @@ export default  [
                 "value": "to go"
             },
             {
-                "value": "are going to   "
+                "value": "are going to"
             }
         ],
-        "answer": "answer",
+        "answer": "are going to",
         "selectedAnswer": null
     },
     {
         "id": 433,
-        "question": "488. I often ______to work at 6:30  ",
+        "question": "I often ______to work at 6:30",
         "plans": [
             {
                 "value": "go"
@@ -7354,15 +7354,15 @@ export default  [
                 "value": "to go"
             },
             {
-                "value": "goes                           "
+                "value": "goes"
             }
         ],
-        "answer": "answer",
+        "answer": "go",
         "selectedAnswer": null
     },
     {
         "id": 434,
-        "question": "502.  I'll assign you _______ seat to give you more room to stretch your legs out.  ",
+        "question": "I'll assign you _______ seat to give you more room to stretch your legs out.",
         "plans": [
             {
                 "value": "a cabin"
@@ -7371,15 +7371,15 @@ export default  [
                 "value": "a baggage"
             },
             {
-                "value": " an aisle     "
+                "value": "an aisle"
             }
         ],
-        "answer": "answer",
+        "answer": "an aisle",
         "selectedAnswer": null
     },
     {
         "id": 435,
-        "question": "503.  Pass engers must stay seated on the plane during the one -hour_______  ",
+        "question": "Pass engers must stay seated on the plane during the one -hour_______",
         "plans": [
             {
                 "value": "stopover"
@@ -7388,15 +7388,15 @@ export default  [
                 "value": "baggage claim"
             },
             {
-                "value": "gates      "
+                "value": "gates"
             }
         ],
-        "answer": "answer",
+        "answer": "stopover",
         "selectedAnswer": null
     },
     {
         "id": 436,
-        "question": "504.  When you paid for your airfare online, you should have printed your_______  ",
+        "question": "When you paid for your airfare online, you should have printed your_______",
         "plans": [
             {
                 "value": "excess baggage"
@@ -7405,32 +7405,32 @@ export default  [
                 "value": "passport"
             },
             {
-                "value": "e-ticket     "
+                "value": "e-ticket"
             }
         ],
-        "answer": "answer",
+        "answer": "e-ticket",
         "selectedAnswer": null
     },
     {
         "id": 437,
-        "question": "505.  You are seated in _______ 30, seat",
+        "question": "You are seated in _______ 30, seat",
         "plans": [
             {
-                "value": " aisle"
+                "value": "aisle"
             },
             {
-                "value": "  aisle"
+                "value": "aisle"
             },
             {
-                "value": " row     "
+                "value": "row"
             }
         ],
-        "answer": "answer",
+        "answer": "row",
         "selectedAnswer": null
     },
     {
         "id": 438,
-        "question": "506.  _______ will be served before we begin the in -flight movie.  ",
+        "question": "_______ will be served before we begin the in -flight movie.",
         "plans": [
             {
                 "value": "Luggage"
@@ -7439,15 +7439,15 @@ export default  [
                 "value": "Jet lag"
             },
             {
-                "value": "Refreshments   "
+                "value": "Refreshments"
             }
         ],
-        "answer": "answer",
+        "answer": "Refreshments",
         "selectedAnswer": null
     },
     {
         "id": 439,
-        "question": "507.  In the unlikely event of a water landing, _______ can be found underneath your ",
+        "question": "In the unlikely event of a water landing, _______ can be found underneath your seats.",
         "plans": [
             {
                 "value": "life vests"
@@ -7456,15 +7456,15 @@ export default  [
                 "value": "motion sickness"
             },
             {
-                "value": "seatbelts        "
+                "value": "seatbelts"
             }
         ],
-        "answer": "answer",
+        "answer": "life vests",
         "selectedAnswer": null
     },
     {
         "id": 440,
-        "question": "508.  In about five minutes we will get ready to _______ to the runway.  ",
+        "question": "In about five minutes we will get ready to _______ to the runway.",
         "plans": [
             {
                 "value": "taxi in"
@@ -7473,15 +7473,15 @@ export default  [
                 "value": "taxi out"
             },
             {
-                "value": "taxi above    "
+                "value": "taxi above"
             }
         ],
-        "answer": "answer",
+        "answer": "taxi out",
         "selectedAnswer": null
     },
     {
         "id": 441,
-        "question": "509.  We are about to go through a large pocket of _______ so prepare for a bumpy ",
+        "question": "We are about to go through a large pocket of _______ so prepare for a bumpy ride.",
         "plans": [
             {
                 "value": "stopover"
@@ -7490,15 +7490,15 @@ export default  [
                 "value": "touch down"
             },
             {
-                "value": "turbulence    "
+                "value": "turbulence"
             }
         ],
-        "answer": "answer",
+        "answer": "turbulence",
         "selectedAnswer": null
     },
     {
         "id": 442,
-        "question": "510.  The place where you can see the arrival and departure times is called ",
+        "question": "The place where you can see the arrival and departure times is called",
         "plans": [
             {
                 "value": "Information display/board"
@@ -7507,15 +7507,15 @@ export default  [
                 "value": "Security checkpoint"
             },
             {
-                "value": "Boarding area   "
+                "value": "Boarding area"
             }
         ],
-        "answer": "answer",
+        "answer": "Information display/board",
         "selectedAnswer": null
     },
     {
         "id": 443,
-        "question": "511.  The __________ is the place where you and your carry -on bag are checked ",
+        "question": "The __________ is the place where you and your carry -on bag are checked",
         "plans": [
             {
                 "value": "Baggage claim area"
@@ -7524,15 +7524,15 @@ export default  [
                 "value": "Baggage claim area"
             },
             {
-                "value": "Security checkpoint    "
+                "value": "Security checkpoint"
             }
         ],
-        "answer": "answer",
+        "answer": "Security checkpoint",
         "selectedAnswer": null
     },
     {
         "id": 444,
-        "question": "512. People have to go through a __________ to check if they have bombs, or ",
+        "question": "People have to go through a __________ to check if they have bombs, or ",
         "plans": [
             {
                 "value": "Immigration office"
@@ -7541,15 +7541,15 @@ export default  [
                 "value": "Luggage carrier"
             },
             {
-                "value": "Metal detector  "
+                "value": "Metal detector"
             }
         ],
-        "answer": "answer",
+        "answer": "Metal detector",
         "selectedAnswer": null
     },
     {
         "id": 445,
-        "question": "513. The __________ is a type of baggage that you can take with you in the plane.  ",
+        "question": "The __________ is a type of baggage that you can take with you in the plane.",
         "plans": [
             {
                 "value": "Boarding pass"
@@ -7558,15 +7558,15 @@ export default  [
                 "value": "Boarding pass"
             },
             {
-                "value": "Carry -on bag     "
+                "value": "Carry -on bag"
             }
         ],
-        "answer": "answer",
+        "answer": "Carry -on bag",
         "selectedAnswer": null
     },
     {
         "id": 446,
-        "question": "514. The __________ is the last door you enter before you board your plane.  ",
+        "question": "The __________ is the last door you enter before you board your plane.",
         "plans": [
             {
                 "value": "Boarding Gate"
@@ -7575,15 +7575,15 @@ export default  [
                 "value": "Boarding Gate"
             },
             {
-                "value": "Baggage carousel    "
+                "value": "Baggage carousel"
             }
         ],
-        "answer": "answer",
+        "answer": "Boarding Gate",
         "selectedAnswer": null
     },
     {
         "id": 447,
-        "question": "515. You have to pick up your baggage from  the __________.  ",
+        "question": "You have to pick up your baggage from the __________.",
         "plans": [
             {
                 "value": "Arrivals"
@@ -7592,49 +7592,49 @@ export default  [
                 "value": "Baggage cart"
             },
             {
-                "value": "Baggage reclaim    "
+                "value": "Baggage reclaim"
             }
         ],
-        "answer": "answer",
+        "answer": "Baggage reclaim",
         "selectedAnswer": null
     },
     {
         "id": 448,
-        "question": "516. If you carry a lot of suitcases at the airport, you can use a __________.  ",
+        "question": "If you carry a lot of suitcases at the airport, you can use a __________.",
         "plans": [
             {
                 "value": "Baggage carousel"
             },
             {
-                "value": "Baggage carousel"
+                "value": "Luggage cart"
             },
             {
-                "value": "Garment bag     "
+                "value": "Garment bag"
             }
         ],
-        "answer": "answer",
+        "answer": "Luggage cart",
         "selectedAnswer": null
     },
     {
         "id": 449,
-        "question": "517. Before your plane lands in another country, you have to fil l out a __________  ",
+        "question": "Before your plane lands in another country, you have to fil l out a __________",
         "plans": [
             {
                 "value": "Customs declaration form"
             },
             {
-                "value": "Before your plane lands in another country, you have to fil l out a __________  "
+                "value": "Passport"
             },
             {
-                "value": "Customs declaration form"
+                "value": "Visa"
             }
         ],
-        "answer": "answer",
+        "answer": "Customs declaration form",
         "selectedAnswer": null
     },
     {
         "id": 450,
-        "question": "518. He space that divides seat rows is called __________.  ",
+        "question": "He space that divides seat rows is called __________.",
         "plans": [
             {
                 "value": "Aisle"
@@ -7643,15 +7643,15 @@ export default  [
                 "value": "Window"
             },
             {
-                "value": "Overhead    "
+                "value": "Overhead"
             }
         ],
-        "answer": "answer",
+        "answer": "Aisle",
         "selectedAnswer": null
     },
     {
         "id": 451,
-        "question": "519. Some countries require a __________ to people from other countries in order to ",
+        "question": "Some countries require a __________ to people from other countries in order to let them in.",
         "plans": [
             {
                 "value": "Passport"
@@ -7660,15 +7660,15 @@ export default  [
                 "value": "Immigration form"
             },
             {
-                "value": "Visa     "
+                "value": "Visa"
             }
         ],
-        "answer": "answer",
+        "answer": "Visa",
         "selectedAnswer": null
     },
     {
         "id": 452,
-        "question": "520. When you are on the plane, you can stow your carry -on luggage in the ",
+        "question": "When you are on the plane, you can stow your carry -on luggage in the __________ or under the seat in front of you.",
         "plans": [
             {
                 "value": "overhead compartment"
@@ -7677,15 +7677,15 @@ export default  [
                 "value": "cargo hold"
             },
             {
-                "value": "baggage claim   "
+                "value": "baggage claim"
             }
         ],
-        "answer": "answer",
+        "answer": "overhead compartment",
         "selectedAnswer": null
     },
     {
         "id": 453,
-        "question": "521. In ten minutes, we will be landing in Tok yo. Please put your seatback and tray ",
+        "question": "In ten minutes, we will be landing in Tok yo. Please put your seatback and tray table to the _________ position",
         "plans": [
             {
                 "value": "upright"
@@ -7694,15 +7694,15 @@ export default  [
                 "value": "upside"
             },
             {
-                "value": "left     "
+                "value": "left"
             }
         ],
-        "answer": "answer",
+        "answer": "upright",
         "selectedAnswer": null
     },
     {
         "id": 454,
-        "question": "522. There is an airsickness bag in front of you in case you got__________  ",
+        "question": "There is an airsickness bag in front of you in case you got__________",
         "plans": [
             {
                 "value": "motion sickness"
@@ -7711,15 +7711,15 @@ export default  [
                 "value": "jet lag"
             },
             {
-                "value": "dizziness    "
+                "value": "dizziness"
             }
         ],
-        "answer": "answer",
+        "answer": "motion sickness",
         "selectedAnswer": null
     },
     {
         "id": 455,
-        "question": "523. The stewardess is preparing the pass enger's meal in the__________  ",
+        "question": "The stewardess is preparing the pass enger's meal in the__________",
         "plans": [
             {
                 "value": "galley"
@@ -7728,15 +7728,15 @@ export default  [
                 "value": "gallery"
             },
             {
-                "value": "lavatory    "
+                "value": "lavatory"
             }
         ],
-        "answer": "answer",
+        "answer": "galley",
         "selectedAnswer": null
     },
     {
         "id": 456,
-        "question": "524. Coach is another name of__________  ",
+        "question": "Coach is another name of__________",
         "plans": [
             {
                 "value": "Economy class"
@@ -7745,15 +7745,15 @@ export default  [
                 "value": "First class"
             },
             {
-                "value": "Coach is another name of__________  "
+                "value": "Business class"
             }
         ],
-        "answer": "answer",
+        "answer": "Economy class",
         "selectedAnswer": null
     },
     {
         "id": 457,
-        "question": "525. The strip of land that an airplane takes -off and lands on is called__________  ",
+        "question": "The strip of land that an airplane takes -off and lands on is called__________  ",
         "plans": [
             {
                 "value": "runway"
@@ -7762,15 +7762,15 @@ export default  [
                 "value": "hangar"
             },
             {
-                "value": "Apron    "
+                "value": "Apron"
             }
         ],
-        "answer": "answer",
+        "answer": "runway",
         "selectedAnswer": null
     },
     {
         "id": 458,
-        "question": "526. Entertainment on -board an aircraft that may include movies, music and games is ",
+        "question": "Entertainment on -board an aircraft that may include movies, music and games is called__________",
         "plans": [
             {
                 "value": "In-flight entertainment"
@@ -7779,423 +7779,423 @@ export default  [
                 "value": "refreshments"
             },
             {
-                "value": "complement    "
+                "value": "complement"
             }
         ],
-        "answer": "answer",
+        "answer": "In-flight entertainmen",
         "selectedAnswer": null
     },
     {
         "id": 459,
-        "question": "527. About how fast does a commercial passenger jet travel?  ",
+        "question": "About how fast does a commercial passenger jet travel?",
         "plans": [
             {
-                "value": "About how fast does a commercial passenger jet travel?  "
+                "value": "565 mph (909 kph) "
             },
             {
-                "value": "710 mph (1 143 kph)  "
+                "value": "710 mph (1143 kph)"
             },
             {
-                "value": "927 mph (1492 kph)     "
+                "value": "927 mph (1492 kph)"
             }
         ],
-        "answer": "answer",
+        "answer": "565 mph (909 kph)",
         "selectedAnswer": null
     },
     {
         "id": 460,
-        "question": "528. When you have a ‘connecting’ flight what should you do?  ",
+        "question": "When you have a ‘connecting’ flight what should you do?",
         "plans": [
             {
-                "value": "open your suitcase    leave the airport  "
+                "value": "open your suitcase"
             },
             {
-                "value": "leave the airport  "
+                "value": "leave the airport"
             },
             {
-                "value": "get on another plane     "
+                "value": "get on another plane"
             }
         ],
-        "answer": "answer",
+        "answer": "get on another plane",
         "selectedAnswer": null
     },
     {
         "id": 461,
-        "question": "529. What can you do at an airport terminal ‘counter’?  ",
+        "question": "What can you do at an airport terminal ‘counter’?",
         "plans": [
             {
-                "value": "show your ticket    check -in "
+                "value": "show your ticket"
             },
             {
                 "value": "check -in "
             },
             {
-                "value": "all of the above  "
+                "value": "all of the above"
             }
         ],
-        "answer": "answer",
+        "answer": "all of the above",
         "selectedAnswer": null
     },
     {
         "id": 462,
-        "question": "530. Where will someone probably ‘inspect’ your luggage?  ",
+        "question": "Where will someone probably ‘inspect’ your luggage?",
         "plans": [
             {
-                "value": "on an airport bus     on a life raft  "
+                "value": "on an airport bus"
             },
             {
-                "value": "on a life raft  "
+                "value": "on a life raft"
             },
             {
-                "value": "at airport customs  "
+                "value": "at airport customs"
             }
         ],
-        "answer": "answer",
+        "answer": "at airport customs",
         "selectedAnswer": null
     },
     {
         "id": 463,
-        "question": "531.  Which of the following things can be ‘occupied’?  ",
+        "question": "Which of the following things can be ‘occupied’?",
         "plans": [
             {
-                "value": "a washroom   a ticket   a passenger    "
+                "value": "a washroom"
             },
             {
-                "value": "a ticket   a passenger    "
+                "value": "a ticket"
             },
             {
-                "value": "a passenger    "
+                "value": "a passenger"
             }
         ],
-        "answer": "answer",
+        "answer": "a washroom",
         "selectedAnswer": null
     },
     {
         "id": 464,
-        "question": "532.  Which of the following can you fin d in a ‘row’ on an airplane?  ",
+        "question": "Which of the following can you fin d in a ‘row’ on an airplane?",
         "plans": [
             {
-                "value": "pilots    flight attendants  seats     "
+                "value": "pilots"
             },
             {
-                "value": "flight attendants  seats     "
+                "value": "flight attendants"
             },
             {
-                "value": "seats     "
+                "value": "seats"
             }
         ],
-        "answer": "answer",
+        "answer": "seats",
         "selectedAnswer": null
     },
     {
         "id": 465,
-        "question": "533.  Which of the following things can a ‘porter’ do?  ",
+        "question": " Which of the following things can a ‘porter’ do?",
         "plans": [
             {
-                "value": "help you board a plane    help you check in  "
+                "value": "help you board a plane"
             },
             {
-                "value": "help you check in  "
+                "value": "help you check in"
             },
             {
-                "value": "help you carry baggage     "
+                "value": "help you carry baggage"
             }
         ],
-        "answer": "answer",
+        "answer": "help you carry baggage",
         "selectedAnswer": null
     },
     {
         "id": 466,
-        "question": "534.  Which of the following things can you find inside a ‘ terminal’?  ",
+        "question": "Which of the following things can you find inside a ‘ terminal’?",
         "plans": [
             {
-                "value": "travelers   an airport bus   a runway        "
+                "value": "travelers"
             },
             {
-                "value": "an airport bus   a runway        "
+                "value": "an airport bus"
             },
             {
-                "value": "a runway        "
+                "value": "a runway"
             }
         ],
-        "answer": "answer",
+        "answer": "travelers",
         "selectedAnswer": null
     },
     {
         "id": 467,
-        "question": "535.  Which of the following holds a correct relation between pressure, temperature ",
+        "question": "Which of the following holds a correct relation between pressure, temperature and altitude?",
         "plans": [
             {
-                "value": "Pressure increases, temperature decreases, altitude increases  "
+                "value": "Pressure increases, temperature decreases, altitude increases"
             },
             {
-                "value": "Pressure decreases, temperature decre ases, altitude increases  "
+                "value": "Pressure decreases, temperature decre ases, altitude increases"
             },
             {
-                "value": "Pressure decreases, temperature increases, altitude increases  "
+                "value": "Pressure decreases, temperature increases, altitude increases"
             }
         ],
-        "answer": "answer",
+        "answer": "Pressure decreases, temperature decre ases, altitude increases",
         "selectedAnswer": null
     },
     {
         "id": 468,
-        "question": "536. What are the percentages of nitrogen, oxygen, argon and carbon dioxide in ",
+        "question": "What are the percentages of nitrogen, oxygen, argon and carbon dioxide in atmosphere?",
         "plans": [
             {
-                "value": "VuiVui"
+                "value": "78%, 21%, 0.9%, 0.03%"
             },
             {
-                "value": "VuiVui"
+                "value": "75%, 24%, 0.7%, 0.03%"
             },
             {
-                "value": "VuiVui  "
+                "value": "71%, 28%, 0.9%, 0.04%"
             }
         ],
-        "answer": "answer",
+        "answer": "78%, 21%, 0.9%, 0.03%",
         "selectedAnswer": null
     },
     {
         "id": 469,
-        "question": "537. Which  of the following is the world’s largest airliner?  ",
+        "question": "Which  of the following is the world’s largest airliner?",
         "plans": [
             {
-                "value": "AIRBUS  A350    AIRBUS  A320   AIRBUS  A380    "
+                "value": "AIRBUS  A350"
             },
             {
-                "value": "BUS  A350    AIRBUS  A320   AIRBUS  A380    "
+                "value": "AIRBUS  A320"
             },
             {
-                "value": "AIRBUS  A380    "
+                "value": "AIRBUS  A380"
             }
         ],
-        "answer": "answer",
+        "answer": "AIRBUS  A380",
         "selectedAnswer": null
     },
     {
         "id": 470,
-        "question": "538. Engine fuel is usually stored in the wings but some aircraft have additional fuel ",
+        "question": "Engine fuel is usually stored in the wings but some aircraft have additional fuel tanks in the________",
         "plans": [
             {
-                "value": "Undercarriage   Tail    Fuselage    "
+                "value": "Undercarriage"
             },
             {
-                "value": "Tail    Fuselage    "
+                "value": "Tail"
             },
             {
-                "value": "Fuselage    "
+                "value": "Fuselage"
             }
         ],
-        "answer": "answer",
+        "answer": "Fuselage",
         "selectedAnswer": null
     },
     {
         "id": 471,
-        "question": "539. The painte r______paint the surface because it was perfectly in order.  ",
+        "question": "The painter______paint the surface because it was perfectly in order.",
         "plans": [
             {
                 "value": "had to"
             },
             {
-                "value": "B.must"
+                "value": "must"
             },
             {
-                "value": "C.didn’t have to   "
+                "value": "didn’t have to"
             }
         ],
-        "answer": "answer",
+        "answer": "didn’t have to",
         "selectedAnswer": null
     },
     {
         "id": 472,
-        "question": "545. When the parts are checked we _____them  ",
+        "question": "When the parts are checked we _____them",
         "plans": [
             {
                 "value": "reused"
             },
             {
-                "value": "could not re -use"
+                "value": "could not re-use"
             },
             {
-                "value": "re -used  "
+                "value": "re-used"
             }
         ],
-        "answer": "answer",
+        "answer": "re-used",
         "selectedAnswer": null
     },
     {
         "id": 473,
-        "question": "546. This repair is not important. The mechanices _____work overtime.  ",
+        "question": "This repair is not important. The mechanices _____work overtime.",
         "plans": [
             {
                 "value": "doesn’t have to"
             },
             {
-                "value": "B.don’t have to"
+                "value": "don’t have to"
             },
             {
-                "value": "C.has to    "
+                "value": "has to"
             }
         ],
-        "answer": "answer",
+        "answer": "don’t have to",
         "selectedAnswer": null
     },
     {
         "id": 474,
-        "question": "551. ____enter the hazard areas of a running engine.  ",
+        "question": "____enter the hazard areas of a running engine.",
         "plans": [
             {
                 "value": "don’t"
             },
             {
-                "value": "B.no"
+                "value": "no"
             },
             {
-                "value": "Always    "
+                "value": "Always"
             }
         ],
-        "answer": "answer",
+        "answer": "don’t",
         "selectedAnswer": null
     },
     {
         "id": 475,
-        "question": "553. Modern airplanes r equire_____maintenance than older ones.  ",
+        "question": "Modern airplanes r equire_____maintenance than older ones.",
         "plans": [
             {
                 "value": "less"
             },
             {
-                "value": "B.least"
+                "value": "least"
             },
             {
-                "value": "C.little     "
+                "value": "little"
             }
         ],
-        "answer": "answer",
+        "answer": "less",
         "selectedAnswer": null
     },
     {
         "id": 476,
-        "question": "554. Be careful when the engine___  ",
+        "question": "Be careful when the engine___",
         "plans": [
             {
                 "value": "run"
             },
             {
-                "value": "Be careful when the engine___  "
+                "value": "have run"
             },
             {
-                "value": "is running    "
+                "value": "is running"
             }
         ],
-        "answer": "answer",
+        "answer": "is running",
         "selectedAnswer": null
     },
     {
         "id": 477,
-        "question": "555.  _______lift this heavy box. It’s too heavy.  ",
+        "question": " _______lift this heavy box. It’s too heavy.",
         "plans": [
             {
                 "value": "can"
             },
             {
-                "value": "B.may"
+                "value": "may"
             },
             {
-                "value": "C.can’t     "
+                "value": "can’t"
             }
         ],
-        "answer": "answer",
+        "answer": "can’t",
         "selectedAnswer": null
     },
     {
         "id": 478,
-        "question": "556. The BOEING  747 is the fastest in the Luftha nsa fleet. It is ____all the other ",
+        "question": "The BOEING 747 is the fastest in the Luftha nsa fleet. It is ____all the other airplanes.",
         "plans": [
             {
                 "value": "faster than"
             },
             {
-                "value": "BOEING  747 is the fastest in the Luftha nsa fleet. It is ____all the other "
+                "value": "slower than"
             },
             {
-                "value": "C.faster as    "
+                "value": "faster as"
             }
         ],
-        "answer": "answer",
+        "answer": "faster than",
         "selectedAnswer": null
     },
     {
         "id": 479,
-        "question": "557. He needs a special instrument_____detecting the fault.  ",
+        "question": "He needs a special instrument_____detecting the fault.",
         "plans": [
             {
                 "value": "to"
             },
             {
-                "value": "B.according to"
+                "value": "according to"
             },
             {
-                "value": "for  "
+                "value": "for"
             }
         ],
-        "answer": "answer",
+        "answer": "for",
         "selectedAnswer": null
     },
     {
         "id": 480,
-        "question": "558. This is an oxygen bottle. Any contact with oil is dangerous. You_____open the ",
+        "question": "This is an oxygen bottle. Any contact with oil is dangerous. You_____open the bottle with an oily cloth.",
         "plans": [
             {
-                "value": "Any contact with oil is dangerous. You_____open the "
+                "value": "must not"
             },
             {
-                "value": "B.not"
+                "value": "not"
             },
             {
-                "value": "C.must     "
+                "value": "must"
             }
         ],
-        "answer": "answer",
+        "answer": "must not",
         "selectedAnswer": null
     },
     {
         "id": 481,
-        "question": "565. The electricians detected the fault____the correct instrument.  ",
+        "question": "The electricians detected the fault____the correct instrument.",
         "plans": [
             {
                 "value": "after use"
             },
             {
-                "value": "B.prior to use"
+                "value": "prior to use"
             },
             {
-                "value": "C.by using    "
+                "value": "by using"
             }
         ],
-        "answer": "answer",
+        "answer": "after use",
         "selectedAnswer": null
     },
     {
         "id": 482,
-        "question": "568. An AIRBUS  A340 can climb to an altitude ____11,900 meters.  ",
+        "question": "An AIRBUS  A340 can climb to an altitude ____11,900 meters.",
         "plans": [
             {
-                "value": "An AIRBUS  A340 can climb to an altitude ____11,900 meters.  "
+                "value": "about"
             },
             {
-                "value": "BUS  A340 can climb to an altitude ____11,900 meters.  "
+                "value": "from "
             },
             {
-                "value": "of  "
+                "value": "of"
             }
         ],
-        "answer": "answer",
+        "answer": "of",
         "selectedAnswer": null
     },
     {
         "id": 483,
-        "question": "1. Disconnect the panel __________ the fasteners 90° counterclockwise.  (level 1)  ",
+        "question": "Disconnect the panel __________ the fasteners 90° counterclockwise.  (level 1)",
         "plans": [
             {
                 "value": "by turning"
@@ -8204,15 +8204,15 @@ export default  [
                 "value": "turning"
             },
             {
-                "value": "to turn  "
+                "value": "to turn"
             }
         ],
-        "answer": "answer",
+        "answer": "by turning",
         "selectedAnswer": null
     },
     {
         "id": 484,
-        "question": "2. The volume __________ be adjusted with this kno (level 1 s) ",
+        "question": "The volume __________ be adjusted with this kno (level 1s) ",
         "plans": [
             {
                 "value": "should"
@@ -8221,15 +8221,15 @@ export default  [
                 "value": "needs"
             },
             {
-                "value": "can "
+                "value": "can"
             }
         ],
-        "answer": "answer",
+        "answer": "can",
         "selectedAnswer": null
     },
     {
         "id": 485,
-        "question": "3. Do not _________ hot brakes.  (level 1)  ",
+        "question": "Do not _________ hot brakes.  (level 1)",
         "plans": [
             {
                 "value": "touches"
@@ -8238,15 +8238,15 @@ export default  [
                 "value": "touch"
             },
             {
-                "value": "touching  "
+                "value": "touching"
             }
         ],
-        "answer": "answer",
+        "answer": "touch",
         "selectedAnswer": null
     },
     {
         "id": 486,
-        "question": "4. They  _______ to ________ electrical circuits . (level 1)  ",
+        "question": "They  _______ to ________ electrical circuits . (level 1)",
         "plans": [
             {
                 "value": "are designed/ protect"
@@ -8255,15 +8255,15 @@ export default  [
                 "value": "designed/ protect"
             },
             {
-                "value": "designed/ protecting  "
+                "value": "designed/ protecting"
             }
         ],
-        "answer": "answer",
+        "answer": "are designed/ protect",
         "selectedAnswer": null
     },
     {
         "id": 487,
-        "question": "5. It supports your arm  _______ a seat.  (level 1)  ",
+        "question": "It supports your arm  _______ a seat.  (level 1)",
         "plans": [
             {
                 "value": "on"
@@ -8275,12 +8275,12 @@ export default  [
                 "value": "in "
             }
         ],
-        "answer": "answer",
+        "answer": "on",
         "selectedAnswer": null
     },
     {
         "id": 488,
-        "question": "6. The _______ the altitude, the _______ the atmosphere . (level 1)  ",
+        "question": "The _______ the altitude, the _______ the atmosphere . (level 1)  ",
         "plans": [
             {
                 "value": "higher/better"
@@ -8289,49 +8289,49 @@ export default  [
                 "value": "higher/colder"
             },
             {
-                "value": "higher/heavier  "
+                "value": "higher/heavier"
             }
         ],
-        "answer": "answer",
+        "answer": "higher/colder",
         "selectedAnswer": null
     },
     {
         "id": 489,
-        "question": "7. B747 is _______ civil transport.  (level 1)  ",
+        "question": "B747 is _______ civil transport.  (level 1)  ",
         "plans": [
             {
                 "value": "the largest"
             },
             {
-                "value": "B747 is _______ civil transport.  (level 1)  "
+                "value": "the tallest"
             },
             {
-                "value": "highest  "
+                "value": "highest"
             }
         ],
-        "answer": "answer",
+        "answer": "the largest",
         "selectedAnswer": null
     },
     {
         "id": 490,
-        "question": "8. A check valve is _______ a non -return valve.  (level 1)  ",
+        "question": "A check valve is _______ a non -return valve.  (level 1)",
         "plans": [
             {
-                "value": "A check valve is _______ a non -return valve.  (level 1)  "
+                "value": "as"
             },
             {
                 "value": "same as"
             },
             {
-                "value": "the same as  "
+                "value": "the same as"
             }
         ],
-        "answer": "answer",
+        "answer": "the same as",
         "selectedAnswer": null
     },
     {
         "id": 491,
-        "question": "9. Excessive speed  (level 1)  ",
+        "question": "Excessive speed  (level 1)  ",
         "plans": [
             {
                 "value": "out of speed"
@@ -8340,15 +8340,15 @@ export default  [
                 "value": "down speed"
             },
             {
-                "value": "over speed  "
+                "value": "over speed"
             }
         ],
-        "answer": "answer",
+        "answer": "over speed",
         "selectedAnswer": null
     },
     {
         "id": 492,
-        "question": "10. Non – conformity  (level 1)  ",
+        "question": "Non – conformity  (level 1)",
         "plans": [
             {
                 "value": "disagree"
@@ -8357,15 +8357,15 @@ export default  [
                 "value": "non-agree"
             },
             {
-                "value": "in-agree  "
+                "value": "in-agree"
             }
         ],
-        "answer": "answer",
+        "answer": "disagree",
         "selectedAnswer": null
     },
     {
         "id": 493,
-        "question": "11. Time between a/c arrival and departure  (level 1)  ",
+        "question": "Time between a/c arrival and departure  (level 1)",
         "plans": [
             {
                 "value": "turn round"
@@ -8374,15 +8374,15 @@ export default  [
                 "value": "turnaround"
             },
             {
-                "value": "turning round  "
+                "value": "turning round"
             }
         ],
-        "answer": "answer",
+        "answer": "turnaround",
         "selectedAnswer": null
     },
     {
         "id": 494,
-        "question": "12. To return to point of departure  (level 1)  ",
+        "question": "To return to point of departure  (level 1)",
         "plans": [
             {
                 "value": "put back"
@@ -8391,15 +8391,15 @@ export default  [
                 "value": "feed back"
             },
             {
-                "value": "turn back  "
+                "value": "turn back"
             }
         ],
-        "answer": "answer",
+        "answer": "turn back",
         "selectedAnswer": null
     },
     {
         "id": 495,
-        "question": "13. Insufficient pressure  (level 1)  ",
+        "question": "Insufficient pressure  (level 1)",
         "plans": [
             {
                 "value": "pressure down"
@@ -8408,15 +8408,15 @@ export default  [
                 "value": "under pressure"
             },
             {
-                "value": "over pressure  "
+                "value": "over pressure"
             }
         ],
-        "answer": "answer",
+        "answer": "under pressure",
         "selectedAnswer": null
     },
     {
         "id": 496,
-        "question": "14. Make a dummy connector with three jumper leads to simulate an installed ",
+        "question": "Make a dummy connector with three jumper leads to simulate an installed LDMCR (lower deck mobile crew rest compartment).You need. (level 2)",
         "plans": [
             {
                 "value": "a simulator"
@@ -8425,15 +8425,15 @@ export default  [
                 "value": "an electrician"
             },
             {
-                "value": "CR (lower deck mobile  crew rest compartment).You need.  (level 2)  "
+                "value": "a wire loom"
             }
         ],
-        "answer": "answer",
+        "answer": "an electrician",
         "selectedAnswer": null
     },
     {
         "id": 497,
-        "question": "15. Connect the pressure and case drain lines together with the engine pump case ",
+        "question": "Connect the pressure and case drain lines together with the engine pump case drain/ pressure connection. Connect the pressure hose of the hydraulic cart to the case drain line with the interface. You are going to __________ the system. (level 2)",
         "plans": [
             {
                 "value": "flush"
@@ -8442,15 +8442,15 @@ export default  [
                 "value": "pressurize"
             },
             {
-                "value": "Connect the pressure and case drain lines together with the engine pump case "
+                "value": "drain"
             }
         ],
-        "answer": "answer",
+        "answer": "flush",
         "selectedAnswer": null
     },
     {
         "id": 498,
-        "question": "16. Remove the nipple from the RACSB valve drain port and set aside for use on the ",
+        "question": "Remove the nipple from the RACSB valve drain port and set aside for use on the new RACSB valve. You must __________ the nipple. (level 2)",
         "plans": [
             {
                 "value": "ACSB valve drain port and set aside for use on the "
@@ -8467,92 +8467,92 @@ export default  [
     },
     {
         "id": 499,
-        "question": "17. The command from the ENG / MASTER switch interfaces directly with the lock ",
+        "question": "The command from the ENG / MASTER switch interfaces directly with the lock type solenoid of the HP fuel shut-off valve. The opening function is ensured by. (level 2) - a hydraulic changeover - a magnetic locking device .The ENG/MASTER switch signals:",
         "plans": [
             {
-                "value": "ASTER switch interfaces directly with the lock "
+                "value": "a solenoid "
             },
             {
                 "value": "a locking device"
             },
             {
-                "value": "a hydraulic shut -off "
+                "value": "a hydraulic shut -off value"
             }
         ],
-        "answer": "answer",
+        "answer": "a solenoid ",
         "selectedAnswer": null
     },
     {
         "id": 500,
-        "question": "18. A differential connects the hydraulic motors together. The  hydraulic motors ",
+        "question": "A differential connects the hydraulic motors together. The hydraulic motors have a valve block. The Pitch Trim Actuator controls the valve block. The valve block can also be operated by the THS mechanical input. The valve block is actuated. (level 2)",
         "plans": [
             {
-                "value": "A differential connects the hydraulic motors together. The  hydraulic motors "
+                "value": "hydraulically and mechanically"
             },
             {
                 "value": "hydraulically"
             },
             {
-                "value": "electrically   "
+                "value": "electrically"
             }
         ],
-        "answer": "answer",
+        "answer": "hydraulically and mechanically",
         "selectedAnswer": null
     },
     {
         "id": 501,
-        "question": "19. The actuator body attaches to the butterfly and contains a rod. Two diaphragms ",
+        "question": "The actuator body attaches to the butterfly and contains a rod. Two diaphragms divide the actuator body into three chambers. A spring in the top chamber keeps the actuator rod in the extended position. (level 2). The actuator rod is maintained extended by the.",
         "plans": [
             {
-                "value": "A spring in the top chamber keeps the "
+                "value": "top chamber"
             },
             {
                 "value": "middle chamber"
             },
             {
-                "value": "bottom chamber  "
+                "value": "bottom chamber"
             }
         ],
-        "answer": "answer",
+        "answer": "top chamber",
         "selectedAnswer": null
     },
     {
         "id": 502,
-        "question": "20. If a REFUEL -DEFUEL -VALVES switch is moved to OPEN during the automatic ",
+        "question": "If a REFUEL -DEFUEL -VALVES switch is moved to OPEN during the automatic refuel, the FCMS ignores the command until the automatic refuel is complete. Then, after approximately 15 seconds, the refuel will continue in manual mode into the applicable tank. (level 2)",
         "plans": [
             {
-                "value": "ALVES switch is moved to OPEN during the automatic "
+                "value": "you can override the automatic mode by setting the switch to OPEN"
             },
             {
                 "value": "manual mode is only effective after the automatic cycle is finished"
             },
             {
-                "value": "CM S ignores the command until the automatic refuel is complete. Then, "
+                "value": "you can override the automatic mode after a 15 s. time delay"
             }
         ],
-        "answer": "answer",
+        "answer": "manual mode is only effective after the automatic cycle is finished",
         "selectedAnswer": null
     },
     {
         "id": 503,
-        "question": "21. The loops are connected in parallel to a Fire Detection Unit (FDU). The ",
+        "question": "The loops are connected in parallel to a Fire Detection Unit (FDU). The connection is made through an AND logic to avoid spurious FIRE warnings. If one loop fails, the AND becomes an OR logic. (level 2). The aircraft can be released in this configuration.",
         "plans": [
             {
-                "value": "AND logic to avoid spurious F IRE warnings. If one "
+                "value": "two sets of loops avoid false warnings"
             },
             {
                 "value": "normally, both loops must detect a fire simultaneously"
             },
             {
-                "value": "the aircraft cannot depart  with only one loop operative  "
+                "value": "the aircraft cannot depart  with only one loop operative"
             }
         ],
-        "answer": "answer",
+        "answer": "normally, both loops must detect a fire simultaneously",
         "selectedAnswer": null
     },
     {
         "id": 504,
-        "question": "22. _________ the safety pin  (level 1)  ",
+        "question": "_________ the safety pin  (level 1)  ",
         "plans": [
             {
                 "value": "Insert"
@@ -8561,32 +8561,32 @@ export default  [
                 "value": "Introduce"
             },
             {
-                "value": "Enter  "
+                "value": "Enter"
             }
         ],
-        "answer": "answer",
+        "answer": "Insert",
         "selectedAnswer": null
     },
     {
         "id": 505,
-        "question": "23. Before performing the test ______ C/B 6XX.  (level 1)  ",
+        "question": "Before performing the test ______ C/B 6XX.  (level 1)  ",
         "plans": [
             {
                 "value": "trigger"
             },
             {
-                "value": "Before performing the test ______ C/B 6XX.  (level 1)  "
+                "value": "trip"
             },
             {
-                "value": "C/B 6XX.  (level 1)  "
+                "value": "dump"
             }
         ],
-        "answer": "answer",
+        "answer": "trip",
         "selectedAnswer": null
     },
     {
         "id": 506,
-        "question": "24. The oxygen cylinder disc has ______.  (level 1)  ",
+        "question": "The oxygen cylinder disc has ______.  (level 1)",
         "plans": [
             {
                 "value": "popped out"
@@ -8595,15 +8595,15 @@ export default  [
                 "value": "tripped"
             },
             {
-                "value": "jacked up  "
+                "value": "jacked up"
             }
         ],
-        "answer": "answer",
+        "answer": "popped out",
         "selectedAnswer": null
     },
     {
         "id": 507,
-        "question": "25. Cold weather causes metal  _______ shrink.  (level 1)  ",
+        "question": "Cold weather causes metal  _______ shrink.  (level 1)",
         "plans": [
             {
                 "value": "down"
@@ -8612,15 +8612,15 @@ export default  [
                 "value": "into"
             },
             {
-                "value": "Cold weather causes metal  _______ shrink.  (level 1)  "
+                "value": "to"
             }
         ],
-        "answer": "answer",
+        "answer": "to",
         "selectedAnswer": null
     },
     {
         "id": 508,
-        "question": "26. Not ordered  (level 1)  ",
+        "question": "Not ordered  (level 1)  ",
         "plans": [
             {
                 "value": "un-command"
@@ -8629,32 +8629,32 @@ export default  [
                 "value": "inordinate"
             },
             {
-                "value": "un-commanded  "
+                "value": "un-commanded"
             }
         ],
-        "answer": "answer",
+        "answer": "un-commanded",
         "selectedAnswer": null
     },
     {
         "id": 509,
-        "question": "27. Auto-regulating  (level 1)  ",
+        "question": "Auto-regulating  (level 1)  ",
         "plans": [
             {
-                "value": "Auto-regulating  (level 1)  "
+                "value": "Self-regulation"
             },
             {
                 "value": "Self-regulating"
             },
             {
-                "value": "self-regulate  "
+                "value": "self-regulate"
             }
         ],
-        "answer": "answer",
+        "answer": "Self-regulating",
         "selectedAnswer": null
     },
     {
         "id": 510,
-        "question": "28. Ready for use  (level 1)  ",
+        "question": "Ready for use  (level 1)",
         "plans": [
             {
                 "value": "unusable"
@@ -8663,32 +8663,32 @@ export default  [
                 "value": "standby"
             },
             {
-                "value": "by available  "
+                "value": "by available"
             }
         ],
-        "answer": "answer",
+        "answer": "standby",
         "selectedAnswer": null
     },
     {
         "id": 511,
-        "question": "29. Time A/C or equipment inoperative  (level 1)  ",
+        "question": "Time A/C or equipment inoperative  (level 1)",
         "plans": [
             {
-                "value": "A/C or equipment inoperative  (level 1)  "
+                "value": "downtime"
             },
             {
                 "value": "off-time"
             },
             {
-                "value": "C or equipment inoperative  (level 1)  "
+                "value": "in-off"
             }
         ],
-        "answer": "answer",
+        "answer": "downtime",
         "selectedAnswer": null
     },
     {
         "id": 512,
-        "question": "30. Non – conformity  (level 1)  ",
+        "question": "Non – conformity  (level 1)",
         "plans": [
             {
                 "value": "disagree"
@@ -8697,32 +8697,32 @@ export default  [
                 "value": "non-agree"
             },
             {
-                "value": "in-agree  "
+                "value": "in-agree"
             }
         ],
-        "answer": "answer",
+        "answer": "disagree",
         "selectedAnswer": null
     },
     {
         "id": 513,
-        "question": "31. A problem in a trailing edge ball screw transmission causes the torque limiter to ",
+        "question": "A problem in a trailing edge ball screw transmission causes the torque limiter to lock _____. (level 2)",
         "plans": [
             {
-                "value": "A problem in a trailing edge ball screw transmission causes the torque limiter to "
+                "value": "in"
             },
             {
                 "value": "out"
             },
             {
-                "value": "back  "
+                "value": "back"
             }
         ],
-        "answer": "answer",
+        "answer": "out",
         "selectedAnswer": null
     },
     {
         "id": 514,
-        "question": "32. This could cause __________ explosion.  (level 1)  ",
+        "question": "This could cause __________ explosion.  (level 1)",
         "plans": [
             {
                 "value": "one"
@@ -8731,15 +8731,15 @@ export default  [
                 "value": "a"
             },
             {
-                "value": "an "
+                "value": "an"
             }
         ],
-        "answer": "answer",
+        "answer": "an",
         "selectedAnswer": null
     },
     {
         "id": 515,
-        "question": "2. (level 1)  ",
+        "question": "The computer operates using __________ channel 1 or 2. (level 1)",
         "plans": [
             {
                 "value": "both"
@@ -8748,15 +8748,15 @@ export default  [
                 "value": "every"
             },
             {
-                "value": "either  "
+                "value": "either"
             }
         ],
-        "answer": "answer",
+        "answer": "either",
         "selectedAnswer": null
     },
     {
         "id": 516,
-        "question": "34. Make sure that the O -ring is in the __________ position.  (level 1)  ",
+        "question": "Make sure that the O -ring is in the __________ position.  (level 1)",
         "plans": [
             {
                 "value": "corrected"
@@ -8765,15 +8765,15 @@ export default  [
                 "value": "correctly"
             },
             {
-                "value": "correct      "
+                "value": "correct"
             }
         ],
-        "answer": "answer",
+        "answer": "correct",
         "selectedAnswer": null
     },
     {
         "id": 517,
-        "question": "1.  (level 1)  ",
+        "question": "__________ pressure from hydraulic system No. 1. (level 1)",
         "plans": [
             {
                 "value": "Repair"
@@ -8782,15 +8782,15 @@ export default  [
                 "value": "Request"
             },
             {
-                "value": "Release  "
+                "value": "Release"
             }
         ],
-        "answer": "answer",
+        "answer": "Release",
         "selectedAnswer": null
     },
     {
         "id": 518,
-        "question": "36. Do these steps if the brake has _____ too hot because of a rejected takeoff.  ",
+        "question": "Do these steps if the brake has _____ too hot because of a rejected takeoff.  (level 1)",
         "plans": [
             {
                 "value": "begun"
@@ -8799,15 +8799,15 @@ export default  [
                 "value": "started"
             },
             {
-                "value": "become  "
+                "value": "become"
             }
         ],
-        "answer": "answer",
+        "answer": "become",
         "selectedAnswer": null
     },
     {
         "id": 519,
-        "question": "37. JOIN  (level 1)  ",
+        "question": "JOIN  (level 1)",
         "plans": [
             {
                 "value": "add"
@@ -8819,12 +8819,12 @@ export default  [
                 "value": "joint "
             }
         ],
-        "answer": "answer",
+        "answer": "connect",
         "selectedAnswer": null
     },
     {
         "id": 520,
-        "question": "38. CONFORM TO  (level 1)  ",
+        "question": "CONFORM TO  (level 1)",
         "plans": [
             {
                 "value": "confirm to"
@@ -8833,32 +8833,32 @@ export default  [
                 "value": "support to"
             },
             {
-                "value": "CONFORM TO  (level 1)  "
+                "value": "comply"
             }
         ],
-        "answer": "answer",
+        "answer": "comply",
         "selectedAnswer": null
     },
     {
         "id": 521,
-        "question": "39. ANNUL  (level 1)  ",
+        "question": "ANNUL  (level 1)  ",
         "plans": [
             {
-                "value": "ANNUL  (level 1)  "
+                "value": "cancel"
             },
             {
                 "value": "annual"
             },
             {
-                "value": "annulus  "
+                "value": "annulus"
             }
         ],
-        "answer": "answer",
+        "answer": "cancel",
         "selectedAnswer": null
     },
     {
         "id": 522,
-        "question": "40. IDENTIFY  (level 1)  ",
+        "question": "IDENTIFY  (level 1)",
         "plans": [
             {
                 "value": "identity"
@@ -8867,15 +8867,15 @@ export default  [
                 "value": "inertial"
             },
             {
-                "value": "mark  "
+                "value": "mark"
             }
         ],
-        "answer": "answer",
+        "answer": "mark",
         "selectedAnswer": null
     },
     {
         "id": 523,
-        "question": "41. MOVE SLOWLY  (level 1)  ",
+        "question": "MOVE SLOWLY  (level 1)  ",
         "plans": [
             {
                 "value": "easy"
@@ -8884,15 +8884,15 @@ export default  [
                 "value": "ease"
             },
             {
-                "value": "easel  "
+                "value": "easel"
             }
         ],
-        "answer": "answer",
+        "answer": "ease",
         "selectedAnswer": null
     },
     {
         "id": 524,
-        "question": "42. SPURIOUS  (level 1)  ",
+        "question": "SPURIOUS  (level 1)  ",
         "plans": [
             {
                 "value": "serious"
@@ -8901,15 +8901,15 @@ export default  [
                 "value": "unexplained"
             },
             {
-                "value": "unwanted  "
+                "value": "unwanted"
             }
         ],
-        "answer": "answer",
+        "answer": "unwanted",
         "selectedAnswer": null
     },
     {
         "id": 525,
-        "question": "43. LEG (level 1)  ",
+        "question": "LEG (level 1)",
         "plans": [
             {
                 "value": "landing gear"
@@ -8918,15 +8918,15 @@ export default  [
                 "value": "support"
             },
             {
-                "value": "flight  "
+                "value": "flight"
             }
         ],
-        "answer": "answer",
+        "answer": "flight",
         "selectedAnswer": null
     },
     {
         "id": 526,
-        "question": "44. UNCOVERED  (level 1)  ",
+        "question": "UNCOVERED  (level 1)",
         "plans": [
             {
                 "value": "explained"
@@ -8935,32 +8935,32 @@ export default  [
                 "value": "shown"
             },
             {
-                "value": "COVERED  (level 1)  "
+                "value": "repaired"
             }
         ],
-        "answer": "answer",
+        "answer": "shown",
         "selectedAnswer": null
     },
     {
         "id": 527,
-        "question": "45. REGARDLESS  (level 1)  ",
+        "question": "REGARDLESS  (level 1)",
         "plans": [
             {
-                "value": "ARDLESS  (level 1)  "
+                "value": "as regards"
             },
             {
                 "value": "whatever"
             },
             {
-                "value": "because  "
+                "value": "because"
             }
         ],
-        "answer": "answer",
+        "answer": "whatever",
         "selectedAnswer": null
     },
     {
         "id": 528,
-        "question": "46. OMITS  (level 1)  ",
+        "question": "OMITS  (level 1)  ",
         "plans": [
             {
                 "value": "does not"
@@ -8969,15 +8969,15 @@ export default  [
                 "value": "cancels"
             },
             {
-                "value": "repeats  "
+                "value": "repeats"
             }
         ],
-        "answer": "answer",
+        "answer": "does not",
         "selectedAnswer": null
     },
     {
         "id": 529,
-        "question": "47. COTTER PIN  (level 1)  ",
+        "question": "COTTER PIN  (level 1)",
         "plans": [
             {
                 "value": "cancel"
@@ -8986,32 +8986,32 @@ export default  [
                 "value": "un-safety attachment"
             },
             {
-                "value": "COTTER PIN  (level 1)  "
+                "value": "safety attachment"
             }
         ],
-        "answer": "answer",
+        "answer": "safety attachment",
         "selectedAnswer": null
     },
     {
         "id": 530,
-        "question": "48. ASYMMETRY  (level 1)  ",
+        "question": "ASYMMETRY  (level 1)  ",
         "plans": [
             {
-                "value": "ASYMMETRY  (level 1)  "
+                "value": "symmetrical position"
             },
             {
                 "value": "asynchronism"
             },
             {
-                "value": "not symmetrical position  "
+                "value": "not symmetrical position"
             }
         ],
-        "answer": "answer",
+        "answer": "not symmetrical position",
         "selectedAnswer": null
     },
     {
         "id": 531,
-        "question": "49. PROGRESS  (level 1)  ",
+        "question": "PROGRESS  (level 1)",
         "plans": [
             {
                 "value": "IN"
@@ -9020,15 +9020,15 @@ export default  [
                 "value": "TO"
             },
             {
-                "value": "UNDER  "
+                "value": "UNDER"
             }
         ],
-        "answer": "answer",
+        "answer": "IN",
         "selectedAnswer": null
     },
     {
         "id": 532,
-        "question": "50. FLIGHT  (level 1)  ",
+        "question": "FLIGHT  (level 1)",
         "plans": [
             {
                 "value": "ON"
@@ -9037,15 +9037,15 @@ export default  [
                 "value": "WITH"
             },
             {
-                "value": "IN     "
+                "value": "IN"
             }
         ],
-        "answer": "answer",
+        "answer": "IN",
         "selectedAnswer": null
     },
     {
         "id": 533,
-        "question": "51. THE GROUND  (level 1)  ",
+        "question": "THE GROUND  (level 1)",
         "plans": [
             {
                 "value": "NEAR"
@@ -9054,83 +9054,83 @@ export default  [
                 "value": "ON"
             },
             {
-                "value": "AT "
+                "value": "AT"
             }
         ],
-        "answer": "answer",
+        "answer": "ON",
         "selectedAnswer": null
     },
     {
         "id": 534,
-        "question": "52. LAST  (level 1)  ",
+        "question": "LAST  (level 1)",
         "plans": [
             {
-                "value": "AST  (level 1)  "
+                "value": "OF"
             },
             {
                 "value": "AT"
             },
             {
-                "value": "FOR  "
+                "value": "FOR"
             }
         ],
-        "answer": "answer",
+        "answer": "AT",
         "selectedAnswer": null
     },
     {
         "id": 535,
-        "question": "53. BOARD  (level 1)  ",
+        "question": "BOARD  (level 1)",
         "plans": [
             {
-                "value": "ARD  (level 1)  "
+                "value": "ON/OVER"
             },
             {
-                "value": "BOARD  (level 1)  "
+                "value": "OF "
             },
             {
-                "value": "BY "
+                "value": "BY"
             }
         ],
-        "answer": "answer",
+        "answer": "ON/OVER",
         "selectedAnswer": null
     },
     {
         "id": 536,
-        "question": "54. PHASE  (level 1)  ",
+        "question": "PHASE  (level 1)",
         "plans": [
             {
-                "value": "ASE  (level 1)  "
+                "value": "IN/OUT"
             },
             {
                 "value": "OF"
             },
             {
-                "value": "ON "
+                "value": "ON"
             }
         ],
-        "answer": "answer",
+        "answer": "IN/OUT",
         "selectedAnswer": null
     },
     {
         "id": 537,
-        "question": "55. ACCORDING  (level 1)  ",
+        "question": "ACCORDING  (level 1)",
         "plans": [
             {
-                "value": "ACCORDING  (level 1)  "
+                "value": "ON"
             },
             {
                 "value": "FOR"
             },
             {
-                "value": "CCORDING  (level 1)  "
+                "value": "TO"
             }
         ],
-        "answer": "answer",
+        "answer": "YO",
         "selectedAnswer": null
     },
     {
         "id": 538,
-        "question": "56. PICK  (level 1)  ",
+        "question": "PICK  (level 1)",
         "plans": [
             {
                 "value": "ON"
@@ -9139,35 +9139,35 @@ export default  [
                 "value": "UP/OFF"
             },
             {
-                "value": "CK  (level 1)  "
+                "value": "TO"
             }
         ],
-        "answer": "answer",
+        "answer": "UP/OFF",
         "selectedAnswer": null
     },
     {
         "id": 539,
-        "question": "57. STAND  (level 1)  ",
+        "question": "STAND  (level 1)",
         "plans": [
             {
-                "value": "AND  (level 1)  "
+                "value": "OUT"
             },
             {
                 "value": "OF"
             },
             {
-                "value": "BY "
+                "value": "BY"
             }
         ],
-        "answer": "answer",
+        "answer": "BY",
         "selectedAnswer": null
     },
     {
         "id": 540,
-        "question": "58. WAY  (level 1)  ",
+        "question": "WAY  (level 1)",
         "plans": [
             {
-                "value": "AY  (level 1)  "
+                "value": "UNDER"
             },
             {
                 "value": "OFF"
@@ -9176,12 +9176,12 @@ export default  [
                 "value": "AT "
             }
         ],
-        "answer": "answer",
+        "answer": "UNDER",
         "selectedAnswer": null
     },
     {
         "id": 541,
-        "question": "59. Its purpose is to distribute electrical power  (level 1)  ",
+        "question": "Its purpose is to distribute electrical power  (level 1)",
         "plans": [
             {
                 "value": "bushing"
@@ -9190,15 +9190,15 @@ export default  [
                 "value": "detector"
             },
             {
-                "value": "bus bar  "
+                "value": "bus bar"
             }
         ],
-        "answer": "answer",
+        "answer": "bus bar",
         "selectedAnswer": null
     },
     {
         "id": 542,
-        "question": "60. The ________ is designed to trap particles.  (level 1)  ",
+        "question": "The ________ is designed to trap particles.  (level 1)",
         "plans": [
             {
                 "value": "filter-tip"
@@ -9207,15 +9207,15 @@ export default  [
                 "value": "filter"
             },
             {
-                "value": "filter-passer  "
+                "value": "filter-passer"
             }
         ],
-        "answer": "answer",
+        "answer": "filter",
         "selectedAnswer": null
     },
     {
         "id": 543,
-        "question": "61. The __________ is to adjust the lights  (level 1)  ",
+        "question": "The __________ is to adjust the lights(level 1)",
         "plans": [
             {
                 "value": "Knob dim"
@@ -9224,52 +9224,52 @@ export default  [
                 "value": "Dim knob"
             },
             {
-                "value": "Knob  "
+                "value": "Knob"
             }
         ],
-        "answer": "answer",
+        "answer": "Dim knob",
         "selectedAnswer": null
     },
     {
         "id": 544,
-        "question": "62. A motor to move a valve is.  (level 1)  ",
+        "question": "A motor to move a valve is.(level 1)",
         "plans": [
             {
-                "value": "A motor to move a valve is.  (level 1)  "
+                "value": "Valve drive"
             },
             {
                 "value": "Driving valve"
             },
             {
-                "value": "Drive valve  "
+                "value": "Drive valve"
             }
         ],
-        "answer": "answer",
+        "answer": "Valve drive",
         "selectedAnswer": null
     },
     {
         "id": 545,
-        "question": "63. Activates a  valve electrically.  (level 1)  ",
+        "question": "Activates a  valve electrically.  (level 1)",
         "plans": [
             {
-                "value": "Activates a  valve electrically.  (level 1)  "
+                "value": "Valve for solenoid"
             },
             {
                 "value": "Solenoid valve"
             },
             {
-                "value": "Valve solenoid  "
+                "value": "Valve solenoid"
             }
         ],
-        "answer": "answer",
+        "answer": "Solenoid valve",
         "selectedAnswer": null
     },
     {
         "id": 546,
-        "question": "64. Air used to cool hot air.  (level 1)  ",
+        "question": "Air used to cool hot air.(level 1)",
         "plans": [
             {
-                "value": "Air used to cool hot air.  (level 1)  "
+                "value": "Cooling air"
             },
             {
                 "value": "Air cooling"
@@ -9278,12 +9278,12 @@ export default  [
                 "value": "Cooling air"
             }
         ],
-        "answer": "answer",
+        "answer": "Air cooling",
         "selectedAnswer": null
     },
     {
         "id": 547,
-        "question": "65. Signal sent back by the system.  (level 1)  ",
+        "question": "Signal sent back by the system.  (level 1)",
         "plans": [
             {
                 "value": "System for feed back"
@@ -9292,15 +9292,15 @@ export default  [
                 "value": "System feed back"
             },
             {
-                "value": "Feed back system  "
+                "value": "Feed back system"
             }
         ],
-        "answer": "answer",
+        "answer": "Feed back system",
         "selectedAnswer": null
     },
     {
         "id": 548,
-        "question": "66. The function of a loader  (level 1)  ",
+        "question": "The function of a loader  (level 1)",
         "plans": [
             {
                 "value": "loading"
@@ -9312,29 +9312,29 @@ export default  [
                 "value": "loaded  "
             }
         ],
-        "answer": "answer",
+        "answer": "loading",
         "selectedAnswer": null
     },
     {
         "id": 549,
-        "question": "67. A part which restricts  (level 1)      ",
+        "question": "A part which restricts  (level 1)",
         "plans": [
             {
-                "value": "A part which restricts  (level 1)      "
+                "value": "restriction"
             },
             {
                 "value": "restricted"
             },
             {
-                "value": "restrictor  "
+                "value": "restrictor"
             }
         ],
-        "answer": "answer",
+        "answer": "restrictor",
         "selectedAnswer": null
     },
     {
         "id": 550,
-        "question": "68. Interference to radio signals, est.  (level 1)  ",
+        "question": "Interference to radio signals, est.  (level 1)",
         "plans": [
             {
                 "value": "Disunion"
@@ -9343,49 +9343,49 @@ export default  [
                 "value": "Interferogram"
             },
             {
-                "value": "noise  "
+                "value": "noise"
             }
         ],
-        "answer": "answer",
+        "answer": "noise",
         "selectedAnswer": null
     },
     {
         "id": 551,
-        "question": "69. As the aircraft ______ the cabin altitude ______.  (level 1)  ",
+        "question": "As the aircraft ______ the cabin altitude ______.  (level 1)",
         "plans": [
             {
-                "value": "As the aircraft ______ the cabin altitude ______.  (level 1)  "
+                "value": "descending/decreases"
             },
             {
                 "value": "descend to/increases"
             },
             {
-                "value": "descends/ decreases  "
+                "value": "descends/ decreases"
             }
         ],
-        "answer": "answer",
+        "answer": "descends/ decreases",
         "selectedAnswer": null
     },
     {
         "id": 552,
-        "question": "70. After removal, the assembly _______ for _____.  (level 1)  ",
+        "question": "After removal, the assembly _______ for _____.  (level 1)",
         "plans": [
             {
-                "value": "After removal, the assembly _______ for _____.  (level 1)  "
+                "value": "is dismantled/overhaul"
             },
             {
                 "value": "dismantled/overhaul"
             },
             {
-                "value": "dismantled/overhauling  "
+                "value": "dismantled/overhauling"
             }
         ],
-        "answer": "answer",
+        "answer": "is dismantled/overhaul",
         "selectedAnswer": null
     },
     {
         "id": 553,
-        "question": "71. Make sure that the controls _____  with the position of the items they operate.  ",
+        "question": "Make sure that the controls _____  with the position of the items they operate.(level 1)",
         "plans": [
             {
                 "value": "achieve"
@@ -9394,15 +9394,15 @@ export default  [
                 "value": "agree"
             },
             {
-                "value": "appear  "
+                "value": "appear"
             }
         ],
-        "answer": "answer",
+        "answer": "agree",
         "selectedAnswer": null
     },
     {
         "id": 554,
-        "question": "72. The fire extinguishing system is designed to extinguish at an _____ stage any ",
+        "question": "The fire extinguishing system is designed to extinguish at an _____ stage any fire occurring in the protected nacelle zones. (level 1)",
         "plans": [
             {
                 "value": "after"
@@ -9411,18 +9411,18 @@ export default  [
                 "value": "early"
             },
             {
-                "value": "accurate  "
+                "value": "accurate"
             }
         ],
-        "answer": "answer",
+        "answer": "early",
         "selectedAnswer": null
     },
     {
         "id": 555,
-        "question": "73. If the fault produces a FLAPS PRIMARY message followed by a FLAPS DRIVE ",
+        "question": "If the fault produces a FLAPS PRIMARY message followed by a FLAPS DRIVE message, it is ______ the result of a Flaps Disagree. (level 2)",
         "plans": [
             {
-                "value": "APS PRIMARY message followed by a FLAPS DRIVE "
+                "value": "likely"
             },
             {
                 "value": "actually"
@@ -9431,12 +9431,12 @@ export default  [
                 "value": "fully "
             }
         ],
-        "answer": "answer",
+        "answer": "likely",
         "selectedAnswer": null
     },
     {
         "id": 556,
-        "question": "74. Do not reroll  on any core less than 7 inches in diamet er or damage to laminate  ",
+        "question": "74. Do not reroll  on any core less than 7 inches in diamet er or damage to laminate  ______ occur. (level 2)",
         "plans": [
             {
                 "value": "may"
@@ -9445,15 +9445,15 @@ export default  [
                 "value": "would"
             },
             {
-                "value": "should  "
+                "value": "should"
             }
         ],
-        "answer": "answer",
+        "answer": "may",
         "selectedAnswer": null
     },
     {
         "id": 557,
-        "question": "75. Make sure you ____ see the threads on the end fitting through the inspection ",
+        "question": "Make sure you ____ see the threads on the end fitting through the inspection hole. (level 2)",
         "plans": [
             {
                 "value": "shall"
@@ -9462,15 +9462,15 @@ export default  [
                 "value": "will"
             },
             {
-                "value": "can "
+                "value": "can"
             }
         ],
-        "answer": "answer",
+        "answer": "can",
         "selectedAnswer": null
     },
     {
         "id": 558,
-        "question": "76. Splices __________ not be installed under clamps or other supports.  (level 2)  ",
+        "question": "Splices __________ not be installed under clamps or other supports.  (level 2)",
         "plans": [
             {
                 "value": "may"
@@ -9479,15 +9479,15 @@ export default  [
                 "value": "can"
             },
             {
-                "value": "shall "
+                "value": "shall"
             }
         ],
-        "answer": "answer",
+        "answer": "shall",
         "selectedAnswer": null
     },
     {
         "id": 559,
-        "question": "77. On the ground, an external electrical power source is needed ____ an internal ",
+        "question": "On the ground, an external electrical power source is needed ____ an internal aircraft power source is not available. (level 1)",
         "plans": [
             {
                 "value": "although"
@@ -9496,32 +9496,32 @@ export default  [
                 "value": "as long as"
             },
             {
-                "value": "so that  "
+                "value": "so that"
             }
         ],
-        "answer": "answer",
+        "answer": "as long as",
         "selectedAnswer": null
     },
     {
         "id": 560,
-        "question": "78. The connection is made through an AND logic ____  avoid  spurious warnings.  ",
+        "question": "The connection is made through an AND logic ____  avoid  spurious warnings.(level 1)",
         "plans": [
             {
-                "value": "AND logic ____  avoid  spurious warnings.  "
+                "value": "in order to"
             },
             {
                 "value": "according to"
             },
             {
-                "value": "therefore  "
+                "value": "therefore"
             }
         ],
-        "answer": "answer",
+        "answer": "in order to",
         "selectedAnswer": null
     },
     {
         "id": 561,
-        "question": "79. Generator  ________ causes load shedding.  (level 1)  ",
+        "question": "Generator  ________ causes load shedding.  (level 1)",
         "plans": [
             {
                 "value": "overloaded"
@@ -9530,15 +9530,15 @@ export default  [
                 "value": "overloading"
             },
             {
-                "value": "overactive  "
+                "value": "overactive"
             }
         ],
-        "answer": "answer",
+        "answer": "overloading",
         "selectedAnswer": null
     },
     {
         "id": 562,
-        "question": "80. The propeller ______ is automatic ____ engine failure.  (level 2)  ",
+        "question": "The propeller ______ is automatic ____ engine failure.  (level 2)",
         "plans": [
             {
                 "value": "feathering/ in the event of"
@@ -9547,10 +9547,10 @@ export default  [
                 "value": "feathered/ in event of"
             },
             {
-                "value": "feathering/ in event of      "
+                "value": "feathering/ in event of"
             }
         ],
-        "answer": "answer",
+        "answer": "feathering/ in the event of",
         "selectedAnswer": null
     },
     {
@@ -9564,15 +9564,15 @@ export default  [
                 "value": "until"
             },
             {
-                "value": "till then  "
+                "value": "till then"
             }
         ],
-        "answer": "answer",
+        "answer": "until",
         "selectedAnswer": null
     },
     {
         "id": 564,
-        "question": "82. For the second group of computers, the links with the data __________ are ",
+        "question": "For the second group of computers, the links with the data __________ are direct. (level 1)",
         "plans": [
             {
                 "value": "Spacer"
@@ -9581,49 +9581,49 @@ export default  [
                 "value": "Charger"
             },
             {
-                "value": "Charger"
+                "value": "Loader"
             }
         ],
-        "answer": "answer",
+        "answer": "Loader",
         "selectedAnswer": null
     },
     {
         "id": 565,
-        "question": "83. Caution. Cut the tube slowly and smoothly to make sure that the end of the tube ",
+        "question": "Caution. Cut the tube slowly and smoothly to make sure that the end of the tube does not change its shape. Which of the following is correct? (level 1)",
         "plans": [
             {
-                "value": "Make sure that the end of the tube is not broken.  "
+                "value": "Make sure that the end of the tube is not broken."
             },
             {
-                "value": "Cut the tube slowly and smoothly to keep the tube unbroken.  "
+                "value": "Cut the tube slowly and smoothly to keep the tube unbroken."
             },
             {
-                "value": "Caution. Cut the tube slowly and smoothly to make sure that the end of the tube "
+                "value": "Cut the tube carefully to keep its shape stay the same"
             }
         ],
-        "answer": "answer",
+        "answer": "Cut the tube carefully to keep its shape stay the same",
         "selectedAnswer": null
     },
     {
         "id": 566,
-        "question": "84. Apply a thin __________ of common grease on the bare metal areas.  (level 1)  ",
+        "question": "Apply a thin __________ of common grease on the bare metal areas.  (level 1)  ",
         "plans": [
             {
-                "value": "Apply a thin __________ of common grease on the bare metal areas.  (level 1)  "
+                "value": "Coat"
             },
             {
                 "value": "Shim"
             },
             {
-                "value": "Coat"
+                "value": "Screen"
             }
         ],
-        "answer": "answer",
+        "answer": "Coat",
         "selectedAnswer": null
     },
     {
         "id": 567,
-        "question": "85. Remove the 4 bolts which attach the fuel supply tube to the __________ of the ",
+        "question": "Remove the 4 bolts which attach the fuel supply tube to the __________ of the IDG cooler port. (level 2)",
         "plans": [
             {
                 "value": "Groove"
@@ -9632,15 +9632,15 @@ export default  [
                 "value": "Thread"
             },
             {
-                "value": "Flange  "
+                "value": "Flange"
             }
         ],
-        "answer": "answer",
+        "answer": "Flange",
         "selectedAnswer": null
     },
     {
         "id": 568,
-        "question": "86. During the __________ of time or date, only the digits corresponding to the ",
+        "question": "During the __________ of time or date, only the digits corresponding to the position of the UTC selector switch are displayed. (level 2)",
         "plans": [
             {
                 "value": "Scanning"
@@ -9649,32 +9649,32 @@ export default  [
                 "value": "Setting"
             },
             {
-                "value": "C selector switch are displayed.  (level 2)  "
+                "value": "Sampling"
             }
         ],
-        "answer": "answer",
+        "answer": "Setting",
         "selectedAnswer": null
     },
     {
         "id": 569,
-        "question": "87. The MCDU slew __________ (arrow up and arrow down) adjacent to the LAT ",
+        "question": "The MCDU slew __________ (arrow up and arrow down) adjacent to the LAT indication are shown. (level 2)",
         "plans": [
             {
-                "value": "AT indication are shown.  (level 2)  "
+                "value": "Legends"
             },
             {
                 "value": "Knob"
             },
             {
-                "value": "CDU slew __________ (arrow up and arrow down) adjacent to the LAT "
+                "value": "Prompts"
             }
         ],
-        "answer": "answer",
+        "answer": "Prompts",
         "selectedAnswer": null
     },
     {
         "id": 570,
-        "question": "88. These disk -__________ data can be __________ analyzed on the ground.  (level ",
+        "question": "These disk -__________ data can be __________ analyzed on the ground.  (level `)",
         "plans": [
             {
                 "value": "storing / director"
@@ -9683,32 +9683,32 @@ export default  [
                 "value": "stored / direct"
             },
             {
-                "value": "stored / directly  "
+                "value": "stored / directly"
             }
         ],
-        "answer": "answer",
+        "answer": "stored / directly",
         "selectedAnswer": null
     },
     {
         "id": 571,
-        "question": "89. If there __________ a warning signal, the MASTER WARN lights __________ ",
+        "question": "If there __________ a warning signal, the MASTER WARN lights __________ and a continuous repetitive chime __________. (level 1)",
         "plans": [
             {
-                "value": "ASTER WARN lights __________ "
+                "value": "are / flash / is heard"
             },
             {
                 "value": "is / flash / is heard"
             },
             {
-                "value": "is / flashes / hearing  "
+                "value": "is / flashes / hearing"
             }
         ],
-        "answer": "answer",
+        "answer": "is / flash / is heard",
         "selectedAnswer": null
     },
     {
         "id": 572,
-        "question": "90. These keys __________ the operator __________ data to a specific system.  ",
+        "question": "These keys __________ the operator __________ data to a specific system.(level 1)",
         "plans": [
             {
                 "value": "enable / to enter"
@@ -9717,32 +9717,32 @@ export default  [
                 "value": "will enable / entering"
             },
             {
-                "value": "enables / to enter  "
+                "value": "enables / to enter"
             }
         ],
-        "answer": "answer",
+        "answer": "enable / to enter",
         "selectedAnswer": null
     },
     {
         "id": 573,
-        "question": "91. The failure data __________ and you can __________ it on the MCDU after ",
+        "question": "The failure data __________ and you can __________ it on the MCDU after each flight (level 1)",
         "plans": [
             {
                 "value": "is storing / see"
             },
             {
-                "value": "is stored / t o see"
+                "value": "is stored / to see"
             },
             {
-                "value": "CDU after "
+                "value": "is stored / see"
             }
         ],
-        "answer": "answer",
+        "answer": "is stored / see",
         "selectedAnswer": null
     },
     {
         "id": 574,
-        "question": "92. The system is also __________ as a data concentrator __________ data to other ",
+        "question": "The system is also __________ as a data concentrator __________ data to other systems. (level 1)",
         "plans": [
             {
                 "value": "used / to provide"
@@ -9754,12 +9754,12 @@ export default  [
                 "value": "uses / providing  "
             }
         ],
-        "answer": "answer",
+        "answer": "used / to provide",
         "selectedAnswer": null
     },
     {
         "id": 575,
-        "question": "93. _______ that the safety barriers are in position to prevent access to the  landing ",
+        "question": "_______ that the safety barriers are in position to prevent access to the  landing gear door travel ranges. You must stop _____.(level 1)",
         "plans": [
             {
                 "value": "Make sure / people"
@@ -9768,32 +9768,32 @@ export default  [
                 "value": "Making sure/ gear movement"
             },
             {
-                "value": "Making sure/ hydraulic supply   "
+                "value": "Making sure/ hydraulic supply"
             }
         ],
-        "answer": "answer",
+        "answer": "Make sure / people",
         "selectedAnswer": null
     },
     {
         "id": 576,
-        "question": "95. The recirculation pipe starts on the engine at th e FRV and _____ at the press -",
+        "question": "The recirculation pipe starts on the engine at th e FRV and _____ at the press -holding valve in the inner tank. The holes in the adaptor let the fuel flow through the recirculation pipe and into the inner tank _____. (level 2)",
         "plans": [
             {
                 "value": "finished/ supply the engine"
             },
             {
-                "value": "finishing/ fill the fuel "
+                "value": "finishing/ fill the fuel tanks"
             },
             {
-                "value": "finishes /  cool the IDG  "
+                "value": " finishes / cool the IDG"
             }
         ],
-        "answer": "answer",
+        "answer": "finishes / cool the IDG",
         "selectedAnswer": null
     },
     {
         "id": 577,
-        "question": "96. The diffuser is downstream of the load compressor impeller.  It is of radial design ",
+        "question": "The diffuser is downstream of the load compressor impeller.  It is of radial design with 19 guide vanes in the shape of cambered vanes. The radial __________ has 19__________ vanes. (level 2)",
         "plans": [
             {
                 "value": "diffuser / curved"
@@ -9802,15 +9802,15 @@ export default  [
                 "value": "impeller / flat"
             },
             {
-                "value": "diffus er / flat  "
+                "value": "diffuser / flat"
             }
         ],
-        "answer": "answer",
+        "answer": "diffuser / curved",
         "selectedAnswer": null
     },
     {
         "id": 578,
-        "question": "97. Lubricate the new __________ with oil.  (level 1)  ",
+        "question": "Lubricate the new __________ with oil.  (level 1)",
         "plans": [
             {
                 "value": "safety pin"
@@ -9819,15 +9819,15 @@ export default  [
                 "value": "bonding braid"
             },
             {
-                "value": "O-ring "
+                "value": "O-ring"
             }
         ],
-        "answer": "answer",
+        "answer": "O-ring",
         "selectedAnswer": null
     },
     {
         "id": 579,
-        "question": "98. In ___case of a leak, that part of the system is ______  (level 1)  ",
+        "question": "In ___case of a leak, that part of the system is ______  (level 1)",
         "plans": [
             {
                 "value": "the/ delayed"
@@ -9836,15 +9836,15 @@ export default  [
                 "value": "“__”/isolated"
             },
             {
-                "value": "the/isolated  "
+                "value": "the/isolated"
             }
         ],
-        "answer": "answer",
+        "answer": "“__”/isolated",
         "selectedAnswer": null
     },
     {
         "id": 580,
-        "question": "99. There is a short ______on the board  (level 1)  ",
+        "question": "There is a short ______on the board  (level 1)",
         "plans": [
             {
                 "value": "circuit"
@@ -9853,15 +9853,15 @@ export default  [
                 "value": "transient"
             },
             {
-                "value": "shock  "
+                "value": "shock"
             }
         ],
-        "answer": "answer",
+        "answer": "circuit",
         "selectedAnswer": null
     },
     {
         "id": 581,
-        "question": "100. The synonym of “important”  (level 1)  ",
+        "question": "The synonym of “important”  (level 1)",
         "plans": [
             {
                 "value": "high quality"
@@ -9870,15 +9870,15 @@ export default  [
                 "value": "significant"
             },
             {
-                "value": "big "
+                "value": "big"
             }
         ],
-        "answer": "answer",
+        "answer": "significant",
         "selectedAnswer": null
     },
     {
         "id": 582,
-        "question": "101. The synonym of “standby”  (level 1)  ",
+        "question": "The synonym of “standby”  (level 1)",
         "plans": [
             {
                 "value": "alternative"
@@ -9887,32 +9887,32 @@ export default  [
                 "value": "alternating"
             },
             {
-                "value": "supply  "
+                "value": "supply"
             }
         ],
-        "answer": "answer",
+        "answer": "alternative",
         "selectedAnswer": null
     },
     {
         "id": 583,
-        "question": "102. A plug that can not be connected incorrectly  (level 1)  ",
+        "question": "A plug that can not be connected incorrectly  (level 1)",
         "plans": [
             {
-                "value": "A plug that can not be connected incorrectly  (level 1)  "
+                "value": "proofed plug"
             },
             {
                 "value": "un-fool plug"
             },
             {
-                "value": "fool proofed plug  "
+                "value": "fool proofed plug"
             }
         ],
-        "answer": "answer",
+        "answer": "fool proofed plug",
         "selectedAnswer": null
     },
     {
         "id": 584,
-        "question": "103. Rod moving longitudinally  (level 1)  ",
+        "question": "Rod moving longitudinally  (level 1)",
         "plans": [
             {
                 "value": "pull-push"
@@ -9924,12 +9924,12 @@ export default  [
                 "value": "pulling push  "
             }
         ],
-        "answer": "answer",
+        "answer": "push -pull",
         "selectedAnswer": null
     },
     {
         "id": 585,
-        "question": "104. Slow, unwanted flow of fluid  (level 1)  ",
+        "question": "Slow, unwanted flow of fluid  (level 1)  ",
         "plans": [
             {
                 "value": "seepage"
@@ -9938,15 +9938,15 @@ export default  [
                 "value": "over flow"
             },
             {
-                "value": "spillage      "
+                "value": "spillage"
             }
         ],
-        "answer": "answer",
+        "answer": "seepage",
         "selectedAnswer": null
     },
     {
         "id": 586,
-        "question": "105. Small fragment missing from edge of part  (level 1)  ",
+        "question": "Small fragment missing from edge of part  (level 1)",
         "plans": [
             {
                 "value": "chip"
@@ -9955,15 +9955,15 @@ export default  [
                 "value": "ship"
             },
             {
-                "value": "piece  "
+                "value": "piece"
             }
         ],
-        "answer": "answer",
+        "answer": "chip",
         "selectedAnswer": null
     },
     {
         "id": 587,
-        "question": "106. When the generator …………  is too high, the galley is shed.  (level 1)  ",
+        "question": "When the generator …………  is too high, the galley is shed.  (level 1)",
         "plans": [
             {
                 "value": "load"
@@ -9972,66 +9972,66 @@ export default  [
                 "value": "peak"
             },
             {
-                "value": "range  "
+                "value": "range"
             }
         ],
-        "answer": "answer",
+        "answer": "load",
         "selectedAnswer": null
     },
     {
         "id": 588,
-        "question": "107. Any …………  in voltage is detected by the voltmeter  (level 1)  ",
+        "question": "Any …………  in voltage is detected by the voltmeter  (level 1)",
         "plans": [
             {
-                "value": "Any …………  in voltage is detected by the voltmeter  (level 1)  "
+                "value": "Drop"
             },
             {
                 "value": "drops"
             },
             {
-                "value": "dropping  "
+                "value": "dropping"
             }
         ],
-        "answer": "answer",
+        "answer": "Drop",
         "selectedAnswer": null
     },
     {
         "id": 589,
-        "question": "108. One foot equals ______  meters  (level 1)  ",
+        "question": "One foot equals ______  meters  (level 1)",
         "plans": [
             {
-                "value": "Ngân.3068"
+                "value": "0.3068"
             },
             {
-                "value": "Ngân.3058"
+                "value": "0.3058"
             },
             {
-                "value": "Ngân.3048  "
+                "value": "0.3048"
             }
         ],
-        "answer": "answer",
+        "answer": "0.3048",
         "selectedAnswer": null
     },
     {
         "id": 590,
-        "question": "109. One yard equals _______meters  (level 1)  ",
+        "question": "One yard equals _______meters  (level 1)",
         "plans": [
             {
-                "value": "Ngân.914"
+                "value": "0.914"
             },
             {
-                "value": "Ngân.814"
+                "value": "0.814"
             },
             {
-                "value": "Ngân.714  "
+                "value": "0.714"
             }
         ],
-        "answer": "answer",
+        "answer": "0.914",
         "selectedAnswer": null
     },
     {
         "id": 591,
-        "question": "110. Wiring is ……………  in critical areas.  (level 1)  ",
+        "question": "Wiring is ……………  in critical areas.  (level 1)",
         "plans": [
             {
                 "value": "soldered"
@@ -10040,49 +10040,49 @@ export default  [
                 "value": "shielded"
             },
             {
-                "value": "swaged  "
+                "value": "swaged"
             }
         ],
-        "answer": "answer",
+        "answer": "shielded",
         "selectedAnswer": null
     },
     {
         "id": 592,
-        "question": "111. One nautical mile equals ____meters  (level 1)  ",
+        "question": "One nautical mile equals ____meters  (level 1)",
         "plans": [
             {
-                "value": "Ngân,853"
+                "value": "1,853"
             },
             {
-                "value": "Ngân,835"
+                "value": "1,835"
             },
             {
-                "value": "Ngân,385  "
+                "value": "1,385"
             }
         ],
-        "answer": "answer",
+        "answer": "1,853",
         "selectedAnswer": null
     },
     {
         "id": 593,
-        "question": "112. One US gallon  is about____ liters  (level 1)  ",
+        "question": "One US gallon  is about____ liters  (level 1)",
         "plans": [
             {
-                "value": "Ngân.875"
+                "value": "3.875"
             },
             {
-                "value": "Ngân.587"
+                "value": "3.587"
             },
             {
-                "value": "Ngân.785  "
+                "value": "3.785"
             }
         ],
-        "answer": "answer",
+        "answer": "3.785",
         "selectedAnswer": null
     },
     {
         "id": 594,
-        "question": "113. Small bend in wire  (level 1)  ",
+        "question": "Small bend in wire  (level 1)",
         "plans": [
             {
                 "value": "twist"
@@ -10091,15 +10091,15 @@ export default  [
                 "value": "wind"
             },
             {
-                "value": "kink "
+                "value": "kink"
             }
         ],
-        "answer": "answer",
+        "answer": "kink",
         "selectedAnswer": null
     },
     {
         "id": 595,
-        "question": "114. How can you read “3/4”.  (level 1)  ",
+        "question": "How can you read “3/4”.  (level 1)",
         "plans": [
             {
                 "value": "three fouth"
@@ -10108,15 +10108,15 @@ export default  [
                 "value": "third fourths"
             },
             {
-                "value": "three fourths  "
+                "value": "three fourths"
             }
         ],
-        "answer": "answer",
+        "answer": "three fourths",
         "selectedAnswer": null
     },
     {
         "id": 596,
-        "question": "116. How can you write “20th” (level 1)  ",
+        "question": "How can you write “20th” (level 1)",
         "plans": [
             {
                 "value": "twentyth"
@@ -10125,15 +10125,15 @@ export default  [
                 "value": "twentith"
             },
             {
-                "value": "twentieth  "
+                "value": "twentieth"
             }
         ],
-        "answer": "answer",
+        "answer": "twentieth",
         "selectedAnswer": null
     },
     {
         "id": 597,
-        "question": "117. Preceding, the one before.  (level 1)  ",
+        "question": "Preceding, the one before.  (level 1)",
         "plans": [
             {
                 "value": "previous"
@@ -10142,15 +10142,15 @@ export default  [
                 "value": "following"
             },
             {
-                "value": "after "
+                "value": "after"
             }
         ],
-        "answer": "answer",
+        "answer": "previous",
         "selectedAnswer": null
     },
     {
         "id": 598,
-        "question": "118. The ……………… burn-off (trip fuel) was 600 kg more than planned.  (level 1)  ",
+        "question": "The ……………… burn-off (trip fuel) was 600 kg more than planned.  (level 1)",
         "plans": [
             {
                 "value": "actual"
@@ -10162,12 +10162,12 @@ export default  [
                 "value": "present  "
             }
         ],
-        "answer": "answer",
+        "answer": "actual",
         "selectedAnswer": null
     },
     {
         "id": 599,
-        "question": "119. There is a ………………. a mount of fuel under the engine.  (level 1)  ",
+        "question": "There is a ………………. a mount of fuel under the engine.  (level 1)",
         "plans": [
             {
                 "value": "large"
@@ -10176,15 +10176,15 @@ export default  [
                 "value": "wide"
             },
             {
-                "value": "many  "
+                "value": "many"
             }
         ],
-        "answer": "answer",
+        "answer": "large",
         "selectedAnswer": null
     },
     {
         "id": 600,
-        "question": "120. . …………... the oil level in the gearbox.  (level 1)  ",
+        "question": "…………... the oil level in the gearbox.(level 1)",
         "plans": [
             {
                 "value": "fill"
@@ -10193,15 +10193,15 @@ export default  [
                 "value": "replenish"
             },
             {
-                "value": "fill in "
+                "value": "fill in"
             }
         ],
-        "answer": "answer",
+        "answer": "replenish",
         "selectedAnswer": null
     },
     {
         "id": 601,
-        "question": "121. …………... the push -button and observe the lights come on.  (level 1)      ",
+        "question": "…………... the push -button and observe the lights come on.  (level 1)",
         "plans": [
             {
                 "value": "pull"
@@ -10210,15 +10210,15 @@ export default  [
                 "value": "release"
             },
             {
-                "value": "push  "
+                "value": "push"
             }
         ],
-        "answer": "answer",
+        "answer": "push",
         "selectedAnswer": null
     },
     {
         "id": 602,
-        "question": "122. Only use …………….. quality products.  (level 1)  ",
+        "question": "Only use …………….. quality products.  (level 1)",
         "plans": [
             {
                 "value": "important"
@@ -10227,15 +10227,15 @@ export default  [
                 "value": "significant"
             },
             {
-                "value": "good  "
+                "value": "good"
             }
         ],
-        "answer": "answer",
+        "answer": "good",
         "selectedAnswer": null
     },
     {
         "id": 603,
-        "question": "123. There is an ……………. , back -up supply.  (level 1)  ",
+        "question": "There is an ……………. , back -up supply.  (level 1)",
         "plans": [
             {
                 "value": "alternating"
@@ -10244,15 +10244,15 @@ export default  [
                 "value": "alternative"
             },
             {
-                "value": "oscillating  "
+                "value": "oscillating"
             }
         ],
-        "answer": "answer",
+        "answer": "alternative",
         "selectedAnswer": null
     },
     {
         "id": 604,
-        "question": "124. When machine is unserviceable  (level 1)  ",
+        "question": "When machine is unserviceable  (level 1)",
         "plans": [
             {
                 "value": "turnaround"
@@ -10261,15 +10261,15 @@ export default  [
                 "value": "downtime"
             },
             {
-                "value": "step-down  "
+                "value": "step-down"
             }
         ],
-        "answer": "answer",
+        "answer": "downtime",
         "selectedAnswer": null
     },
     {
         "id": 605,
-        "question": "125. Mark values on a curve  (level 1)  ",
+        "question": "Mark values on a curve  (level 1)",
         "plans": [
             {
                 "value": "layer"
@@ -10278,15 +10278,15 @@ export default  [
                 "value": "thread"
             },
             {
-                "value": "plot "
+                "value": "plot"
             }
         ],
-        "answer": "answer",
+        "answer": "plot",
         "selectedAnswer": null
     },
     {
         "id": 606,
-        "question": "126. Part of a circuit, et (level 1)  ",
+        "question": "Part of a circuit, et (level 1)",
         "plans": [
             {
                 "value": "stage"
@@ -10295,15 +10295,15 @@ export default  [
                 "value": "trip"
             },
             {
-                "value": "thread  "
+                "value": "thread"
             }
         ],
-        "answer": "answer",
+        "answer": "stage",
         "selectedAnswer": null
     },
     {
         "id": 607,
-        "question": "127. Remove dirt with cloth, et (level 1)  ",
+        "question": "Remove dirt with cloth, et (level 1)",
         "plans": [
             {
                 "value": "coat"
@@ -10312,15 +10312,15 @@ export default  [
                 "value": "wipe"
             },
             {
-                "value": "sweep  "
+                "value": "sweep"
             }
         ],
-        "answer": "answer",
+        "answer": "wipe",
         "selectedAnswer": null
     },
     {
         "id": 608,
-        "question": "128. The clock is ______ with a built -in battery.  (level 1)  ",
+        "question": "The clock is ______ with a built -in battery.  (level 1)",
         "plans": [
             {
                 "value": "provided"
@@ -10329,49 +10329,49 @@ export default  [
                 "value": "pointed"
             },
             {
-                "value": "performed  "
+                "value": "performed"
             }
         ],
-        "answer": "answer",
+        "answer": "provided",
         "selectedAnswer": null
     },
     {
         "id": 609,
-        "question": "129. A short push action on the CLR key _____the last character.  (level 1)  ",
+        "question": "A short push action on the CLR key _____the last character.  (level 1)",
         "plans": [
             {
-                "value": "A short push action on the CLR key _____the last character.  (level 1)  "
+                "value": " releases"
             },
             {
                 "value": "transmits"
             },
             {
-                "value": "CLR key _____the last character.  (level 1)  "
+                "value": "erases"
             }
         ],
-        "answer": "answer",
+        "answer": "erases",
         "selectedAnswer": null
     },
     {
         "id": 610,
-        "question": "130. After a certain time period, the relay _____and the cams keep their position.  ",
+        "question": "After a certain time period, the relay _____and the cams keep their position.(level 1)",
         "plans": [
             {
-                "value": "After a certain time period, the relay _____and the cams keep their position.  "
+                "value": "de-energizes"
             },
             {
-                "value": "is de -energized"
+                "value": "is de-energized"
             },
             {
-                "value": "is de -energized  "
+                "value": "is de-energized"
             }
         ],
-        "answer": "answer",
+        "answer": "is de-energized",
         "selectedAnswer": null
     },
     {
         "id": 611,
-        "question": "131. If the operator does not make any action for 10 s., the CMC, instead of ____ the ",
+        "question": "If the operator does not make any action for 10 s., the CMC, instead of ____ the current screen, will display the screen corresponding to the preceding level. (level 2)",
         "plans": [
             {
                 "value": "to display"
@@ -10380,15 +10380,15 @@ export default  [
                 "value": "display"
             },
             {
-                "value": "CMC, instead of ____ the "
+                "value": "displaying"
             }
         ],
-        "answer": "answer",
+        "answer": "displaying",
         "selectedAnswer": null
     },
     {
         "id": 612,
-        "question": "132. Do not touch the strobe lights for at least 5 minutes after operation. The strobe ",
+        "question": "Do not touch the strobe lights for at least 5 minutes after operation. The strobe light _____ still be hot. (level 1)",
         "plans": [
             {
                 "value": "must"
@@ -10397,15 +10397,15 @@ export default  [
                 "value": "shall"
             },
             {
-                "value": "will "
+                "value": "will"
             }
         ],
-        "answer": "answer",
+        "answer": "will",
         "selectedAnswer": null
     },
     {
         "id": 613,
-        "question": "133. The computer is active _____ the aircraft is supplied with electrical power.  (level ",
+        "question": "The computer is active _____ the aircraft is supplied with electrical power.  (level 1)",
         "plans": [
             {
                 "value": "until"
@@ -10414,15 +10414,15 @@ export default  [
                 "value": "as long as"
             },
             {
-                "value": "unless  "
+                "value": "unless"
             }
         ],
-        "answer": "answer",
+        "answer": "as long as",
         "selectedAnswer": null
     },
     {
         "id": 614,
-        "question": "134. The support of the seal  (level 1)  ",
+        "question": "The support of the seal  (level 1)",
         "plans": [
             {
                 "value": "Supporting seal"
@@ -10431,78 +10431,78 @@ export default  [
                 "value": "Support Seals"
             },
             {
-                "value": "Seal support  "
+                "value": "Seal support"
             }
         ],
-        "answer": "answer",
+        "answer": "Seal support",
         "selectedAnswer": null
     },
     {
         "id": 615,
-        "question": "135. Areas that are welded  (level 1)  ",
+        "question": "Areas that are welded  (level 1)",
         "plans": [
             {
-                "value": "Areas that are welded  (level 1)  "
+                "value": "Welding areas"
             },
             {
                 "value": "Area’s welding"
             },
             {
-                "value": "Welded areas  (level 1)  "
+                "value": "Welded areas"
             }
         ],
-        "answer": "answer",
+        "answer": "Welded areas",
         "selectedAnswer": null
     },
     {
         "id": 616,
-        "question": "136. Caution: Cut the tube slowly and smoothly to make sure that the end of the tube ",
+        "question": "Caution: Cut the tube slowly and smoothly to make sure that the end of the tube does not change its shape. Which of the following is correct? (level 2)",
         "plans": [
             {
-                "value": "Cut the tube carefully to keep its shape stay the same.  "
+                "value": "Cut the tube carefully to keep its shape stay the same."
             },
             {
-                "value": "Do not cut the tube fast to change its shape.  "
+                "value": "Do not cut the tube fast to change its shape."
             },
             {
-                "value": "Caution: Cut the tube slowly and smoothly to make sure that the end of the tube "
+                "value": "Make sure that the end of the tube is not broken."
             }
         ],
-        "answer": "answer",
+        "answer": "Cut the tube carefully to keep its shape stay the same.",
         "selectedAnswer": null
     },
     {
         "id": 617,
-        "question": "137. The transformer rectifier (TR), which is supplied by the 400Hz, 115/200 volt three ",
+        "question": "The transformer rectifier (TR), which is supplied by the 400Hz, 115/200 volt three phase network, has an output voltage of 28 VDC and a nominal amperage of 150A.The TR operates without ventilation up to mid-load. Beyond this point, the fan is put into operation automatically by an electronic module. Which of the following is correct? (level 2)",
         "plans": [
             {
-                "value": "The TR operates without ventilation up to mid -load. Beyond this point, the fan is put "
+                "value": "If the load is less than 50%, the fan will operate automatically."
             },
             {
-                "value": "Beyond this point, the fan is put "
+                "value": "Without ventilation, the TR can operate properly if the load is less than 50%."
             },
             {
-                "value": "C and a nominal amperage of 150"
+                "value": "The TR operates without ventilation beyond mid-load."
             }
         ],
-        "answer": "answer",
+        "answer": "Without ventilation, the TR can operate properly if the load is less than 50%.",
         "selectedAnswer": null
     },
     {
         "id": 618,
-        "question": "138. … Once the values from the EFIS control panels show on the Mode Control Panel ",
+        "question": "… Once the values from the EFIS control panels show on the Mode Control Panel (MCP), they stay on the MCP even if you change the EFIS control panel barometric minimums. The MCP rounds up to the next 10 feet. So if you select a barometric minimums value of 181 feet, the MCP shows 190 feet. Which of the following is correct? (level 2)",
         "plans": [
             {
-                "value": "The scale of MCP is 10 feet.  "
+                "value": "The scale of MCP is 10 feet."
             },
             {
-                "value": "The MCP will show whatever numbers selected in EFIS control panels.  "
+                "value": "The MCP will show whatever numbers selected in EFIS control panels."
             },
             {
-                "value": "Control Panel "
+                "value": "The barometric minimums value of MCP is 190 feet"
             }
         ],
-        "answer": "answer",
+        "answer": "The scale of MCP is 10 feet.",
         "selectedAnswer": null
     },
     {
