@@ -5725,7 +5725,7 @@ export default  [
                 "value": "more accurate"
             }
         ],
-        "answer": "answer",
+        "answer": "more accurate",
         "selectedAnswer": null
     },
     {
@@ -8453,16 +8453,16 @@ export default  [
         "question": "Remove the nipple from the RACSB valve drain port and set aside for use on the new RACSB valve. You must __________ the nipple. (level 2)",
         "plans": [
             {
-                "value": "ACSB valve drain port and set aside for use on the "
+                "value": "replace"
             },
             {
-                "value": "B valve drain port and set aside for use on the "
+                "value": "retain"
             },
             {
-                "value": "CSB valve drain port and set aside for use on the "
+                "value": "install"
             }
         ],
-        "answer": "answer",
+        "answer": "retain",
         "selectedAnswer": null
     },
     {
@@ -10507,41 +10507,41 @@ export default  [
     },
     {
         "id": 619,
-        "question": "139. The purpose of this telex is to inform all A320 operators that a number of A320 ",
+        "question": "The purpose of this telex is to inform all A320 operators that a number of A320 IDG magnetic pick-up (MPU) speed sensors were manufactured with the noise cancellation coil wired in reverse. In this configuration the function of the coil is no longer realized and in fact noise may be added in the MPU signal. Which of the following is correct? (level 2)",
         "plans": [
             {
-                "value": "A320 operators that a number of A320 "
+                "value": "The noise cancellation coil operates normally."
             },
             {
-                "value": "IDG magnetic pick -up (MPU) speed sensors were wired in reverse.  "
+                "value": "IDG magnetic pick -up (MPU) speed sensors were wired in reverse."
             },
             {
-                "value": "The noise cancellation coil is malfunctioned.  "
+                "value": "The noise cancellation coil is malfunctioned."
             }
         ],
-        "answer": "answer",
+        "answer": "The noise cancellation coil is malfunctioned.",
         "selectedAnswer": null
     },
     {
         "id": 620,
-        "question": "140. The product improvements which were introduced via service bulletins 1431 and ",
+        "question": "The product improvements which were introduced via service bulletins 1431 and 1471 are not demonstrating the reliability improvements which were anticipated. Which of the following is correct? (level 2)",
         "plans": [
             {
-                "value": "Service bulletins 1431 and 1471 are not demonstrating the reliability "
+                "value": "Service bulletins 1431 and 1471 are not demonstrating the reliability improvements."
             },
             {
-                "value": "The product improvements are not demonstrating the reliability improvements.  "
+                "value": "The product improvements are not demonstrating the reliability improvements."
             },
             {
-                "value": "The product improvements are demonstrating the reliability improvements.      "
+                "value": "The product improvements are demonstrating the reliability improvements."
             }
         ],
-        "answer": "answer",
+        "answer": "The product improvements are not demonstrating the reliability improvements.",
         "selectedAnswer": null
     },
     {
         "id": 621,
-        "question": "141. Caution.  Operation at minimum idle in icing conditions is permissible for extended ",
+        "question": "Caution.  Operation at minimum idle in icing conditions is permissible for extended periods. If the condition exceed 30 minutes or if significant engine vibration occurs; the engine should be accelerated to 70%N1 minimum for approximately 15 seconds duration prior to higher thrust operation. If there are large engine vibration in icing conditions, you must. (level 2)",
         "plans": [
             {
                 "value": "Stop the engine in 15s"
@@ -10553,12 +10553,12 @@ export default  [
                 "value": "Caution.  Operation at minimum idle in icing conditions is permissible for extended "
             }
         ],
-        "answer": "answer",
+        "answer": "Operate the engine at more than 70%N1 for 15s",
         "selectedAnswer": null
     },
     {
         "id": 622,
-        "question": "142. Caution. Use two wrenches to hold t he fittings when you torque the oil -in and oil -",
+        "question": "Caution. Use two wrenches to hold t he fittings when you torque the oil -in and oil - out lines. If not you can transmit to much torque to the IDG fittings and cause damage to the IDG bosses. 2 wrenches are necessary to tighten the ________ of the IDG.(level 2)",
         "plans": [
             {
                 "value": "Fastener"
@@ -10567,49 +10567,49 @@ export default  [
                 "value": "Oil lime attachment fittings"
             },
             {
-                "value": "Caution. Use two wrenches to hold t he fittings when you torque the oil -in and oil -"
+                "value": "Oil inlet and outlet line"
             }
         ],
-        "answer": "answer",
+        "answer": "Oil inlet and outlet line",
         "selectedAnswer": null
     },
     {
         "id": 623,
-        "question": "143. Beginning at the forward edge and working rearwards tighten the nuts in ",
+        "question": "Beginning at the forward edge and working rearwards tighten the nuts in small increments so that the clamping bars hold the fairing assembly fully engaged on the fairing supports. (level 2)",
         "plans": [
             {
                 "value": "Only partiall y tighten the nuts"
             },
             {
-                "value": "Beginning at the forward edge and working rearwards tighten the nuts in "
+                "value": "Tighten the nuts gradually"
             },
             {
-                "value": "Tighten the nuts at the forward and rear edges  "
+                "value": "Tighten the nuts at the forward and rear edges"
             }
         ],
-        "answer": "answer",
+        "answer": "Tighten the nuts gradually",
         "selectedAnswer": null
     },
     {
         "id": 624,
-        "question": "144. Put the removal tool core in the fully extended position. make sure that its ",
+        "question": "Put the removal tool core in the fully extended position. make sure that its inner face aligns with the bottom internal face of the outer tab lockwasher body. Align the _______ face of the tool with the ________ part of the lockwasher. (level 2)",
         "plans": [
             {
-                "value": "Align the _______ face of the tool with the ________ part of the lockwasher.  (level "
+                "value": "Inner/outer"
             },
             {
                 "value": "Inner/internal"
             },
             {
-                "value": "Extended/outer  "
+                "value": "Extended/outer"
             }
         ],
-        "answer": "answer",
+        "answer": "Inner/outer",
         "selectedAnswer": null
     },
     {
         "id": 625,
-        "question": "145. Most of the shroud box is made from composite material, but it has 5 ribs of ",
+        "question": "Most of the shroud box is made from composite material, but it has 5 ribs of aluminum alloy. the trailing edge of the shroud box has a honeycomb core and a rubbing strip made of Fabroid ________ the shroud box has a honeycomb core. (level 2)",
         "plans": [
             {
                 "value": "The front of"
@@ -10618,15 +10618,15 @@ export default  [
                 "value": "The rear of"
             },
             {
-                "value": "The top of  "
+                "value": "The top of"
             }
         ],
-        "answer": "answer",
+        "answer": "The rear of",
         "selectedAnswer": null
     },
     {
         "id": 626,
-        "question": "146. The fan cowls are made from epoxy skins that contain a nomex honeycomb ",
+        "question": "The fan cowls are made from epoxy skins that contain a nomex honeycomb core and copper screen. Lands provide an interface with the intake cowl at the forward end, and with the thrust reverser at the aft end. The rear edge of the fan cowls touches. (level 2)",
         "plans": [
             {
                 "value": "The exhaust nozzle"
@@ -10635,154 +10635,154 @@ export default  [
                 "value": "The turbine casing"
             },
             {
-                "value": "The thrust reverser  "
+                "value": "The thrust reverser"
             }
         ],
-        "answer": "answer",
+        "answer": "The thrust reverser",
         "selectedAnswer": null
     },
     {
         "id": 627,
-        "question": "147. The rotatin g artificial feel mechanism consists of two levers and is hinged on ",
+        "question": "The rotatin g artificial feel mechanism consists of two levers and is hinged on a shaft held by the rudder control frame, between which two parallel springs are installed. (level 2)",
         "plans": [
             {
-                "value": "Two springs are connected to the rudder control frame.  "
+                "value": "Two springs are connected to the rudder control frame."
             },
             {
-                "value": "The artificial feel mecha nism is installed on the rudder control frame.  "
+                "value": "The artificial feel mecha nism is installed on the rudder control frame."
             },
             {
-                "value": "Two springs are connected to two levers.  "
+                "value": "Two springs are connected to two levers."
             }
         ],
-        "answer": "answer",
+        "answer": "Two springs are connected to the rudder control frame.",
         "selectedAnswer": null
     },
     {
         "id": 628,
-        "question": "148. The stage 3 LPT nozzle assembly includes 18 nickel alloy segments of 7 ",
+        "question": "The stage 3 LPT nozzle assembly includes 18 nickel alloy segments of 7 vane airfoils each with integral inner stationary air seals. The third LPT stage nozzle assembly has ______ vanes. (level 2)",
         "plans": [
             {
-                "value": "Ngân"
+                "value": "126"
             },
             {
-                "value": "Ngân"
+                "value": "378"
             },
             {
-                "value": "Ngân "
+                "value": "18 "
             }
         ],
-        "answer": "answer",
+        "answer": "126",
         "selectedAnswer": null
     },
     {
         "id": 629,
-        "question": "149. A supporting structural member in any construction designed to withstand ",
+        "question": "A supporting structural member in any construction designed to withstand loads in both shear and bending. (level 2)",
         "plans": [
             {
-                "value": "A supporting structural member in any construction designed to withstand "
+                "value": "Stringer"
             },
             {
                 "value": "Beam"
             },
             {
-                "value": "Skin "
+                "value": "Skin"
             }
         ],
-        "answer": "answer",
+        "answer": "Beam",
         "selectedAnswer": null
     },
     {
         "id": 630,
-        "question": "150. A metal rod with a head, which screws into a nut  (level 1)   ",
+        "question": "A metal rod with a head, which screws into a nut  (level 1)   ",
         "plans": [
             {
-                "value": "A metal rod with a head, which screws into a nut  (level 1)   "
+                "value": "Nut"
             },
             {
                 "value": "Bolt"
             },
             {
-                "value": "Screw  "
+                "value": "Screw"
             }
         ],
-        "answer": "answer",
+        "answer": "Bolt",
         "selectedAnswer": null
     },
     {
         "id": 631,
-        "question": "151. A small wooden or metal bar fastened to something, on which ropes may ",
+        "question": "A small wooden or metal bar fastened to something, on which ropes may be fastened by winding (level 2)",
         "plans": [
             {
-                "value": "A small wooden or metal bar fastened to something, on which ropes may "
+                "value": "Bar"
             },
             {
-                "value": "Bar"
+                "value": "Beam"
             },
             {
                 "value": "Cleat"
             }
         ],
-        "answer": "answer",
+        "answer": "Cleat",
         "selectedAnswer": null
     },
     {
         "id": 632,
-        "question": "152. A lightweight but very strong man -made material used in aircraft ",
+        "question": "A lightweight but very strong man -made material used in aircraft manufacturing (level 2)",
         "plans": [
             {
-                "value": "A lightweight but very strong man -made material used in aircraft "
+                "value": "Sheet metal"
             },
             {
                 "value": "Honeycomb"
             },
             {
-                "value": "Composites  "
+                "value": "Composites"
             }
         ],
-        "answer": "answer",
+        "answer": "Composites",
         "selectedAnswer": null
     },
     {
         "id": 633,
-        "question": "153. A covering usually made up of hinged or removable panels  (level 2)  ",
+        "question": "A covering usually made up of hinged or removable panels  (level 2)  ",
         "plans": [
             {
-                "value": "A covering usually made up of hinged or removable panels  (level 2)  "
+                "value": "Door"
             },
             {
                 "value": "Bulkhead"
             },
             {
-                "value": "Cowl  "
+                "value": "Cowl"
             }
         ],
-        "answer": "answer",
+        "answer": "Cowl",
         "selectedAnswer": null
     },
     {
         "id": 634,
-        "question": "154. A partial fracture or complete break in the material with the most significant ",
+        "question": "A partial fracture or complete break in the material with the most significant cross-sectional area change (level 2)",
         "plans": [
             {
-                "value": "A partial fracture or complete break in the material with the most significant "
+                "value": "Nick"
             },
             {
                 "value": "Crack"
             },
             {
-                "value": "Crack"
+                "value": "Dent"
             }
         ],
-        "answer": "answer",
+        "answer": "Crack",
         "selectedAnswer": null
     },
     {
         "id": 635,
-        "question": "155. A transverse beam  (level 2) ",
+        "question": "A transverse beam  (level 2)",
         "plans": [
             {
-                "value": "A transverse beam  (level 2) "
+                "value": "Longeron"
             },
             {
                 "value": "Stringer"
@@ -10791,29 +10791,29 @@ export default  [
                 "value": "Crossbeam"
             }
         ],
-        "answer": "answer",
+        "answer": "Crossbeam",
         "selectedAnswer": null
     },
     {
         "id": 636,
-        "question": "156. A damage area which is depressed with respect to its normal contour. ",
+        "question": "A damage area which is depressed with respect to its normal contour. There is no cross-sectional area change in the material; area boundaries are smooth. (level 2)",
         "plans": [
             {
-                "value": "A damage area which is depressed with respect to its normal contour. "
+                "value": "Scratch"
             },
             {
                 "value": "Dent"
             },
             {
-                "value": "Gouge  "
+                "value": "Gouge"
             }
         ],
-        "answer": "answer",
+        "answer": "Dent",
         "selectedAnswer": null
     },
     {
         "id": 637,
-        "question": "157. The  portion  of  a  floor beam  that  lies between the  flanges  of a  spar,  ",
+        "question": "The  portion  of  a  floor beam  that  lies between the  flanges  of a  spar,  rib, or channel section. Furnishes the strength necessary for longitudinal shear loads. (level 2)",
         "plans": [
             {
                 "value": "Crossbeam"
@@ -10822,542 +10822,15 @@ export default  [
                 "value": "Beam"
             },
             {
-                "value": "Crossbeam"
+                "value": "Floorweb"
             }
         ],
-        "answer": "answer",
+        "answer": "Floorweb",
         "selectedAnswer": null
     },
     {
         "id": 638,
-        "question": "158. A device or system is designed to protect an object from overheating by ",
-        "plans": [
-            {
-                "value": "A device or system is designed to protect an object from overheating by "
-            },
-            {
-                "value": "Heatshield"
-            },
-            {
-                "value": "Firewall  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 639,
-        "question": "159. An opening in which something is missing.  (level 2)   ",
-        "plans": [
-            {
-                "value": "An opening in which something is missing.  (level 2)   "
-            },
-            {
-                "value": "Nick"
-            },
-            {
-                "value": "Depth  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 640,
-        "question": "160. A material made  up of hexagonal -shaped cells. Constructed of thin metal, ",
-        "plans": [
-            {
-                "value": "A material made  up of hexagonal -shaped cells. Constructed of thin metal, "
-            },
-            {
-                "value": "Honeycomb"
-            },
-            {
-                "value": "Constructed of thin metal, "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 641,
-        "question": "161. Something that an object s tands on or is attached to for support  (level ",
-        "plans": [
-            {
-                "value": "Mount"
-            },
-            {
-                "value": "Pylon"
-            },
-            {
-                "value": "Strut  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 642,
-        "question": "162. An internally threaded collar used to screw onto bolts or screws to form a ",
-        "plans": [
-            {
-                "value": "An internally threaded collar used to screw onto bolts or screws to form a "
-            },
-            {
-                "value": "Bolt"
-            },
-            {
-                "value": "Screw  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 643,
-        "question": "163. A flat, often rectangular piece of the skin of the aircraft  (level 1)  ",
-        "plans": [
-            {
-                "value": "A flat, often rectangular piece of the skin of the aircraft  (level 1)  "
-            },
-            {
-                "value": "Skin"
-            },
-            {
-                "value": "Door  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 644,
-        "question": "164. Each of the two metal bars that form the track that somethings run on",
-        "plans": [
-            {
-                "value": "Groove"
-            },
-            {
-                "value": "Rail"
-            },
-            {
-                "value": "Beam  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 645,
-        "question": "165. A type of metal bolt or pin with a head on one end, inserted through one of ",
-        "plans": [
-            {
-                "value": "A type of metal bolt or pin with a head on one end, inserted through one of "
-            },
-            {
-                "value": "Screw"
-            },
-            {
-                "value": "Bolt "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 646,
-        "question": "166. A type of threaded connector used to fix things together by rotating it  (level ",
-        "plans": [
-            {
-                "value": "A type of threaded connector used to fix things together by rotating it  (level "
-            },
-            {
-                "value": "Screw"
-            },
-            {
-                "value": "Bolt "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 647,
-        "question": "167. A device or component used to take up space between two objects.  (level ",
-        "plans": [
-            {
-                "value": "A device or component used to take up space between two objects.  (level "
-            },
-            {
-                "value": "Duppler"
-            },
-            {
-                "value": "Spacer  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 648,
-        "question": "168. A three degrees of freedom  joint, also known as a ball -and-socket joint, ",
-        "plans": [
-            {
-                "value": "A three degrees of freedom  joint, also known as a ball -and-socket joint, "
-            },
-            {
-                "value": "Prismatic joints"
-            },
-            {
-                "value": "Spherical joint  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 649,
-        "question": "169. A thin metal or wood strip running the length of the fuselage to fill in the ",
-        "plans": [
-            {
-                "value": "A thin metal or wood strip running the length of the fuselage to fill in the "
-            },
-            {
-                "value": "Stringer"
-            },
-            {
-                "value": "Bulkhead  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 650,
-        "question": "170. The stub wing assembly through which thrust loads are transmitted from a ",
-        "plans": [
-            {
-                "value": "Strut"
-            },
-            {
-                "value": "Mount"
-            },
-            {
-                "value": "Pylon  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 651,
-        "question": "171. A long, straight piece of metal that something is moving in or along  (level ",
-        "plans": [
-            {
-                "value": "A long, straight piece of metal that something is moving in or along  (level "
-            },
-            {
-                "value": "Longeron"
-            },
-            {
-                "value": "Track  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 652,
-        "question": "172. A small flat ring made of rubber, metal or plastic placed between two ",
-        "plans": [
-            {
-                "value": "A small flat ring made of rubber, metal or plastic placed between two "
-            },
-            {
-                "value": "Washer"
-            },
-            {
-                "value": "Nut "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 653,
-        "question": "173. It occurs  if the physical, chemical or mechanical forces that hold the bond ",
-        "plans": [
-            {
-                "value": "Delamination"
-            },
-            {
-                "value": "Debonding"
-            },
-            {
-                "value": "Bonding  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 654,
-        "question": "174. A small loss of material, due to a knock etc., at the edge of a member or ",
-        "plans": [
-            {
-                "value": "A small loss of material, due to a knock etc., at the edge of a member or "
-            },
-            {
-                "value": "Scratch"
-            },
-            {
-                "value": "Gouge      "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 655,
-        "question": "175. A line of damage of any depth and length in the material and results in a ",
-        "plans": [
-            {
-                "value": "A line of damage of any depth and length in the material and results in a "
-            },
-            {
-                "value": "Scratch"
-            },
-            {
-                "value": "Gouge  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 656,
-        "question": "176. A damage area of any size which results in a cross -sectional area change. ",
-        "plans": [
-            {
-                "value": "A damage area of any size which results in a cross -sectional area change. "
-            },
-            {
-                "value": "Scratch"
-            },
-            {
-                "value": "Gouge  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 657,
-        "question": "177. A damage area of any size which results in a cross -sectional area change ",
-        "plans": [
-            {
-                "value": "A damage area of any size which results in a cross -sectional area change "
-            },
-            {
-                "value": "Abrasion"
-            },
-            {
-                "value": "Corrosion"
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 658,
-        "question": "178. A damage area of any size where accumulation of scratches, nicks, chips, ",
-        "plans": [
-            {
-                "value": "A damage area of any size where accumulation of scratches, nicks, chips, "
-            },
-            {
-                "value": "Distortion"
-            },
-            {
-                "value": "Crazing  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 659,
-        "question": "179. Any twisti ng, bending or permanent strain which results in misalignment or ",
-        "plans": [
-            {
-                "value": "Any twisti ng, bending or permanent strain which results in misalignment or "
-            },
-            {
-                "value": "Distortion"
-            },
-            {
-                "value": "Crease"
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 660,
-        "question": "180. The destruction of metal by chemical or electrochemical action  (level ",
-        "plans": [
-            {
-                "value": "Abrasion"
-            },
-            {
-                "value": "Crazing"
-            },
-            {
-                "value": "Crazing"
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 661,
-        "question": "181. A damage area which is depressed or folded back upon itself in such a ",
-        "plans": [
-            {
-                "value": "A damage area which is depressed or folded back upon itself in such a "
-            },
-            {
-                "value": "Crease"
-            },
-            {
-                "value": "Crease"
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 662,
-        "question": "182. A mesh of minute hairline surface cracks  (level 2)   ",
-        "plans": [
-            {
-                "value": "A mesh of minute hairline surface cracks  (level 2)   "
-            },
-            {
-                "value": "Mark"
-            },
-            {
-                "value": "Crazing"
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 663,
-        "question": "183. Is comparable with a dent. The damage area shows a swell. There is no ",
-        "plans": [
-            {
-                "value": "Abrasion"
-            },
-            {
-                "value": "Ding"
-            },
-            {
-                "value": "Gouge  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 664,
-        "question": "184. To attach chemically  (level 2)  ",
-        "plans": [
-            {
-                "value": "Swell (v.)   "
-            },
-            {
-                "value": "BOND (v.)   "
-            },
-            {
-                "value": "Cure (v.)  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 665,
-        "question": "185. Rough edge  (level 2)  ",
-        "plans": [
-            {
-                "value": "Burr"
-            },
-            {
-                "value": "Burr"
-            },
-            {
-                "value": "Smooth  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 666,
-        "question": "186. Distance from the surface down  (level 1)  ",
-        "plans": [
-            {
-                "value": "Length"
-            },
-            {
-                "value": "Width"
-            },
-            {
-                "value": "Depth  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 667,
-        "question": "187. Part that makes stronger  (level 2)  ",
-        "plans": [
-            {
-                "value": "Washer"
-            },
-            {
-                "value": "Splice"
-            },
-            {
-                "value": "Doupler  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 668,
-        "question": "188. To be more than a particular number or amount  (level 1)       ",
-        "plans": [
-            {
-                "value": "Fold (v.)   "
-            },
-            {
-                "value": "Exceed (v.)   "
-            },
-            {
-                "value": "Swell (v.)  "
-            }
-        ],
-        "answer": "answer",
-        "selectedAnswer": null
-    },
-    {
-        "id": 669,
-        "question": "189. Structure that resists fire  (level 2)  ",
+        "question": "A device or system is designed to protect an object from overheating by dissipating, reflecting, absorbing heat, or simply gradually burn and fall away from the aircraft, pulling the excess heat with it (level 2)",
         "plans": [
             {
                 "value": "Fireshield"
@@ -11366,134 +10839,202 @@ export default  [
                 "value": "Heatshield"
             },
             {
-                "value": "Bulkhead  "
+                "value": "Firewall"
             }
         ],
-        "answer": "answer",
+        "answer": "Heatshield",
         "selectedAnswer": null
     },
     {
-        "id": 670,
-        "question": "190. One surface on another (remember: “lap joint”)  (level 2)  ",
+        "id": 639,
+        "question": "An opening in which something is missing.  (level 2)",
         "plans": [
             {
-                "value": "Splice"
+                "value": "Hole"
             },
             {
-                "value": "Overlap"
+                "value": "Nick"
             },
             {
-                "value": "Scuffing  "
+                "value": "Depth"
             }
         ],
-        "answer": "answer",
+        "answer": "Hole",
         "selectedAnswer": null
     },
     {
-        "id": 671,
-        "question": "191. Surface damage caused by impacts and rubbing   (level 2)  ",
+        "id": 640,
+        "question": "A material made  up of hexagonal -shaped cells. Constructed of thin metal, paper, or plastic and used as a core material for sandwich structures, Named after a bees honeycomb because of its appearance.(level 2)",
         "plans": [
             {
-                "value": "Burr"
+                "value": "Composites"
             },
             {
-                "value": "Burr"
+                "value": "Honeycomb"
             },
             {
-                "value": "Crazing"
+                "value": "Sheet metal"
             }
         ],
-        "answer": "answer",
+        "answer": "Honeycomb",
         "selectedAnswer": null
     },
     {
-        "id": 672,
-        "question": "192. Part used to attach two other parts  (level 2)  ",
+        "id": 641,
+        "question": "Something that an object s tands on or is attached to for support  (level 2)",
         "plans": [
             {
-                "value": "Splice"
+                "value": "Mount"
             },
             {
-                "value": "Overlap"
+                "value": "Pylon"
             },
             {
-                "value": "Doupler  "
+                "value": "Strut"
             }
         ],
-        "answer": "answer",
+        "answer": "Mount",
         "selectedAnswer": null
     },
     {
-        "id": 673,
-        "question": "193. To increase in size, convex distortion  (level 2)  ",
+        "id": 642,
+        "question": "An internally threaded collar used to screw onto bolts or screws to form a complete fastening device. (level 2)",
         "plans": [
             {
-                "value": "Exceed (v.)   "
+                "value": "Nut"
             },
             {
-                "value": "Swell (v.)   "
+                "value": "Bolt"
             },
             {
-                "value": "Fold (v.)  "
+                "value": "Screw"
             }
         ],
-        "answer": "answer",
+        "answer": "Nut",
         "selectedAnswer": null
     },
     {
-        "id": 674,
-        "question": "194. Torsion, turning  (level 2)  ",
+        "id": 643,
+        "question": "A flat, often rectangular piece of the skin of the aircraft  (level 1)",
         "plans": [
             {
-                "value": "Twisting"
+                "value": "Panels"
             },
             {
-                "value": "Debonding"
+                "value": "Skin"
             },
             {
-                "value": "Crazing  "
+                "value": "Door"
             }
         ],
-        "answer": "answer",
+        "answer": "Panels",
         "selectedAnswer": null
     },
     {
-        "id": 675,
-        "question": "195. A three degrees of freedom  joint, also known as a ball -and-socket joint, ",
+        "id": 644,
+        "question": "Each of the two metal bars that form the track that somethings run on (level 2)",
         "plans": [
             {
-                "value": "A three degrees of freedom  joint, also known as a ball -and-socket joint, "
+                "value": "Groove"
+            },
+            {
+                "value": "Rail"
+            },
+            {
+                "value": "Beam"
+            }
+        ],
+        "answer": "Rail",
+        "selectedAnswer": null
+    },
+    {
+        "id": 645,
+        "question": "A type of metal bolt or pin with a head on one end, inserted through one of the aligned holes in the parts to be joined and then compressed on the plain end to form a second head (level 2)",
+        "plans": [
+            {
+                "value": "Rivet"
+            },
+            {
+                "value": "Screw"
+            },
+            {
+                "value": "Bolt"
+            }
+        ],
+        "answer": "Rivet",
+        "selectedAnswer": null
+    },
+    {
+        "id": 646,
+        "question": "A type of threaded connector used to fix things together by rotating it  (level 1)",
+        "plans": [
+            {
+                "value": "Rivet"
+            },
+            {
+                "value": "Screw"
+            },
+            {
+                "value": "Bolt"
+            }
+        ],
+        "answer": "Screw",
+        "selectedAnswer": null
+    },
+    {
+        "id": 647,
+        "question": "A device or component used to take up space between two objects.  (level 1)",
+        "plans": [
+            {
+                "value": "Nut"
+            },
+            {
+                "value": "Duppler"
+            },
+            {
+                "value": "Spacer"
+            }
+        ],
+        "answer": "Spacer",
+        "selectedAnswer": null
+    },
+    {
+        "id": 648,
+        "question": "A three degrees of freedom  joint, also known as a ball -and-socket joint, allows three relative rotations between the two connected segments. (level 2)",
+        "plans": [
+            {
+                "value": "Revolute joints"
             },
             {
                 "value": "Prismatic joints"
             },
             {
-                "value": "Spherical joint      "
+                "value": "Spherical joint"
             }
         ],
-        "answer": "answer",
+        "answer": "Spherical joint",
         "selectedAnswer": null
     },
     {
-        "id": 676,
-        "question": "196. A thin metal or wood strip running the lengt h of the fuselage to fill in the ",
+        "id": 649,
+        "question": "A thin metal or wood strip running the length of the fuselage to fill in the shape of the formers. (level 2)",
         "plans": [
             {
-                "value": "A thin metal or wood strip running the lengt h of the fuselage to fill in the "
+                "value": "Longeron"
             },
             {
                 "value": "Stringer"
             },
             {
-                "value": "Bulkhead  "
+                "value": "Bulkhead"
             }
         ],
-        "answer": "answer",
+        "answer": "Stringer",
         "selectedAnswer": null
     },
     {
-        "id": 677,
-        "question": "197. The stub wing assembly through which thrust loads are transmitted from a ",
+        "id": 650,
+        "question": "The stub wing assembly through which thrust loads are transmitted from a pod-mounted turbine engine into the fuselage. (level 2)",
         "plans": [
             {
                 "value": "Strut"
@@ -11502,32 +11043,219 @@ export default  [
                 "value": "Mount"
             },
             {
-                "value": "Pylon  "
+                "value": "Pylon"
             }
         ],
-        "answer": "answer",
+        "answer": "Strut",
         "selectedAnswer": null
     },
     {
-        "id": 678,
-        "question": "198. A long, straight piece of metal that something is moving in or along  (level ",
+        "id": 651,
+        "question": "A long, straight piece of metal that something is moving in or along  (level 2)",
         "plans": [
             {
-                "value": "A long, straight piece of metal that something is moving in or along  (level "
+                "value": "Groove"
             },
             {
                 "value": "Longeron"
             },
             {
-                "value": "Track  "
+                "value": "Track"
             }
         ],
-        "answer": "answer",
+        "answer": "Track",
         "selectedAnswer": null
     },
     {
-        "id": 679,
-        "question": "199. Is comparable with a dent. The damage area shows a swell. There is no ",
+        "id": 652,
+        "question": "A small flat ring made of rubber, metal or plastic placed between two surfaces, for example under a nut to make a connection tight (level 1)",
+        "plans": [
+            {
+                "value": "Spacer"
+            },
+            {
+                "value": "Washer"
+            },
+            {
+                "value": "Nut"
+            }
+        ],
+        "answer": "Washer",
+        "selectedAnswer": null
+    },
+    {
+        "id": 653,
+        "question": "It occurs  if the physical, chemical or mechanical forces that hold the bond together are broken, perhaps by a force or environmental attack. (level 2)",
+        "plans": [
+            {
+                "value": "Delamination"
+            },
+            {
+                "value": "Debonding"
+            },
+            {
+                "value": "Bonding"
+            }
+        ],
+        "answer": "Debonding",
+        "selectedAnswer": null
+    },
+    {
+        "id": 654,
+        "question": "A small loss of material, due to a knock etc., at the edge of a member or skin (level 2)",
+        "plans": [
+            {
+                "value": "Nick"
+            },
+            {
+                "value": "Scratch"
+            },
+            {
+                "value": "Gouge"
+            }
+        ],
+        "answer": "Nick",
+        "selectedAnswer": null
+    },
+    {
+        "id": 655,
+        "question": "A line of damage of any depth and length in the material and results in a cross-sectional area change. It is caused by contact with a sharp object (level 2)",
+        "plans": [
+            {
+                "value": "Nick"
+            },
+            {
+                "value": "Scratch"
+            },
+            {
+                "value": "Gouge"
+            }
+        ],
+        "answer": "Scratch",
+        "selectedAnswer": null
+    },
+    {
+        "id": 656,
+        "question": "A damage area of any size which results in a cross -sectional area change. It is usually caused by contact with a relatively sharp object which produces a continuous, sharp or smooth channel-like groove in the material",
+        "plans": [
+            {
+                "value": "Nick"
+            },
+            {
+                "value": "Scratch"
+            },
+            {
+                "value": "Gouge"
+            }
+        ],
+        "answer": "Gouge",
+        "selectedAnswer": null
+    },
+    {
+        "id": 657,
+        "question": "A damage area of any size which results in a cross -sectional area change due to scuffing, rubbing, scraping or other surface erosion; it is usually rough and irregular. (level 2)",
+        "plans": [
+            {
+                "value": "Distortion"
+            },
+            {
+                "value": "Abrasion"
+            },
+            {
+                "value": "Corrosion"
+            }
+        ],
+        "answer": "Abrasion",
+        "selectedAnswer": null
+    },
+    {
+        "id": 658,
+        "question": "A damage area of any size where accumulation of scratches, nicks, chips, burrs or gouges etc is present in such a way that the damage must be treated as an area and not as a series of individual scratches, gouges, etc. (level 2)",
+        "plans": [
+            {
+                "value": "Mark"
+            },
+            {
+                "value": "Distortion"
+            },
+            {
+                "value": "Crazing"
+            }
+        ],
+        "answer": "Mark",
+        "selectedAnswer": null
+    },
+    {
+        "id": 659,
+        "question": "Any twisti ng, bending or permanent strain which results in misalignment or change of shape. May be caused by impact from a foreign object, but usually results from vibration or movement of adjacent attached components (level 2)",
+        "plans": [
+            {
+                "value": "Crease"
+            },
+            {
+                "value": "Distortion"
+            },
+            {
+                "value": "Crease"
+            }
+        ],
+        "answer": "Distortion",
+        "selectedAnswer": null
+    },
+    {
+        "id": 660,
+        "question": "The destruction of metal by chemical or electrochemical action  (level 2)",
+        "plans": [
+            {
+                "value": "Abrasion"
+            },
+            {
+                "value": "Crazing"
+            },
+            {
+                "value": "Corrosion"
+            }
+        ],
+        "answer": "Corrosion",
+        "selectedAnswer": null
+    },
+    {
+        "id": 661,
+        "question": "A damage area which is depressed or folded back upon itself in such a manner that its boundaries are sharp or well defined lines or ridges (level 2)",
+        "plans": [
+            {
+                "value": "Abrasion"
+            },
+            {
+                "value": "Crease"
+            },
+            {
+                "value": "Ding"
+            }
+        ],
+        "answer": "Crease",
+        "selectedAnswer": null
+    },
+    {
+        "id": 662,
+        "question": "A mesh of minute hairline surface cracks  (level 2)   ",
+        "plans": [
+            {
+                "value": "Gouge"
+            },
+            {
+                "value": "Mark"
+            },
+            {
+                "value": "Crazing"
+            }
+        ],
+        "answer": "Crazing",
+        "selectedAnswer": null
+    },
+    {
+        "id": 663,
+        "question": "Is comparable with a dent. The damage area shows a swell. There is no cross-sectional area change in the material; area boundaries are smooth(level 2)",
         "plans": [
             {
                 "value": "Abrasion"
@@ -11536,49 +11264,321 @@ export default  [
                 "value": "Ding"
             },
             {
-                "value": "Gouge  "
+                "value": "Gouge"
             }
         ],
-        "answer": "answer",
+        "answer": "Ding",
+        "selectedAnswer": null
+    },
+    {
+        "id": 664,
+        "question": "To attach chemically  (level 2)",
+        "plans": [
+            {
+                "value": "Swell (v.)"
+            },
+            {
+                "value": "BOND (v.)"
+            },
+            {
+                "value": "Cure (v.)"
+            }
+        ],
+        "answer": "BOND (v.)",
+        "selectedAnswer": null
+    },
+    {
+        "id": 665,
+        "question": "Rough edge  (level 2)",
+        "plans": [
+            {
+                "value": "Burr"
+            },
+            {
+                "value": "Scuffing"
+            },
+            {
+                "value": "Smooth"
+            }
+        ],
+        "answer": "Burr",
+        "selectedAnswer": null
+    },
+    {
+        "id": 666,
+        "question": "Distance from the surface down  (level 1)",
+        "plans": [
+            {
+                "value": "Length"
+            },
+            {
+                "value": "Width"
+            },
+            {
+                "value": "Depth"
+            }
+        ],
+        "answer": "Depth",
+        "selectedAnswer": null
+    },
+    {
+        "id": 667,
+        "question": "Part that makes stronger(level 2)",
+        "plans": [
+            {
+                "value": "Washer"
+            },
+            {
+                "value": "Splice"
+            },
+            {
+                "value": "Doupler"
+            }
+        ],
+        "answer": "Doupler",
+        "selectedAnswer": null
+    },
+    {
+        "id": 668,
+        "question": "To be more than a particular number or amount(level 1)",
+        "plans": [
+            {
+                "value": "Fold (v.)"
+            },
+            {
+                "value": "Exceed (v.)"
+            },
+            {
+                "value": "Swell (v.)"
+            }
+        ],
+        "answer": "Exceed (v.)",
+        "selectedAnswer": null
+    },
+    {
+        "id": 669,
+        "question": "Structure that resists fire(level 2)",
+        "plans": [
+            {
+                "value": "Fireshield"
+            },
+            {
+                "value": "Heatshield"
+            },
+            {
+                "value": "Bulkhead"
+            }
+        ],
+        "answer": "Fireshield",
+        "selectedAnswer": null
+    },
+    {
+        "id": 670,
+        "question": "One surface on another (remember: “lap joint”)(level 2)",
+        "plans": [
+            {
+                "value": "Splice"
+            },
+            {
+                "value": "Overlap"
+            },
+            {
+                "value": "Scuffing"
+            }
+        ],
+        "answer": "Overlap",
+        "selectedAnswer": null
+    },
+    {
+        "id": 671,
+        "question": "Surface damage caused by impacts and rubbing(level 2)",
+        "plans": [
+            {
+                "value": "Burr"
+            },
+            {
+                "value": "Scuffing"
+            },
+            {
+                "value": "Crazing"
+            }
+        ],
+        "answer": "Scuffing",
+        "selectedAnswer": null
+    },
+    {
+        "id": 672,
+        "question": "Part used to attach two other parts  (level 2)",
+        "plans": [
+            {
+                "value": "Splice"
+            },
+            {
+                "value": "Overlap"
+            },
+            {
+                "value": "Doupler"
+            }
+        ],
+        "answer": "Splice",
+        "selectedAnswer": null
+    },
+    {
+        "id": 673,
+        "question": "To increase in size, convex distortion  (level 2)",
+        "plans": [
+            {
+                "value": "Exceed (v.)"
+            },
+            {
+                "value": "Swell (v.)"
+            },
+            {
+                "value": "Fold (v.)"
+            }
+        ],
+        "answer": "Swell (v.)",
+        "selectedAnswer": null
+    },
+    {
+        "id": 674,
+        "question": "Torsion, turning(level 2)",
+        "plans": [
+            {
+                "value": "Twisting"
+            },
+            {
+                "value": "Debonding"
+            },
+            {
+                "value": "Crazing"
+            }
+        ],
+        "answer": "Twisting",
+        "selectedAnswer": null
+    },
+    {
+        "id": 675,
+        "question": "A three degrees of freedom  joint, also known as a ball -and-socket joint, allows three relative rotations between the two connected segments. (level 2)",
+        "plans": [
+            {
+                "value": "Revolute joints"
+            },
+            {
+                "value": "Prismatic joints"
+            },
+            {
+                "value": "Spherical joint"
+            }
+        ],
+        "answer": "Spherical joint",
+        "selectedAnswer": null
+    },
+    {
+        "id": 676,
+        "question": "A thin metal or wood strip running the lengt h of the fuselage to fill in the shape of the formers. (level 2)",
+        "plans": [
+            {
+                "value": "Longeron"
+            },
+            {
+                "value": "Stringer"
+            },
+            {
+                "value": "Bulkhead"
+            }
+        ],
+        "answer": "Stringer",
+        "selectedAnswer": null
+    },
+    {
+        "id": 677,
+        "question": "The stub wing assembly through which thrust loads are transmitted from a pod-mounted turbine engine into the fuselage. (level 2)",
+        "plans": [
+            {
+                "value": "Strut"
+            },
+            {
+                "value": "Mount"
+            },
+            {
+                "value": "Pylon"
+            }
+        ],
+        "answer": "Strut",
+        "selectedAnswer": null
+    },
+    {
+        "id": 678,
+        "question": "A long, straight piece of metal that something is moving in or along  (level 2)",
+        "plans": [
+            {
+                "value": "Groove"
+            },
+            {
+                "value": "Longeron"
+            },
+            {
+                "value": "Track"
+            }
+        ],
+        "answer": "Track",
+        "selectedAnswer": null
+    },
+    {
+        "id": 679,
+        "question": "Is comparable with a dent. The damage area shows a swell. There is no cross-sectional area change in the material; area boundaries are smooth(level 2)",
+        "plans": [
+            {
+                "value": "Abrasion"
+            },
+            {
+                "value": "Ding"
+            },
+            {
+                "value": "Gouge"
+            }
+        ],
+        "answer": "Ding",
         "selectedAnswer": null
     },
     {
         "id": 680,
-        "question": "200. An encoder is …....... that detects rotation angle or linear displacement",
+        "question": "200. An encoder is …....... that detects rotation angle or linear displacement (level 2)",
         "plans": [
             {
-                "value": "An encoder is …....... that detects rotation angle or linear displacement"
+                "value": "a switch"
             },
             {
                 "value": "a sensor"
             },
             {
-                "value": "a receiver  "
+                "value": "a receiver"
             }
         ],
-        "answer": "answer",
+        "answer": "a sensor",
         "selectedAnswer": null
     },
     {
         "id": 681,
-        "question": "201. The A/C is _____ its downwind leg.  (level 2)  ",
+        "question": "The A/C is _____ its downwind leg.(level 2)",
         "plans": [
             {
-                "value": "A/C is _____ its downwind leg.  (level 2)  "
+                "value": "turning onto"
             },
             {
                 "value": "turning into"
             },
             {
-                "value": "C is _____ its downwind leg.  (level 2)  "
+                "value": " turning up to"
             }
         ],
-        "answer": "answer",
+        "answer": "turning onto",
         "selectedAnswer": null
     },
     {
         "id": 682,
-        "question": "202. Tighten the two nuts until the distance between the two ______ is between ",
+        "question": "Tighten the two nuts until the distance between the two ______ is between 90 mm and 94 mm. (level 2)",
         "plans": [
             {
                 "value": "pins"
@@ -11587,32 +11587,32 @@ export default  [
                 "value": "raceways"
             },
             {
-                "value": "flanges   "
+                "value": "flanges"
             }
         ],
-        "answer": "answer",
+        "answer": "flanges",
         "selectedAnswer": null
     },
     {
         "id": 683,
-        "question": "1. The galleys are Buyer Furnished ________. (level 1)  ",
+        "question": "The galleys are Buyer Furnished ________. (level 1)",
         "plans": [
             {
                 "value": "Equipment"
             },
             {
-                "value": "Buyer Furnished ________. (level 1)  "
+                "value": "Part"
             },
             {
                 "value": "Component"
             }
         ],
-        "answer": "answer",
+        "answer": "Equipment",
         "selectedAnswer": null
     },
     {
         "id": 684,
-        "question": "2. The galleys are either fixed or ________. (level 1)      ",
+        "question": "The galleys are either fixed or ________. (level 1)",
         "plans": [
             {
                 "value": "move"
@@ -11621,15 +11621,15 @@ export default  [
                 "value": "movable"
             },
             {
-                "value": "moved  "
+                "value": "moved"
             }
         ],
-        "answer": "answer",
+        "answer": "movable",
         "selectedAnswer": null
     },
     {
         "id": 685,
-        "question": "3. The galleys are ________ on the standard seat tracks or hard points and ceiling ",
+        "question": "The galleys are ________ on the standard seat tracks or hard points and ceiling attachments. (level 1)",
         "plans": [
             {
                 "value": "installed"
@@ -11638,15 +11638,15 @@ export default  [
                 "value": "fixed"
             },
             {
-                "value": "mounted  "
+                "value": "mounted"
             }
         ],
-        "answer": "answer",
+        "answer": "mounted",
         "selectedAnswer": null
     },
     {
         "id": 686,
-        "question": "4. The dry galleys are not ________ to the aircraft systems such as ventilation or ",
+        "question": "The dry galleys are not ________ to the aircraft systems such as ventilation or potable water. (level 1)",
         "plans": [
             {
                 "value": "contacted"
@@ -11655,15 +11655,15 @@ export default  [
                 "value": "connected"
             },
             {
-                "value": "linked  "
+                "value": "linked"
             }
         ],
-        "answer": "answer",
+        "answer": "connected",
         "selectedAnswer": null
     },
     {
         "id": 687,
-        "question": "5. Dry galleys are mainly used to store the ________. (level 1)  ",
+        "question": "Dry galleys are mainly used to store the ________. (level 1)",
         "plans": [
             {
                 "value": "trolleys"
@@ -11672,32 +11672,32 @@ export default  [
                 "value": "food and drinks"
             },
             {
-                "value": "service equipment  "
+                "value": "service equipment"
             }
         ],
-        "answer": "answer",
+        "answer": "trolleys",
         "selectedAnswer": null
     },
     {
         "id": 688,
-        "question": "6. How many types of galley? (level 1)  ",
+        "question": "How many types of galley? (level 1)",
         "plans": [
             {
-                "value": "Ngân type"
+                "value": "1 type"
             },
             {
-                "value": "Ngân types"
+                "value": "2 types"
             },
             {
-                "value": "Ngân types  "
+                "value": "3 types"
             }
         ],
-        "answer": "answer",
+        "answer": "2 types",
         "selectedAnswer": null
     },
     {
         "id": 689,
-        "question": "7. Wet galleys are used to store and  prepare  ________. (level 1)  ",
+        "question": "Wet galleys are used to store and  prepare  ________. (level 1)",
         "plans": [
             {
                 "value": "trolleys"
@@ -11706,15 +11706,15 @@ export default  [
                 "value": "food and drinks"
             },
             {
-                "value": "service equipment  "
+                "value": "service equipment"
             }
         ],
-        "answer": "answer",
+        "answer": "food and drinks",
         "selectedAnswer": null
     },
     {
         "id": 690,
-        "question": "8. The dry galleys are ________ the aircraft systems such as ventilation or potable ",
+        "question": "The dry galleys are ________ the aircraft systems such as ventilation or potable water. (level 1)",
         "plans": [
             {
                 "value": "connected with"
@@ -11723,15 +11723,15 @@ export default  [
                 "value": "connected to"
             },
             {
-                "value": "not connected to  "
+                "value": "not connected to"
             }
         ],
-        "answer": "answer",
+        "answer": "connected to",
         "selectedAnswer": null
     },
     {
         "id": 691,
-        "question": "9. The wet and dry galley s are often ________ by a supplemental cooling system. ",
+        "question": "The wet and dry galley s are often ________ by a supplemental cooling system. (level 1)",
         "plans": [
             {
                 "value": "cooled"
@@ -11740,15 +11740,15 @@ export default  [
                 "value": "cooling"
             },
             {
-                "value": "cool  "
+                "value": "cool"
             }
         ],
-        "answer": "answer",
+        "answer": "cooled",
         "selectedAnswer": null
     },
     {
         "id": 692,
-        "question": "10. The galley cooling system ________ several air chiller units which operate ",
+        "question": "The galley cooling system ________ several air chiller units which operate independently. (level 1)",
         "plans": [
             {
                 "value": "has"
@@ -11757,15 +11757,15 @@ export default  [
                 "value": "consists of"
             },
             {
-                "value": "includes  "
+                "value": "includes"
             }
         ],
-        "answer": "answer",
+        "answer": "consists of",
         "selectedAnswer": null
     },
     {
         "id": 693,
-        "question": "11. The galley cooling system co nsists of several air chiller ________ which operate ",
+        "question": "The galley cooling system co nsists of several air chiller ________ which operate independently. (level 1)",
         "plans": [
             {
                 "value": "parts"
@@ -11774,15 +11774,15 @@ export default  [
                 "value": "equipments"
             },
             {
-                "value": "units  "
+                "value": "units"
             }
         ],
-        "answer": "answer",
+        "answer": "units",
         "selectedAnswer": null
     },
     {
         "id": 694,
-        "question": "12. These air ________ units supply cooled air for trolley or trolley compartment ",
+        "question": "These air ________ units supply cooled air for trolley or trolley compartment cooling. (level 1)",
         "plans": [
             {
                 "value": "chiller"
@@ -11791,15 +11791,15 @@ export default  [
                 "value": "conditioner"
             },
             {
-                "value": "fryer  "
+                "value": "fryer"
             }
         ],
-        "answer": "answer",
+        "answer": "chiller",
         "selectedAnswer": null
     },
     {
         "id": 695,
-        "question": "13. The ovens are used to ________ food?  ",
+        "question": "The ovens are used to ________ food?",
         "plans": [
             {
                 "value": "heat"
@@ -11808,15 +11808,15 @@ export default  [
                 "value": "cool"
             },
             {
-                "value": "store  "
+                "value": "store"
             }
         ],
-        "answer": "answer",
+        "answer": "heat",
         "selectedAnswer": null
     },
     {
         "id": 696,
-        "question": "14. The water boiler used to supply ________ water.  (level 1)  ",
+        "question": "The water boiler used to supply ________ water.  (level 1)",
         "plans": [
             {
                 "value": "hot"
@@ -11825,32 +11825,32 @@ export default  [
                 "value": "cold"
             },
             {
-                "value": "iced  "
+                "value": "iced"
             }
         ],
-        "answer": "answer",
+        "answer": "hot",
         "selectedAnswer": null
     },
     {
         "id": 697,
-        "question": "15. SFE mean? (level 1)  ",
+        "question": "SFE mean? (level 1)",
         "plans": [
             {
-                "value": "Supplier Furnished  Equipment"
+                "value": "Supplier Furnished Equipment"
             },
             {
                 "value": "Super Fluid Extraction"
             },
             {
-                "value": "See For Everything  "
+                "value": "See For Everything"
             }
         ],
-        "answer": "answer",
+        "answer": "Supplier Furnished Equipment",
         "selectedAnswer": null
     },
     {
         "id": 698,
-        "question": "16. Upper a ttachments consist of a bracket and two adjustable ________  (level 1)  ",
+        "question": "Upper a ttachments consist of a bracket and two adjustable ________  (level 1)",
         "plans": [
             {
                 "value": "tie rod"
@@ -11859,15 +11859,15 @@ export default  [
                 "value": "ties rod"
             },
             {
-                "value": "tie rods  "
+                "value": "tie rods"
             }
         ],
-        "answer": "answer",
+        "answer": "tie rods",
         "selectedAnswer": null
     },
     {
         "id": 699,
-        "question": "17. The final attachment is then achieved from the ________   by means of tie rods ",
+        "question": "The final attachment is then achieved from the ________   by means of tie rods",
         "plans": [
             {
                 "value": "galley"
@@ -11876,32 +11876,32 @@ export default  [
                 "value": "seat"
             },
             {
-                "value": "lavator y "
+                "value": "lavatory"
             }
         ],
-        "answer": "answer",
+        "answer": "galley",
         "selectedAnswer": null
     },
     {
         "id": 700,
-        "question": "18. A wet galley unit has several ________    (level 1)  ",
+        "question": "A wet galley unit has several ________(level 1)",
         "plans": [
             {
-                "value": "A wet galley unit has several ________    (level 1)  "
+                "value": "interfaces"
             },
             {
                 "value": "interfacing"
             },
             {
-                "value": "interfaced  "
+                "value": "interfaced"
             }
         ],
-        "answer": "answer",
+        "answer": "interfaces",
         "selectedAnswer": null
     },
     {
         "id": 701,
-        "question": "19. The typical portable water and waste water connections ________ are located ",
+        "question": "The typical portable water and waste water connections ________ are located on the bottom of the galley (level 1)",
         "plans": [
             {
                 "value": "which"
@@ -11910,15 +11910,15 @@ export default  [
                 "value": "who"
             },
             {
-                "value": "where  "
+                "value": "where"
             }
         ],
-        "answer": "answer",
+        "answer": "which",
         "selectedAnswer": null
     },
     {
         "id": 702,
-        "question": "20. The typi cal portable water and waste water connections which are located ",
+        "question": "The typi cal portable water and waste water connections which are located ________ the bottom of the galley (level 1)",
         "plans": [
             {
                 "value": "on"
@@ -11927,15 +11927,15 @@ export default  [
                 "value": "at"
             },
             {
-                "value": "in "
+                "value": "in"
             }
         ],
-        "answer": "answer",
+        "answer": "on",
         "selectedAnswer": null
     },
     {
         "id": 703,
-        "question": "21. The typical portable water and ________ water connections which are located ",
+        "question": "The typical portable water and ________ water connections which are located on the bottom of the galley (level 1)",
         "plans": [
             {
                 "value": "hot"
@@ -11944,15 +11944,15 @@ export default  [
                 "value": "warm"
             },
             {
-                "value": "waste  "
+                "value": "waste"
             }
         ],
-        "answer": "answer",
+        "answer": "waste",
         "selectedAnswer": null
     },
     {
         "id": 704,
-        "question": "22. The typical portable water and waste water connections which ________ located ",
+        "question": "The typical portable water and waste water connections which ________ located on the bottom of the galley (level 1)",
         "plans": [
             {
                 "value": "is"
@@ -11961,15 +11961,15 @@ export default  [
                 "value": "are"
             },
             {
-                "value": "none  "
+                "value": "none"
             }
         ],
-        "answer": "answer",
+        "answer": "are",
         "selectedAnswer": null
     },
     {
         "id": 705,
-        "question": "23. The hoses for the typical individual and exhaust air interface which are located ",
+        "question": "The hoses for the typical individual and exhaust air interface which are located ________ top of the galley (level 1)",
         "plans": [
             {
                 "value": "at"
@@ -11981,12 +11981,12 @@ export default  [
                 "value": "in "
             }
         ],
-        "answer": "answer",
+        "answer": "on",
         "selectedAnswer": null
     },
     {
         "id": 706,
-        "question": "24. The hoses for the typical individual and exhaust air interface which are ________ ",
+        "question": "The hoses for the typical individual and exhaust air interface which are ________ on top of the galley (level 1)",
         "plans": [
             {
                 "value": "located"
@@ -11995,66 +11995,66 @@ export default  [
                 "value": "locate"
             },
             {
-                "value": "locates  "
+                "value": "locates"
             }
         ],
-        "answer": "answer",
+        "answer": "located",
         "selectedAnswer": null
     },
     {
         "id": 707,
-        "question": "25. An exhaust air ________ must be installed on galleys with ovens (level 1)  ",
+        "question": "An exhaust air ________ must be installed on galleys with ovens (level 1)",
         "plans": [
             {
-                "value": "An exhaust air ________ must be installed on galleys with ovens (level 1)  "
+                "value": "line"
             },
             {
                 "value": "system"
             },
             {
-                "value": "tube  "
+                "value": "tube"
             }
         ],
-        "answer": "answer",
+        "answer": "system",
         "selectedAnswer": null
     },
     {
         "id": 708,
-        "question": "26. An exhaust air system must be installed on galleys with ________ (level 1)  ",
+        "question": "An exhaust air system must be installed on galleys with ________ (level 1)",
         "plans": [
             {
-                "value": "An exhaust air system must be installed on galleys with ________ (level 1)  "
+                "value": "ovens"
             },
             {
                 "value": "water boiler"
             },
             {
-                "value": "coffee maker  "
+                "value": "coffee maker"
             }
         ],
-        "answer": "answer",
+        "answer": "ovens",
         "selectedAnswer": null
     },
     {
         "id": 709,
-        "question": "27. An exhaust air system mu st be ________ on galleys with ovens (level 1)  ",
+        "question": "An exhaust air system mu st be ________ on galleys with ovens (level 1)",
         "plans": [
             {
-                "value": "An exhaust air system mu st be ________ on galleys with ovens (level 1)  "
+                "value": "set"
             },
             {
                 "value": "removed"
             },
             {
-                "value": "installed  "
+                "value": "installed"
             }
         ],
-        "answer": "answer",
+        "answer": "installed",
         "selectedAnswer": null
     },
     {
         "id": 710,
-        "question": "28. Galleys with ________ equipment are connected to the nearest terminal board ",
+        "question": "Galleys with ________ equipment are connected to the nearest terminal board for the power supply (level 1)",
         "plans": [
             {
                 "value": "mechanical"
@@ -12063,15 +12063,15 @@ export default  [
                 "value": "electrical"
             },
             {
-                "value": "service      "
+                "value": "service"
             }
         ],
-        "answer": "answer",
+        "answer": "electrical",
         "selectedAnswer": null
     },
     {
         "id": 711,
-        "question": "29. Galleys with electri cal equipment are connected to the nearest terminal board for ",
+        "question": "Galleys with electri cal equipment are connected to the nearest terminal board for the ________ supply (level 1)",
         "plans": [
             {
                 "value": "water"
@@ -12080,15 +12080,15 @@ export default  [
                 "value": "air"
             },
             {
-                "value": "power  "
+                "value": "power"
             }
         ],
-        "answer": "answer",
+        "answer": "power",
         "selectedAnswer": null
     },
     {
         "id": 712,
-        "question": "30. Galleys with electrical equipment are connected ________ the nearest terminal ",
+        "question": "Galleys with electrical equipment are connected ________ the nearest terminal board for the power supply (level 1)",
         "plans": [
             {
                 "value": "by"
@@ -12097,15 +12097,15 @@ export default  [
                 "value": "with"
             },
             {
-                "value": "to "
+                "value": "to"
             }
         ],
-        "answer": "answer",
+        "answer": "to",
         "selectedAnswer": null
     },
     {
         "id": 713,
-        "question": "31. Galleys with electrical equipment are ________ to the nearest terminal board for ",
+        "question": "Galleys with electrical equipment are ________ to the nearest terminal board for the power supply (level 1)",
         "plans": [
             {
                 "value": "connected"
@@ -12114,15 +12114,15 @@ export default  [
                 "value": "linked"
             },
             {
-                "value": "assembled  "
+                "value": "assembled"
             }
         ],
-        "answer": "answer",
+        "answer": "connected",
         "selectedAnswer": null
     },
     {
         "id": 714,
-        "question": "32. The connectors are ________ in the ceiling (level 1)  ",
+        "question": "The connectors are ________ in the ceiling (level 1)",
         "plans": [
             {
                 "value": "connected"
@@ -12131,15 +12131,15 @@ export default  [
                 "value": "found"
             },
             {
-                "value": "none  "
+                "value": "none"
             }
         ],
-        "answer": "answer",
+        "answer": "found",
         "selectedAnswer": null
     },
     {
         "id": 715,
-        "question": "32. The connec tors are found in the ________ (level 1)  ",
+        "question": "The connec tors are found in the ________ (level 1)",
         "plans": [
             {
                 "value": "floor"
@@ -12148,15 +12148,15 @@ export default  [
                 "value": "ceiling"
             },
             {
-                "value": "side wall  "
+                "value": "side wall"
             }
         ],
-        "answer": "answer",
+        "answer": "ceiling",
         "selectedAnswer": null
     },
     {
         "id": 716,
-        "question": "33. The wiring should contain sufficient free ________  to allow removal and ",
+        "question": "The wiring should contain sufficient free ________  to allow removal and installation of the galley unit or galley equipment (level 1)",
         "plans": [
             {
                 "value": "size"
@@ -12165,15 +12165,15 @@ export default  [
                 "value": "width"
             },
             {
-                "value": "length  "
+                "value": "length"
             }
         ],
-        "answer": "answer",
+        "answer": "length",
         "selectedAnswer": null
     },
     {
         "id": 717,
-        "question": "34. The wiring  should contain sufficient free length to ________ removal and ",
+        "question": "The wiring  should contain sufficient free length to ________ removal and installation of the galley unit or galley equipment (level 1)",
         "plans": [
             {
                 "value": "deny"
@@ -12182,15 +12182,15 @@ export default  [
                 "value": "permit"
             },
             {
-                "value": "allow  "
+                "value": "allow"
             }
         ],
-        "answer": "answer",
+        "answer": "allow",
         "selectedAnswer": null
     },
     {
         "id": 718,
-        "question": "35. The wiring should contain sufficient free length to allow ________ and ________ ",
+        "question": "The wiring should contain sufficient free length to allow ________ and ________ of the galley unit or galley equipment (level 1)",
         "plans": [
             {
                 "value": "removal/installation"
@@ -12199,15 +12199,15 @@ export default  [
                 "value": "disconnect/connect"
             },
             {
-                "value": "close/open  "
+                "value": "close/open"
             }
         ],
-        "answer": "answer",
+        "answer": "removal/installation",
         "selectedAnswer": null
     },
     {
         "id": 719,
-        "question": "36. Do an ________ test of the coffee maker, water heater and oven (level 1)  ",
+        "question": "Do an ________ test of the coffee maker, water heater and oven (level 1)",
         "plans": [
             {
                 "value": "visual"
@@ -12219,12 +12219,12 @@ export default  [
                 "value": "power  "
             }
         ],
-        "answer": "answer",
+        "answer": "operational",
         "selectedAnswer": null
     },
     {
         "id": 720,
-        "question": "37. Do an operational test of the ________ maker, water heater and oven (level 1)  ",
+        "question": "Do an operational test of the ________ maker, water heater and oven (level 1)",
         "plans": [
             {
                 "value": "coffee"
@@ -12233,66 +12233,66 @@ export default  [
                 "value": "food"
             },
             {
-                "value": "drink  "
+                "value": "drink"
             }
         ],
-        "answer": "answer",
+        "answer": "coffee",
         "selectedAnswer": null
     },
     {
         "id": 721,
-        "question": "38. On ATR aircraft, the galley is installed in the aircraft aft section _______ the ",
+        "question": "On ATR aircraft, the galley is installed in the aircraft aft section _______ the service door (level 1)",
         "plans": [
             {
-                "value": "ATR aircraft, the galley is installed in the aircraft aft section _______ the "
+                "value": "behind"
             },
             {
                 "value": "on"
             },
             {
-                "value": "next to  "
+                "value": "next to"
             }
         ],
-        "answer": "answer",
+        "answer": "next to",
         "selectedAnswer": null
     },
     {
         "id": 722,
-        "question": "39. Electrical power, furnished as 3 -phase, 115/200 VAC, 400 Hz, from the main ",
+        "question": "Electrical power, furnished as 3 -phase, 115/200 VAC, 400 Hz, from the main power of aircraft system, is received in the galley control panel and distributed to the various galley components with circuit breakers and _______ (level 2)",
         "plans": [
             {
-                "value": "AC, 400 Hz, from the main "
+                "value": "batteries"
             },
             {
                 "value": "boards"
             },
             {
-                "value": "C, 400 Hz, from the main "
+                "value": "switches"
             }
         ],
-        "answer": "answer",
+        "answer": "switches",
         "selectedAnswer": null
     },
     {
         "id": 723,
-        "question": "40. All galley electrical components are controlled from the _______ (level 2)  ",
+        "question": "All galley electrical components are controlled from the _______ (level 2)",
         "plans": [
             {
-                "value": "All galley electrical components are controlled from the _______ (level 2)  "
+                "value": "fuse"
             },
             {
                 "value": "main board"
             },
             {
-                "value": "control panel      "
+                "value": "control panel"
             }
         ],
-        "answer": "answer",
+        "answer": "control panel",
         "selectedAnswer": null
     },
     {
         "id": 724,
-        "question": "41. The galley receives potable water through a quick -disconnect fitting and a shut -",
+        "question": "The galley receives potable water through a quick -disconnect fitting and a shut - off valve (level 2)",
         "plans": [
             {
                 "value": "machine"
@@ -12301,15 +12301,15 @@ export default  [
                 "value": "valve"
             },
             {
-                "value": "pumb  "
+                "value": "pumb"
             }
         ],
-        "answer": "answer",
+        "answer": "valve",
         "selectedAnswer": null
     },
     {
         "id": 725,
-        "question": "42. One electrical control panel installed in the galley can be _______ out for access ",
+        "question": "One electrical control panel installed in the galley can be _______ out for access to components by removing fasteners (level 1)",
         "plans": [
             {
                 "value": "get"
@@ -12318,15 +12318,15 @@ export default  [
                 "value": "pulled"
             },
             {
-                "value": "take  "
+                "value": "take"
             }
         ],
-        "answer": "answer",
+        "answer": "pulled",
         "selectedAnswer": null
     },
     {
         "id": 726,
-        "question": "43. One electrical control panel installed in the galley can be pulled out for acc ess to ",
+        "question": "One electrical control panel installed in the galley can be pulled out for acc ess to components by _______ fasteners (level 1)",
         "plans": [
             {
                 "value": "removing"
@@ -12338,12 +12338,12 @@ export default  [
                 "value": "assembling  "
             }
         ],
-        "answer": "answer",
+        "answer": "removing",
         "selectedAnswer": null
     },
     {
         "id": 727,
-        "question": "44. One electrical control panel installed in the galley can be pulled out for access to ",
+        "question": "One electrical control panel installed in the galley can be pulled out for access to components by removing _______ (level 2)",
         "plans": [
             {
                 "value": "nuts"
@@ -12352,15 +12352,15 @@ export default  [
                 "value": "fasteners"
             },
             {
-                "value": "washers  "
+                "value": "washers"
             }
         ],
-        "answer": "answer",
+        "answer": "fasteners",
         "selectedAnswer": null
     },
     {
         "id": 728,
-        "question": "45. Galley Insert _______ (level 1)  ",
+        "question": "Galley Insert _______ (level 1)",
         "plans": [
             {
                 "value": "Equipment"
@@ -12369,15 +12369,15 @@ export default  [
                 "value": "Machine"
             },
             {
-                "value": "Unit  "
+                "value": "Unit"
             }
         ],
-        "answer": "answer",
+        "answer": "Equipment",
         "selectedAnswer": null
     },
     {
         "id": 729,
-        "question": "46. Material _______ in assembly of the galley is to be fire retardant (level 1)  ",
+        "question": "Material _______ in assembly of the galley is to be fire retardant (level 1)",
         "plans": [
             {
                 "value": "signed"
@@ -12386,15 +12386,15 @@ export default  [
                 "value": "used"
             },
             {
-                "value": "none  "
+                "value": "none"
             }
         ],
-        "answer": "answer",
+        "answer": "used",
         "selectedAnswer": null
     },
     {
         "id": 730,
-        "question": "47. The galley is designed so that no special tools are _______ for inspection, ",
+        "question": "The galley is designed so that no special tools are _______ for inspection, adjustment, servicing, removal and replacement of parts (level 1)",
         "plans": [
             {
                 "value": "used"
@@ -12403,15 +12403,15 @@ export default  [
                 "value": "necessary"
             },
             {
-                "value": "applied  "
+                "value": "applied"
             }
         ],
-        "answer": "answer",
+        "answer": "necessary",
         "selectedAnswer": null
     },
     {
         "id": 731,
-        "question": "48. What does CMM stand for?  (level 1)  ",
+        "question": "What does CMM stand for?  (level 1)",
         "plans": [
             {
                 "value": "Component Maintenance Manual"
@@ -12420,15 +12420,15 @@ export default  [
                 "value": "Composite Maintenance Manual"
             },
             {
-                "value": "CMM stand for?  (level 1)  "
+                "value": "Component Methods Manua;"
             }
         ],
-        "answer": "answer",
+        "answer": "Component Maintenance Manual",
         "selectedAnswer": null
     },
     {
         "id": 732,
-        "question": "49. FWD mean? (level 1)  ",
+        "question": "FWD mean? (level 1)",
         "plans": [
             {
                 "value": "forward"
@@ -12437,15 +12437,15 @@ export default  [
                 "value": "foreword"
             },
             {
-                "value": "freeworld  "
+                "value": "freeworld"
             }
         ],
-        "answer": "answer",
+        "answer": "forward",
         "selectedAnswer": null
     },
     {
         "id": 733,
-        "question": "50. What does IPL stand for? (level 1)  ",
+        "question": "What does IPL stand for? (level 1)",
         "plans": [
             {
                 "value": "ILLUSTRATED PARTS LIST"
@@ -12454,15 +12454,15 @@ export default  [
                 "value": "ILLUSTRATION PARTS LIST"
             },
             {
-                "value": "ILLUSTRATING PARTS LIST  "
+                "value": "ILLUSTRATING PARTS LIST"
             }
         ],
-        "answer": "answer",
+        "answer": "ILLUSTRATED PARTS LIST",
         "selectedAnswer": null
     },
     {
         "id": 734,
-        "question": "51. The position and the number of lavatories change with the cabin _______ (level ",
+        "question": "The position and the number of lavatories change with the cabin _______ (level 1)",
         "plans": [
             {
                 "value": "configurable"
@@ -12471,15 +12471,15 @@ export default  [
                 "value": "config"
             },
             {
-                "value": "configuration  "
+                "value": "configuration"
             }
         ],
-        "answer": "answer",
+        "answer": "configuration",
         "selectedAnswer": null
     },
     {
         "id": 735,
-        "question": "52. Depending on its location, the lavatory door can be a _______ door or a folding ",
+        "question": "Depending on its location, the lavatory door can be a _______ door or a folding door (level 1)",
         "plans": [
             {
                 "value": "slides"
@@ -12488,15 +12488,15 @@ export default  [
                 "value": "slide"
             },
             {
-                "value": "sliding  "
+                "value": "sliding"
             }
         ],
-        "answer": "answer",
+        "answer": "sliding",
         "selectedAnswer": null
     },
     {
         "id": 736,
-        "question": "53. Depending on its location, the lavatory door can be a sliding door or a _______ ",
+        "question": "Depending on its location, the lavatory door can be a sliding door or a _______ door (level 1)",
         "plans": [
             {
                 "value": "foldable"
@@ -12505,15 +12505,15 @@ export default  [
                 "value": "folded"
             },
             {
-                "value": "folding  "
+                "value": "folding"
             }
         ],
-        "answer": "answer",
+        "answer": "folding",
         "selectedAnswer": null
     },
     {
         "id": 737,
-        "question": "54. In case of emergency, the lavatory doors can be unlocked from the _______ ",
+        "question": "In case of emergency, the lavatory doors can be unlocked from the _______ (level 1)",
         "plans": [
             {
                 "value": "inside"
@@ -12522,15 +12522,15 @@ export default  [
                 "value": "outside"
             },
             {
-                "value": "beside  "
+                "value": "beside"
             }
         ],
-        "answer": "answer",
+        "answer": "outside",
         "selectedAnswer": null
     },
     {
         "id": 738,
-        "question": "55. In case of emergency, the lavatory doors can be _______ from the outside  (level ",
+        "question": "In case of emergency, the lavatory doors can be _______ from the outside  (level 1)",
         "plans": [
             {
                 "value": "locked"
@@ -12539,49 +12539,49 @@ export default  [
                 "value": "unlocked"
             },
             {
-                "value": "fixed  "
+                "value": "fixed"
             }
         ],
-        "answer": "answer",
+        "answer": "unlocked",
         "selectedAnswer": null
     },
     {
         "id": 739,
-        "question": "56. How many lavatories on Vietnam Airlines Airbus A321? (level 1)  ",
+        "question": "How many lavatories on Vietnam Airlines Airbus A321? (level 1)",
         "plans": [
             {
-                "value": "Airlines Airbus A321? (level 1)  "
+                "value": "3"
             },
             {
-                "value": "Ngân"
+                "value": "4"
             },
             {
-                "value": "Ngân "
+                "value": "5 "
             }
         ],
-        "answer": "answer",
+        "answer": "4",
         "selectedAnswer": null
     },
     {
         "id": 740,
-        "question": "57. How many lavatories on Vietnam Airlines Airbus A350? (level 1)  ",
+        "question": "How many lavatories on Vietnam Airlines Airbus A350? (level 1)",
         "plans": [
             {
-                "value": "Airlines Airbus A350? (level 1)  "
+                "value": "8"
             },
             {
-                "value": "Ngân"
+                "value": "9"
             },
             {
-                "value": "Ngân  "
+                "value": "10"
             }
         ],
-        "answer": "answer",
+        "answer": "10",
         "selectedAnswer": null
     },
     {
         "id": 741,
-        "question": "58. Each lavatory is equipped _______ several accessories (level 1 ) ",
+        "question": "Each lavatory is equipped _______ several accessories (level 1 )",
         "plans": [
             {
                 "value": "with"
@@ -12590,15 +12590,15 @@ export default  [
                 "value": "by"
             },
             {
-                "value": "to  "
+                "value": "to"
             }
         ],
-        "answer": "answer",
+        "answer": "with",
         "selectedAnswer": null
     },
     {
         "id": 742,
-        "question": "59. Lateral lavatories have one attachment _______ the top and one attachment ",
+        "question": "Lateral lavatories have one attachment _______ the top and one attachment _______ the rear side (level 1)",
         "plans": [
             {
                 "value": "in/in"
@@ -12607,15 +12607,15 @@ export default  [
                 "value": "at/at"
             },
             {
-                "value": "at/in  "
+                "value": "at/in"
             }
         ],
-        "answer": "answer",
+        "answer": "at/at",
         "selectedAnswer": null
     },
     {
         "id": 743,
-        "question": "60. Depending _______ the location and the equipment of the lavatory, one or two ",
+        "question": "Depending _______ the location and the equipment of the lavatory, one or two upper attachments are used (level 1)",
         "plans": [
             {
                 "value": "off"
@@ -12624,15 +12624,15 @@ export default  [
                 "value": "on"
             },
             {
-                "value": "in "
+                "value": "in"
             }
         ],
-        "answer": "answer",
+        "answer": "on",
         "selectedAnswer": null
     },
     {
         "id": 744,
-        "question": "61. Depending on the _______ and the equipment of the lavatory, one or two upper ",
+        "question": "Depending on the _______ and the equipment of the lavatory, one or two upper attachments are used (level 1)",
         "plans": [
             {
                 "value": "located"
@@ -12641,15 +12641,15 @@ export default  [
                 "value": "locate"
             },
             {
-                "value": "location  "
+                "value": "location"
             }
         ],
-        "answer": "answer",
+        "answer": "location",
         "selectedAnswer": null
     },
     {
         "id": 745,
-        "question": "62. Depending on the location and the equipment of the lavatory, one or two upper ",
+        "question": "Depending on the location and the equipment of the lavatory, one or two upper attachments are _______ (level 1)",
         "plans": [
             {
                 "value": "using"
@@ -12658,15 +12658,15 @@ export default  [
                 "value": "usable"
             },
             {
-                "value": "used  "
+                "value": "used"
             }
         ],
-        "answer": "answer",
+        "answer": "used",
         "selectedAnswer": null
     },
     {
         "id": 746,
-        "question": "63. What does MSN in CMM documents stand for? (level 1)  ",
+        "question": "What does MSN in CMM documents stand for? (level 1)",
         "plans": [
             {
                 "value": "Manufacturer Serial Number"
@@ -12675,15 +12675,15 @@ export default  [
                 "value": "Mechanical Serial Number"
             },
             {
-                "value": "CMM documents stand for? (level 1)  "
+                "value": "Mechanics Serial Number"
             }
         ],
-        "answer": "answer",
+        "answer": "Manufacturer Serial Number",
         "selectedAnswer": null
     },
     {
         "id": 747,
-        "question": "64. The sliding door lat ch operates a locking bolt which prevents the single blade ",
+        "question": "The sliding door lat ch operates a locking bolt which prevents the single blade door assy from _______ (level 1)",
         "plans": [
             {
                 "value": "using"
@@ -12692,15 +12692,15 @@ export default  [
                 "value": "opening"
             },
             {
-                "value": "closing      "
+                "value": "closing"
             }
         ],
-        "answer": "answer",
+        "answer": "opening",
         "selectedAnswer": null
     },
     {
         "id": 748,
-        "question": "65. The water faucet is mounted above the _______ assy (level 1)  ",
+        "question": "The water faucet is mounted above the _______ assy (level 1)",
         "plans": [
             {
                 "value": "washbasin"
@@ -12709,15 +12709,15 @@ export default  [
                 "value": "toilet seat"
             },
             {
-                "value": "floor  "
+                "value": "floor"
             }
         ],
-        "answer": "answer",
+        "answer": "washbasin",
         "selectedAnswer": null
     },
     {
         "id": 749,
-        "question": "66. The water _______ is mounted above the washbasin assy (level 1)  ",
+        "question": "The water _______ is mounted above the washbasin assy (level 1)",
         "plans": [
             {
                 "value": "faucet"
@@ -12726,66 +12726,66 @@ export default  [
                 "value": "tube"
             },
             {
-                "value": "bottle  "
+                "value": "bottle"
             }
         ],
-        "answer": "answer",
+        "answer": "faucet",
         "selectedAnswer": null
     },
     {
         "id": 750,
-        "question": "67. Faucets in the lavatories on A321 aircraft are _______ cut off water (level 1)  ",
+        "question": "Faucets in the lavatories on A321 aircraft are _______ cut off water (level 1)",
         "plans": [
             {
-                "value": "A321 aircraft are _______ cut off water (level 1)  "
+                "value": "manually"
             },
             {
                 "value": "automatically"
             },
             {
-                "value": "manually or "
+                "value": "manually or automatically"
             }
         ],
-        "answer": "answer",
+        "answer": "automatically",
         "selectedAnswer": null
     },
     {
         "id": 751,
-        "question": "68. Baby nursing table in the lavatori es is a _______ equipment (level 1)  ",
+        "question": "Baby nursing table in the lavatori es is a _______ equipment (level 1)",
         "plans": [
             {
                 "value": "foldable"
             },
             {
-                "value": "Baby nursing table in the lavatori es is a _______ equipment (level 1)  "
+                "value": "fold"
             },
             {
-                "value": "folding  "
+                "value": "folding"
             }
         ],
-        "answer": "answer",
+        "answer": "foldable",
         "selectedAnswer": null
     },
     {
         "id": 752,
-        "question": "69. The divider which instaled on LAV use for? (level 2)  ",
+        "question": "The divider which instaled on LAV use for? (level 2)",
         "plans": [
             {
-                "value": "AV use for? (level 2)  "
+                "value": "handical passengers"
             },
             {
                 "value": "infant passengers"
             },
             {
-                "value": "flight attendants  "
+                "value": "flight attendants"
             }
         ],
-        "answer": "answer",
+        "answer": "handical passengers",
         "selectedAnswer": null
     },
     {
         "id": 753,
-        "question": "70. The fire _______ is installed in the waste compartment ar ea (level 1)  ",
+        "question": "The fire _______ is installed in the waste compartment ar ea (level 1)",
         "plans": [
             {
                 "value": "extinguish"
@@ -12794,15 +12794,15 @@ export default  [
                 "value": "extinguisher"
             },
             {
-                "value": "extinguished  "
+                "value": "extinguished"
             }
         ],
-        "answer": "answer",
+        "answer": "extinguisher",
         "selectedAnswer": null
     },
     {
         "id": 754,
-        "question": "71. The fire extinguisher is installed in the waste compartment _______ (level 1)  ",
+        "question": "The fire extinguisher is installed in the waste compartment _______ (level 1)",
         "plans": [
             {
                 "value": "place"
@@ -12811,15 +12811,15 @@ export default  [
                 "value": "zone"
             },
             {
-                "value": "area  "
+                "value": "area"
             }
         ],
-        "answer": "answer",
+        "answer": "area",
         "selectedAnswer": null
     },
     {
         "id": 755,
-        "question": "72. During normal door operation, when the indicator reads _______ the door can be ",
+        "question": "During normal door operation, when the indicator reads _______ the door can be opened from the outside by rotating the latch (level 2)",
         "plans": [
             {
                 "value": "LOCKING"
@@ -12831,12 +12831,12 @@ export default  [
                 "value": "CKING"
             }
         ],
-        "answer": "answer",
+        "answer": "VACANT",
         "selectedAnswer": null
     },
     {
         "id": 756,
-        "question": "73. In case of emergency, the door can be unlocked from outside _______ using a ",
+        "question": "In case of emergency, the door can be unlocked from outside _______ using a special tool (level 1)",
         "plans": [
             {
                 "value": "without"
@@ -12845,15 +12845,15 @@ export default  [
                 "value": "with"
             },
             {
-                "value": "by  "
+                "value": "by"
             }
         ],
-        "answer": "answer",
+        "answer": "without",
         "selectedAnswer": null
     },
     {
         "id": 757,
-        "question": "74. The lavatory is made from ____ ___ panels (level 1)  ",
+        "question": "The lavatory is made from ____ ___ panels (level 1)",
         "plans": [
             {
                 "value": "metal"
@@ -12862,32 +12862,32 @@ export default  [
                 "value": "honeycomb"
             },
             {
-                "value": "plastic  "
+                "value": "plastic"
             }
         ],
-        "answer": "answer",
+        "answer": "honeycomb",
         "selectedAnswer": null
     },
     {
         "id": 758,
-        "question": "75. Behind the washbasin unit door the water system, the fire extinguisher and the ",
+        "question": "Behind the washbasin unit door the water system, the fire extinguisher and the _______ box are installed (level 1)",
         "plans": [
             {
                 "value": "paper"
             },
             {
-                "value": "Behind the washbasin unit door the water system, the fire extinguisher and the "
+                "value": "stowage"
             },
             {
-                "value": "waste  "
+                "value": "waste"
             }
         ],
-        "answer": "answer",
+        "answer": "waste",
         "selectedAnswer": null
     },
     {
         "id": 759,
-        "question": "76. The lavatories are installed in the cabin for the comfort of the crew and ",
+        "question": "The lavatories are installed in the cabin for the comfort of the crew and passengers and have washroom facilities (level 1)",
         "plans": [
             {
                 "value": "crew"
@@ -12896,15 +12896,15 @@ export default  [
                 "value": "passengers"
             },
             {
-                "value": "crew and passengers    "
+                "value": "crew and passengers"
             }
         ],
-        "answer": "answer",
+        "answer": "crew and passengers",
         "selectedAnswer": null
     },
     {
         "id": 760,
-        "question": "77. Tie -rods are _______ attach the lavatory ceiling to the aircraft structure and ",
+        "question": "Tie -rods are _______ attach the lavatory ceiling to the aircraft structure and fittings are used to attach the lavatory floor to the aircraft structure (level 1)",
         "plans": [
             {
                 "value": "used to"
@@ -12913,15 +12913,15 @@ export default  [
                 "value": "usable"
             },
             {
-                "value": "uses  "
+                "value": "uses"
             }
         ],
-        "answer": "answer",
+        "answer": "used to",
         "selectedAnswer": null
     },
     {
         "id": 761,
-        "question": "78. What does GWIV stand for? (level 2)  ",
+        "question": "What does GWIV stand for? (level 2)",
         "plans": [
             {
                 "value": "Grace Water Interface Ventilation"
@@ -12933,12 +12933,12 @@ export default  [
                 "value": "Gray Water Interconnect Valve  "
             }
         ],
-        "answer": "answer",
+        "answer": "Gray Water Interface Valve",
         "selectedAnswer": null
     },
     {
         "id": 762,
-        "question": "79. What does PSU stand for? (level 2)  ",
+        "question": "What does PSU stand for? (level 2)",
         "plans": [
             {
                 "value": "Passenger Service Unit"
@@ -12947,15 +12947,15 @@ export default  [
                 "value": "Power Supply Unit"
             },
             {
-                "value": "Passenger Supply Unit  "
+                "value": "Passenger Supply Unit"
             }
         ],
-        "answer": "answer",
+        "answer": "Passenger Service Unit",
         "selectedAnswer": null
     },
     {
         "id": 763,
-        "question": "80. Seat track segment attachments and overhead attachment and fitting are ",
+        "question": "Seat track segment attachments and overhead attachment and fitting are _______ to secure the modules in the airplane structure (level 1)",
         "plans": [
             {
                 "value": "produce"
@@ -12964,15 +12964,15 @@ export default  [
                 "value": "provise"
             },
             {
-                "value": "provided  "
+                "value": "provided"
             }
         ],
-        "answer": "answer",
+        "answer": "provided",
         "selectedAnswer": null
     },
     {
         "id": 764,
-        "question": "82. The floor pan assembly is capped at the top and _______ to prevent liq uids from ",
+        "question": "82. The floor pan assembly is capped at the top and _______ to prevent liq uids from seeping from behind and/or underneath (level 1)",
         "plans": [
             {
                 "value": "sealant"
@@ -12981,15 +12981,15 @@ export default  [
                 "value": "sealed"
             },
             {
-                "value": "seals  "
+                "value": "seals"
             }
         ],
-        "answer": "answer",
+        "answer": "sealed",
         "selectedAnswer": null
     },
     {
         "id": 765,
-        "question": "83. The corrosion _______ nylon door threshold traps the floor mat against the ",
+        "question": "The corrosion _______ nylon door threshold traps the floor mat against the airplane floor panel (level 2)",
         "plans": [
             {
                 "value": "resistor"
@@ -12998,15 +12998,15 @@ export default  [
                 "value": "resistant"
             },
             {
-                "value": "resist  "
+                "value": "resist"
             }
         ],
-        "answer": "answer",
+        "answer": "resistant",
         "selectedAnswer": null
     },
     {
         "id": 766,
-        "question": "84. The bi -fold door shall be spring -loaded to _______ the door to return to closed ",
+        "question": "The bi -fold door shall be spring -loaded to _______ the door to return to closed position without passengers assistance (level 2)",
         "plans": [
             {
                 "value": "enable"
@@ -13015,32 +13015,32 @@ export default  [
                 "value": "alow"
             },
             {
-                "value": "permit  "
+                "value": "permit"
             }
         ],
-        "answer": "answer",
+        "answer": "enable",
         "selectedAnswer": null
     },
     {
         "id": 767,
-        "question": "85. A push plate is _______ on the outside and a recessed pull handle on the inside ",
+        "question": "A push plate is _______ on the outside and a recessed pull handle on the inside of the bi-fold door (level 1)",
         "plans": [
             {
-                "value": "A push plate is _______ on the outside and a recessed pull handle on the inside "
+                "value": "installed"
             },
             {
                 "value": "assemble"
             },
             {
-                "value": "fixed  "
+                "value": "fixed"
             }
         ],
-        "answer": "answer",
+        "answer": "installed",
         "selectedAnswer": null
     },
     {
         "id": 768,
-        "question": "86. The bi -fold door _______ a door lock and it is installed on the inside of the bi -fold ",
+        "question": "The bi -fold door _______ a door lock and it is installed on the inside of the bi -fold door near the pull handle (level 2)",
         "plans": [
             {
                 "value": "included"
@@ -13049,15 +13049,15 @@ export default  [
                 "value": "includes"
             },
             {
-                "value": "include  "
+                "value": "include"
             }
         ],
-        "answer": "answer",
+        "answer": "includes",
         "selectedAnswer": null
     },
     {
         "id": 769,
-        "question": "87. The single panel door has a paddle latch _______ which can be easily operated ",
+        "question": "The single panel door has a paddle latch _______ which can be easily operated by handicapped passengers (level 2)",
         "plans": [
             {
                 "value": "unit"
@@ -13066,15 +13066,15 @@ export default  [
                 "value": "assembly"
             },
             {
-                "value": "diassembly  "
+                "value": "diassembly"
             }
         ],
-        "answer": "answer",
+        "answer": "assembly",
         "selectedAnswer": null
     },
     {
         "id": 770,
-        "question": "88. The door lock shows a green visual _______ when the door is in unlocked ",
+        "question": "The door lock shows a green visual _______ when the door is in unlocked position and shows a red visual indication when the door is in locked position (level 2)",
         "plans": [
             {
                 "value": "indicate"
@@ -13083,15 +13083,15 @@ export default  [
                 "value": "indicates"
             },
             {
-                "value": "indication      "
+                "value": "indication"
             }
         ],
-        "answer": "answer",
+        "answer": "indication",
         "selectedAnswer": null
     },
     {
         "id": 771,
-        "question": "89. It is _______ to unlock the lavatory door from outside without the use of special ",
+        "question": "It is _______ to unlock the lavatory door from outside without the use of special tools (level 2)",
         "plans": [
             {
                 "value": "impossible"
@@ -13100,15 +13100,15 @@ export default  [
                 "value": "un -possible"
             },
             {
-                "value": "possible  "
+                "value": "possible"
             }
         ],
-        "answer": "answer",
+        "answer": "possible",
         "selectedAnswer": null
     },
     {
         "id": 772,
-        "question": "90. The single panel door catch includes a _______ part which makes it possi ble to ",
+        "question": "The single panel door catch includes a _______ part which makes it possi ble to open the locked door from outside in case of emergency (level 2)",
         "plans": [
             {
                 "value": "moved"
@@ -13117,15 +13117,15 @@ export default  [
                 "value": "movable"
             },
             {
-                "value": "movement  "
+                "value": "movement"
             }
         ],
-        "answer": "answer",
+        "answer": "movable",
         "selectedAnswer": null
     },
     {
         "id": 773,
-        "question": "91. The single panel door catch includes a movable part which makes it possible to ",
+        "question": "The single panel door catch includes a movable part which makes it possible to open the locked door _______ outside in case of emergency (level 1)",
         "plans": [
             {
                 "value": "of"
@@ -13134,15 +13134,15 @@ export default  [
                 "value": "from"
             },
             {
-                "value": "to  "
+                "value": "to"
             }
         ],
-        "answer": "answer",
+        "answer": "from",
         "selectedAnswer": null
     },
     {
         "id": 774,
-        "question": "92. Insert a pin into the hole of the catch at approximately 45 degree _______ to the ",
+        "question": "Insert a pin into the hole of the catch at approximately 45 degree _______ to the wall surface (level 1)",
         "plans": [
             {
                 "value": "angle"
@@ -13151,15 +13151,15 @@ export default  [
                 "value": "length"
             },
             {
-                "value": "height  "
+                "value": "height"
             }
         ],
-        "answer": "answer",
+        "answer": "angle",
         "selectedAnswer": null
     },
     {
         "id": 775,
-        "question": "93. If the catch will not release, _______ push the plate to the door direction with the ",
+        "question": "If the catch will not release, _______ push the plate to the door direction with the pin (level 1)",
         "plans": [
             {
                 "value": "then"
@@ -13168,15 +13168,15 @@ export default  [
                 "value": "when"
             },
             {
-                "value": "so  "
+                "value": "so"
             }
         ],
-        "answer": "answer",
+        "answer": "then",
         "selectedAnswer": null
     },
     {
         "id": 776,
-        "question": "94. The door guide get caught on the edge of the hold open device and it is _______ ",
+        "question": "The door guide get caught on the edge of the hold open device and it is _______ up (level 1)",
         "plans": [
             {
                 "value": "pushed"
@@ -13185,15 +13185,15 @@ export default  [
                 "value": "push"
             },
             {
-                "value": "pushing  "
+                "value": "pushing"
             }
         ],
-        "answer": "answer",
+        "answer": "pushed",
         "selectedAnswer": null
     },
     {
         "id": 777,
-        "question": "95. When the guide can not catch the edge, slightly lift up the door or lift up the door ",
+        "question": "When the guide can not catch the edge, slightly lift up the door or lift up the door guide using tools such as screw driver in order to enlarge the engaging margin between the guide and edge (level 1)",
         "plans": [
             {
                 "value": "driving"
@@ -13202,15 +13202,15 @@ export default  [
                 "value": "driver"
             },
             {
-                "value": "drive  "
+                "value": "drive"
             }
         ],
-        "answer": "answer",
+        "answer": "driver",
         "selectedAnswer": null
     },
     {
         "id": 778,
-        "question": "96. To _______ tampering with the door, Cylinder lock is provided on the top of the ",
+        "question": "To _______ tampering with the door, Cylinder lock is provided on the top of the door (level 2)",
         "plans": [
             {
                 "value": "unlock"
@@ -13219,15 +13219,15 @@ export default  [
                 "value": "alow"
             },
             {
-                "value": "Cylinder lock is provided on the top of the "
+                "value": "avoid"
             }
         ],
-        "answer": "answer",
+        "answer": "avoid",
         "selectedAnswer": null
     },
     {
         "id": 779,
-        "question": "97. Unlock Cylinder with Key by _______ it 360 degrees counterclockwise (level 1)  ",
+        "question": "Unlock Cylinder with Key by _______ it 360 degrees counterclockwise (level 1)",
         "plans": [
             {
                 "value": "turning"
@@ -13236,15 +13236,15 @@ export default  [
                 "value": "turned"
             },
             {
-                "value": "Cylinder with Key by _______ it 360 degrees counterclockwise (level 1)  "
+                "value": "turns"
             }
         ],
-        "answer": "answer",
+        "answer": "turning",
         "selectedAnswer": null
     },
     {
         "id": 780,
-        "question": "98. Turn Latch Lever 90 degrees counterclockwise to _______ the door latch (level ",
+        "question": "Turn Latch Lever 90 degrees counterclockwise to _______ the door latch (level 1)",
         "plans": [
             {
                 "value": "open"
@@ -13253,15 +13253,15 @@ export default  [
                 "value": "release"
             },
             {
-                "value": "close  "
+                "value": "close"
             }
         ],
-        "answer": "answer",
+        "answer": "release",
         "selectedAnswer": null
     },
     {
         "id": 781,
-        "question": "99. Latch Lev er fixation is completed by _______ out Key (level 1)  ",
+        "question": "Latch Lev er fixation is completed by _______ out Key (level 1)",
         "plans": [
             {
                 "value": "pulled"
@@ -13270,32 +13270,32 @@ export default  [
                 "value": "pulling"
             },
             {
-                "value": "pulls  "
+                "value": "pulls"
             }
         ],
-        "answer": "answer",
+        "answer": "pulling",
         "selectedAnswer": null
     },
     {
         "id": 782,
-        "question": "100. The water heater operable at 115 VAC, 400 Hz power and is located _______ ",
+        "question": "The water heater operable at 115 VAC, 400 Hz power and is located _______ the wash basin (level 1)",
         "plans": [
             {
-                "value": "AC, 400 Hz power and is located _______ "
+                "value": "lower"
             },
             {
                 "value": "upper"
             },
             {
-                "value": "C, 400 Hz power and is located _______ "
+                "value": "under"
             }
         ],
-        "answer": "answer",
+        "answer": "under",
         "selectedAnswer": null
     },
     {
         "id": 783,
-        "question": "1. Passenger Seats are designed for the comfort and safety of the ________. (level ",
+        "question": "Passenger Seats are designed for the comfort and safety of the ________. (level 1)",
         "plans": [
             {
                 "value": "Flight Crew"
@@ -13304,15 +13304,15 @@ export default  [
                 "value": "Cabin Attendants"
             },
             {
-                "value": "Crew"
+                "value": "Passengers"
             }
         ],
-        "answer": "answer",
+        "answer": "Passengers",
         "selectedAnswer": null
     },
     {
         "id": 784,
-        "question": "2. The seat electronic box which serves the passenger service units, is installed ",
+        "question": "The seat electronic box which serves the passenger service units, is installed ________ the front and rear legs. (level 1)",
         "plans": [
             {
                 "value": "between"
@@ -13321,15 +13321,15 @@ export default  [
                 "value": "in"
             },
             {
-                "value": "on  "
+                "value": "on"
             }
         ],
-        "answer": "answer",
+        "answer": "between",
         "selectedAnswer": null
     },
     {
         "id": 785,
-        "question": "3. The backrest can be ________ folded forward. (level 1)  ",
+        "question": "The backrest can be ________ folded forward. (level 1)  ",
         "plans": [
             {
                 "value": "mechanically"
@@ -13338,15 +13338,15 @@ export default  [
                 "value": "mechanical"
             },
             {
-                "value": "mechani "
+                "value": "mechani"
             }
         ],
-        "answer": "answer",
+        "answer": "mechanically",
         "selectedAnswer": null
     },
     {
         "id": 786,
-        "question": "4. In-armrest tables are installed in the seats, ________ just behind partitions, galleys ",
+        "question": "In-armrest tables are installed in the seats, ________ just behind partitions, galleys or lavatories. (level 1)",
         "plans": [
             {
                 "value": "hinged"
@@ -13355,15 +13355,15 @@ export default  [
                 "value": "fitted"
             },
             {
-                "value": "C.located  "
+                "value": "located"
             }
         ],
-        "answer": "answer",
+        "answer": "located",
         "selectedAnswer": null
     },
     {
         "id": 787,
-        "question": "5.  Each seat is equipped with ________ seat belt . (level 1)  ",
+        "question": "Each seat is equipped with ________ seat belt . (level 1)",
         "plans": [
             {
                 "value": "a"
@@ -13372,32 +13372,32 @@ export default  [
                 "value": "an"
             },
             {
-                "value": "the  "
+                "value": "the"
             }
         ],
-        "answer": "answer",
+        "answer": "a",
         "selectedAnswer": null
     },
     {
         "id": 788,
-        "question": "6. The reclining control _______ for the backrest and an a shtray are installed in the ",
+        "question": "The reclining control _______ for the backrest and an a shtray are installed in the armrest. (level 1)",
         "plans": [
             {
                 "value": "Bag"
             },
             {
-                "value": "Bag"
+                "value": "button"
             },
             {
-                "value": "Box  "
+                "value": "Box"
             }
         ],
-        "answer": "answer",
+        "answer": "button",
         "selectedAnswer": null
     },
     {
         "id": 789,
-        "question": "8. The backrest cushion is upholstered with _______ and seat fabri (level 1)  ",
+        "question": "The backrest cushion is upholstered with _______ and seat fabri (level 1)",
         "plans": [
             {
                 "value": "glass"
@@ -13406,15 +13406,15 @@ export default  [
                 "value": "foam"
             },
             {
-                "value": "plastic  "
+                "value": "plastic"
             }
         ],
-        "answer": "answer",
+        "answer": "foam",
         "selectedAnswer": null
     },
     {
         "id": 790,
-        "question": "9. The seatpan is made of an _________ pan . (level 1)  ",
+        "question": "The seatpan is made of an _________ pan . (level 1)",
         "plans": [
             {
                 "value": "aluminium"
@@ -13423,15 +13423,15 @@ export default  [
                 "value": "iron"
             },
             {
-                "value": "gold  "
+                "value": "gold"
             }
         ],
-        "answer": "answer",
+        "answer": "aluminium",
         "selectedAnswer": null
     },
     {
         "id": 791,
-        "question": "10. Each cabin attendant seat has a seatbelt and a shoulder harness with a center ",
+        "question": "Each cabin attendant seat has a seatbelt and a shoulder harness with a center ______. (level 1)",
         "plans": [
             {
                 "value": "buckle"
@@ -13440,15 +13440,15 @@ export default  [
                 "value": "contactor"
             },
             {
-                "value": "button  "
+                "value": "button"
             }
         ],
-        "answer": "answer",
+        "answer": "buckle",
         "selectedAnswer": null
     },
     {
         "id": 792,
-        "question": "11. The shoulder harness is pulled -in automatically on inertia reels ________ not in ",
+        "question": "The shoulder harness is pulled -in automatically on inertia reels ________ not in use. (level 1)",
         "plans": [
             {
                 "value": "which"
@@ -13457,32 +13457,32 @@ export default  [
                 "value": "where"
             },
             {
-                "value": "when  "
+                "value": "when"
             }
         ],
-        "answer": "answer",
+        "answer": "when",
         "selectedAnswer": null
     },
     {
         "id": 793,
-        "question": "12. Cabin Attendant Seats are attached to walls or to the cabin _________.  (level 1)  ",
+        "question": "Cabin Attendant Seats are attached to walls or to the cabin _________.  (level 1)",
         "plans": [
             {
-                "value": "Attendant Seats are attached to walls or to the cabin _________.  (level 1)  "
+                "value": "window"
             },
             {
                 "value": "door"
             },
             {
-                "value": "Cabin Attendant Seats are attached to walls or to the cabin _________.  (level 1)  "
+                "value": "floor"
             }
         ],
-        "answer": "answer",
+        "answer": "floor",
         "selectedAnswer": null
     },
     {
         "id": 794,
-        "question": "13. Ceiling panels are installed along the ______ of the cabin.  level 1)  ",
+        "question": "Ceiling panels are installed along the ______ of the cabin.  (level 1)  ",
         "plans": [
             {
                 "value": "below"
@@ -13491,15 +13491,15 @@ export default  [
                 "value": "center"
             },
             {
-                "value": "Ceiling panels are installed along the ______ of the cabin.  level 1)  "
+                "value": "top"
             }
         ],
-        "answer": "answer",
+        "answer": "top",
         "selectedAnswer": null
     },
     {
         "id": 795,
-        "question": "14. Overhead stowages are installed for the stowage of passenger carry on baggage ",
+        "question": "Overhead stowages are installed for the stowage of passenger carry on baggage and miscellaneous equipment. (level 1)",
         "plans": [
             {
                 "value": "left"
@@ -13508,15 +13508,15 @@ export default  [
                 "value": "right"
             },
             {
-                "value": "overhead  "
+                "value": "overhead"
             }
         ],
-        "answer": "answer",
+        "answer": "overhead",
         "selectedAnswer": null
     },
     {
         "id": 796,
-        "question": "15. Each stowage has 1 or 2 doors with a locking ________ .(level 1)  ",
+        "question": "Each stowage has 1 or 2 doors with a locking ________ .(level 1)",
         "plans": [
             {
                 "value": "buckle"
@@ -13525,15 +13525,15 @@ export default  [
                 "value": "mechanism"
             },
             {
-                "value": "button  "
+                "value": "button"
             }
         ],
-        "answer": "answer",
+        "answer": "mechanism",
         "selectedAnswer": null
     },
     {
         "id": 797,
-        "question": "16. _______ floor covering is installed in the passenger area to provide passenger ",
+        "question": " _______ floor covering is installed in the passenger area to provide passenger comfort and soundproofing. (level 1)",
         "plans": [
             {
                 "value": "Textile"
@@ -13542,15 +13542,15 @@ export default  [
                 "value": "Non -Textile"
             },
             {
-                "value": "Plastic  "
+                "value": "Plastic"
             }
         ],
-        "answer": "answer",
+        "answer": "Textile",
         "selectedAnswer": null
     },
     {
         "id": 798,
-        "question": "17. ________ sided adhesive tape attaches the non -textile floor covering to the  foil. ",
+        "question": "________ sided adhesive tape attaches the non -textile floor covering to the  foil. (level 1)",
         "plans": [
             {
                 "value": "Double"
@@ -13559,15 +13559,15 @@ export default  [
                 "value": "One"
             },
             {
-                "value": "Empty  "
+                "value": "Empty"
             }
         ],
-        "answer": "answer",
+        "answer": "Double",
         "selectedAnswer": null
     },
     {
         "id": 799,
-        "question": "18. The curtains hang on ________ which slide in light alloy rails . (level 1)  ",
+        "question": "The curtains hang on ________ which slide in light alloy rails . (level 1)",
         "plans": [
             {
                 "value": "hooks"
@@ -13576,15 +13576,15 @@ export default  [
                 "value": "plates"
             },
             {
-                "value": "handles  "
+                "value": "handles"
             }
         ],
-        "answer": "answer",
+        "answer": "hooks",
         "selectedAnswer": null
     },
     {
         "id": 800,
-        "question": "19. In case of emergency, there are three possibilities for the cockpit ________ to ",
+        "question": "In case of emergency, there are three possibilities for the cockpit ________ to leave the cockpit. (level 1)",
         "plans": [
             {
                 "value": "passenger"
@@ -13593,15 +13593,15 @@ export default  [
                 "value": "crew"
             },
             {
-                "value": "cabin attandent  "
+                "value": "cabin attandent"
             }
         ],
-        "answer": "answer",
+        "answer": "crew",
         "selectedAnswer": null
     },
     {
         "id": 801,
-        "question": "20. The _______ of the flash lights can be easily replaced.  (level 1)  ",
+        "question": "The _______ of the flash lights can be easily replaced.  (level 1)  ",
         "plans": [
             {
                 "value": "bulbs"
@@ -13610,32 +13610,32 @@ export default  [
                 "value": "batteries"
             },
             {
-                "value": "wire "
+                "value": "wire"
             }
         ],
-        "answer": "answer",
+        "answer": "batteries",
         "selectedAnswer": null
     },
     {
         "id": 802,
-        "question": "21. To move the captain seat in the up direction pull the control handle, marked ",
+        "question": "To move the captain seat in the up direction pull the control handle, marked _______ and located on the inboard side of the seat pan. (level 1)",
         "plans": [
             {
                 "value": "V"
             },
             {
-                "value": "B.H"
+                "value": "H"
             },
             {
-                "value": "R "
+                "value": "R"
             }
         ],
-        "answer": "answer",
+        "answer": "V",
         "selectedAnswer": null
     },
     {
         "id": 803,
-        "question": "22. The description, operation and attachment are the ______ for the captain and ",
+        "question": "The description, operation and attachment are the ______ for the captain and the first officer seat as they are symmetrical. (level 1)",
         "plans": [
             {
                 "value": "other"
@@ -13644,32 +13644,32 @@ export default  [
                 "value": "different"
             },
             {
-                "value": "same  "
+                "value": "same"
             }
         ],
-        "answer": "answer",
+        "answer": "same",
         "selectedAnswer": null
     },
     {
         "id": 804,
-        "question": "23. Remove the cocktail tray assy _________ removin g the screws.   (level 1)  ",
+        "question": "Remove the cocktail tray assy _________ removin g the screws.   (level 1)  ",
         "plans": [
             {
-                "value": "with.                                    by"
+                "value": "with"
             },
             {
                 "value": "by"
             },
             {
-                "value": "as   "
+                "value": "as"
             }
         ],
-        "answer": "answer",
+        "answer": "by",
         "selectedAnswer": null
     },
     {
         "id": 805,
-        "question": "24. Check the head rest for locking at three properly position, and unlocking and ",
+        "question": "Check the head rest for locking at three properly position, and unlocking and returning to the _______ position at fourth position. ( level 1)",
         "plans": [
             {
                 "value": "first"
@@ -13678,15 +13678,15 @@ export default  [
                 "value": "second"
             },
             {
-                "value": "Check the head rest for locking at three properly position, and unlocking and "
+                "value": "third"
             }
         ],
-        "answer": "answer",
+        "answer": "first",
         "selectedAnswer": null
     },
     {
         "id": 806,
-        "question": "101. (level 1)  ",
+        "question": "The troubleshooting should be performed in accordance ________ Table 101. (level 1)",
         "plans": [
             {
                 "value": "with"
@@ -13695,15 +13695,15 @@ export default  [
                 "value": "to"
             },
             {
-                "value": "by  "
+                "value": "by"
             }
         ],
-        "answer": "answer",
+        "answer": "with",
         "selectedAnswer": null
     },
     {
         "id": 807,
-        "question": "26. _________ the similarities in seat configurations covered in this instruction ",
+        "question": "_________ the similarities in seat configurations covered in this instruction manual, one seat of each type was selected for illustrative purposes (level 1)",
         "plans": [
             {
                 "value": "Because of"
@@ -13712,15 +13712,15 @@ export default  [
                 "value": "Because of"
             },
             {
-                "value": "Instead of  "
+                "value": "Instead of"
             }
         ],
-        "answer": "answer",
+        "answer": "Because of",
         "selectedAnswer": null
     },
     {
         "id": 808,
-        "question": "27. If replacement is required, refer to the applicable paragraph of \"Repair\" for ",
+        "question": "If replacement is required, refer to the applicable paragraph of \"Repair\" for detailed ____. (level 1)",
         "plans": [
             {
                 "value": "notices"
@@ -13729,15 +13729,15 @@ export default  [
                 "value": "instructions"
             },
             {
-                "value": "warnings  "
+                "value": "warnings"
             }
         ],
-        "answer": "answer",
+        "answer": "instructions",
         "selectedAnswer": null
     },
     {
         "id": 809,
-        "question": "28. Through cleaning is an essential prelude to any close inspection to determine ",
+        "question": "Through cleaning is an essential prelude to any close inspection to determine existence of, extent of, and exact location of ________. (level 1).",
         "plans": [
             {
                 "value": "defects"
@@ -13746,15 +13746,15 @@ export default  [
                 "value": "items"
             },
             {
-                "value": "components  "
+                "value": "components"
             }
         ],
-        "answer": "answer",
+        "answer": "defects",
         "selectedAnswer": null
     },
     {
         "id": 810,
-        "question": "29. Visually check the seat assembly for scores, cracks, cuts, marks of corrosion, ",
+        "question": "Visually check the seat assembly for scores, cracks, cuts, marks of corrosion, ravel, scratches and excessive fatigue that may _______ the serviceability of the seat. (level 1)",
         "plans": [
             {
                 "value": "affect"
@@ -13763,15 +13763,15 @@ export default  [
                 "value": "protect"
             },
             {
-                "value": "cover  "
+                "value": "cover"
             }
         ],
-        "answer": "answer",
+        "answer": "affect",
         "selectedAnswer": null
     },
     {
         "id": 811,
-        "question": "30. Secure the side armrest units with the _______. (level 1)  ",
+        "question": "Secure the side armrest units with the _______. (level 1)",
         "plans": [
             {
                 "value": "lockers"
@@ -13780,15 +13780,15 @@ export default  [
                 "value": "fasteners"
             },
             {
-                "value": "clamps  "
+                "value": "clamps"
             }
         ],
-        "answer": "answer",
+        "answer": "fasteners",
         "selectedAnswer": null
     },
     {
         "id": 812,
-        "question": "31. The Captain and First Officer seats are _______ and have the same function.  ",
+        "question": "The Captain and First Officer seats are _______ and have the same function.(level 1)",
         "plans": [
             {
                 "value": "replaceable"
@@ -13797,15 +13797,15 @@ export default  [
                 "value": "symmetrical"
             },
             {
-                "value": "Captain and First Officer seats are _______ and have the same function.  "
+                "value": "applicable"
             }
         ],
-        "answer": "answer",
+        "answer": "symmetrical",
         "selectedAnswer": null
     },
     {
         "id": 813,
-        "question": "32. The base of the Captain and First Officer seats is attached to the floor by means ",
+        "question": "The base of the Captain and First Officer seats is attached to the floor by means of _______ hexagonal head screws. (level 1)",
         "plans": [
             {
                 "value": "four"
@@ -13814,15 +13814,15 @@ export default  [
                 "value": "six"
             },
             {
-                "value": "Captain and First Officer seats is attached to the floor by means "
+                "value": "eight"
             }
         ],
-        "answer": "answer",
+        "answer": "eight",
         "selectedAnswer": null
     },
     {
         "id": 814,
-        "question": "33. The base of the Fourth Occupant seat is attached to the floor by means of ",
+        "question": "The base of the Fourth Occupant seat is attached to the floor by means of _______ hexagonal head screws located inside the life vest compartment. (level 1)",
         "plans": [
             {
                 "value": "four"
@@ -13831,15 +13831,15 @@ export default  [
                 "value": "six"
             },
             {
-                "value": "eight  "
+                "value": "eight"
             }
         ],
-        "answer": "answer",
+        "answer": "four",
         "selectedAnswer": null
     },
     {
         "id": 815,
-        "question": "34. The floor mounted cabin -attendant seats are installed o n the ________ or on the ",
+        "question": "The floor mounted cabin -attendant seats are installed o n the ________ or on the cabin floor-structure. (level 1)",
         "plans": [
             {
                 "value": "seat pans"
@@ -13848,15 +13848,15 @@ export default  [
                 "value": "seat frames"
             },
             {
-                "value": "seat tracks  "
+                "value": "seat tracks"
             }
         ],
-        "answer": "answer",
+        "answer": "seat tracks",
         "selectedAnswer": null
     },
     {
         "id": 816,
-        "question": "36. Plastic ______ are fitted into the seat tracks to cover the exposed track sections. ",
+        "question": "Plastic ______ are fitted into the seat tracks to cover the exposed track sections. (level 1)",
         "plans": [
             {
                 "value": "containers"
@@ -13865,15 +13865,15 @@ export default  [
                 "value": "covers"
             },
             {
-                "value": "handles  "
+                "value": "handles"
             }
         ],
-        "answer": "answer",
+        "answer": "covers",
         "selectedAnswer": null
     },
     {
         "id": 817,
-        "question": "37. The special passenger seats installed in the ________ area are of special ",
+        "question": "The special passenger seats installed in the ________ area are of special design. (level 1)",
         "plans": [
             {
                 "value": "galley"
@@ -13882,32 +13882,32 @@ export default  [
                 "value": "lavatory"
             },
             {
-                "value": "emergency exit  "
+                "value": "emergency exit"
             }
         ],
-        "answer": "answer",
+        "answer": "emergency exit",
         "selectedAnswer": null
     },
     {
         "id": 818,
-        "question": "38. A __ _______ is attached to the front framework legs.  (level 1)  ",
+        "question": "38. A _______ is attached to the front framework legs.  (level 1)",
         "plans": [
             {
-                "value": "A __ _______ is attached to the front framework legs.  (level 1)  "
+                "value": "backrest"
             },
             {
                 "value": "baggage bar"
             },
             {
-                "value": "seat pan  "
+                "value": "seat pan"
             }
         ],
-        "answer": "answer",
+        "answer": "baggage bar",
         "selectedAnswer": null
     },
     {
         "id": 819,
-        "question": "39. The passengers can ______ the upholstered backrest assembly of each seat to ",
+        "question": "The passengers can ______ the upholstered backrest assembly of each seat to the sleeping position or to the fully upright position. (level 1)",
         "plans": [
             {
                 "value": "adjust"
@@ -13916,15 +13916,15 @@ export default  [
                 "value": "remove"
             },
             {
-                "value": "install      "
+                "value": "install"
             }
         ],
-        "answer": "answer",
+        "answer": "adjust",
         "selectedAnswer": null
     },
     {
         "id": 820,
-        "question": "40. You can fold the inner armrests between the _______. (level 1)  ",
+        "question": "You can fold the inner armrests between the _______. (level 1)",
         "plans": [
             {
                 "value": "headrests"
@@ -13933,15 +13933,15 @@ export default  [
                 "value": "backrests"
             },
             {
-                "value": "seat pans  "
+                "value": "seat pans"
             }
         ],
-        "answer": "answer",
+        "answer": "backrests",
         "selectedAnswer": null
     },
     {
         "id": 821,
-        "question": "41. The seat belt assembly is attached to the seat framework and has a buckle to ",
+        "question": "The seat belt assembly is attached to the seat framework and has a buckle to lock and adjust the seat belt ________. (level 1)",
         "plans": [
             {
                 "value": "height"
@@ -13950,15 +13950,15 @@ export default  [
                 "value": "width"
             },
             {
-                "value": "length  "
+                "value": "length"
             }
         ],
-        "answer": "answer",
+        "answer": "length",
         "selectedAnswer": null
     },
     {
         "id": 822,
-        "question": "42. The folding _______ assembly folds into a recess in the backrest for stowage. ",
+        "question": "42. The folding _______ assembly folds into a recess in the backrest for stowage. (level 1)",
         "plans": [
             {
                 "value": "door"
@@ -13967,15 +13967,15 @@ export default  [
                 "value": "table"
             },
             {
-                "value": "panel  "
+                "value": "panel"
             }
         ],
-        "answer": "answer",
+        "answer": "table",
         "selectedAnswer": null
     },
     {
         "id": 823,
-        "question": "43. _______ the placards with a damp cloth, and dry with a clean, dry, lint -free cloth.  ",
+        "question": "_______ the placards with a damp cloth, and dry with a clean, dry, lint -free cloth. (level 1)",
         "plans": [
             {
                 "value": "Clean"
@@ -13987,12 +13987,12 @@ export default  [
                 "value": "Clean"
             }
         ],
-        "answer": "answer",
+        "answer": "Clean",
         "selectedAnswer": null
     },
     {
         "id": 824,
-        "question": "44. The _______ can be used in either the open position to support the passenger’s ",
+        "question": "The _______ can be used in either the open position to support the passenger’s feet or in the closed position to give increased leg support. (level 1)",
         "plans": [
             {
                 "value": "footrest"
@@ -14001,15 +14001,15 @@ export default  [
                 "value": "legrest"
             },
             {
-                "value": "backrest  "
+                "value": "backrest"
             }
         ],
-        "answer": "answer",
+        "answer": "footrest",
         "selectedAnswer": null
     },
     {
         "id": 825,
-        "question": "45. To move any back assembly from the upright to the recline position, activate the ",
+        "question": "To move any back assembly from the upright to the recline position, activate the recline control button and apply _______ against the backrest. (level 1)",
         "plans": [
             {
                 "value": "electricity"
@@ -14018,15 +14018,15 @@ export default  [
                 "value": "pressure"
             },
             {
-                "value": "hand  "
+                "value": "hand"
             }
         ],
-        "answer": "answer",
+        "answer": "pressure",
         "selectedAnswer": null
     },
     {
         "id": 826,
-        "question": "46. To adjust the lumbar support, activate the lumbar control ______. (level 1)  ",
+        "question": "To adjust the lumbar support, activate the lumbar control ______. (level 1)",
         "plans": [
             {
                 "value": "lever"
@@ -14035,15 +14035,15 @@ export default  [
                 "value": "panel"
             },
             {
-                "value": "fastener  "
+                "value": "fastener"
             }
         ],
-        "answer": "answer",
+        "answer": "lever",
         "selectedAnswer": null
     },
     {
         "id": 827,
-        "question": "47. The headrest may be adjusted ________ by sliding the headrest up or down as ",
+        "question": "The headrest may be adjusted ________ by sliding the headrest up or down as required. (level 1)",
         "plans": [
             {
                 "value": "automatically"
@@ -14052,15 +14052,15 @@ export default  [
                 "value": "manually"
             },
             {
-                "value": "electrically  "
+                "value": "electrically"
             }
         ],
-        "answer": "answer",
+        "answer": "manually",
         "selectedAnswer": null
     },
     {
         "id": 828,
-        "question": "48. The seat assembly is attached to t he aircraft seat tracks by securing the legs, ",
+        "question": "The seat assembly is attached to t he aircraft seat tracks by securing the legs, fore and aft, _______ studs and track fittings. (level 1)",
         "plans": [
             {
                 "value": "in"
@@ -14069,15 +14069,15 @@ export default  [
                 "value": "on"
             },
             {
-                "value": "with  "
+                "value": "with"
             }
         ],
-        "answer": "answer",
+        "answer": "with",
         "selectedAnswer": null
     },
     {
         "id": 829,
-        "question": "49. When the recline control button is pushed with no pressure exerted on the back, ",
+        "question": "When the recline control button is pushed with no pressure exerted on the back, the seat should ________ to its full upright position. (level 1)",
         "plans": [
             {
                 "value": "remove"
@@ -14086,49 +14086,49 @@ export default  [
                 "value": "return"
             },
             {
-                "value": "reinstall  "
+                "value": "reinstall"
             }
         ],
-        "answer": "answer",
+        "answer": "return",
         "selectedAnswer": null
     },
     {
         "id": 830,
-        "question": "50. Cable /Seat /Control/ Recline.  (level 1)  ",
+        "question": "50. Cable /Seat /Control/ Recline.  (level 1)",
         "plans": [
             {
                 "value": "Seat Recline Control Cable"
             },
             {
-                "value": "Seat Cable Control "
+                "value": "Seat Cable Control Recline"
             },
             {
-                "value": "Cable /Seat /Control/ Recline.  (level 1)  "
+                "value": "Control Recline Cable Seat"
             }
         ],
-        "answer": "answer",
+        "answer": "Seat Recline Control Cable",
         "selectedAnswer": null
     },
     {
         "id": 831,
-        "question": "51. Before assembly, _______ all parts for wear and/or damage that c ould cause ",
+        "question": "Before assembly, _______ all parts for wear and/or damage that c ould cause failure of the seat assembly or any of its component assemblies. (level 1)",
         "plans": [
             {
                 "value": "inspect"
             },
             {
-                "value": "Before assembly, _______ all parts for wear and/or damage that c ould cause "
+                "value": "install"
             },
             {
-                "value": "repair  "
+                "value": "repair"
             }
         ],
-        "answer": "answer",
+        "answer": "inspect",
         "selectedAnswer": null
     },
     {
         "id": 832,
-        "question": "52. Store the seat assembly in a cool, dry place away from sunlight and ______ ",
+        "question": "Store the seat assembly in a cool, dry place away from sunlight and ______ sources. (level 1)",
         "plans": [
             {
                 "value": "electric"
@@ -14137,15 +14137,15 @@ export default  [
                 "value": "heat"
             },
             {
-                "value": "energy  "
+                "value": "energy"
             }
         ],
-        "answer": "answer",
+        "answer": "heat",
         "selectedAnswer": null
     },
     {
         "id": 833,
-        "question": "53. Some seats located at certain positions on the aircraft have limited recline or no ",
+        "question": "Some seats located at certain positions on the aircraft have limited recline or no recline to conform to aviation regulations. (level 1)",
         "plans": [
             {
                 "value": "unlimitted"
@@ -14154,15 +14154,15 @@ export default  [
                 "value": "installed"
             },
             {
-                "value": "limited  "
+                "value": "limited"
             }
         ],
-        "answer": "answer",
+        "answer": "limited",
         "selectedAnswer": null
     },
     {
         "id": 834,
-        "question": "54. Operate the recline mechanism by ______ the recline control button and moving ",
+        "question": "Operate the recline mechanism by ______ the recline control button and moving the seat throughout the recline range. (level 1)",
         "plans": [
             {
                 "value": "cleaning"
@@ -14171,15 +14171,15 @@ export default  [
                 "value": "rotating"
             },
             {
-                "value": "pressing  "
+                "value": "pressing"
             }
         ],
-        "answer": "answer",
+        "answer": "pressing",
         "selectedAnswer": null
     },
     {
         "id": 835,
-        "question": "55. Clean the floor tracks, studs, and track fittings when seats are moved. This will ",
+        "question": "Clean the floor tracks, studs, and track fittings when seats are moved. This will prevent ______ wear on fastener assemblies. (level 1)",
         "plans": [
             {
                 "value": "unwanting"
@@ -14188,15 +14188,15 @@ export default  [
                 "value": "unwanted"
             },
             {
-                "value": "Clean the floor tracks, studs, and track fittings when seats are moved. This will "
+                "value": "unwant"
             }
         ],
-        "answer": "answer",
+        "answer": "unwanted",
         "selectedAnswer": null
     },
     {
         "id": 836,
-        "question": "56. Only common _______ tools are required to assemble and/or disassemble the ",
+        "question": "Only common _______ tools are required to assemble and/or disassemble the seats. (level 1)",
         "plans": [
             {
                 "value": "special"
@@ -14205,15 +14205,15 @@ export default  [
                 "value": "hand"
             },
             {
-                "value": "release  "
+                "value": "release"
             }
         ],
-        "answer": "answer",
+        "answer": "hand",
         "selectedAnswer": null
     },
     {
         "id": 837,
-        "question": "57. You can use mechanical controls (located on the side of the seat bottom) to ",
+        "question": "You can use mechanical controls (located on the side of the seat bottom) to _______ the electrical control in case of an electrical component failure. (level 1)",
         "plans": [
             {
                 "value": "override"
@@ -14222,15 +14222,15 @@ export default  [
                 "value": "operate"
             },
             {
-                "value": "connect  "
+                "value": "connect"
             }
         ],
-        "answer": "answer",
+        "answer": "override",
         "selectedAnswer": null
     },
     {
         "id": 838,
-        "question": "59. Once occupant has left the attendant seat, the seat pan automatically _______to ",
+        "question": "Once occupant has left the attendant seat, the seat pan automatically _______to its original position. (level 1)",
         "plans": [
             {
                 "value": "releases"
@@ -14239,32 +14239,32 @@ export default  [
                 "value": "stays"
             },
             {
-                "value": "returns  "
+                "value": "returns"
             }
         ],
-        "answer": "answer",
+        "answer": "returns",
         "selectedAnswer": null
     },
     {
         "id": 839,
-        "question": "60. All plastic surfaces should be cleaned with a _______ (PH< 7) and water ",
+        "question": "All plastic surfaces should be cleaned with a _______ (PH< 7) and water solution. (level 1)",
         "plans": [
             {
-                "value": "All plastic surfaces should be cleaned with a _______ (PH< 7) and water "
+                "value": "oil"
             },
             {
                 "value": "mild soap"
             },
             {
-                "value": "alcohol  "
+                "value": "alcohol"
             }
         ],
-        "answer": "answer",
+        "answer": "mild soap",
         "selectedAnswer": null
     },
     {
         "id": 840,
-        "question": "61. When the control lever is released the pin is inserted into the nut and the back ",
+        "question": "When the control lever is released the pin is inserted into the nut and the back cushion is ______ in position. (level 1)",
         "plans": [
             {
                 "value": "locked"
@@ -14273,15 +14273,15 @@ export default  [
                 "value": "provided"
             },
             {
-                "value": "included  "
+                "value": "included"
             }
         ],
-        "answer": "answer",
+        "answer": "locked",
         "selectedAnswer": null
     },
     {
         "id": 841,
-        "question": "62. Operate the control lever and ________ the seat will rise and lower smoothly ",
+        "question": "Operate the control lever and ________ the seat will rise and lower smoothly without restriction and when the control lever is released the seat is locked in position (level 1)",
         "plans": [
             {
                 "value": "take"
@@ -14290,15 +14290,15 @@ export default  [
                 "value": "ensure"
             },
             {
-                "value": "hold      "
+                "value": "hold"
             }
         ],
-        "answer": "answer",
+        "answer": "ensure",
         "selectedAnswer": null
     },
     {
         "id": 842,
-        "question": "63. Operate the rotary buckle to _______ all straps, except the designated fixed ",
+        "question": "Operate the rotary buckle to _______ all straps, except the designated fixed strap and re-lock (level 1)",
         "plans": [
             {
                 "value": "press"
@@ -14307,15 +14307,15 @@ export default  [
                 "value": "release"
             },
             {
-                "value": "push  "
+                "value": "push"
             }
         ],
-        "answer": "answer",
+        "answer": "release",
         "selectedAnswer": null
     },
     {
         "id": 843,
-        "question": "65. For the dry cleaning procedure, please follow the instructions of the machine ",
+        "question": "65. For the dry cleaning procedure, please follow the instructions of the machine ______. (level 1)",
         "plans": [
             {
                 "value": "controller"
@@ -14324,15 +14324,15 @@ export default  [
                 "value": "manager"
             },
             {
-                "value": "supplier  "
+                "value": "supplier"
             }
         ],
-        "answer": "answer",
+        "answer": "supplier",
         "selectedAnswer": null
     },
     {
         "id": 844,
-        "question": "66. Leathers ______ be cleaned with saddle soap. Do not use detergents or solvent -",
+        "question": "Leathers ______ be cleaned with saddle soap. Do not use detergents or solvent - types. (level 1)",
         "plans": [
             {
                 "value": "can"
@@ -14341,15 +14341,15 @@ export default  [
                 "value": "must"
             },
             {
-                "value": "have  "
+                "value": "have"
             }
         ],
-        "answer": "answer",
+        "answer": "must",
         "selectedAnswer": null
     },
     {
         "id": 845,
-        "question": "67. The seat occupant can easily remove the life vest by pulling the life vest pull ",
+        "question": "The seat occupant can easily remove the life vest by pulling the life vest pull ______ protruding from the pocket. (level 1)",
         "plans": [
             {
                 "value": "box"
@@ -14358,32 +14358,32 @@ export default  [
                 "value": "container"
             },
             {
-                "value": "strap  "
+                "value": "strap"
             }
         ],
-        "answer": "answer",
+        "answer": "strap",
         "selectedAnswer": null
     },
     {
         "id": 846,
-        "question": "68. TABLE/MODULT/IN -ARM/ASSEMBLY.  (level 1)  ",
+        "question": "TABLE/MODULT/IN -ARM/ASSEMBLY.  (level 1)",
         "plans": [
             {
-                "value": "ABLE/MODULT/IN -ARM/ASSEMBLY.  (level 1)  "
+                "value": "TABLE IN-ARM MODULT ASSEMBLY"
             },
             {
-                "value": "BLE/MODULT/IN -ARM/ASSEMBLY.  (level 1)  "
+                "value": "IN-ARM TABLE MODULT ASSEMBLY"
             },
             {
-                "value": "MODULT IN -ARM TABLE ASSEMBLY  "
+                "value": "MODULT IN-ARM TABLE ASSEMBLY"
             }
         ],
-        "answer": "answer",
+        "answer": "IN-ARM TABLE MODULT ASSEMBLY",
         "selectedAnswer": null
     },
     {
         "id": 847,
-        "question": "69. Seats abutting the aft bulkhead _______ have recline capabilities. (level 1)  ",
+        "question": "Seats abutting the aft bulkhead _______ have recline capabilities. (level 1)",
         "plans": [
             {
                 "value": "does not"
@@ -14392,15 +14392,15 @@ export default  [
                 "value": "do not"
             },
             {
-                "value": "empty  "
+                "value": "empty"
             }
         ],
-        "answer": "answer",
+        "answer": "do not",
         "selectedAnswer": null
     },
     {
         "id": 848,
-        "question": "70. To stow the back -mounted foodtray assembly, fold the table upward and forward ",
+        "question": "To stow the back -mounted foodtray assembly, fold the table upward and forward until it is completely flush to the backrest, and then _______ the latch to engage and secure the table to the seat back. (level 1)",
         "plans": [
             {
                 "value": "rotate"
@@ -14409,15 +14409,15 @@ export default  [
                 "value": "remove"
             },
             {
-                "value": "press  "
+                "value": "press"
             }
         ],
-        "answer": "answer",
+        "answer": "press",
         "selectedAnswer": null
     },
     {
         "id": 849,
-        "question": "71. Remove the armrest _______ and make sure the spring clip on the recline ",
+        "question": "Remove the armrest _______ and make sure the spring clip on the recline button is properly engaged on the recline button bezel. (level 1)",
         "plans": [
             {
                 "value": "tray"
@@ -14426,15 +14426,15 @@ export default  [
                 "value": "escutcheon"
             },
             {
-                "value": "table  "
+                "value": "table"
             }
         ],
-        "answer": "answer",
+        "answer": "escutcheon",
         "selectedAnswer": null
     },
     {
         "id": 850,
-        "question": "72. _______ inspect connectors for signs of contamination with metal particles, ",
+        "question": "_______ inspect connectors for signs of contamination with metal particles, water, dirt, grease, oil, carbon, or adhesive. (level 1)",
         "plans": [
             {
                 "value": "Normally"
@@ -14443,15 +14443,15 @@ export default  [
                 "value": "Randomly"
             },
             {
-                "value": "Periodically  "
+                "value": "Periodically"
             }
         ],
-        "answer": "answer",
+        "answer": "Periodically",
         "selectedAnswer": null
     },
     {
         "id": 851,
-        "question": "73. Read all instructions and look at the related illustrations ______ starting ",
+        "question": "Read all instructions and look at the related illustrations ______ starting disassembly. (level 1)",
         "plans": [
             {
                 "value": "before"
@@ -14460,32 +14460,32 @@ export default  [
                 "value": "after"
             },
             {
-                "value": "without  "
+                "value": "without"
             }
         ],
-        "answer": "answer",
+        "answer": "before",
         "selectedAnswer": null
     },
     {
         "id": 852,
-        "question": "73. After any repair the seat belt must be _______.  (level 1)      ",
+        "question": "After any repair the seat belt must be _______.  (level 1)",
         "plans": [
             {
-                "value": "After any repair the seat belt must be _______.  (level 1)      "
+                "value": "replaced"
             },
             {
                 "value": "cleaned"
             },
             {
-                "value": "removed  "
+                "value": "removed"
             }
         ],
-        "answer": "answer",
+        "answer": "cleaned",
         "selectedAnswer": null
     },
     {
         "id": 853,
-        "question": "74. To attach t he seat assemblies to the aircraft, put the track studs and track fittings ",
+        "question": "To attach t he seat assemblies to the aircraft, put the track studs and track fittings at the ______ of the leg assemblies in the slots in the floor track. (level 1)",
         "plans": [
             {
                 "value": "behind"
@@ -14494,49 +14494,49 @@ export default  [
                 "value": "top"
             },
             {
-                "value": "bottom  "
+                "value": "bottom"
             }
         ],
-        "answer": "answer",
+        "answer": "bottom",
         "selectedAnswer": null
     },
     {
         "id": 854,
-        "question": "75. Adjust torque on the screw so there is enough tension on the armrest bu shing to ",
+        "question": "Adjust torque on the screw so there is enough tension on the armrest bu shing to ________ the armrest in all positions. (level 1)",
         "plans": [
             {
-                "value": "Adjust torque on the screw so there is enough tension on the armrest bu shing to "
+                "value": "move"
             },
             {
                 "value": "hold"
             },
             {
-                "value": "open  "
+                "value": "open"
             }
         ],
-        "answer": "answer",
+        "answer": "hold",
         "selectedAnswer": null
     },
     {
         "id": 855,
-        "question": "76. Apply the dress cover on the foam _______ . (level 1)  ",
+        "question": "Apply the dress cover on the foam _______ . (level 1)  ",
         "plans": [
             {
-                "value": "Apply the dress cover on the foam _______ . (level 1)  "
+                "value": "smoothly"
             },
             {
                 "value": "fastly"
             },
             {
-                "value": "suddenly  "
+                "value": "suddenly"
             }
         ],
-        "answer": "answer",
+        "answer": "smoothly",
         "selectedAnswer": null
     },
     {
         "id": 856,
-        "question": "77. Recline travel can also be set by _______ the jam nuts by distance. (level 1)  ",
+        "question": "Recline travel can also be set by _______ the jam nuts by distance. (level 1)",
         "plans": [
             {
                 "value": "having"
@@ -14545,15 +14545,15 @@ export default  [
                 "value": "setting"
             },
             {
-                "value": "taking  "
+                "value": "taking"
             }
         ],
-        "answer": "answer",
+        "answer": "setting",
         "selectedAnswer": null
     },
     {
         "id": 857,
-        "question": "78. Step -by-step disassembly and assembly instructions enabling technicians to ",
+        "question": "Step -by-step disassembly and assembly instructions enabling technicians to ______ and replace line-replaceable assemblies. (level 1)",
         "plans": [
             {
                 "value": "operate"
@@ -14562,32 +14562,32 @@ export default  [
                 "value": "store"
             },
             {
-                "value": "remove  "
+                "value": "remove"
             }
         ],
-        "answer": "answer",
+        "answer": "remove",
         "selectedAnswer": null
     },
     {
         "id": 858,
-        "question": "79. LITERATURE/UPPER/POCKET. (level 1)  ",
+        "question": "LITERATURE/UPPER/POCKET. (level 1)",
         "plans": [
             {
-                "value": "ATURE/UPPER/POCKET. (level 1)  "
+                "value": "UPPER LITERATURE POCKET"
             },
             {
                 "value": "UPPER POCKET LITERATURE"
             },
             {
-                "value": "CKET. (level 1)  "
+                "value": "LITERATURE UPPER POCKET"
             }
         ],
-        "answer": "answer",
+        "answer": "UPPER LITERATURE POCKET",
         "selectedAnswer": null
     },
     {
         "id": 859,
-        "question": "80. Except for seats with in -arm tables, aisle armrests can turn ________ . (level 1)  ",
+        "question": "Except for seats with in -arm tables, aisle armrests can turn ________ . (level 1)",
         "plans": [
             {
                 "value": "upright"
@@ -14596,15 +14596,15 @@ export default  [
                 "value": "around"
             },
             {
-                "value": "down  "
+                "value": "down"
             }
         ],
-        "answer": "answer",
+        "answer": "upright",
         "selectedAnswer": null
     },
     {
         "id": 860,
-        "question": "81. OHSC stand for: (level 1)  ",
+        "question": "OHSC stand for: (level 1)",
         "plans": [
             {
                 "value": "OVERHEAT SEAT  CONTROLLER"
@@ -14613,15 +14613,15 @@ export default  [
                 "value": "OVERHEAD STOWAGE COMPARTMENT"
             },
             {
-                "value": "C stand for: (level 1)  "
+                "value": "OVERHEAD STORAGE COCKPIT"
             }
         ],
-        "answer": "answer",
+        "answer": "OVERHEAD STOWAGE COMPARTMENT",
         "selectedAnswer": null
     },
     {
         "id": 861,
-        "question": "82. The overhead stowage compartment (OHSC) is located in the ________ area of ",
+        "question": "The overhead stowage compartment (OHSC) is located in the ________ area of the aircraft and is used for stowage of the passenger baggage. (level 1)",
         "plans": [
             {
                 "value": "cockpit"
@@ -14630,15 +14630,15 @@ export default  [
                 "value": "crew"
             },
             {
-                "value": "C) is located in the ________ area of "
+                "value": "passenger"
             }
         ],
-        "answer": "answer",
+        "answer": "passenger",
         "selectedAnswer": null
     },
     {
         "id": 862,
-        "question": "83. The baby bassinet is designed for infant or young _______ to rest on board the ",
+        "question": "The baby bassinet is designed for infant or young _______ to rest on board the aircraft. (level 1)",
         "plans": [
             {
                 "value": "man"
@@ -14647,15 +14647,15 @@ export default  [
                 "value": "children"
             },
             {
-                "value": "woman  "
+                "value": "woman"
             }
         ],
-        "answer": "answer",
+        "answer": "children",
         "selectedAnswer": null
     },
     {
         "id": 863,
-        "question": "84. The baby bassinet can be installed easily onto the airc raft panel by engaging the ",
+        "question": "The baby bassinet can be installed easily onto the airc raft panel by engaging the quick-release _________. (level 1)",
         "plans": [
             {
                 "value": "fastener"
@@ -14664,15 +14664,15 @@ export default  [
                 "value": "connector"
             },
             {
-                "value": "pins  "
+                "value": "pins"
             }
         ],
-        "answer": "answer",
+        "answer": "pins",
         "selectedAnswer": null
     },
     {
         "id": 864,
-        "question": "85. Ensure that the quick -release pins are properly _______ before placing infant ",
+        "question": "Ensure that the quick -release pins are properly _______ before placing infant into bassinet. (level 1)",
         "plans": [
             {
                 "value": "turned off"
@@ -14681,15 +14681,15 @@ export default  [
                 "value": "engaged"
             },
             {
-                "value": "turned on  "
+                "value": "turned on"
             }
         ],
-        "answer": "answer",
+        "answer": "engaged",
         "selectedAnswer": null
     },
     {
         "id": 865,
-        "question": "86. When not in use, the bassinet must be dismounted and ______ away. (level 1)  ",
+        "question": "When not in use, the bassinet must be dismounted and ______ away. (level 1)",
         "plans": [
             {
                 "value": "stowed"
@@ -14698,15 +14698,15 @@ export default  [
                 "value": "take"
             },
             {
-                "value": "push  "
+                "value": "push"
             }
         ],
-        "answer": "answer",
+        "answer": "stowed",
         "selectedAnswer": null
     },
     {
         "id": 866,
-        "question": "87. Tighten or _______ the clamp screw on top of the block to adjust the stud ",
+        "question": "Tighten or _______ the clamp screw on top of the block to adjust the stud fasteners in the seat track. (level 1)",
         "plans": [
             {
                 "value": "install"
@@ -14715,15 +14715,15 @@ export default  [
                 "value": "rotate"
             },
             {
-                "value": "loosen  "
+                "value": "loosen"
             }
         ],
-        "answer": "answer",
+        "answer": "loosen",
         "selectedAnswer": null
     },
     {
         "id": 867,
-        "question": "88. The backrest cover is attached with hook -and-loop _______. (level 1)  ",
+        "question": "The backrest cover is attached with hook -and-loop _______. (level 1)",
         "plans": [
             {
                 "value": "tape"
@@ -14732,49 +14732,49 @@ export default  [
                 "value": "leather"
             },
             {
-                "value": "fabric  "
+                "value": "fabric"
             }
         ],
-        "answer": "answer",
+        "answer": "tape",
         "selectedAnswer": null
     },
     {
         "id": 868,
-        "question": "89. TESTING AND FAULT ISOLATION contains procedures used to make an ",
+        "question": "TESTING AND FAULT ISOLATION contains procedures used to make an analysis of the _______ and condition of subassemblies. (level 1)",
         "plans": [
             {
-                "value": "AND FAULT ISOLATION contains procedures used to make an "
+                "value": "operation"
             },
             {
                 "value": "damage"
             },
             {
-                "value": "deffect  "
+                "value": "deffect"
             }
         ],
-        "answer": "answer",
+        "answer": "operation",
         "selectedAnswer": null
     },
     {
         "id": 869,
-        "question": "90. CAS stand for:.  (level 1)  ",
+        "question": "CAS stand for:.  (level 1)",
         "plans": [
             {
-                "value": "AS stand for:.  (level 1)  "
+                "value": "CABIN AIRCRAFT SYSTEM"
             },
             {
-                "value": "BIN AIRCRAFT SYSTEM"
+                "value": "CABIN ATTENDANT SEAT"
             },
             {
-                "value": "CAS stand for:.  (level 1)  "
+                "value": "COCKPIT AREA SEAT"
             }
         ],
-        "answer": "answer",
+        "answer": "CABIN ATTENDANT SEAT",
         "selectedAnswer": null
     },
     {
         "id": 870,
-        "question": "91. The normal cleaning method for seat covers is to remove them from the seat and ",
+        "question": "The normal cleaning method for seat covers is to remove them from the seat and commercially ________ clean with perchlorethane. (level 1)",
         "plans": [
             {
                 "value": "wet"
@@ -14783,15 +14783,15 @@ export default  [
                 "value": "humid"
             },
             {
-                "value": "dry  "
+                "value": "dry"
             }
         ],
-        "answer": "answer",
+        "answer": "dry",
         "selectedAnswer": null
     },
     {
         "id": 871,
-        "question": "92. The cushions ________ be exposed to any chemical cleaning agents.  (level 1)  ",
+        "question": "The cushions ________ be exposed to any chemical cleaning agents.  (level 1)",
         "plans": [
             {
                 "value": "can"
@@ -14800,32 +14800,32 @@ export default  [
                 "value": "must not"
             },
             {
-                "value": "should  "
+                "value": "should"
             }
         ],
-        "answer": "answer",
+        "answer": "must not",
         "selectedAnswer": null
     },
     {
         "id": 872,
-        "question": "93. Apply the solution directly to the plastic and rub with a clean, lint -free cloth or ",
+        "question": "Apply the solution directly to the plastic and rub with a clean, lint -free cloth or melamine foam pad to _______ dirt and debris. (level 1)",
         "plans": [
             {
-                "value": "Apply the solution directly to the plastic and rub with a clean, lint -free cloth or "
+                "value": "have"
             },
             {
                 "value": "loosen"
             },
             {
-                "value": "protect  "
+                "value": "protect"
             }
         ],
-        "answer": "answer",
+        "answer": "loosen",
         "selectedAnswer": null
     },
     {
         "id": 873,
-        "question": "94.  If a defective part is repairable, note the defect and assign that part for _______. ",
+        "question": "If a defective part is repairable, note the defect and assign that part for _______. (level 1)",
         "plans": [
             {
                 "value": "repair"
@@ -14834,15 +14834,15 @@ export default  [
                 "value": "remove"
             },
             {
-                "value": "storage  "
+                "value": "storage"
             }
         ],
-        "answer": "answer",
+        "answer": "repair",
         "selectedAnswer": null
     },
     {
         "id": 874,
-        "question": "95. Seat belts require visual and operational ________ pe riodically or when an ",
+        "question": "Seat belts require visual and operational ________ pe riodically or when an incident may indicate potential damage. (level 1)",
         "plans": [
             {
                 "value": "inspection"
@@ -14851,49 +14851,49 @@ export default  [
                 "value": "repair"
             },
             {
-                "value": "replace  "
+                "value": "replace"
             }
         ],
-        "answer": "answer",
+        "answer": "inspection",
         "selectedAnswer": null
     },
     {
         "id": 875,
-        "question": "96. Buckle and unbuckle the seatbelt to verify proper operation. ________ the belt if ",
+        "question": "Buckle and unbuckle the seatbelt to verify proper operation. ________ the belt if the operation failed. (level 1)",
         "plans": [
             {
                 "value": "Repair"
             },
             {
-                "value": "Buckle and unbuckle the seatbelt to verify proper operation. ________ the belt if "
+                "value": "Replace"
             },
             {
-                "value": "Reinstall  "
+                "value": "Reinstall"
             }
         ],
-        "answer": "answer",
+        "answer": "Replace",
         "selectedAnswer": null
     },
     {
         "id": 876,
-        "question": "97. Before assembly, inspect all parts for wear and/or damage that could cause ",
+        "question": "Before assembly, inspect all parts for wear and/or damage that could cause failure of the seat assembly or any of its _______ assemblies. (level 1)",
         "plans": [
             {
                 "value": "unit"
             },
             {
-                "value": "Before assembly, inspect all parts for wear and/or damage that could cause "
+                "value": "component"
             },
             {
-                "value": "item      "
+                "value": "item"
             }
         ],
-        "answer": "answer",
+        "answer": "component",
         "selectedAnswer": null
     },
     {
         "id": 877,
-        "question": "98. Loctite® products or equivalent are _______ for seat assembly . (level 1)  ",
+        "question": "Loctite® products or equivalent are _______ for seat assembly . (level 1)",
         "plans": [
             {
                 "value": "unnecessary"
@@ -14902,15 +14902,15 @@ export default  [
                 "value": "necessary"
             },
             {
-                "value": "satis  "
+                "value": "satis"
             }
         ],
-        "answer": "answer",
+        "answer": "necessary",
         "selectedAnswer": null
     },
     {
         "id": 878,
-        "question": "99. _______ the seat assembly forward or aft approximately one -half inch until the ",
+        "question": "_______ the seat assembly forward or aft approximately one -half inch until the locking mechanism on the rear track fitting can be pressed into an access hole.(level 1)",
         "plans": [
             {
                 "value": "Push"
@@ -14919,32 +14919,32 @@ export default  [
                 "value": "Slide"
             },
             {
-                "value": "Pull  "
+                "value": "Pull"
             }
         ],
-        "answer": "answer",
+        "answer": "Slide",
         "selectedAnswer": null
     },
     {
         "id": 879,
-        "question": "100. Attach the blank escutcheon to riveted arm pan assembly by _______ the ",
+        "question": "Attach the blank escutcheon to riveted arm pan assembly by _______ the screw. (level 1)",
         "plans": [
             {
-                "value": "Attach the blank escutcheon to riveted arm pan assembly by _______ the "
+                "value": "installing"
             },
             {
                 "value": "install"
             },
             {
-                "value": "installs  "
+                "value": "installs"
             }
         ],
-        "answer": "answer",
+        "answer": "installing",
         "selectedAnswer": null
     },
     {
         "id": 880,
-        "question": "101. If stacked storage must be used, ______ damage caused by excessive weight.. ",
+        "question": "If stacked storage must be used, ______ damage caused by excessive weight.. (level 1)",
         "plans": [
             {
                 "value": "avoid"
@@ -14953,15 +14953,15 @@ export default  [
                 "value": "advise"
             },
             {
-                "value": "avail  "
+                "value": "avail"
             }
         ],
-        "answer": "answer",
+        "answer": "avoid",
         "selectedAnswer": null
     },
     {
         "id": 881,
-        "question": "102. Seat assemb ly should be stored either in its ______ packaging (if available) or a ",
+        "question": "Seat assemb ly should be stored either in its ______ packaging (if available) or a suitable container. (level 1)",
         "plans": [
             {
                 "value": "original"
@@ -14970,15 +14970,15 @@ export default  [
                 "value": "small"
             },
             {
-                "value": "large  "
+                "value": "large"
             }
         ],
-        "answer": "answer",
+        "answer": "original",
         "selectedAnswer": null
     },
     {
         "id": 882,
-        "question": "103. If label is ______, seat should not be approved for storage until properly ",
+        "question": "If label is ______, seat should not be approved for storage until properly reidentified. (level 1)",
         "plans": [
             {
                 "value": "missing"
@@ -14987,15 +14987,15 @@ export default  [
                 "value": "raising"
             },
             {
-                "value": "moving  "
+                "value": "moving"
             }
         ],
-        "answer": "answer",
+        "answer": "missing",
         "selectedAnswer": null
     },
     {
         "id": 883,
-        "question": "104. Push the recline button on the armrest and pull the seat ______ rearward farther ",
+        "question": "Push the recline button on the armrest and pull the seat ______ rearward farther than the full recline dimension. (level 1)",
         "plans": [
             {
                 "value": "pan"
@@ -15004,15 +15004,15 @@ export default  [
                 "value": "cushion"
             },
             {
-                "value": "back  "
+                "value": "back"
             }
         ],
-        "answer": "answer",
+        "answer": "back",
         "selectedAnswer": null
     },
     {
         "id": 884,
-        "question": "105. To lock out the recline, move the seat back to the full upright position and turn ",
+        "question": "To lock out the recline, move the seat back to the full upright position and turn the jam nuts up to the UltraLOC® and _______. (level 1)",
         "plans": [
             {
                 "value": "hold"
@@ -15021,15 +15021,15 @@ export default  [
                 "value": "loosen"
             },
             {
-                "value": "C® and _______. (level 1)  "
+                "value": "tighten"
             }
         ],
-        "answer": "answer",
+        "answer": "tighten",
         "selectedAnswer": null
     },
     {
         "id": 885,
-        "question": "2. The oxygen is supplied by a _________ pressure oxygen cylinder to quick donning ",
+        "question": "The oxygen is supplied by a _________ pressure oxygen cylinder to quick donning masks in the cockpit. (level 1)",
         "plans": [
             {
                 "value": "high"
@@ -15038,15 +15038,15 @@ export default  [
                 "value": "low"
             },
             {
-                "value": "medium  "
+                "value": "medium"
             }
         ],
-        "answer": "answer",
+        "answer": "high",
         "selectedAnswer": null
     },
     {
         "id": 886,
-        "question": "1. The oxygen is supplied by a high pressure oxygen cylinder to _________ in the ",
+        "question": "The oxygen is supplied by a high pressure oxygen cylinder to _________ in the cockpit. (level 1)",
         "plans": [
             {
                 "value": "quick donning masks"
@@ -15055,15 +15055,15 @@ export default  [
                 "value": "smoke hoods"
             },
             {
-                "value": "masks.  "
+                "value": "masks."
             }
         ],
-        "answer": "answer",
+        "answer": "quick donning masks",
         "selectedAnswer": null
     },
     {
         "id": 887,
-        "question": "2. The portable oxygen system supplies oxygen to the _________ in an emergency ",
+        "question": "The portable oxygen system supplies oxygen to the _________ in an emergency and for first aid treatment. (level 1)",
         "plans": [
             {
                 "value": "passengers"
@@ -15072,15 +15072,18 @@ export default  [
                 "value": "cabin attendants"
             },
             {
-                "value": "flight crew       D.All above      "
+                "value": "flight crew"
+            },
+            {
+                "value": "All above"
             }
         ],
-        "answer": "answer",
+        "answer": "All above",
         "selectedAnswer": null
     },
     {
         "id": 888,
-        "question": "5.  The crew oxygen bottle pressure is indicated on the bottle direct reading ",
+        "question": "The crew oxygen bottle pressure is indicated on the bottle direct reading ___________. (level 1)",
         "plans": [
             {
                 "value": "Gage"
@@ -15089,32 +15092,32 @@ export default  [
                 "value": "Gauge"
             },
             {
-                "value": "Screen  "
+                "value": "Screen"
             }
         ],
-        "answer": "answer",
+        "answer": "Gage",
         "selectedAnswer": null
     },
     {
         "id": 889,
-        "question": "6. The smoke hood is vacuum packed in a transport/storage ___________. (level 1)  ",
+        "question": "The smoke hood is vacuum packed in a transport/storage ___________. (level 1)  ",
         "plans": [
             {
                 "value": "Bag"
             },
             {
-                "value": "Bag"
+                "value": "Box"
             },
             {
                 "value": "Container"
             }
         ],
-        "answer": "answer",
+        "answer": "Container",
         "selectedAnswer": null
     },
     {
         "id": 890,
-        "question": "7. Correct pressure is shown when the needle is in the ___________ range of the ",
+        "question": "Correct pressure is shown when the needle is in the ___________ range of the gage. (level 1)",
         "plans": [
             {
                 "value": "EMPTY"
@@ -15123,15 +15126,15 @@ export default  [
                 "value": "GREEN"
             },
             {
-                "value": "Correct pressure is shown when the needle is in the ___________ range of the "
+                "value": "FULL"
             }
         ],
-        "answer": "answer",
+        "answer": "FULL",
         "selectedAnswer": null
     },
     {
         "id": 891,
-        "question": "8. The crew smoke hood system allows freedom of movement to _ _________ a fire. ",
+        "question": "The crew smoke hood system allows freedom of movement to _ _________ a fire.(level 1)",
         "plans": [
             {
                 "value": "detect"
@@ -15140,27 +15143,27 @@ export default  [
                 "value": "extinguish"
             },
             {
-                "value": "stop  "
+                "value": "stop"
             }
         ],
-        "answer": "answer",
+        "answer": "extinguish",
         "selectedAnswer": null
     },
     {
         "id": 892,
-        "question": "9. A breathing hood container is ________ in the cockpit. (level 1)  ",
+        "question": "A breathing hood container is ________ in the cockpit. (level 1)",
         "plans": [
             {
-                "value": "A breathing hood container is ________ in the cockpit. (level 1)  "
+                "value": "installed"
             },
             {
                 "value": "put"
             },
             {
-                "value": "hold  "
+                "value": "hold"
             }
         ],
-        "answer": "answer",
+        "answer": "installed",
         "selectedAnswer": null
     },
     {
@@ -15174,15 +15177,15 @@ export default  [
                 "value": "masks"
             },
             {
-                "value": "detectors  "
+                "value": "detectors"
             }
         ],
-        "answer": "answer",
+        "answer": "hoods",
         "selectedAnswer": null
     },
     {
         "id": 894,
-        "question": "11. The smoke hood container is installed with a ______________. (level 1)  ",
+        "question": "The smoke hood container is installed with a ______________. (level 1)",
         "plans": [
             {
                 "value": "gage"
@@ -15191,15 +15194,15 @@ export default  [
                 "value": "stamp"
             },
             {
-                "value": "tamper seal  "
+                "value": "tamper seal"
             }
         ],
-        "answer": "answer",
+        "answer": "tamper seal",
         "selectedAnswer": null
     },
     {
         "id": 895,
-        "question": "12. The breathing hood is stored under a _____________ in a specially designed ",
+        "question": "The breathing hood is stored under a _____________ in a specially designed bag. (level 1)",
         "plans": [
             {
                 "value": "cover"
@@ -15208,15 +15211,15 @@ export default  [
                 "value": "pressure"
             },
             {
-                "value": "vacuum  "
+                "value": "vacuum"
             }
         ],
-        "answer": "answer",
+        "answer": "vacuum",
         "selectedAnswer": null
     },
     {
         "id": 896,
-        "question": "13. The smoke hood is fire____________. (level 1)  ",
+        "question": "The smoke hood is fire____________. (level 1)",
         "plans": [
             {
                 "value": "resistance"
@@ -15225,15 +15228,15 @@ export default  [
                 "value": "resist"
             },
             {
-                "value": "resistant  "
+                "value": "resistant"
             }
         ],
-        "answer": "answer",
+        "answer": "resistant",
         "selectedAnswer": null
     },
     {
         "id": 897,
-        "question": "14. The high -pressure cylinders are installed in brackets with ________release ",
+        "question": "The high -pressure cylinders are installed in brackets with ________release clamps. (level 1)",
         "plans": [
             {
                 "value": "fast"
@@ -15242,15 +15245,15 @@ export default  [
                 "value": "safe"
             },
             {
-                "value": "quick -release  "
+                "value": "quick -release"
             }
         ],
-        "answer": "answer",
+        "answer": "quick -release",
         "selectedAnswer": null
     },
     {
         "id": 898,
-        "question": "15. The _______________flow first aid oxygen mask supplies oxy gen for ",
+        "question": "The _______________flow first aid oxygen mask supplies oxy gen for therapeutic purposes(level 1)",
         "plans": [
             {
                 "value": "high"
@@ -15259,15 +15262,15 @@ export default  [
                 "value": "continuous"
             },
             {
-                "value": "low "
+                "value": "low"
             }
         ],
-        "answer": "answer",
+        "answer": "continuous",
         "selectedAnswer": null
     },
     {
         "id": 899,
-        "question": "16. The smoke hood container is full of _____________ oxygen.  (level 1)  ",
+        "question": "The smoke hood container is full of _____________ oxygen.  (level 1)",
         "plans": [
             {
                 "value": "compressed"
@@ -15276,15 +15279,15 @@ export default  [
                 "value": "fresh"
             },
             {
-                "value": "mixed  "
+                "value": "mixed"
             }
         ],
-        "answer": "answer",
+        "answer": "compressed",
         "selectedAnswer": null
     },
     {
         "id": 900,
-        "question": "17. ___________ pressure will lead to portable oxygen bottle replacement.  (level 1)  ",
+        "question": "___________ pressure will lead to portable oxygen bottle replacement.  (level 1)",
         "plans": [
             {
                 "value": "Incorrect"
@@ -15296,12 +15299,12 @@ export default  [
                 "value": "over "
             }
         ],
-        "answer": "answer",
+        "answer": "Incorrect",
         "selectedAnswer": null
     },
     {
         "id": 901,
-        "question": "18. Manual/Tool/ Release.  (level 1)  ",
+        "question": "Manual/Tool/ Release.  (level 1)",
         "plans": [
             {
                 "value": "Manual release tool"
@@ -15310,32 +15313,32 @@ export default  [
                 "value": "Tool Manual Release"
             },
             {
-                "value": "Release Tool Manual      "
+                "value": "Release Tool Manual"
             }
         ],
-        "answer": "answer",
+        "answer": "Manual release tool",
         "selectedAnswer": null
     },
     {
         "id": 902,
-        "question": "19. Portable/Bottle/Oxygen.  (level 1)  ",
+        "question": "Portable/Bottle/Oxygen.  (level 1)",
         "plans": [
             {
                 "value": "Bottle Oxygen Portable"
             },
             {
-                "value": "Bottle/Oxygen.  (level 1)  "
+                "value": "Portable Oxygen Bottle"
             },
             {
-                "value": "Oxygen Portable Bottle  "
+                "value": "Oxygen Portable Bottle"
             }
         ],
-        "answer": "answer",
+        "answer": "Portable Oxygen Bottle",
         "selectedAnswer": null
     },
     {
         "id": 903,
-        "question": "20. Pressure /Gage/Reading. (level 1)  ",
+        "question": "Pressure /Gage/Reading. (level 1)",
         "plans": [
             {
                 "value": "Gage Pressure Reading"
@@ -15344,15 +15347,15 @@ export default  [
                 "value": "Pressure Reading Gage"
             },
             {
-                "value": "Gage Reading Pressure  "
+                "value": "Gage Reading Pressure"
             }
         ],
-        "answer": "answer",
+        "answer": "Pressure Reading Gage",
         "selectedAnswer": null
     },
     {
         "id": 904,
-        "question": "21. Hood/Container/Smoke. (level 1)  ",
+        "question": "Hood/Container/Smoke. (level 1)",
         "plans": [
             {
                 "value": "Smoke Hood Container"
@@ -15361,66 +15364,66 @@ export default  [
                 "value": "Container Hood Smoke"
             },
             {
-                "value": "Container/Smoke. (level 1)  "
+                "value": "Container Smoke Hood"
             }
         ],
-        "answer": "answer",
+        "answer": "Smoke Hood Container",
         "selectedAnswer": null
     },
     {
         "id": 905,
-        "question": "22. The green color of the indi cator shows that the PBE is in a ____________ ",
+        "question": "The green color of the indi cator shows that the PBE is in a ____________ condition. (level 1)",
         "plans": [
             {
                 "value": "unserviceable"
             },
             {
-                "value": "BE is in a ____________ "
+                "value": "Good"
             },
             {
-                "value": "serviceable  "
+                "value": "serviceable"
             }
         ],
-        "answer": "answer",
+        "answer": "serviceable",
         "selectedAnswer": null
     },
     {
         "id": 906,
-        "question": "23. Protective/ Equipment/Breathing.   (level 1)  ",
+        "question": "Protective/ Equipment/Breathing.(level 1)",
         "plans": [
             {
-                "value": "Protective Equipment Breathing.      Protective Breathing Equipment"
+                "value": "Protective Equipment Breathing."
             },
             {
-                "value": "Breathing.   (level 1)  "
+                "value": "Protective Breathing Equipment"
             },
             {
-                "value": "Breathing Protective Equipment   "
+                "value": "Breathing Protective Equipment"
             }
         ],
-        "answer": "answer",
+        "answer": "Protective Breathing Equipment",
         "selectedAnswer": null
     },
     {
         "id": 907,
-        "question": "24. Make sure that the tamper seal is not ____________ on serviceable PBE. . (level ",
+        "question": "Make sure that the tamper seal is not ____________ on serviceable PBE. . (level 1)",
         "plans": [
             {
                 "value": "blurred"
             },
             {
-                "value": "BE. . (level "
+                "value": "broken"
             },
             {
-                "value": "available  "
+                "value": "available"
             }
         ],
-        "answer": "answer",
+        "answer": "broken",
         "selectedAnswer": null
     },
     {
         "id": 908,
-        "question": "25. Make sure that you can see the __________ through the he adrest hole.  (level 1)  ",
+        "question": "Make sure that you can see the __________ through the he adrest hole.(level 1)",
         "plans": [
             {
                 "value": "indicator"
@@ -15429,15 +15432,15 @@ export default  [
                 "value": "stamp"
             },
             {
-                "value": "mask  "
+                "value": "mask"
             }
         ],
-        "answer": "answer",
+        "answer": "indicator",
         "selectedAnswer": null
     },
     {
         "id": 909,
-        "question": "26. Make sure that the brackets hold the portable oxygen -cylinder assembly  correctly ",
+        "question": "Make sure that the brackets hold the portable oxygen -cylinder assembly  correctly in ________________.(level 1)",
         "plans": [
             {
                 "value": "position"
@@ -15446,27 +15449,27 @@ export default  [
                 "value": "place"
             },
             {
-                "value": "storage box  "
+                "value": "storage box"
             }
         ],
-        "answer": "answer",
+        "answer": "position",
         "selectedAnswer": null
     },
     {
         "id": 910,
-        "question": "27. In case of rapid cabin _____________, oxygen masks are automatically dropped ",
+        "question": "In case of rapid cabin _____________, oxygen masks are automatically dropped to passengers. (level 1)",
         "plans": [
             {
-                "value": "de pressurize"
+                "value": "depressurize"
             },
             {
                 "value": "depressurization"
             },
             {
-                "value": "depressurizing  "
+                "value": "depressurizing"
             }
         ],
-        "answer": "answer",
+        "answer": "depressurization",
         "selectedAnswer": null
     },
     {
