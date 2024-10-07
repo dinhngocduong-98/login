@@ -15474,7 +15474,7 @@ export default  [
     },
     {
         "id": 911,
-        "question": "28. The passenger oxygen system operates ____________when the altitude ",
+        "question": "The passenger oxygen system operates ____________when the altitude pressure switch closes.",
         "plans": [
             {
                 "value": "automatically"
@@ -15483,18 +15483,18 @@ export default  [
                 "value": "manually"
             },
             {
-                "value": "automatically and "
+                "value": "automatically and manually"
             }
         ],
-        "answer": "answer",
+        "answer": "automatically",
         "selectedAnswer": null
     },
     {
         "id": 912,
-        "question": "29. As soon as the emergency oxygen container doors open, the masks ",
+        "question": "As soon as the emergency oxygen container doors open, the masks __________.(level 1)",
         "plans": [
             {
-                "value": "As soon as the emergency oxygen container doors open, the masks "
+                "value": "fall out"
             },
             {
                 "value": "drop off"
@@ -15503,12 +15503,12 @@ export default  [
                 "value": "fall off  "
             }
         ],
-        "answer": "answer",
+        "answer": "fall out",
         "selectedAnswer": null
     },
     {
         "id": 913,
-        "question": "33. The lavatory sig ns indicate the position of the lavatories in the cabin and ",
+        "question": "The lavatory sig ns indicate the position of the lavatories in the cabin and whether they are ___________or not. (level 1)",
         "plans": [
             {
                 "value": "occupying"
@@ -15517,15 +15517,15 @@ export default  [
                 "value": "occupy"
             },
             {
-                "value": "occupied  "
+                "value": "occupied"
             }
         ],
-        "answer": "answer",
+        "answer": "occupied",
         "selectedAnswer": null
     },
     {
         "id": 914,
-        "question": "34. The reading lights are installed in the Passenger Service Units (PSUs) fitted ",
+        "question": "The reading lights are installed in the Passenger Service Units (PSUs) fitted _________ the passenger seats. (level 1)",
         "plans": [
             {
                 "value": "at"
@@ -15534,15 +15534,15 @@ export default  [
                 "value": "on"
             },
             {
-                "value": "above  "
+                "value": "above"
             }
         ],
-        "answer": "answer",
+        "answer": "above",
         "selectedAnswer": null
     },
     {
         "id": 915,
-        "question": "35. Unit/Passenger/Service. (level 1)  ",
+        "question": "Unit/Passenger/Service. (level 1)  ",
         "plans": [
             {
                 "value": "Passenger Service Unit"
@@ -15551,32 +15551,32 @@ export default  [
                 "value": "Passenger Unit Service"
             },
             {
-                "value": "Service Passenger Unit  "
+                "value": "Service Passenger Unit"
             }
         ],
-        "answer": "answer",
+        "answer": "Passenger Service Unit",
         "selectedAnswer": null
     },
     {
         "id": 916,
-        "question": "36. Area /Entrance/Lighting. (level 1)  ",
+        "question": "Area /Entrance/Lighting. (level 1)",
         "plans": [
             {
-                "value": "Area /Entrance/Lighting. (level 1)  "
+                "value": "Lighting Entrance Area"
             },
             {
                 "value": "Entrance Area Lighting"
             },
             {
-                "value": "Area Entrance Lighting  "
+                "value": "Area Entrance Lighting"
             }
         ],
-        "answer": "answer",
+        "answer": "Entrance Area Lighting",
         "selectedAnswer": null
     },
     {
         "id": 917,
-        "question": "37. The entry areas are _____________by fluorescent lamps installed in ceilling ",
+        "question": "he entry areas are _____________by fluorescent lamps installed in ceilling panels. (level 1)",
         "plans": [
             {
                 "value": "illuminating"
@@ -15585,15 +15585,15 @@ export default  [
                 "value": "illuminates"
             },
             {
-                "value": "illuminated  "
+                "value": "illuminated"
             }
         ],
-        "answer": "answer",
+        "answer": "illuminated",
         "selectedAnswer": null
     },
     {
         "id": 918,
-        "question": "38. The cabin light system provides __________of the cabin and entrances, ",
+        "question": "The cabin light system provides __________of the cabin and entrances, lavatories, galleys and attendant work areas. (level 1)",
         "plans": [
             {
                 "value": "illuminating"
@@ -15602,15 +15602,15 @@ export default  [
                 "value": "illumination"
             },
             {
-                "value": "illuminated  "
+                "value": "illuminated"
             }
         ],
-        "answer": "answer",
+        "answer": "illumination",
         "selectedAnswer": null
     },
     {
         "id": 919,
-        "question": "39. The cabin lighting consists of four strips of _______________lamps.  (level 1)  ",
+        "question": "The cabin lighting consists of four strips of _______________lamps.  (level 1)",
         "plans": [
             {
                 "value": "fluorescent"
@@ -15619,32 +15619,32 @@ export default  [
                 "value": "Led"
             },
             {
-                "value": "incandescent  "
+                "value": "incandescent"
             }
         ],
-        "answer": "answer",
+        "answer": "fluorescent",
         "selectedAnswer": null
     },
     {
         "id": 920,
-        "question": "40. Integral/Unit/Ballast. (level 1)  ",
+        "question": "Integral/Unit/Ballast. (level 1)",
         "plans": [
             {
                 "value": "Unit Integral Ballast"
             },
             {
-                "value": "Ballast. (level 1)  "
+                "value": "Integral Ballast Unit"
             },
             {
                 "value": "Ballast Integral Unit  "
             }
         ],
-        "answer": "answer",
+        "answer": "Integral Ballast Unit",
         "selectedAnswer": null
     },
     {
         "id": 921,
-        "question": "41. Lights/Cabin/Controls. (level 1)  ",
+        "question": "Lights/Cabin/Controls. (level 1)",
         "plans": [
             {
                 "value": "Lights Cabin Controls"
@@ -15653,66 +15653,66 @@ export default  [
                 "value": "Lights Controls Cabin"
             },
             {
-                "value": "Cabin/Controls. (level 1)  "
+                "value": "Cabin Controls Lights"
             }
         ],
-        "answer": "answer",
+        "answer": "Cabin Controls Lights",
         "selectedAnswer": null
     },
     {
         "id": 922,
-        "question": "42. Attendant/Panel/Forward. (level 1)  ",
+        "question": "Attendant/Panel/Forward. (level 1)",
         "plans": [
             {
-                "value": "Attendant/Panel/Forward. (level 1)  "
+                "value": "Lights Cabin Controls"
             },
             {
-                "value": "Forward Attendant P anel"
+                "value": "Forward Attendant Panel"
             },
             {
-                "value": "Cabin Controls"
+                "value": "Cabin Controls Lights"
             }
         ],
-        "answer": "answer",
+        "answer": "Forward Attendant Panel",
         "selectedAnswer": null
     },
     {
         "id": 923,
-        "question": "43. The Forward Attendant Panel ________the activation of the passenger reading ",
+        "question": "The Forward Attendant Panel ________the activation of the passenger reading lights. (level 1)",
         "plans": [
             {
-                "value": "Attendant Panel ________the activation of the passenger reading "
+                "value": "controls"
             },
             {
                 "value": "controlled"
             },
             {
-                "value": "is controlling  "
+                "value": "is controlling"
             }
         ],
-        "answer": "answer",
+        "answer": "controls",
         "selectedAnswer": null
     },
     {
         "id": 924,
-        "question": "44. The ballast unit ____________power for one fluorescent lamp.  (level 1)  ",
+        "question": "The ballast unit ____________power for one fluorescent lamp.  (level 1)",
         "plans": [
             {
-                "value": "provid es"
+                "value": "provides"
             },
             {
                 "value": "supplies"
             },
             {
-                "value": "gives  "
+                "value": "gives"
             }
         ],
-        "answer": "answer",
+        "answer": "provides",
         "selectedAnswer": null
     },
     {
         "id": 925,
-        "question": "45. The lavatory lighted signs are __________through the microswitch installed in ",
+        "question": "The lavatory lighted signs are __________through the microswitch installed in the related lavatory door frame. (level 1)",
         "plans": [
             {
                 "value": "energizes"
@@ -15721,32 +15721,32 @@ export default  [
                 "value": "energized"
             },
             {
-                "value": "energizing      "
+                "value": "energizing"
             }
         ],
-        "answer": "answer",
+        "answer": "energized",
         "selectedAnswer": null
     },
     {
         "id": 926,
-        "question": "46. System/Emergency/Lighting. (level 1)  ",
+        "question": "System/Emergency/Lighting. (level 1)",
         "plans": [
             {
-                "value": "Emergency Lighting Syst em"
+                "value": "Emergency Lighting System"
             },
             {
                 "value": "Emergency System Lighting"
             },
             {
-                "value": "System "
+                "value": "System Emergency Lighting"
             }
         ],
-        "answer": "answer",
+        "answer": "Emergency Lighting System",
         "selectedAnswer": null
     },
     {
         "id": 927,
-        "question": "47. Exit/Sign/Location. (level 1)  ",
+        "question": "Exit/Sign/Location. (level 1)",
         "plans": [
             {
                 "value": "Sign Exit Location"
@@ -15755,15 +15755,15 @@ export default  [
                 "value": "Exit Location Sign"
             },
             {
-                "value": "Exit Sign Location  "
+                "value": "Exit Sign Location"
             }
         ],
-        "answer": "answer",
+        "answer": "Exit Location Sign",
         "selectedAnswer": null
     },
     {
         "id": 928,
-        "question": "48. Exit/Sign/Marking. (level 1)  ",
+        "question": "Exit/Sign/Marking. (level 1)",
         "plans": [
             {
                 "value": "Sign Exit Marking"
@@ -15772,15 +15772,15 @@ export default  [
                 "value": "Exit Sign Marking"
             },
             {
-                "value": "Exit Marking Sign "
+                "value": "Exit Marking Sign"
             }
         ],
-        "answer": "answer",
+        "answer": "Exit Marking Sign",
         "selectedAnswer": null
     },
     {
         "id": 929,
-        "question": "49. To change the reading light unit, the PSU has to be _____________. (level 1)  ",
+        "question": "To change the reading light unit, the PSU has to be _____________. (level 1)",
         "plans": [
             {
                 "value": "removes"
@@ -15789,15 +15789,15 @@ export default  [
                 "value": "removed"
             },
             {
-                "value": "removal  "
+                "value": "removal"
             }
         ],
-        "answer": "answer",
+        "answer": "removed",
         "selectedAnswer": null
     },
     {
         "id": 930,
-        "question": "50. To ____________the beam of attendant work light, a specific tool is necessary.  ",
+        "question": "To ____________the beam of attendant work light, a specific tool is necessary.",
         "plans": [
             {
                 "value": "adjust"
@@ -15806,15 +15806,15 @@ export default  [
                 "value": "remove"
             },
             {
-                "value": "install  "
+                "value": "install"
             }
         ],
-        "answer": "answer",
+        "answer": "adjust",
         "selectedAnswer": null
     },
     {
         "id": 931,
-        "question": "51. The ____________lights and the related power unit are installed in the overhead ",
+        "question": "The ____________lights and the related power unit are installed in the overhead panels above the cabin attendant seats. (level 1)",
         "plans": [
             {
                 "value": "work"
@@ -15823,15 +15823,15 @@ export default  [
                 "value": "reading"
             },
             {
-                "value": "warning  "
+                "value": "warning"
             }
         ],
-        "answer": "answer",
+        "answer": "work",
         "selectedAnswer": null
     },
     {
         "id": 932,
-        "question": "52. The emergency lighting system provides ___________ in case of failure of the ",
+        "question": "The emergency lighting system provides ___________ in case of failure of the main lighting system or during emergency conditions. (level 1)",
         "plans": [
             {
                 "value": "illuminating"
@@ -15840,15 +15840,15 @@ export default  [
                 "value": "illumination"
             },
             {
-                "value": "illuminate  "
+                "value": "illuminate"
             }
         ],
-        "answer": "answer",
+        "answer": "illumination",
         "selectedAnswer": null
     },
     {
         "id": 933,
-        "question": "53. The emergency lights are ___________with 6VDC lamps.  (level 1)  ",
+        "question": "The emergency lights are ___________with 6VDC lamps.  (level 1)",
         "plans": [
             {
                 "value": "given"
@@ -15857,15 +15857,15 @@ export default  [
                 "value": "provided"
             },
             {
-                "value": "C lamps.  (level 1)  "
+                "value": "equipped"
             }
         ],
-        "answer": "answer",
+        "answer": "equipped",
         "selectedAnswer": null
     },
     {
         "id": 934,
-        "question": "54. What does FPEEPML stand for?  (level 1)  ",
+        "question": "What does FPEEPML stand for?  (level 1)",
         "plans": [
             {
                 "value": "Floor Proximity Emer gency Escape Path Marking lights"
@@ -15874,15 +15874,15 @@ export default  [
                 "value": "Floor Proximity Exit Escape Path Marking lights"
             },
             {
-                "value": "Floor Proximity Evacuation Escape Path Marking lights  "
+                "value": "Floor Proximity Evacuation Escape Path Marking lights"
             }
         ],
-        "answer": "answer",
+        "answer": "Floor Proximity Emer gency Escape Path Marking lights",
         "selectedAnswer": null
     },
     {
         "id": 935,
-        "question": "55. Escape/Light/Slide (level 1)  ",
+        "question": "Escape/Light/Slide (level 1)",
         "plans": [
             {
                 "value": "Slide Light Escape"
@@ -15891,15 +15891,15 @@ export default  [
                 "value": "Escape Slide Light"
             },
             {
-                "value": "Light Escape Sli de "
+                "value": "Light Escape Slide"
             }
         ],
-        "answer": "answer",
+        "answer": "Escape Slide Light",
         "selectedAnswer": null
     },
     {
         "id": 936,
-        "question": "56. The EMER EXIT LT ________on the overhead panel controls the Emergency ",
+        "question": "The EMER EXIT LT ________on the overhead panel controls the Emergency Lighting System. (level 1)",
         "plans": [
             {
                 "value": "contactor"
@@ -15908,32 +15908,32 @@ export default  [
                 "value": "switch"
             },
             {
-                "value": "pushbutton  "
+                "value": "pushbutton"
             }
         ],
-        "answer": "answer",
+        "answer": "switch",
         "selectedAnswer": null
     },
     {
         "id": 937,
-        "question": "57. The EMER EXIT LT switch has three positions : OFF, ARM and ON.  (level 1)  ",
+        "question": "The EMER EXIT LT switch has three positions : OFF, ARM and ON.  (level 1)",
         "plans": [
             {
-                "value": "ARM and ON.  (level 1)  "
+                "value": "positions"
             },
             {
                 "value": "contactors"
             },
             {
-                "value": "connecto rs "
+                "value": "connectors"
             }
         ],
-        "answer": "answer",
+        "answer": "positions",
         "selectedAnswer": null
     },
     {
         "id": 938,
-        "question": "58. In the event of excessive cabin depressurization, the exit marking signs and the ",
+        "question": "In the event of excessive cabin depressurization, the exit marking signs and the exit location signs automatically __________.(level 1)",
         "plans": [
             {
                 "value": "go off"
@@ -15942,32 +15942,32 @@ export default  [
                 "value": "come on"
             },
             {
-                "value": "turn off      "
+                "value": "turn off"
             }
         ],
-        "answer": "answer",
+        "answer": "come on",
         "selectedAnswer": null
     },
     {
         "id": 939,
-        "question": "59. The EMER LIGHT ___________ located on the FAP allows the Emergency ",
+        "question": "The EMER LIGHT ___________ located on the FAP allows the Emergency Lighting System to be switched on. (level 1)",
         "plans": [
             {
-                "value": "AP allows the Emergency "
+                "value": "switch"
             },
             {
                 "value": "selector"
             },
             {
-                "value": "pushbutton  "
+                "value": "pushbutton"
             }
         ],
-        "answer": "answer",
+        "answer": "pushbutton",
         "selectedAnswer": null
     },
     {
         "id": 940,
-        "question": "60. The integral lights are switched on when the Escape Slides are ____________ ",
+        "question": "The integral lights are switched on when the Escape Slides are ____________ and the Doors open. (level 1)",
         "plans": [
             {
                 "value": "disarmed"
@@ -15976,15 +15976,15 @@ export default  [
                 "value": "armed"
             },
             {
-                "value": "deployed  "
+                "value": "deployed"
             }
         ],
-        "answer": "answer",
+        "answer": "armed",
         "selectedAnswer": null
     },
     {
         "id": 941,
-        "question": "61. The Emergency Lighting System provides power supply for the integral lights ",
+        "question": "The Emergency Lighting System provides power supply for the integral lights ________in the Door Escape Slides. (level 1)",
         "plans": [
             {
                 "value": "installed"
@@ -15993,32 +15993,32 @@ export default  [
                 "value": "included"
             },
             {
-                "value": "provided  "
+                "value": "provided"
             }
         ],
-        "answer": "answer",
+        "answer": "installed",
         "selectedAnswer": null
     },
     {
         "id": 942,
-        "question": "62. A Lavatory Auxiliary Light is installed in each Lavatory and is illuminated as long ",
+        "question": "A Lavatory Auxiliary Light is installed in each Lavatory and is illuminated as long as the 28 VDC ESS BUS is __________.(level 1)",
         "plans": [
             {
-                "value": "A Lavatory Auxiliary Light is installed in each Lavatory and is illuminated as long "
+                "value": "armed"
             },
             {
-                "value": "BUS is __________. (level 1)  "
+                "value": "available"
             },
             {
-                "value": "C ESS BUS is __________. (level 1)  "
+                "value": "unavailable"
             }
         ],
-        "answer": "answer",
+        "answer": "available",
         "selectedAnswer": null
     },
     {
         "id": 943,
-        "question": "63. The EMER EXIT LIGHT(LT) selector allows the Emergency Lighting System to ",
+        "question": "The EMER EXIT LIGHT(LT) selector allows the Emergency Lighting System to be manually or automatically ___________.(level 1)",
         "plans": [
             {
                 "value": "ON"
@@ -16027,15 +16027,15 @@ export default  [
                 "value": "activated"
             },
             {
-                "value": "OFF  "
+                "value": "OFF"
             }
         ],
-        "answer": "answer",
+        "answer": "activated",
         "selectedAnswer": null
     },
     {
         "id": 944,
-        "question": "64. The emergency lighting system can be ___________fro m the cockpit or from the ",
+        "question": "The emergency lighting system can be ___________fro m the cockpit or from the cabin. (level 1)",
         "plans": [
             {
                 "value": "turned off"
@@ -16044,15 +16044,15 @@ export default  [
                 "value": "controlled"
             },
             {
-                "value": "turned on  "
+                "value": "turned on"
             }
         ],
-        "answer": "answer",
+        "answer": "controlled",
         "selectedAnswer": null
     },
     {
         "id": 945,
-        "question": "65. When the LIGHT EMER pushbutton is _________all the emergency lighting ",
+        "question": "When the LIGHT EMER pushbutton is _________all the emergency lighting system comes on. (level 1)",
         "plans": [
             {
                 "value": "released"
@@ -16061,15 +16061,15 @@ export default  [
                 "value": "depressed"
             },
             {
-                "value": "pressed  "
+                "value": "pressed"
             }
         ],
-        "answer": "answer",
+        "answer": "pressed",
         "selectedAnswer": null
     },
     {
         "id": 946,
-        "question": "66. The emergency lighting system p rovides illumination in case of ________of the ",
+        "question": "The emergency lighting system p rovides illumination in case of ________of the main lighting system or during emergency conditions. (level 1)",
         "plans": [
             {
                 "value": "deactivation"
@@ -16078,66 +16078,66 @@ export default  [
                 "value": "failure"
             },
             {
-                "value": "activation  "
+                "value": "activation"
             }
         ],
-        "answer": "answer",
+        "answer": "failure",
         "selectedAnswer": null
     },
     {
         "id": 947,
-        "question": "67. WALL/ LIGHT/MOUNTED/ EMERGENCY. (level 1)  ",
+        "question": "WALL/ LIGHT/MOUNTED/ EMERGENCY. (level 1)",
         "plans": [
             {
-                "value": "ALL/ LIGHT/MOUNTED/ EMERGENCY. (level 1)  "
+                "value": "MOUNTED WALL EMERGENCY LIGHT"
             },
             {
-                "value": "WALL MOUNTED LIGHT EMERG ENCY"
+                "value": "WALL MOUNTED LIGHT EMERGENCY"
             },
             {
-                "value": "CY. (level 1)  "
+                "value": "WALL MOUNTED EMERGENCY LIGHT"
             }
         ],
-        "answer": "answer",
+        "answer": "WALL MOUNTED EMERGENCY LIGHT",
         "selectedAnswer": null
     },
     {
         "id": 948,
-        "question": "68. LIGHT/SEAT/MOUNTED/EMERGENCY . (level 1)  ",
+        "question": "LIGHT/SEAT/MOUNTED/EMERGENCY . (level 1)",
         "plans": [
             {
-                "value": "AT/MOUNTED/EMERGENCY . (level 1)  "
+                "value": "MOUNTED SEAT EMERGENCY LIGHT"
             },
             {
                 "value": "SEAT MOUNTED EMERGENCY LIGHT"
             },
             {
-                "value": "CY . (level 1)  "
+                "value": "EMERGENCY LIGHT SEAT MOUNTED"
             }
         ],
-        "answer": "answer",
+        "answer": "SEAT MOUNTED EMERGENCY LIGHT",
         "selectedAnswer": null
     },
     {
         "id": 949,
-        "question": "69. LIGHT/ESCAPE/SLIDE . (level 1)  ",
+        "question": "LIGHT/ESCAPE/SLIDE . (level 1)",
         "plans": [
             {
-                "value": "APE/SLIDE . (level 1)  "
+                "value": "ESCAPE LIGHT SLIDE"
             },
             {
-                "value": "ESCAPE SLIDE LI GHT"
+                "value": "ESCAPE SLIDE LIGHT"
             },
             {
-                "value": "CAPE/SLIDE . (level 1)  "
+                "value": "SLIDE LIGHT ESCAPE"
             }
         ],
-        "answer": "answer",
+        "answer": "ESCAPE SLIDE LIGHT",
         "selectedAnswer": null
     },
     {
         "id": 950,
-        "question": "70. EPMS.  (level 1)      ",
+        "question": "EPMS.(level 1)",
         "plans": [
             {
                 "value": "ESCAPE PATH MARKING SYSTEM"
@@ -16146,15 +16146,15 @@ export default  [
                 "value": "EXIT PATH MARKING SYSTEM"
             },
             {
-                "value": "CAPE PATH MARKING SYSTEM"
+                "value": " EVACUATION PATH MARKING SYSTEM"
             }
         ],
-        "answer": "answer",
+        "answer": "ESCAPE PATH MARKING SYSTEM",
         "selectedAnswer": null
     },
     {
         "id": 951,
-        "question": "71. Each cabin emergency light __________ of a housing and a lens, containing two ",
+        "question": "Each cabin emergency light __________ of a housing and a lens, containing two 6VDC lamps in parallel. (level 1)",
         "plans": [
             {
                 "value": "includes"
@@ -16163,15 +16163,15 @@ export default  [
                 "value": "consists"
             },
             {
-                "value": "C lamps in parallel. (level 1)  "
+                "value": "compromises"
             }
         ],
-        "answer": "answer",
+        "answer": "consists",
         "selectedAnswer": null
     },
     {
         "id": 952,
-        "question": "72. The Cabin light system provides illumination of lavatory ____________signs.  ",
+        "question": "The Cabin light system provides illumination of lavatory ____________signs.(level 1)",
         "plans": [
             {
                 "value": "noctilucent"
@@ -16180,15 +16180,15 @@ export default  [
                 "value": "dimmed"
             },
             {
-                "value": "Cabin light system provides illumination of lavatory ____________signs.  "
+                "value": "lighted"
             }
         ],
-        "answer": "answer",
+        "answer": "lighted",
         "selectedAnswer": null
     },
     {
         "id": 953,
-        "question": "73. There are call lights to indicate the location from w hich a passenger call ",
+        "question": "There are call lights to indicate the location from w hich a passenger call is_________.(level 1)",
         "plans": [
             {
                 "value": "initiated"
@@ -16197,15 +16197,15 @@ export default  [
                 "value": "started"
             },
             {
-                "value": "pushed  "
+                "value": "pushed"
             }
         ],
-        "answer": "answer",
+        "answer": "initiated",
         "selectedAnswer": null
     },
     {
         "id": 954,
-        "question": "73. There are call lights to _______ the location from which a passenger call is ",
+        "question": "There are call lights to _______ the location from which a passenger call is initiated. (level 1)",
         "plans": [
             {
                 "value": "show"
@@ -16214,15 +16214,15 @@ export default  [
                 "value": "indicate"
             },
             {
-                "value": "pushed  "
+                "value": "pushed"
             }
         ],
-        "answer": "answer",
+        "answer": "indicate",
         "selectedAnswer": null
     },
     {
         "id": 955,
-        "question": "74. Each fluorescent lamp is installed in a __ ________with an integral ballast unit.  ",
+        "question": "Each fluorescent lamp is installed in a __ ________with an integral ballast unit.",
         "plans": [
             {
                 "value": "lamp cover"
@@ -16231,15 +16231,15 @@ export default  [
                 "value": "lamp keeper"
             },
             {
-                "value": "lampholder  "
+                "value": "lampholder"
             }
         ],
-        "answer": "answer",
+        "answer": "lampholder",
         "selectedAnswer": null
     },
     {
         "id": 956,
-        "question": "75. The cabin attendant work lights consist of ___________ lights installed in an ",
+        "question": "The cabin attendant work lights consist of ___________ lights installed in an overhead panel above the attendant seats. (level 1)",
         "plans": [
             {
                 "value": "low intensity"
@@ -16248,66 +16248,66 @@ export default  [
                 "value": "high inten sity"
             },
             {
-                "value": "medium intensity  "
+                "value": "medium intensity"
             }
         ],
-        "answer": "answer",
+        "answer": "high inten sity",
         "selectedAnswer": null
     },
     {
         "id": 957,
-        "question": "76. The Cabin Lights Controls are_______ on the FORWARD ATTENDANT ",
+        "question": "The Cabin Lights Controls are_______ on the FORWARD ATTENDANT PANEL(FAP). (level 1)",
         "plans": [
             {
-                "value": "ARD ATTENDANT "
+                "value": "put"
             },
             {
                 "value": "installed"
             },
             {
-                "value": "Cabin Lights Controls are_______ on the FORWARD ATTENDANT "
+                "value": "located"
             }
         ],
-        "answer": "answer",
+        "answer": "located",
         "selectedAnswer": null
     },
     {
         "id": 958,
-        "question": "77. FULL BRIGHTNESS. (level 1)  ",
+        "question": "FULL BRIGHTNESS.(level 1)",
         "plans": [
             {
                 "value": "minimum brightness"
             },
             {
-                "value": "BRIGHTNESS. (level 1)  "
+                "value": "max brightness"
             },
             {
-                "value": "medium brightness  "
+                "value": "medium brightness"
             }
         ],
-        "answer": "answer",
+        "answer": "max brightness",
         "selectedAnswer": null
     },
     {
         "id": 959,
-        "question": "78. The LAVatory pus hbutton ________the LAVATORY Lighting to be controlled. ",
+        "question": "The LAVatory pus hbutton ________the LAVATORY Lighting to be controlled. ",
         "plans": [
             {
-                "value": "AVatory pus hbutton ________the LAVATORY Lighting to be controlled. "
+                "value": "requests"
             },
             {
                 "value": "orders"
             },
             {
-                "value": "allows  "
+                "value": "allows"
             }
         ],
-        "answer": "answer",
+        "answer": "allows",
         "selectedAnswer": null
     },
     {
         "id": 960,
-        "question": "79. the pushbutton is pressed_______, the integral light comes on green. (level 1)  ",
+        "question": "the pushbutton is pressed_______, the integral light comes on green. (level 1)  ",
         "plans": [
             {
                 "value": "on"
@@ -16316,35 +16316,35 @@ export default  [
                 "value": "off"
             },
             {
-                "value": "in "
+                "value": "in"
             }
         ],
-        "answer": "answer",
+        "answer": "on",
         "selectedAnswer": null
     },
     {
         "id": 961,
-        "question": "80. If the LAVATORY DOOR is locked, the LAVATORY Lighting comes on at _____ ",
+        "question": "If the LAVATORY DOOR is locked, the LAVATORY Lighting comes on at _____ brightness (100%). (level 1)",
         "plans": [
             {
-                "value": "AVATORY DOOR is locked, the LAVATORY Lighting comes on at _____ "
+                "value": "FULL"
             },
             {
                 "value": "DIM 1"
             },
             {
-                "value": "DIM 2  "
+                "value": "DIM 2"
             }
         ],
-        "answer": "answer",
+        "answer": "FULL",
         "selectedAnswer": null
     },
     {
         "id": 962,
-        "question": "81. LIGHT/WORK/ATTENDANT . (level 1)      ",
+        "question": "LIGHT/WORK/ATTENDANT . (level 1)",
         "plans": [
             {
-                "value": "ATTENDANT . (level 1)      "
+                "value": "LIGHT ATTENDANT WORK"
             },
             {
                 "value": "ATTENDANT WORK LIGHT"
@@ -16353,63 +16353,63 @@ export default  [
                 "value": "ATTENDANT LIGHT WORK  "
             }
         ],
-        "answer": "answer",
+        "answer": "ATTENDANT WORK LIGHT",
         "selectedAnswer": null
     },
     {
         "id": 963,
-        "question": "82. Cabin/Att endant/Stations. (level 1)  ",
+        "question": "Cabin/Att endant/Stations. (level 1)",
         "plans": [
             {
-                "value": "Att endant/Stations. (level 1)  "
+                "value": "Attendant Cabin Stations"
             },
             {
                 "value": "Stations Cabin Attendant"
             },
             {
-                "value": "Cabin/Att endant/Stations. (level 1)  "
+                "value": "Cabin Attendant Stations"
             }
         ],
-        "answer": "answer",
+        "answer": "Cabin Attendant Stations",
         "selectedAnswer": null
     },
     {
         "id": 964,
-        "question": "83. The Forward Attendant Panel ___________the cabin lights. (level 1)  ",
+        "question": "The Forward Attendant Panel ___________the cabin lights. (level 1)",
         "plans": [
             {
-                "value": "Attendant Panel ___________the cabin lights. (level 1)  "
+                "value": "activates"
             },
             {
                 "value": "controls"
             },
             {
-                "value": "deactivates  "
+                "value": "deactivates"
             }
         ],
-        "answer": "answer",
+        "answer": "controls",
         "selectedAnswer": null
     },
     {
         "id": 965,
-        "question": "84. The related Decoder/Encoder units control the cabin fluorescent ",
+        "question": "The related Decoder/Encoder units control the cabin fluorescent lamps_____________ the selection on the Forward Attendant Panel. (level 1)",
         "plans": [
             {
-                "value": "Attendant Panel. (level 1)  "
+                "value": "without"
             },
             {
                 "value": "in order to"
             },
             {
-                "value": "according to  "
+                "value": "according to"
             }
         ],
-        "answer": "answer",
+        "answer": "according to",
         "selectedAnswer": null
     },
     {
         "id": 966,
-        "question": "85. The passenger reading lights can be_________, via the DEUs, using  the ",
+        "question": "The passenger reading lights can be_________, via the DEUs, using  the Programming and Test Panel.(level 1)",
         "plans": [
             {
                 "value": "turned off"
@@ -16418,32 +16418,32 @@ export default  [
                 "value": "tested"
             },
             {
-                "value": "turned on  "
+                "value": "turned on"
             }
         ],
-        "answer": "answer",
+        "answer": "tested",
         "selectedAnswer": null
     },
     {
         "id": 967,
-        "question": "86. The test of the reading lights ___________the test of the Attendant work lights ",
+        "question": "The test of the reading lights ___________the test of the Attendant work lights and the related reading light power unit. (level 1)",
         "plans": [
             {
-                "value": "Attendant work lights "
+                "value": "includes"
             },
             {
                 "value": "contains"
             },
             {
-                "value": "excludes  "
+                "value": "excludes"
             }
         ],
-        "answer": "answer",
+        "answer": "includes",
         "selectedAnswer": null
     },
     {
         "id": 968,
-        "question": "87. T he test also detects any bulb failures by checking changes in the current and ",
+        "question": "The test also detects any bulb failures by checking changes in the current and signaling the failure before the bulb actually _____________. (level 1)",
         "plans": [
             {
                 "value": "is inoperative"
@@ -16452,32 +16452,32 @@ export default  [
                 "value": "is broken"
             },
             {
-                "value": "burns out  "
+                "value": "burns out"
             }
         ],
-        "answer": "answer",
+        "answer": "burns out",
         "selectedAnswer": null
     },
     {
         "id": 969,
-        "question": "88. After the test, the Reading/work light system is still __ ________to give the ",
+        "question": "After the test, the Reading/work light system is still __ ________to give the maintenance crew the possibility for visual check of the lamps. (level 1)",
         "plans": [
             {
-                "value": "After the test, the Reading/work light system is still __ ________to give the "
+                "value": "energized"
             },
             {
                 "value": "not changed"
             },
             {
-                "value": "off  "
+                "value": "off"
             }
         ],
-        "answer": "answer",
+        "answer": "energized",
         "selectedAnswer": null
     },
     {
         "id": 970,
-        "question": "89. Each ballast unit supplies low -voltage ___________for filament heating and ",
+        "question": "Each ballast unit supplies low -voltage ___________for filament heating and high-voltage power for lamp ignition. (level 1)",
         "plans": [
             {
                 "value": "power"
@@ -16486,15 +16486,15 @@ export default  [
                 "value": "energy"
             },
             {
-                "value": "electric  "
+                "value": "electric"
             }
         ],
-        "answer": "answer",
+        "answer": "power",
         "selectedAnswer": null
     },
     {
         "id": 971,
-        "question": "90. To replace the window, ceiling and entrance area ballast units, the ",
+        "question": "To replace the window, ceiling and entrance area ballast units, the corresponding __________panels have to be removed. (level 1)",
         "plans": [
             {
                 "value": "inside"
@@ -16503,15 +16503,15 @@ export default  [
                 "value": "access"
             },
             {
-                "value": "outside  "
+                "value": "outside"
             }
         ],
-        "answer": "answer",
+        "answer": "access",
         "selectedAnswer": null
     },
     {
         "id": 972,
-        "question": "91. The ballast unit provides power supply for (level 1)  ",
+        "question": "The ballast unit provides power supply for (level 1)",
         "plans": [
             {
                 "value": "incandescent lamp"
@@ -16520,15 +16520,15 @@ export default  [
                 "value": "halogen lamp"
             },
             {
-                "value": "fluorescent lamp  "
+                "value": "fluorescent lamp"
             }
         ],
-        "answer": "answer",
+        "answer": "fluorescent lamp",
         "selectedAnswer": null
     },
     {
         "id": 973,
-        "question": "92. to remove the lavatory light ballast unit, the service cabinet door has to ",
+        "question": "to remove the lavatory light ballast unit, the service cabinet door has to be_________.(level 1)",
         "plans": [
             {
                 "value": "open"
@@ -16537,15 +16537,15 @@ export default  [
                 "value": "opened"
             },
             {
-                "value": "opening      "
+                "value": "opening"
             }
         ],
-        "answer": "answer",
+        "answer": "opened",
         "selectedAnswer": null
     },
     {
         "id": 974,
-        "question": "93. to change the bulb, remove the cap with a______________. (level 1)  ",
+        "question": "to change the bulb, remove the cap with a______________. (level 1)",
         "plans": [
             {
                 "value": "hammer"
@@ -16554,66 +16554,66 @@ export default  [
                 "value": "screwdriver"
             },
             {
-                "value": "driller  "
+                "value": "driller"
             }
         ],
-        "answer": "answer",
+        "answer": "screwdriver",
         "selectedAnswer": null
     },
     {
         "id": 975,
-        "question": "94. BALLAST/UNIT/CEILING. (level 1)  ",
+        "question": "BALLAST/UNIT/CEILING. (level 1)",
         "plans": [
             {
-                "value": "ALLAST/UNIT/CEILING. (level 1)  "
+                "value": "CEILING BALLAST UNIT"
             },
             {
-                "value": "BALLAST/UNIT/CEILING. (level 1)  "
+                "value": "UNIT CEILING BALLAST"
             },
             {
-                "value": "CEILING. (level 1)  "
+                "value": "CEILING UNIT BALLAST"
             }
         ],
-        "answer": "answer",
+        "answer": "CEILING BALLAST UNIT",
         "selectedAnswer": null
     },
     {
         "id": 976,
-        "question": "95. UNIT/WINDOW/BALLAST. (level 1)  ",
+        "question": "UNIT/WINDOW/BALLAST. (level 1)",
         "plans": [
             {
-                "value": "ALLAST. (level 1)  "
+                "value": "WINDOW BALLAST UNIT"
             },
             {
-                "value": "BALLAST. (level 1)  "
+                "value": "UNIT WINDOW BALLAST"
             },
             {
-                "value": "WINDOW UNIT BALLAST  "
+                "value": "WINDOW UNIT BALLAST"
             }
         ],
-        "answer": "answer",
+        "answer": "WINDOW BALLAST UNIT",
         "selectedAnswer": null
     },
     {
         "id": 977,
-        "question": "96. BALLAST/UNIT/ENTRANCE/ARE(level 1)  ",
+        "question": "BALLAST/UNIT/ENTRANCE/ARE(level 1)",
         "plans": [
             {
-                "value": "ALLAST/UNIT/ENTRANCE/ARE(level 1)  "
+                "value": "ENTRANCE AREA BALLAST UNIT"
             },
             {
-                "value": "BALLAST/UNIT/ENTRANCE/ARE(level 1)  "
+                "value": "AREA ENTRANCE BALLAST UNIT"
             },
             {
-                "value": "CE/ARE(level 1)  "
+                "value": "BALLAST UNIT ENTRANCE AREA"
             }
         ],
-        "answer": "answer",
+        "answer": "ENTRANCE AREA BALLAST UNIT",
         "selectedAnswer": null
     },
     {
         "id": 978,
-        "question": "97. The container is installed with a tamper seal and a serviceability indicator for the ",
+        "question": "The container is installed with a tamper seal and a serviceability indicator for the preflight inspection; the serviceability indicator is _______after opening the box.(level 1)",
         "plans": [
             {
                 "value": "unchanged"
@@ -16622,15 +16622,15 @@ export default  [
                 "value": "blurred"
             },
             {
-                "value": "broken  "
+                "value": "broken"
             }
         ],
-        "answer": "answer",
+        "answer": "blurred",
         "selectedAnswer": null
     },
     {
         "id": 979,
-        "question": "98. The protective breathing hood works with a ___________breathing circuit. (level ",
+        "question": "The protective breathing hood works with a ___________breathing circuit. (level 1)",
         "plans": [
             {
                 "value": "opened"
@@ -16639,15 +16639,15 @@ export default  [
                 "value": "closed"
             },
             {
-                "value": "sealed  "
+                "value": "sealed"
             }
         ],
-        "answer": "answer",
+        "answer": "closed",
         "selectedAnswer": null
     },
     {
         "id": 980,
-        "question": "99. Cockpit smoke hood container can be _____ ______installed in the cabin. (level ",
+        "question": "Cockpit smoke hood container can be _____ ______installed in the cabin. (level 1)",
         "plans": [
             {
                 "value": "officially"
@@ -16656,15 +16656,15 @@ export default  [
                 "value": "optionally"
             },
             {
-                "value": "Cockpit smoke hood container can be _____ ______installed in the cabin. (level "
+                "value": "informally"
             }
         ],
-        "answer": "answer",
+        "answer": "optionally",
         "selectedAnswer": null
     },
     {
         "id": 981,
-        "question": "100. The ____________first aid oxygen mask supplies oxygen for therapeutic ",
+        "question": "The ____________first aid oxygen mask supplies oxygen for therapeutic purposes. (level 1)",
         "plans": [
             {
                 "value": "continuous -flow"
@@ -16673,15 +16673,15 @@ export default  [
                 "value": "intermittent -flow"
             },
             {
-                "value": "regulated -flow "
+                "value": "regulated -flow"
             }
         ],
-        "answer": "answer",
+        "answer": "continuous -flow",
         "selectedAnswer": null
     },
     {
         "id": 982,
-        "question": "106. Wipe the surface with a cloth __________ with solvent. (level 1)  ",
+        "question": "Wipe the surface with a cloth __________ with solvent.(level 1)",
         "plans": [
             {
                 "value": "dampened"
@@ -16690,15 +16690,15 @@ export default  [
                 "value": "dampening"
             },
             {
-                "value": "in dampening.  "
+                "value": "in dampening"
             }
         ],
-        "answer": "answer",
+        "answer": "dampened",
         "selectedAnswer": null
     },
     {
         "id": 983,
-        "question": "107. The escape slide __________ be disarmed before opening the passenger door. ",
+        "question": "The escape slide __________ be disarmed before opening the passenger door. (level 1)",
         "plans": [
             {
                 "value": "is to"
@@ -16707,15 +16707,15 @@ export default  [
                 "value": "may"
             },
             {
-                "value": "has "
+                "value": "has"
             }
         ],
-        "answer": "answer",
+        "answer": "is to",
         "selectedAnswer": null
     },
     {
         "id": 984,
-        "question": "108. When you set the switch to ON, the cabin  lights __________ come on. (level 1)  ",
+        "question": "When you set the switch to ON, the cabin  lights __________ come on. (level 1)",
         "plans": [
             {
                 "value": "will"
@@ -16724,15 +16724,15 @@ export default  [
                 "value": "shall"
             },
             {
-                "value": "must      "
+                "value": "must"
             }
         ],
-        "answer": "answer",
+        "answer": "will",
         "selectedAnswer": null
     },
     {
         "id": 985,
-        "question": "109. They are used ______ carry -on baggage. (level 1)  ",
+        "question": "They are used ______ carry -on baggage. (level 1)",
         "plans": [
             {
                 "value": "stowing"
@@ -16741,15 +16741,15 @@ export default  [
                 "value": "stowed"
             },
             {
-                "value": "to stow  "
+                "value": "to stow"
             }
         ],
-        "answer": "answer",
+        "answer": "to stow",
         "selectedAnswer": null
     },
     {
         "id": 986,
-        "question": "110. The First Class seats are ________ the Economy Class seats. (level 1)  ",
+        "question": "The First Class seats are ________ the Economy Class seats. (level 1)",
         "plans": [
             {
                 "value": "the most comfortable"
@@ -16758,32 +16758,32 @@ export default  [
                 "value": "the more comfortable"
             },
             {
-                "value": "Class seats are ________ the Economy Class seats. (level 1)  "
+                "value": "more comfortable than"
             }
         ],
-        "answer": "answer",
+        "answer": "more comfortable than",
         "selectedAnswer": null
     },
     {
         "id": 987,
-        "question": "111. On the instrument panel, set the BRT/DIM __________ to OFF. (level 1)  ",
+        "question": "On the instrument panel, set the BRT/DIM __________ to OFF. (level 1)",
         "plans": [
             {
                 "value": "notch"
             },
             {
-                "value": "BRT/DIM __________ to OFF. (level 1)  "
+                "value": "probe"
             },
             {
-                "value": "knob  "
+                "value": "knob"
             }
         ],
-        "answer": "answer",
+        "answer": "knob",
         "selectedAnswer": null
     },
     {
         "id": 988,
-        "question": "112. The window runs _______ a groove or track. (level 1)  ",
+        "question": "The window runs _______ a groove or track. (level 1)",
         "plans": [
             {
                 "value": "by"
@@ -16792,15 +16792,15 @@ export default  [
                 "value": "in"
             },
             {
-                "value": "on "
+                "value": "on"
             }
         ],
-        "answer": "answer",
+        "answer": "in",
         "selectedAnswer": null
     },
     {
         "id": 989,
-        "question": "113. The water tank is (fill)______ during turnaround. (level 1)  ",
+        "question": "The water tank is (fill)______ during turnaround. (level 1)",
         "plans": [
             {
                 "value": "being filled"
@@ -16809,15 +16809,15 @@ export default  [
                 "value": "filled"
             },
             {
-                "value": "filling  "
+                "value": "filling"
             }
         ],
-        "answer": "answer",
+        "answer": "filled",
         "selectedAnswer": null
     },
     {
         "id": 990,
-        "question": "114. Time between a/c arrival and departure (level 1)  ",
+        "question": "Time between a/c arrival and departure (level 1)",
         "plans": [
             {
                 "value": "turn round"
@@ -16826,15 +16826,15 @@ export default  [
                 "value": "turnaround"
             },
             {
-                "value": "turning round  "
+                "value": "turning round"
             }
         ],
-        "answer": "answer",
+        "answer": "turnaround",
         "selectedAnswer": null
     },
     {
         "id": 991,
-        "question": "115. Insufficient pressure (level 1)  ",
+        "question": "Insufficient pressure (level 1)",
         "plans": [
             {
                 "value": "pressure down"
@@ -16843,15 +16843,15 @@ export default  [
                 "value": "under pressure"
             },
             {
-                "value": "over pressure  "
+                "value": "over pressure"
             }
         ],
-        "answer": "answer",
+        "answer": "under pressure",
         "selectedAnswer": null
     },
     {
         "id": 992,
-        "question": "116. The water/waste system also discards wastewater from the toilet washbasins and ",
+        "question": "The water/waste system also discards wastewater from the toilet washbasins and from the galleys __________board. (level 1)",
         "plans": [
             {
                 "value": "over"
@@ -16860,66 +16860,66 @@ export default  [
                 "value": "under"
             },
             {
-                "value": "out "
+                "value": "out"
             }
         ],
-        "answer": "answer",
+        "answer": "over",
         "selectedAnswer": null
     },
     {
         "id": 993,
-        "question": "117. Procedure to check lights are called. (level 1)  ",
+        "question": "Procedure to check lights are called. (level 1)",
         "plans": [
             {
-                "value": "Test l ight"
+                "value": "Test light"
             },
             {
                 "value": "Light testing"
             },
             {
-                "value": "Light test  "
+                "value": "Light test"
             }
         ],
-        "answer": "answer",
+        "answer": "Light test",
         "selectedAnswer": null
     },
     {
         "id": 994,
-        "question": "118. Back of the seat. (level 1)  ",
+        "question": "Back of the seat. (level 1)",
         "plans": [
             {
                 "value": "Back of seat"
             },
             {
-                "value": "Back of the seat. (level 1)  "
+                "value": "Seat back"
             },
             {
-                "value": "Back seat  "
+                "value": "Back seat"
             }
         ],
-        "answer": "answer",
+        "answer": "Seat back",
         "selectedAnswer": null
     },
     {
         "id": 995,
-        "question": "119. A bottle to extinguish fires (level 1)  ",
+        "question": "A bottle to extinguish fires (level 1)",
         "plans": [
             {
-                "value": "A bottle to extinguish fires (level 1)  "
+                "value": "firing extinguisher"
             },
             {
                 "value": "fire extinguisher"
             },
             {
-                "value": "fires extinguisher  "
+                "value": "fires extinguisher"
             }
         ],
-        "answer": "answer",
+        "answer": "fire extinguisher",
         "selectedAnswer": null
     },
     {
         "id": 996,
-        "question": "120. The catering truck ______ the beverages _____ _ the aircraft. (level 1)  ",
+        "question": "The catering truck ______ the beverages _____ _ the aircraft. (level 1)",
         "plans": [
             {
                 "value": "brings/to"
@@ -16928,15 +16928,15 @@ export default  [
                 "value": "bringing/to"
             },
             {
-                "value": "bringing/into  "
+                "value": "bringing/into"
             }
         ],
-        "answer": "answer",
+        "answer": "brings/to",
         "selectedAnswer": null
     },
     {
         "id": 997,
-        "question": "121. If these components are not installed in the correct position, oxygen flow ___ ",
+        "question": "If these components are not installed in the correct position, oxygen flow ___ stop. (level 1)",
         "plans": [
             {
                 "value": "shall"
@@ -16945,15 +16945,15 @@ export default  [
                 "value": "would"
             },
             {
-                "value": "could  "
+                "value": "could"
             }
         ],
-        "answer": "answer",
+        "answer": "could",
         "selectedAnswer": null
     },
     {
         "id": 998,
-        "question": "122. The Captain and First Officer seats are symmetrical and have __________ ",
+        "question": "122. The Captain and First Officer seats are symmetrical and have __________ functions. (level 1)",
         "plans": [
             {
                 "value": "more"
@@ -16962,15 +16962,15 @@ export default  [
                 "value": "the same"
             },
             {
-                "value": "Captain and First Officer seats are symmetrical and have __________ "
+                "value": "several"
             }
         ],
-        "answer": "answer",
+        "answer": "the same",
         "selectedAnswer": null
     },
     {
         "id": 999,
-        "question": "123. Remove the _____ bulb from its socket. (level 1)  ",
+        "question": "Remove the _____ bulb from its socket. (level 1)",
         "plans": [
             {
                 "value": "serviceable"
@@ -16979,15 +16979,15 @@ export default  [
                 "value": "alternating"
             },
             {
-                "value": "defective      "
+                "value": "defective"
             }
         ],
-        "answer": "answer",
+        "answer": "defective",
         "selectedAnswer": null
     },
     {
         "id": 1000,
-        "question": "124. The number of the part (level 1)  ",
+        "question": "The number of the part (level 1)",
         "plans": [
             {
                 "value": "Numb er part"
@@ -16996,18 +16996,18 @@ export default  [
                 "value": "Part number"
             },
             {
-                "value": "Part numbers  "
+                "value": "Part numbers"
             }
         ],
-        "answer": "answer",
+        "answer": "Part number",
         "selectedAnswer": null
     },
     {
         "id": 1001,
-        "question": "125. A container for storage (level 1)  ",
+        "question": "A container for storage (level 1)",
         "plans": [
             {
-                "value": "A container for storage (level 1)  "
+                "value": "Storage container"
             },
             {
                 "value": "Containing storage"
@@ -17016,12 +17016,12 @@ export default  [
                 "value": "Containing storage"
             }
         ],
-        "answer": "answer",
+        "answer": "Storage container",
         "selectedAnswer": null
     },
     {
         "id": 1002,
-        "question": "126. Make sure the reading on the gage is ________ these limits. (level 1)  ",
+        "question": "Make sure the reading on the gage is ________ these limits. (level 1)",
         "plans": [
             {
                 "value": "along"
@@ -17030,15 +17030,15 @@ export default  [
                 "value": "within"
             },
             {
-                "value": "behind  "
+                "value": "behind"
             }
         ],
-        "answer": "answer",
+        "answer": "within",
         "selectedAnswer": null
     },
     {
         "id": 1003,
-        "question": "127. The crew seats can _ ___ (level 1)  ",
+        "question": "The crew seats can _ ___ (level 1)",
         "plans": [
             {
                 "value": "be tilted along"
@@ -17047,15 +17047,15 @@ export default  [
                 "value": "tilted up"
             },
             {
-                "value": "be tilted forwards  "
+                "value": "be tilted forwards"
             }
         ],
-        "answer": "answer",
+        "answer": "be tilted forwards",
         "selectedAnswer": null
     },
     {
         "id": 1004,
-        "question": "128. Recline/ button/ control (level 1)  ",
+        "question": "Recline/ button/ control (level 1)",
         "plans": [
             {
                 "value": "Control recline button"
@@ -17064,15 +17064,15 @@ export default  [
                 "value": "Recline button control"
             },
             {
-                "value": "Control recline button"
+                "value": "Recline control button"
             }
         ],
-        "answer": "answer",
+        "answer": "Recline control button",
         "selectedAnswer": null
     },
     {
         "id": 1005,
-        "question": "129. The EMER EXIT LT switch ______ three positions. (level 1)  ",
+        "question": "The EMER EXIT LT switch ______ three positions.(level 1)",
         "plans": [
             {
                 "value": "have"
@@ -17081,15 +17081,15 @@ export default  [
                 "value": "has"
             },
             {
-                "value": "having  "
+                "value": "having"
             }
         ],
-        "answer": "answer",
+        "answer": "has",
         "selectedAnswer": null
     },
     {
         "id": 1006,
-        "question": "130. During the flight the escape slide _____. (level 1)  ",
+        "question": "During the flight the escape slide _____.(level 1)",
         "plans": [
             {
                 "value": "are armed"
@@ -17098,15 +17098,15 @@ export default  [
                 "value": "armed"
             },
             {
-                "value": "is armed  "
+                "value": "is armed"
             }
         ],
-        "answer": "answer",
+        "answer": "is armed",
         "selectedAnswer": null
     },
     {
         "id": 1007,
-        "question": "131. If you press this button a light_____ (level 1)  ",
+        "question": "If you press this button a light_____ (level 1)",
         "plans": [
             {
                 "value": "will go on"
@@ -17115,15 +17115,15 @@ export default  [
                 "value": "go on"
             },
             {
-                "value": "goes on  "
+                "value": "goes on"
             }
         ],
-        "answer": "answer",
+        "answer": "will go on",
         "selectedAnswer": null
     },
     {
         "id": 1008,
-        "question": "132. The cabin lights  run ____ the ceiling. (level 1)  ",
+        "question": "The cabin lights  run ____ the ceiling. (level 1)",
         "plans": [
             {
                 "value": "On"
@@ -17132,15 +17132,15 @@ export default  [
                 "value": "Out"
             },
             {
-                "value": "Along  "
+                "value": "Along"
             }
         ],
-        "answer": "answer",
+        "answer": "Along",
         "selectedAnswer": null
     },
     {
         "id": 1009,
-        "question": "133. The _____ is used to adjust the lights. (level 1)  ",
+        "question": "The _____ is used to adjust the lights. (level 1)",
         "plans": [
             {
                 "value": "antenna"
@@ -17149,32 +17149,32 @@ export default  [
                 "value": "dim knob"
             },
             {
-                "value": "spoiler  "
+                "value": "spoiler"
             }
         ],
-        "answer": "answer",
+        "answer": "dim knob",
         "selectedAnswer": null
     },
     {
         "id": 1010,
-        "question": "134. DOOR/FORWARD/PASSENGER/LEFT (level 1)  ",
+        "question": "DOOR/FORWARD/PASSENGER/LEFT (level 1)",
         "plans": [
             {
-                "value": "ARD/PASSENGER/LEFT (level 1)  "
+                "value": "LEFT FORWARD PASSENGER DOOR"
             },
             {
-                "value": "PASSENGER DOOR LEFT "
+                "value": "PASSENGER DOOR LEFT FORWARD"
             },
             {
-                "value": "FORWARD LEFT PASSENGER DOOR   "
+                "value": "FORWARD LEFT PASSENGER DOOR"
             }
         ],
-        "answer": "answer",
+        "answer": "LEFT FORWARD PASSENGER DOOR",
         "selectedAnswer": null
     },
     {
         "id": 1011,
-        "question": "135. _____  the blue light illuminates. (level 1)  ",
+        "question": "_____  the blue light illuminates.(level 1)",
         "plans": [
             {
                 "value": "Release"
@@ -17183,32 +17183,32 @@ export default  [
                 "value": "Reset"
             },
             {
-                "value": "Observe  "
+                "value": "Observe"
             }
         ],
-        "answer": "answer",
+        "answer": "Observe",
         "selectedAnswer": null
     },
     {
         "id": 1012,
-        "question": "136. ______  START push -button.  (level 1)  ",
+        "question": "______  START push -button.(level 1)",
         "plans": [
             {
-                "value": "ART push -button.  (level 1)  "
+                "value": "Record"
             },
             {
                 "value": "Depress"
             },
             {
-                "value": "Ensure  "
+                "value": "Ensure"
             }
         ],
-        "answer": "answer",
+        "answer": "Depress",
         "selectedAnswer": null
     },
     {
         "id": 1013,
-        "question": "137. _____ push button. (level 1)  ",
+        "question": "_____ push button. (level 1)",
         "plans": [
             {
                 "value": "Release"
@@ -17217,15 +17217,15 @@ export default  [
                 "value": "Set"
             },
             {
-                "value": "Observe  "
+                "value": "Observe"
             }
         ],
-        "answer": "answer",
+        "answer": "Release",
         "selectedAnswer": null
     },
     {
         "id": 1014,
-        "question": "138. The part is serviceable ___________ it must be removed. (level 1)  ",
+        "question": "The part is serviceable ___________ it must be removed.(level 1)",
         "plans": [
             {
                 "value": "but"
@@ -17234,15 +17234,15 @@ export default  [
                 "value": "therefore"
             },
             {
-                "value": "where as  "
+                "value": "where as"
             }
         ],
-        "answer": "answer",
+        "answer": "but",
         "selectedAnswer": null
     },
     {
         "id": 1015,
-        "question": "139. There are __seats in the Economy Class ___the First Class. (level 1)      ",
+        "question": "There are __seats in the Economy Class ___the First Class. (level 1)",
         "plans": [
             {
                 "value": "more/than"
@@ -17251,15 +17251,15 @@ export default  [
                 "value": "less/than"
             },
             {
-                "value": "Class ___the First Class. (level 1)      "
+                "value": "fewer/than"
             }
         ],
-        "answer": "answer",
+        "answer": "more/than",
         "selectedAnswer": null
     },
     {
         "id": 1016,
-        "question": "140. The flight crew oxygen masks are housed_____the side consoles. (level 1)  ",
+        "question": "The flight crew oxygen masks are housed_____the side consoles. (level 1)",
         "plans": [
             {
                 "value": "Around"
@@ -17271,12 +17271,12 @@ export default  [
                 "value": "On "
             }
         ],
-        "answer": "answer",
+        "answer": "Inside",
         "selectedAnswer": null
     },
     {
         "id": 1017,
-        "question": "141. The passenger oxygen units are mounted ____the overhead baggage racks. ",
+        "question": "The passenger oxygen units are mounted ____the overhead baggage racks. ",
         "plans": [
             {
                 "value": "Under"
@@ -17285,15 +17285,15 @@ export default  [
                 "value": "On"
             },
             {
-                "value": "Over  "
+                "value": "Over"
             }
         ],
-        "answer": "answer",
+        "answer": "Under",
         "selectedAnswer": null
     },
     {
         "id": 1018,
-        "question": "142. Install the placard______the container. (level 1)  ",
+        "question": "Install the placard______the container. (level 1)",
         "plans": [
             {
                 "value": "On"
@@ -17302,15 +17302,15 @@ export default  [
                 "value": "Under"
             },
             {
-                "value": "In "
+                "value": "In"
             }
         ],
-        "answer": "answer",
+        "answer": "On",
         "selectedAnswer": null
     },
     {
         "id": 1019,
-        "question": "143. The third oxygen mask is located _______the observer station. (level 1)  ",
+        "question": "The third oxygen mask is located _______the observer station. (level 1)",
         "plans": [
             {
                 "value": "At"
@@ -17319,15 +17319,15 @@ export default  [
                 "value": "Over"
             },
             {
-                "value": "Outside   "
+                "value": "Outside"
             }
         ],
-        "answer": "answer",
+        "answer": "At",
         "selectedAnswer": null
     },
     {
         "id": 1020,
-        "question": "144. The assembly is fitted _____four screws and washers.  (level 1)  ",
+        "question": "The assembly is fitted _____four screws and washers.(level 1)",
         "plans": [
             {
                 "value": "At"
@@ -17336,15 +17336,15 @@ export default  [
                 "value": "With"
             },
             {
-                "value": "Into "
+                "value": "Into"
             }
         ],
-        "answer": "answer",
+        "answer": "With",
         "selectedAnswer": null
     },
     {
         "id": 1021,
-        "question": "145. The seat ___________ cushion support is a sheet metal bottom attached to the ",
+        "question": "The seat ___________ cushion support is a sheet metal bottom attached to the primary structure. (level 1)",
         "plans": [
             {
                 "value": "bottom"
@@ -17353,15 +17353,15 @@ export default  [
                 "value": "center"
             },
             {
-                "value": "upper  "
+                "value": "upper"
             }
         ],
-        "answer": "answer",
+        "answer": "bottom",
         "selectedAnswer": null
     },
     {
         "id": 1022,
-        "question": "146. For woolen fabrics (carpet included) , machine cleaning process (washing) ",
+        "question": "For woolen fabrics (carpet included) , machine cleaning process (washing) must be ___________ to prevent shrinkage. (level 1)",
         "plans": [
             {
                 "value": "applied"
@@ -17370,15 +17370,15 @@ export default  [
                 "value": "avoided"
             },
             {
-                "value": "used  "
+                "value": "used"
             }
         ],
-        "answer": "answer",
+        "answer": "avoided",
         "selectedAnswer": null
     },
     {
         "id": 1023,
-        "question": "147. The adhesive stripes of all covers must be covered ___________  avoid fraying ",
+        "question": "The adhesive stripes of all covers must be covered ___________  avoid fraying of fabric at the end of the cleaning phase. (level 1)",
         "plans": [
             {
                 "value": "so as to"
@@ -17387,15 +17387,15 @@ export default  [
                 "value": "because of"
             },
             {
-                "value": "in order to  "
+                "value": "in order to"
             }
         ],
-        "answer": "answer",
+        "answer": "in order to",
         "selectedAnswer": null
     },
     {
         "id": 1024,
-        "question": "148. The covers ___________  have not been rejected must be ironed and must ",
+        "question": "The covers ___________  have not been rejected must be ironed and must subjected to a more accurate control, to select and return to the cycle those still having stains. (level 1)",
         "plans": [
             {
                 "value": "who"
@@ -17404,32 +17404,32 @@ export default  [
                 "value": "which"
             },
             {
-                "value": "that   "
+                "value": "that"
             }
         ],
-        "answer": "answer",
+        "answer": "which",
         "selectedAnswer": null
     },
     {
         "id": 1025,
-        "question": "149. After drying take the covers out and check them ___________ to separate those ",
+        "question": "After drying take the covers out and check them ___________ to separate those which still have stains. (level 1)",
         "plans": [
             {
-                "value": "After drying take the covers out and check them ___________ to separate those "
+                "value": "day by day"
             },
             {
                 "value": "step by step"
             },
             {
-                "value": "one by one  "
+                "value": "one by one"
             }
         ],
-        "answer": "answer",
+        "answer": "one by one",
         "selectedAnswer": null
     },
     {
         "id": 1026,
-        "question": "150. The spots still disable can be cleaned ___________  a steam gun and then dry ",
+        "question": "The spots still disable can be cleaned ___________  a steam gun and then dry cleaning again. (level 1)",
         "plans": [
             {
                 "value": "by"
@@ -17438,15 +17438,15 @@ export default  [
                 "value": "to"
             },
             {
-                "value": "with "
+                "value": "with"
             }
         ],
-        "answer": "answer",
+        "answer": "with",
         "selectedAnswer": null
     },
     {
         "id": 1027,
-        "question": "151. The covers should be sprayed with a detergent activator and left for about 20 ",
+        "question": "The covers should be sprayed with a detergent activator and left for about 20 minutes before ___________ to the dry cleaning machine. (level 1)",
         "plans": [
             {
                 "value": "loaded"
@@ -17455,15 +17455,15 @@ export default  [
                 "value": "removed"
             },
             {
-                "value": "carried  "
+                "value": "carried"
             }
         ],
-        "answer": "answer",
+        "answer": "loaded",
         "selectedAnswer": null
     },
     {
         "id": 1028,
-        "question": "152. The central armrest ___________ of light weight metal structure which is     ",
+        "question": "The central armrest ___________ of light weight metal structure which is covered by a formed thermoplastic shroud, a leather armcap and a cocktail table.(level 1)",
         "plans": [
             {
                 "value": "includes"
@@ -17472,15 +17472,15 @@ export default  [
                 "value": "consists"
             },
             {
-                "value": "contains  "
+                "value": "contains"
             }
         ],
-        "answer": "answer",
+        "answer": "consists",
         "selectedAnswer": null
     },
     {
         "id": 1029,
-        "question": "148. Unit/Remote/Jack  ",
+        "question": "Unit/Remote/Jack",
         "plans": [
             {
                 "value": "Remote Jack Unit"
@@ -17489,49 +17489,49 @@ export default  [
                 "value": "Jack Unit Remote"
             },
             {
-                "value": "Unit Remote Jack  "
+                "value": "Unit Remote Jack"
             }
         ],
-        "answer": "answer",
+        "answer": "Remote Jack Unit",
         "selectedAnswer": null
     },
     {
         "id": 1030,
-        "question": "149. AVOD. (level 1)  ",
+        "question": "AVOD. (level 1)",
         "plans": [
             {
-                "value": "AVOD. (level 1)  "
+                "value": "Audio Video On-Demand"
             },
             {
                 "value": "Addtitional Video On -Demand"
             },
             {
-                "value": "Acquisition Video On -Demand  "
+                "value": "Acquisition Video On -Demand"
             }
         ],
-        "answer": "answer",
+        "answer": "Audio Video On-Demand",
         "selectedAnswer": null
     },
     {
         "id": 1031,
-        "question": "150. Cabin/Management/Interface. (level 1)  ",
+        "question": "Cabin/Management/Interface. (level 1)",
         "plans": [
             {
-                "value": "Cabin Interface Management .  "
+                "value": "Cabin Interface Management"
             },
             {
                 "value": "Cabin Management Interface"
             },
             {
-                "value": "Cabin/Management/Interface. (level 1)  "
+                "value": "Management Cabin Interface"
             }
         ],
-        "answer": "answer",
+        "answer": "Cabin Management Interface",
         "selectedAnswer": null
     },
     {
         "id": 1032,
-        "question": "151. Personal/Electronic/Device. (level 1)  ",
+        "question": "Personal/Electronic/Device. (level 1)",
         "plans": [
             {
                 "value": "Personal Electronic Device"
@@ -17540,32 +17540,32 @@ export default  [
                 "value": "Electronic Personal Device"
             },
             {
-                "value": "Electronic Device Personal  "
+                "value": "Electronic Device Personal"
             }
         ],
-        "answer": "answer",
+        "answer": "Personal Electronic Device",
         "selectedAnswer": null
     },
     {
         "id": 1033,
-        "question": "152.  Service/Passenger/System. (level 1)  ",
+        "question": "Service/Passenger/System. (level 1)",
         "plans": [
             {
-                "value": " System Passenger Service"
+                "value": "System Passenger Service"
             },
             {
-                "value": " Passenger Service System"
+                "value": "Passenger Service System"
             },
             {
-                "value": " Service Passenger System  "
+                "value": "Service Passenger System"
             }
         ],
-        "answer": "answer",
+        "answer": "Passenger Service System",
         "selectedAnswer": null
     },
     {
         "id": 1034,
-        "question": "153. In -Flight/Entertainment/Center. (level 1)  ",
+        "question": "In -Flight/Entertainment/Center. (level 1)",
         "plans": [
             {
                 "value": "In-Flight Entertainment Center"
@@ -17574,32 +17574,32 @@ export default  [
                 "value": "In-Flight Center Entertainment"
             },
             {
-                "value": "Center. (level 1)  "
+                "value": "Center In-Flight Entertainment"
             }
         ],
-        "answer": "answer",
+        "answer": "In-Flight Entertainment Center",
         "selectedAnswer": null
     },
     {
         "id": 1035,
-        "question": "154. Liquid/Display/Crystal. (level 1)  ",
+        "question": "Liquid/Display/Crystal. (level 1)",
         "plans": [
             {
                 "value": "Liquid Display Crystal"
             },
             {
-                "value": "Liquid Crys tal Display"
+                "value": "Liquid Crystal Display"
             },
             {
-                "value": "Crystal. (level 1)  "
+                "value": "Crystal Liquid Display"
             }
         ],
-        "answer": "answer",
+        "answer": "Liquid Crystal Display",
         "selectedAnswer": null
     },
     {
         "id": 1036,
-        "question": "155. Emitting/Diode/Light. (level 1)  ",
+        "question": "Emitting/Diode/Light. (level 1)",
         "plans": [
             {
                 "value": "Emitting Diode Light"
@@ -17608,32 +17608,32 @@ export default  [
                 "value": "Light Emitting Diode"
             },
             {
-                "value": "Light Diode Emitting      "
+                "value": "Light Diode Emitting"
             }
         ],
-        "answer": "answer",
+        "answer": "Light Emitting Diode",
         "selectedAnswer": null
     },
     {
         "id": 1037,
-        "question": "156. LOPA stands for. (level 1)  ",
+        "question": "LOPA stands for. (level 1)",
         "plans": [
             {
-                "value": "A stands for. (level 1)  "
+                "value": "Layout of Passenger Area"
             },
             {
                 "value": "Layer of Passenger Area"
             },
             {
-                "value": "Layout of Passeng er Aircraft  "
+                "value": "Layout of Passenger Aircraft"
             }
         ],
-        "answer": "answer",
+        "answer": "Layout of Passenger Area",
         "selectedAnswer": null
     },
     {
         "id": 1038,
-        "question": "157. LRU stands for. (level 1)  ",
+        "question": "LRU stands for. (level 1)",
         "plans": [
             {
                 "value": "Line Replaceable Union"
@@ -17642,32 +17642,32 @@ export default  [
                 "value": "Line Replaceable Unit"
             },
             {
-                "value": "Line Removable Unit  "
+                "value": "Line Removable Unit"
             }
         ],
-        "answer": "answer",
+        "answer": "Line Removable Unit",
         "selectedAnswer": null
     },
     {
         "id": 1039,
-        "question": "158. ACOU. (level 1)  ",
+        "question": "ACOU. (level 1)",
         "plans": [
             {
-                "value": "ACOU. (level 1)  "
+                "value": "AC Outlet Union"
             },
             {
                 "value": "AC Outlet Unit"
             },
             {
-                "value": "COU. (level 1)  "
+                "value": "AC Outside Unit"
             }
         ],
-        "answer": "answer",
+        "answer": "AC Outlet Unit",
         "selectedAnswer": null
     },
     {
         "id": 1040,
-        "question": "159. CPU. (level 1)  ",
+        "question": "CPU. (level 1)",
         "plans": [
             {
                 "value": "Central Processing Unit"
@@ -17676,32 +17676,32 @@ export default  [
                 "value": "Central Programming Unit"
             },
             {
-                "value": "CPU. (level 1)  "
+                "value": "Central Progress Unit"
             }
         ],
-        "answer": "answer",
+        "answer": "Central Processing Unit",
         "selectedAnswer": null
     },
     {
         "id": 1041,
-        "question": "160. Floor/Disconnect/Box. (level 1)  ",
+        "question": "Floor/Disconnect/Box. (level 1)",
         "plans": [
             {
                 "value": "Floor Box Disconnect"
             },
             {
-                "value": "Box. (level 1)  "
+                "value": "Floor Disconnect Box"
             },
             {
-                "value": "Box Floor Disconnect  "
+                "value": "Box Floor Disconnect"
             }
         ],
-        "answer": "answer",
+        "answer": "Floor Disconnect Box",
         "selectedAnswer": null
     },
     {
         "id": 1042,
-        "question": "161. Portable/Load/Medi(level 1)  ",
+        "question": "Portable/Load/Medi(level 1)",
         "plans": [
             {
                 "value": "Portable Media Load"
@@ -17710,15 +17710,15 @@ export default  [
                 "value": "Load Portable Media"
             },
             {
-                "value": "Portable Load Med ia  "
+                "value": "Portable Load Media"
             }
         ],
-        "answer": "answer",
+        "answer": "Portable Media Load",
         "selectedAnswer": null
     },
     {
         "id": 1043,
-        "question": "162. Module/Seat/Power . (level 1)  ",
+        "question": "Module/Seat/Power . (level 1)",
         "plans": [
             {
                 "value": "Seat Power Module"
@@ -17727,49 +17727,49 @@ export default  [
                 "value": "Power Seat Module"
             },
             {
-                "value": "Module Seat Power  "
+                "value": "Module Seat Power"
             }
         ],
-        "answer": "answer",
+        "answer": "Seat Power Module",
         "selectedAnswer": null
     },
     {
         "id": 1044,
-        "question": "163. Bus/Universal/Serial. (level 1)  ",
+        "question": "Bus/Universal/Serial. (level 1)",
         "plans": [
             {
                 "value": "Universal Serial Bus"
             },
             {
-                "value": "Bus/Universal/Serial. (level 1)  "
+                "value": "Universal Bus Serial"
             },
             {
-                "value": "Serial Universal Bus  "
+                "value": "Serial Universal Bus"
             }
         ],
-        "answer": "answer",
+        "answer": "Universal Serial Bus",
         "selectedAnswer": null
     },
     {
         "id": 1045,
-        "question": "164. The Audio/Video On -demand (AVOD) – Audio and video programs in which     ",
+        "question": "The Audio/Video On -demand (AVOD) – Audio and video programs in which each passenger can select and control at their seat. (level 1)",
         "plans": [
             {
-                "value": "Audio/Video On -demand (AVOD) – Audio and video programs in which     "
+                "value": "selects/controls"
             },
             {
                 "value": "select/control"
             },
             {
-                "value": "be selected/controlled  "
+                "value": "be selected/controlled"
             }
         ],
-        "answer": "answer",
+        "answer": "select/control",
         "selectedAnswer": null
     },
     {
         "id": 1046,
-        "question": "165. Passenger Service System – __________for the call att endant and reading ",
+        "question": "Passenger Service System – __________for the call att endant and reading lamp functions. (level 1)",
         "plans": [
             {
                 "value": "provides"
@@ -17778,15 +17778,15 @@ export default  [
                 "value": "providing"
             },
             {
-                "value": "provide  "
+                "value": "provide"
             }
         ],
-        "answer": "answer",
+        "answer": "provides",
         "selectedAnswer": null
     },
     {
         "id": 1047,
-        "question": "166. PED __________ – provides a power outlet for personal electronic devices, ",
+        "question": "PED __________ – provides a power outlet for personal electronic devices, such as cell phones and laptops. (level 1)",
         "plans": [
             {
                 "value": "Voltage"
@@ -17795,15 +17795,15 @@ export default  [
                 "value": "Power"
             },
             {
-                "value": "Current  "
+                "value": "Current"
             }
         ],
-        "answer": "answer",
+        "answer": "Power",
         "selectedAnswer": null
     },
     {
         "id": 1048,
-        "question": "167. The Remote Cont rol Center (RCC) provides cabin crew and ",
+        "question": "The Remote Cont rol Center (RCC) provides cabin crew and __________personnel access to the IFE system. (level 1)",
         "plans": [
             {
                 "value": "maintaining"
@@ -17812,15 +17812,15 @@ export default  [
                 "value": "maintain"
             },
             {
-                "value": "Cont rol Center (RCC) provides cabin crew and "
+                "value": "maintenance"
             }
         ],
-        "answer": "answer",
+        "answer": "maintenance",
         "selectedAnswer": null
     },
     {
         "id": 1049,
-        "question": "168. The Digital Overhead Monitors (DOMs) _______broadcast video programs for ",
+        "question": "The Digital Overhead Monitors (DOMs) _______broadcast video programs for passenger viewing. (level 1)",
         "plans": [
             {
                 "value": "transm it"
@@ -17829,32 +17829,32 @@ export default  [
                 "value": "display"
             },
             {
-                "value": "transfer  "
+                "value": "transfer"
             }
         ],
-        "answer": "answer",
+        "answer": "display",
         "selectedAnswer": null
     },
     {
         "id": 1050,
-        "question": "169. All passenger entertainment services will pause __________PA completion. ",
+        "question": "All passenger entertainment services will pause __________PA completion.",
         "plans": [
             {
-                "value": "All passenger entertainment services will pause __________PA completion. "
+                "value": "throughout"
             },
             {
                 "value": "before"
             },
             {
-                "value": "until "
+                "value": "until"
             }
         ],
-        "answer": "answer",
+        "answer": "until",
         "selectedAnswer": null
     },
     {
         "id": 1051,
-        "question": "170. If a cabin decompression occurs in flight, the IFE system automatically ",
+        "question": "If a cabin decompression occurs in flight, the IFE system automatically ______specific actions. . (level 1)",
         "plans": [
             {
                 "value": "pauses"
@@ -17863,32 +17863,32 @@ export default  [
                 "value": "performs"
             },
             {
-                "value": "stops  "
+                "value": "stops"
             }
         ],
-        "answer": "answer",
+        "answer": "performs",
         "selectedAnswer": null
     },
     {
         "id": 1052,
-        "question": "171. Each Business Class passenger has a seat enclosure with an ottoman ",
+        "question": "Each Business Class passenger has a seat enclosure with an ottoman _______ smart monitor. (level 1)",
         "plans": [
             {
                 "value": "installed"
             },
             {
-                "value": "Business Class passenger has a seat enclosure with an ottoman "
+                "value": "attached"
             },
             {
-                "value": "Class passenger has a seat enclosure with an ottoman "
+                "value": "mounted"
             }
         ],
-        "answer": "answer",
+        "answer": "mounted",
         "selectedAnswer": null
     },
     {
         "id": 1053,
-        "question": "172. Passenger Control refers to the devices used by the passengers to _______ ",
+        "question": "172. Passenger Control refers to the devices used by the passengers to _______ with the IFE system . (level 1)",
         "plans": [
             {
                 "value": "control"
@@ -17897,15 +17897,15 @@ export default  [
                 "value": "interact"
             },
             {
-                "value": "Control refers to the devices used by the passengers to _______ "
+                "value": "command"
             }
         ],
-        "answer": "answer",
+        "answer": "interact",
         "selectedAnswer": null
     },
     {
         "id": 1054,
-        "question": "173. _________overhead monitors are located on the cabin bulkhead walls.  (level ",
+        "question": "_________overhead monitors are located on the cabin bulkhead walls.  (level 1)",
         "plans": [
             {
                 "value": "Wall-mounted"
@@ -17914,15 +17914,15 @@ export default  [
                 "value": "Seat-mounted"
             },
             {
-                "value": "Ceiling -mounted  "
+                "value": "Ceiling -mounted"
             }
         ],
-        "answer": "answer",
+        "answer": "Wall-mounted",
         "selectedAnswer": null
     },
     {
         "id": 1055,
-        "question": "174. Maintenance personnel use CMI to _________ system status checks, ",
+        "question": "Maintenance personnel use CMI to _________ system status checks, _______system operation, and _______system malfunctions. (level 1)",
         "plans": [
             {
                 "value": "monitor/isolate/perform"
@@ -17931,15 +17931,15 @@ export default  [
                 "value": "perform/monitor/isolate"
             },
             {
-                "value": "CMI to _________ system status checks, "
+                "value": "monitor/perform/isolate"
             }
         ],
-        "answer": "answer",
+        "answer": "perform/monitor/isolate",
         "selectedAnswer": null
     },
     {
         "id": 1056,
-        "question": "175. T he touch -screen feature of each monitor enables screen ______ as well as ",
+        "question": "The touch -screen feature of each monitor enables screen ______ as well as service _________and control. (level 1)",
         "plans": [
             {
                 "value": "navigation/selection"
@@ -17948,15 +17948,15 @@ export default  [
                 "value": "navigate/select"
             },
             {
-                "value": "selection/navigation      "
+                "value": "selection/navigation"
             }
         ],
-        "answer": "answer",
+        "answer": "navigation/selection",
         "selectedAnswer": null
     },
     {
         "id": 1057,
-        "question": "176. In order to facilitate communication, each device on the network must h ave a ",
+        "question": "In order to facilitate communication, each device on the network must h ave a unique network IP _____________.(level 1)",
         "plans": [
             {
                 "value": "host"
@@ -17965,15 +17965,15 @@ export default  [
                 "value": "address"
             },
             {
-                "value": "client  "
+                "value": "client"
             }
         ],
-        "answer": "answer",
+        "answer": "address",
         "selectedAnswer": null
     },
     {
         "id": 1058,
-        "question": "177. Fiber optic __________ is the method of transmitting digital information using ",
+        "question": "Fiber optic __________ is the method of transmitting digital information using pulses of light through an optical fiber. (level 1)",
         "plans": [
             {
                 "value": "transmitting"
@@ -17982,15 +17982,15 @@ export default  [
                 "value": "communication"
             },
             {
-                "value": "receivi ng "
+                "value": "receiving"
             }
         ],
-        "answer": "answer",
+        "answer": "communication",
         "selectedAnswer": null
     },
     {
         "id": 1059,
-        "question": "178. Optic fiber provides substantial advantages over copper wiring such as:  (level ",
+        "question": "Optic fiber provides substantial advantages over copper wiring such as:  (level 1)",
         "plans": [
             {
                 "value": "Corrosion resistant"
@@ -17999,49 +17999,49 @@ export default  [
                 "value": "Heavier weight"
             },
             {
-                "value": "Corrosion resistant"
+                "value": "Decreased bandwidth"
             }
         ],
-        "answer": "answer",
+        "answer": "Corrosion resistant",
         "selectedAnswer": null
     },
     {
         "id": 1060,
-        "question": "179. Analog – A format in which the signal produced is a continual wave which ",
+        "question": "Analog – A format in which the signal produced is a continual wave which changes the strength of an electrical signal or magnetic field. (level 1)",
         "plans": [
             {
-                "value": "Analog – A format in which the signal produced is a continual wave which "
+                "value": "triangle"
             },
             {
                 "value": "continual"
             },
             {
-                "value": "square  "
+                "value": "square"
             }
         ],
-        "answer": "answer",
+        "answer": "continual",
         "selectedAnswer": null
     },
     {
         "id": 1061,
-        "question": "180. Digital – A format in which the signal produced has the form of a square wave ",
+        "question": "Digital – A format in which the signal produced has the form of a square wave having one or more values represented by high/low voltage signals. (level 1)",
         "plans": [
             {
-                "value": "A format in which the signal produced has the form of a square wave "
+                "value": "triangle"
             },
             {
                 "value": "continual"
             },
             {
-                "value": "square  "
+                "value": "square"
             }
         ],
-        "answer": "answer",
+        "answer": "square",
         "selectedAnswer": null
     },
     {
         "id": 1062,
-        "question": "181. Each IFE subsystem has a specific purpose and includes specific LRUs.  (level ",
+        "question": "Each IFE subsystem has a specific purpose and includes specific LRUs.  (level 1)",
         "plans": [
             {
                 "value": "has/includes"
@@ -18050,15 +18050,15 @@ export default  [
                 "value": "have/include"
             },
             {
-                "value": "is having/including  "
+                "value": "is having/including"
             }
         ],
-        "answer": "answer",
+        "answer": "has/includes",
         "selectedAnswer": null
     },
     {
         "id": 1063,
-        "question": "182. Data Distribution Subsystem is responsible for distributing network data to the ",
+        "question": "Data Distribution Subsystem is responsible for distributing network data to the Seat subsystem. (level 1)",
         "plans": [
             {
                 "value": "responsibility"
@@ -18067,24 +18067,24 @@ export default  [
                 "value": "responsible"
             },
             {
-                "value": "response  "
+                "value": "response"
             }
         ],
-        "answer": "answer",
+        "answer": "responsible",
         "selectedAnswer": null
     },
     {
         "id": 1064,
-        "question": "183. The Crew Terminal (CT) ___________a USB port that can be used for light ",
+        "question": "The Crew Terminal (CT) ___________a USB port that can be used for light media loads as well as offloading BITE data. (level 1)",
         "plans": [
             {
                 "value": "installs"
             },
             {
-                "value": "B port that can be used for light "
+                "value": "includes"
             },
             {
-                "value": "Crew Terminal (CT) ___________a USB port that can be used for light "
+                "value": "incorporates"
             }
         ],
         "answer": "answer",
@@ -18092,24 +18092,24 @@ export default  [
     },
     {
         "id": 1065,
-        "question": "184. The Crew Terminal (CT) provides a number of ________interfaces including ",
+        "question": "The Crew Terminal (CT) provides a number of ________interfaces including USB in support of such peripheral devices as a keyboard, printer, handset, credit card reader, as well as a CD-ROM. (level 1)",
         "plans": [
             {
                 "value": "digital"
             },
             {
-                "value": "B in support of such peripheral devices as a keyboard, printer, handset, credit "
+                "value": "peripheral"
             },
             {
-                "value": "Crew Terminal (CT) provides a number of ________interfaces including "
+                "value": "analog"
             }
         ],
-        "answer": "answer",
+        "answer": "peripheral",
         "selectedAnswer": null
     },
     {
         "id": 1066,
-        "question": "185. The Component Maintenance Manual (CMM) provides detailed __________of ",
+        "question": "The Component Maintenance Manual (CMM) provides detailed __________of each LRU in addition to the ________necessary to perform functional checks, replacement, and repairs. (level 1)",
         "plans": [
             {
                 "value": "descriptions/instructions"
@@ -18118,15 +18118,15 @@ export default  [
                 "value": "description/instruction"
             },
             {
-                "value": "Component Maintenance Manual (CMM) provides detailed __________of "
+                "value": "instructions/descriptions"
             }
         ],
-        "answer": "answer",
+        "answer": "descriptions/instructions",
         "selectedAnswer": null
     },
     {
         "id": 1067,
-        "question": "186. The Fault Isolation Manual (FIM) contains information and procedures used to ",
+        "question": "The Fault Isolation Manual (FIM) contains information and procedures used to assist maintenance personnel with correcting system__________.(level 1)",
         "plans": [
             {
                 "value": "maintenances"
@@ -18135,15 +18135,15 @@ export default  [
                 "value": "malfunctions"
             },
             {
-                "value": "operations  "
+                "value": "operations"
             }
         ],
-        "answer": "answer",
+        "answer": "malfunctions",
         "selectedAnswer": null
     },
     {
         "id": 1068,
-        "question": "187. The voltage supplied to IFE system can cause serious injury or death if safety ",
+        "question": "The voltage supplied to IFE system can cause serious injury or death if safety precautions are not_______.(level 1",
         "plans": [
             {
                 "value": "done"
@@ -18152,15 +18152,15 @@ export default  [
                 "value": "performed"
             },
             {
-                "value": "followed  "
+                "value": "followed"
             }
         ],
-        "answer": "answer",
+        "answer": "followed",
         "selectedAnswer": null
     },
     {
         "id": 1069,
-        "question": "188. Maintenance personnel must obey all safety _________when performing ",
+        "question": "Maintenance personnel must obey all safety _________when performing maintenance on the IFE system. (level 1)",
         "plans": [
             {
                 "value": "instructions"
@@ -18169,10 +18169,10 @@ export default  [
                 "value": "precautions"
             },
             {
-                "value": "descriptions  "
+                "value": "descriptions"
             }
         ],
-        "answer": "answer",
+        "answer": "precautions",
         "selectedAnswer": null
     },
     {
@@ -18186,15 +18186,15 @@ export default  [
                 "value": "improve"
             },
             {
-                "value": "damage  "
+                "value": "damage"
             }
         ],
-        "answer": "answer",
+        "answer": "damage",
         "selectedAnswer": null
     },
     {
         "id": 1071,
-        "question": "190. Use ESD grounding ___________to equalize electrostatic potential between ",
+        "question": "Use ESD grounding ___________to equalize electrostatic potential between you and the IFE equipment when removing or installing an LRU. (level 1)",
         "plans": [
             {
                 "value": "rings"
@@ -18203,15 +18203,15 @@ export default  [
                 "value": "chains"
             },
             {
-                "value": "wristbands  "
+                "value": "wristbands"
             }
         ],
-        "answer": "answer",
+        "answer": "wristbands",
         "selectedAnswer": null
     },
     {
         "id": 1072,
-        "question": "191. When the IFE system is ready to use, the logo screen____________. (level 1)  ",
+        "question": "When the IFE system is ready to use, the logo screen____________. (level 1)  ",
         "plans": [
             {
                 "value": "hides"
@@ -18220,15 +18220,15 @@ export default  [
                 "value": "disappears"
             },
             {
-                "value": "appears  "
+                "value": "appears"
             }
         ],
-        "answer": "answer",
+        "answer": "appears",
         "selectedAnswer": null
     },
     {
         "id": 1073,
-        "question": "192. The maintenance passcode screen provides protection from ________ entry to ",
+        "question": "The maintenance passcode screen provides protection from ________ entry to the maintenance functions. (level 1)",
         "plans": [
             {
                 "value": "granted"
@@ -18237,15 +18237,15 @@ export default  [
                 "value": "unauthorized"
             },
             {
-                "value": "authorized  "
+                "value": "authorized"
             }
         ],
-        "answer": "answer",
+        "answer": "unauthorized",
         "selectedAnswer": null
     },
     {
         "id": 1074,
-        "question": "193. The IFE Quick Test is_________ and therefore does not affect other system ",
+        "question": "The IFE Quick Test is_________ and therefore does not affect other system functions when it is performed. (level 1)",
         "plans": [
             {
                 "value": "active"
@@ -18254,15 +18254,15 @@ export default  [
                 "value": "intrusive"
             },
             {
-                "value": "non-intrusive  "
+                "value": "non-intrusive"
             }
         ],
-        "answer": "answer",
+        "answer": "non-intrusive",
         "selectedAnswer": null
     },
     {
         "id": 1075,
-        "question": "194. The IFE System Test is an _________test  and is not available during flight.  ",
+        "question": "The IFE System Test is an _________test  and is not available during flight.  ",
         "plans": [
             {
                 "value": "extrusive"
@@ -18271,15 +18271,15 @@ export default  [
                 "value": "intrusive"
             },
             {
-                "value": "non-intrusive  "
+                "value": "non-intrusive"
             }
         ],
-        "answer": "answer",
+        "answer": "intrusive",
         "selectedAnswer": null
     },
     {
         "id": 1076,
-        "question": "195. The Flight Mode __________the in -air or on -ground condition within the IFE ",
+        "question": "The Flight Mode __________the in -air or on -ground condition within the IFE system. (level 1)",
         "plans": [
             {
                 "value": "performs"
@@ -18288,15 +18288,15 @@ export default  [
                 "value": "simulates"
             },
             {
-                "value": "completes  "
+                "value": "completes"
             }
         ],
-        "answer": "answer",
+        "answer": "simulates",
         "selectedAnswer": null
     },
     {
         "id": 1077,
-        "question": "196. Use the Seat Reset Control feature to_________ a seat or group of seats.  ",
+        "question": "Use the Seat Reset Control feature to_________ a seat or group of seats.  ",
         "plans": [
             {
                 "value": "initiate"
@@ -18305,15 +18305,15 @@ export default  [
                 "value": "reset"
             },
             {
-                "value": "Control feature to_________ a seat or group of seats.  "
+                "value": "resetting"
             }
         ],
-        "answer": "answer",
+        "answer": "reset",
         "selectedAnswer": null
     },
     {
         "id": 1078,
-        "question": "197. Use the Configuration Check feature to view the LRU and________ ",
+        "question": "Use the Configuration Check feature to view the LRU and________ configuration of the entire IFE system. (level 1)",
         "plans": [
             {
                 "value": "operation"
@@ -18322,49 +18322,49 @@ export default  [
                 "value": "hardware"
             },
             {
-                "value": "Configuration Check feature to view the LRU and________ "
+                "value": "software"
             }
         ],
-        "answer": "answer",
+        "answer": "software",
         "selectedAnswer": null
     },
     {
         "id": 1079,
-        "question": "198. Using the LOPA allows you to select seat numbers ______an on -screen layout ",
+        "question": "Using the LOPA allows you to select seat numbers ______an on -screen layout of the passenger area. (level 1)",
         "plans": [
             {
-                "value": "A allows you to select seat numbers ______an on -screen layout "
+                "value": "on"
             },
             {
                 "value": "from"
             },
             {
-                "value": "in "
+                "value": "in"
             }
         ],
-        "answer": "answer",
+        "answer": "from",
         "selectedAnswer": null
     },
     {
         "id": 1080,
-        "question": "199. Boarding music can be started and stopped _________ at any time during the ",
+        "question": "Boarding music can be started and stopped _________ at any time during the flight. (level 1)",
         "plans": [
             {
                 "value": "manually"
             },
             {
-                "value": "Boarding music can be started and stopped _________ at any time during the "
+                "value": "automatically"
             },
             {
-                "value": "manually and "
+                "value": "manually and automatically"
             }
         ],
-        "answer": "answer",
+        "answer": "manually",
         "selectedAnswer": null
     },
     {
         "id": 1081,
-        "question": "1. a constant high or low voltage, and cause/ however, DC voltages/  the heart to/stop ",
+        "question": "a constant high or low voltage, and cause/ however, DC voltages/  the heart to/stop beating/ are . (Level 1)",
         "plans": [
             {
                 "value": "However, DC voltages are a  constant high or, the heart to  stop beating and cause low "
