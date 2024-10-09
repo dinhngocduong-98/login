@@ -4659,7 +4659,7 @@ export default  [
     },
     {
         "id": 275,
-        "question": "295. To vaporize",
+        "question": "To vaporize",
         "plans": [
             {
                 "value": "Spray"
@@ -18367,273 +18367,273 @@ export default  [
         "question": "a constant high or low voltage, and cause/ however, DC voltages/  the heart to/stop beating/ are . (Level 1)",
         "plans": [
             {
-                "value": "However, DC voltages are a  constant high or, the heart to  stop beating and cause low "
+                "value": "However, DC voltages are a constant high or, the heart to stop beating and cause low voltage"
             },
             {
-                "value": "However , the heart to  stop beating. DC voltages are a  constant high or low voltage "
+                "value": "However , the heart to  stop beating. DC voltages are a  constant high or low voltage and cause"
             },
             {
-                "value": "C voltages/  the heart to/stop "
+                "value": "However, DC voltages are a constant high or low voltage, and cause the heart to stop beating."
             }
         ],
-        "answer": "answer",
+        "answer": "However, DC voltages are a constant high or low voltage, and cause the heart to stop beating.",
         "selectedAnswer": null
     },
     {
         "id": 1082,
-        "question": "2. DC voltages /amperage (the measure of the current flow) / cause fatal damage/ is ",
+        "question": "DC voltages /amperage (the measure of the current flow) / cause fatal damage/ is relatively high when compared/ to the low amperage level from/ required /from AC voltages to (Level 1)",
         "plans": [
             {
-                "value": "AC voltages "
+                "value": "Amperage (the measure of the current flow) require from AC voltages to cause fatal damage is relatively high when compared to the low amperage level from DC voltages."
             },
             {
-                "value": "Amperage (the measure of the current flow) from AC voltages to  require  cause fatal "
+                "value": "Amperage (the measure of the current flow) from AC voltages to require cause fatal damage is relatively high when compared to the low amperage level from DC voltages."
             },
             {
-                "value": "C voltages /amperage (the measure of the current flow) / cause fatal damage/ is "
+                "value": "Amperage (the measure of the current flow) required from AC voltages to cause fatal damage is relatively high when compared to the low amperage level from DC voltages."
             }
         ],
-        "answer": "answer",
+        "answer": "Amperage (the measure of the current flow) required from AC voltages to cause fatal damage is relatively high when compared to the low amperage level from DC voltages.",
         "selectedAnswer": null
     },
     {
         "id": 1083,
-        "question": "3. connected /to the  analog audio outputs (external connector)/ this  /runs/ on 9 to 12 volts ",
+        "question": "connected /to the  analog audio outputs (external connector)/ this  /runs/ on 9 to 12 volts DC, and is directly/runs (Level 1)",
         "plans": [
             {
-                "value": "This runs on 9 to 12 volts DC, and is directly connected is to the  analog audio outputs "
+                "value": "This runs on 9 to 12 volts DC, and is directly connected is to the analog audio outputs (external connector)."
             },
             {
-                "value": "This runs on 9 to 12 volts DC, and is directly connected to the  analog audio output "
+                "value": "This runs on 9 to 12 volts DC, and is directly connected to the  analog audio output (external connector)."
             },
             {
-                "value": "C, and is directly/runs  (Level 1)  "
+                "value": "This runs on 9 to 12 volts DC, and is directly connected to the analog audio outputs (external connector)."
             }
         ],
-        "answer": "answer",
+        "answer": "This runs on 9 to 12 volts DC, and is directly connected to the analog audio outputs (external connector).",
         "selectedAnswer": null
     },
     {
         "id": 1084,
-        "question": "4. live voltages,  you risk damaging internal circuits /  connect disconnect the seat harness/ ",
+        "question": "live voltages,  you risk damaging internal circuits /  connect disconnect the seat harness/ with/ If you (Level 1)",
         "plans": [
             {
-                "value": "If you  connect disconnect  with the seat harness live voltages,  you risk damaging "
+                "value": "If you  connect disconnect  with the seat harness live voltages,  you risk damaging internal circuits."
             },
             {
-                "value": "If you  connect disconnect the seat harness live voltages,  you with risk damaging "
+                "value": "If you  connect disconnect the seat harness live voltages,  you with risk damaging internal circuits."
             },
             {
-                "value": "If you  connect disconnect the seat harness with live voltages,  you risk damaging "
+                "value": "If you connect disconnect the seat harness with live voltages, you risk damaging internal circuits."
             }
         ],
-        "answer": "answer",
+        "answer": "If you connect disconnect the seat harness with live voltages, you risk damaging internal circuits.",
         "selectedAnswer": null
     },
     {
         "id": 1085,
-        "question": "5. exposure to /the damage/ may /not  be apparent at first, but continued / this type  of ",
+        "question": "exposure to /the damage/ may /not  be apparent at first, but continued / this type  of maintenance practice will / or erode the internal devices/deteriorate (Level 1)",
         "plans": [
             {
-                "value": "The damage may not  be apparent at first, but continued exposure is to this type  of "
+                "value": "The damage may not  be apparent at first, but continued exposure is to this type  of maintenance practice will deteriorate or erode the internal devices."
             },
             {
-                "value": "The damage may not  be apparent at first, but continued exposure to this type  of "
+                "value": "The damage may not  be apparent at first, but continued exposure to this type of maintenance practice will deteriorate or the erode the internal devices."
             },
             {
-                "value": "The damage may not  be apparent at first, but continued exposure to this type  of "
+                "value": "The damage may not be apparent at first, but continued exposure to this type of maintenance practice will deteriorate or erode the internal devices."
             }
         ],
-        "answer": "answer",
+        "answer": "The damage may not be apparent at first, but continued exposure to this type of maintenance practice will deteriorate or erode the internal devices.",
         "selectedAnswer": null
     },
     {
         "id": 1086,
-        "question": "6. Mean Time  Between Failures (MTBF)  of the unit/ this will / intermittent  problems and ",
+        "question": "Mean Time  Between Failures (MTBF)  of the unit/ this will / intermittent  problems and eventually cut down on the/cause many (Level 1)",
         "plans": [
             {
-                "value": "This will cause many is intermittent  problems and eventually cut down on the Mean "
+                "value": "This will cause many is intermittent  problems and eventually cut down on the Mean Time Between Failures (MTBF) of the unit."
             },
             {
-                "value": "Between Failures (MTBF)  of the unit/ this will / intermittent  problems and "
+                "value": "Between Failures (MTBF)  of the unit/ this will / intermittent  problems and Time Between Failures (MTBF) of the unit."
             },
             {
-                "value": "This will cause many intermittent  problems and eventually cut down on the Mean Time  "
+                "value": "This will cause many intermittent problems and eventually cut down on the Mean Time Between Failures (MTBF) of the unit."
             }
         ],
-        "answer": "answer",
+        "answer": "This will cause many intermittent problems and eventually cut down on the Mean Time Between Failures (MTBF) of the unit.",
         "selectedAnswer": null
     },
     {
         "id": 1087,
-        "question": "7. to make the  equipment less susceptible to E SD /the airline industry, aircraft ",
+        "question": "to make the  equipment less susceptible to E SD /the airline industry, aircraft manufacturers/ and / suppliers/ are /working / in-flight entertainment system (Level 1)",
         "plans": [
             {
-                "value": "The airline industry, aircraft manufacturers in -flight  entertainment system suppliers are "
+                "value": "The airline industry, aircraft manufacturers in -flight  entertainment system suppliers are working to make and the equipment less susceptible to ESD."
             },
             {
-                "value": "The airline industry, aircraft manufacturers in -flight  entertainment system  and "
+                "value": "The airline industry, aircraft manufacturers in -flight  entertainment system  and suppliers are working to make the equipment less susceptible to ESD."
             },
             {
-                "value": "The airline industry, aircraft manufacturers and in -flight  entertainment system "
+                "value": "The airline industry, aircraft manufacturers and in -flight  entertainment system suppliers are working to make the equipment less susceptible to ESD."
             }
         ],
-        "answer": "answer",
+        "answer": "The airline industry, aircraft manufacturers and in -flight  entertainment system suppliers are working to make the equipment less susceptible to ESD.",
         "selectedAnswer": null
     },
     {
         "id": 1088,
-        "question": "8. the SEB /this is mainly/  to prevent / and damage  to/ audio circuitry in/ / DPCU ",
+        "question": "the SEB /this is mainly/  to prevent / and damage  to/ audio circuitry in/ / DPCU microprocessor lock-ups (Level 1)",
         "plans": [
             {
-                "value": "This is mainly  DPCU microprocessor lock -ups and damage  to audio  to preven t "
+                "value": "This is mainly DPCU microprocessor lock-ups and damage to audio to prevent circuitry in the SEB"
             },
             {
-                "value": "B /this is mainly/  to prevent / and damage  to/ audio circuitry in/ / DPCU "
+                "value": "This is mainly DPCU microprocessor lock-ups and to prevent damage to audio circuitry in the SEB"
             },
             {
-                "value": "CU microprocessor lock -ups (Level 1)  "
+                "value": "This is mainly to prevent DPCU microprocessor lock-ups and damage to audio circuitry in the SEB."
             }
         ],
-        "answer": "answer",
+        "answer": "This is mainly to prevent DPCU microprocessor lock-ups and damage to audio circuitry in the SEB.",
         "selectedAnswer": null
     },
     {
         "id": 1089,
-        "question": "9. protective internal circuitry /must/  It /can be/ assumed/ that/ also be applied/ in other ",
+        "question": "protective internal circuitry /must/  It /can be/ assumed/ that/ also be applied/ in other LRUs (Level 1)",
         "plans": [
             {
                 "value": "It"
             },
             {
-                "value": "\ be assumed that protective internal circuitry must  also be applied in other LRUs . "
+                "value": "be assumed that protective internal circuitry must  also be applied in other LRUs."
             }
         ],
-        "answer": "answer",
+        "answer": "be assumed that protective internal circuitry must  also be applied in other LRUs.",
         "selectedAnswer": null
     },
     {
         "id": 1090,
-        "question": "10. observing  ESD precautions /in all cases/however, this / the line maintenance technician ",
+        "question": "observing  ESD precautions /in all cases/however, this / the line maintenance technician from/ does not/ excuse (Level 1)",
         "plans": [
             {
-                "value": "However, this does not  excuse in the line maintenance technician from observing  ESD "
+                "value": "However, this does not  excuse in the line maintenance technician from observing ESD precautions in all cases."
             },
             {
-                "value": "However, this does not  excuse of the line maintenance technician from observing  ESD "
+                "value": "However, this does not  excuse of the line maintenance technician from observing ESD precautions in all cases."
             },
             {
-                "value": "However, this does not  excuse the line maintenance technician from observing  ESD "
+                "value": "However, this does not excuse the line maintenance technician from observing ESD precautions in all cases."
             }
         ],
-        "answer": "answer",
+        "answer": "However, this does not excuse the line maintenance technician from observing ESD precautions in all cases.",
         "selectedAnswer": null
     },
     {
         "id": 1091,
-        "question": "11. ESD awareness / to /costs down and  system availability up/  essential/ is/ keeping ",
+        "question": "ESD awareness / to /costs down and  system availability up/  essential/ is/ keeping maintenance (Level 1)",
         "plans": [
             {
-                "value": "ESD awareness essential to keeping maintenance costs down and is  system availability "
+                "value": "ESD awareness essential to keeping maintenance costs down and is  system availability up"
             },
             {
-                "value": "ESD awareness essential to keeping maintenance costs down and  system  is availability "
+                "value": "ESD awareness essential to keeping maintenance costs down and  system  is availability up"
             },
             {
-                "value": "ESD awareness is  essential to keeping maintenance costs down and  system availability "
+                "value": "ESD awareness is essential to keeping maintenance costs down and system availability up"
             }
         ],
-        "answer": "answer",
+        "answer": "ESD awareness is essential to keeping maintenance costs down and system availability up",
         "selectedAnswer": null
     },
     {
         "id": 1092,
-        "question": "12.  A digital signal / designate/ ones or zeros/ has / voltage levels, high or low,  which/only ",
+        "question": "A digital signal / designate/ ones or zeros/ has / voltage levels, high or low,  which/only two (Level 1)",
         "plans": [
             {
-                "value": "A digital signal / designate/ ones or zeros/ has / voltage levels, high or low,  which/only "
+                "value": "A digital signal has is only two voltage levels, high or low, which designate ones or zeros"
             },
             {
-                "value": "A digital signal has or only two voltage levels, high or low, which designate ones or "
+                "value": "A digital signal has or only two voltage levels, high or low, which designate ones or zeros"
             },
             {
-                "value": "A digital signal has only two voltage levels, high or low,  which designate ones or "
+                "value": "A digital signal has only two voltage levels, high or low, which designate ones or zeros."
             }
         ],
-        "answer": "answer",
+        "answer": "A digital signal has only two voltage levels, high or low, which designate ones or zeros.",
         "selectedAnswer": null
     },
     {
         "id": 1093,
-        "question": "13. audio data /the Main Mux / the seats/ in this way/transmits/ to  (Level 1)  ",
+        "question": "audio data /the Main Mux / the seats/ in this way/transmits/ to  (Level 1)  ",
         "plans": [
             {
-                "value": "The Main Mux transmits  audio data to the seats in this wa y. "
+                "value": "The Main Mux transmits  audio data to the seats in this way."
             },
             {
-                "value": "The Main Mux transmits  audio data to the seats in this way.  "
+                "value": "The Main Mux transmits  audio data to the seats in this way."
             },
             {
-                "value": "The Main Mux transmits  audio data to the seats in this way.  "
+                "value": "The Main Mux transmits  audio data to the seats in this way."
             }
         ],
-        "answer": "answer",
+        "answer": "The Main Mux transmits  audio data to the seats in this way.",
         "selectedAnswer": null
     },
     {
         "id": 1094,
-        "question": "14. to/ control and data signals/ transmit/ a digital signal / also  used/ is   (Level 1)  ",
+        "question": "to/ control and data signals/ transmit/ a digital signal / also  used/ is(Level 1)",
         "plans": [
             {
-                "value": "A digital signal is also  use to transmit control and data signals.  "
+                "value": "A digital signal is also use to transmit control and data signals."
             },
             {
-                "value": "A digital signal is also  used transmit  to control and data signals.  "
+                "value": "A digital signal is also used transmit  to control and data signals."
             },
             {
-                "value": "A digital  signal is also  used to transmit control and data signals.  "
+                "value": "A digital signal is also used to transmit control and data signals."
             }
         ],
-        "answer": "answer",
+        "answer": "A digital signal is also used to transmit control and data signals.",
         "selectedAnswer": null
     },
     {
         "id": 1095,
-        "question": "15. is / the avionics industry / serial data  communication/ arinc 429: A standard ",
+        "question": "is / the avionics industry / serial data  communication/ arinc 429: A standard communication protocol that/in use in/ for (Level 2)",
         "plans": [
             {
-                "value": "A standard "
+                "value": "ARINC 429: A standard communication protocol that is in the use in the avionics industry for serial data communication."
             },
             {
-                "value": "ARINC 429: A standard communication protocol  that is in use in the avionics industry  "
+                "value": "ARINC 429: A standard communication protocol that is in use in the avionics industry for the serial data communication."
             },
             {
-                "value": "C 429: A standard communication protocol  that is in the use in the avionics "
+                "value": "ARINC 429: A standard communication protocol that is in use in the avionics industry for serial data communication."
             }
         ],
-        "answer": "answer",
+        "answer": "ARINC 429: A standard communication protocol that is in use in the avionics industry for serial data communication.",
         "selectedAnswer": null
     },
     {
         "id": 1096,
-        "question": "16. the cabin bulkhead walls /wall -mounted overhead / are /on/ /monitors/ located  (Level 1)  ",
+        "question": "the cabin bulkhead walls /wall -mounted overhead / are /on/ /monitors/ located  (Level 1)  ",
         "plans": [
             {
-                "value": "Wall-mounted  are overhead monitors located on the cabin bulkhead walls.  "
+                "value": "Wall-mounted  are overhead monitors located on the cabin bulkhead walls."
             },
             {
-                "value": "Wall-mounted overhead monitors located on the cabin are bulkhead walls.  "
+                "value": "Wall-mounted overhead monitors located on the cabin are bulkhead walls."
             },
             {
-                "value": "Wall-mounted overhead monitors are located on the cabin bulkhead walls.  "
+                "value": "Wall-mounted overhead monitors are located on the cabin bulkhead walls."
             }
         ],
-        "answer": "answer",
+        "answer": "Wall-mounted overhead monitors are located on the cabin bulkhead walls.",
         "selectedAnswer": null
     },
     {
         "id": 1097,
-        "question": "17. individual units/ It also/ for status /  acknowledgment of data /asks/ and  (Level 1)  ",
+        "question": "individual units/ It also/ for status / acknowledgment of data /asks/ and(Level 1)",
         "plans": [
             {
                 "value": "It also asks individual units and for status acknowledgment of dat "
@@ -18642,695 +18642,695 @@ export default  [
                 "value": "It also asks individual units for and status acknowledgment of dat "
             },
             {
-                "value": "It also asks individual units for status and  acknowledgment of data . "
+                "value": "It also asks individual units for status and acknowledgment of data"
             }
         ],
-        "answer": "answer",
+        "answer": "It also asks individual units for status and acknowledgment of data",
         "selectedAnswer": null
     },
     {
         "id": 1098,
-        "question": "18. This protocol/ the Main Mux and  the PVS CU/ is / to  communicate to/ from CIDS for/used  ",
+        "question": "This protocol/ the Main Mux and  the PVS CU/ is / to  communicate to/ from CIDS for/used (Level 1)",
         "plans": [
             {
-                "value": "This protocol is used to  communicate to from CIDS for by the Main Mux and  the "
+                "value": "This protocol is used to  communicate to from CIDS for by the Main Mux and  the PVSCU"
             },
             {
-                "value": "This protocol is use to  communicate to from CIDS for the Main Mux and  the PVSCU.  "
+                "value": "This protocol is use to  communicate to from CIDS for the Main Mux and  the PVSCU."
             },
             {
-                "value": "CU/ is / to  communicate to/ from CIDS for/used  "
+                "value": "This protocol is used to communicate to from CIDS for the Main Mux and the PVSCU."
             }
         ],
-        "answer": "answer",
+        "answer": "This protocol is used to communicate to from CIDS for the Main Mux and the PVSCU.",
         "selectedAnswer": null
     },
     {
         "id": 1099,
-        "question": "19. data bus /this / a closed -loop bi -directional  type of /is  (Level 1)  ",
+        "question": "data bus /this / a closed -loop bi -directional  type of /is  (Level 1)  ",
         "plans": [
             {
-                "value": "This is a closed -loop bi -directional  type of is data bus.  "
+                "value": "This is a closed -loop bi -directional  type of is data bus."
             },
             {
-                "value": "This is a closed -loop bi -directional  type of an data bus.  "
+                "value": "This is a closed -loop bi -directional  type of an data bus."
             },
             {
-                "value": "This is a closed -loop b i-directional  type of data bus.  "
+                "value": "This is a closed-loop b i-directional type of data bus."
             }
         ],
-        "answer": "answer",
+        "answer": "This is a closed-loop b i-directional type of data bus.",
         "selectedAnswer": null
     },
     {
         "id": 1100,
-        "question": "20. PPC /used / the Panasonic  PVSCU/ talking with TUs and VDUs for/by/is  (Level 1)  ",
+        "question": "PPC /used / the Panasonic  PVSCU/ talking with TUs and VDUs for/by/is(Level 1)",
         "plans": [
             {
-                "value": "PPC is used by the Panasonic  PVSCU for is talking with TUs and VDUs.  "
+                "value": "PPC is used by the Panasonic  PVSCU for is talking with TUs and VDUs."
             },
             {
-                "value": "PPC is use by the Panasonic  PVSCU for talking with TUs and VDUs.  "
+                "value": "PPC is use by the Panasonic  PVSCU for talking with TUs and VDUs."
             },
             {
-                "value": "C /used / the Panasonic  PVSCU/ talking with TUs and VDUs for/by/is  (Level 1)  "
+                "value": "PPC is used by the Panasonic PVSCU for talking with TUs and VDUs."
             }
         ],
-        "answer": "answer",
+        "answer": "PPC is used by the Panasonic PVSCU for talking with TUs and VDUs.",
         "selectedAnswer": null
     },
     {
         "id": 1101,
-        "question": "21. It /is /also  used/ to send/ data /from/ the Mux to the SEBs, from/  the /SEBs to/ the ",
+        "question": "It /is /also  used/ to send/ data /from/ the Mux to the SEBs, from/  the /SEBs to/ the DPCUs (Level 1)",
         "plans": [
             {
                 "value": "It is also  used to send data from the Mux the SEBs, from to  the SEBs to the DPCUs"
             },
             {
-                "value": "Bs, from/  the /SEBs to/ the "
+                "value": "It is also used to send to data from the Mux the SEBs, from the SEBs to the DPCUs"
             },
             {
-                "value": "CUs  (Level 1)  "
+                "value": "It is also used to send data from the Mux to the SEBs, from the SEBs to the DPCUs"
             }
         ],
-        "answer": "answer",
+        "answer": "It is also used to send data from the Mux to the SEBs, from the SEBs to the DPCUs",
         "selectedAnswer": null
     },
     {
         "id": 1102,
-        "question": "22. it / the Programmable Video  System Control Unit /is  /also used / the VCPs to/from  (Level ",
+        "question": "it / the Programmable Video  System Control Unit /is  /also used / the VCPs to/from  (Level 1)",
         "plans": [
             {
-                "value": "It is also used fr om the VCPs to the Programmable Video  System is Control Unit.  "
+                "value": "It is also used fr om the VCPs to the Programmable Video  System is Control Unit."
             },
             {
-                "value": "It is also used from the VCPs to the Programmable Video is  System Control Unit.  "
+                "value": "It is also used from the VCPs to the Programmable Video is  System Control Unit."
             },
             {
-                "value": "Control Unit /is  /also used / the VCPs to/from  (Level "
+                "value": "It is also used from the VCPs to the Programmable Video System Control Unit."
             }
         ],
-        "answer": "answer",
+        "answer": "It is also used from the VCPs to the Programmable Video System Control Unit.",
         "selectedAnswer": null
     },
     {
         "id": 1103,
-        "question": "23. one that controls certain system  functions / that particular discrete signal goes  “active”/ a ",
+        "question": "one that controls certain system  functions / that particular discrete signal goes  “active”/ a discreet signal/ is/when (Level 1)",
         "plans": [
             {
-                "value": "A discreet signal one that controls certain system  functions when that particular "
+                "value": "A discreet signal one that controls certain system  functions when that particular discrete is signal goes “active”."
             },
             {
-                "value": "A discreet signal one that controls certain system  functions when that particular  is "
+                "value": "A discreet signal one that controls certain system  functions when that particular is discrete signal goes “active”."
             },
             {
-                "value": "A discreet signal is one that controls certain system  functions when that particular "
+                "value": "A discreet signal is one that controls certain system functions when that particular discrete signal goes “active”."
             }
         ],
-        "answer": "answer",
+        "answer": "A discreet signal is one that controls certain system functions when that particular discrete signal goes “active”.",
         "selectedAnswer": null
     },
     {
         "id": 1104,
-        "question": "24. are /transmit  data /there/ of audio signals used/ to / in MPES/two/ types  (Level 1)  ",
+        "question": "are /transmit  data /there/ of audio signals used/ to / in MPES/two/ types(Level 1)",
         "plans": [
             {
-                "value": "There are two  to types of audio signals used transmit  data in MPES"
+                "value": "There are two  to types of audio signals used transmit data in MPES"
             },
             {
-                "value": "There are two types of audio  to signals used transmit  data in MPES"
+                "value": "There are two types of audio  to signals used transmit data in MPES"
             },
             {
-                "value": "There are two types of audio signals used to transmit  data in MPES.  "
+                "value": "There are two types of audio signals used to transmit data in MPES."
             }
         ],
-        "answer": "answer",
+        "answer": "There are two types of audio signals used to transmit data in MPES.",
         "selectedAnswer": null
     },
     {
         "id": 1105,
-        "question": "25. is / that / analog Audio: This / prese nt at a headphone or speaker/ the type of audio/is  ",
+        "question": "is / that / analog Audio: This / prese nt at a headphone or speaker/ the type of audio/is (Level 1)",
         "plans": [
             {
-                "value": "Audio: This / prese nt at a headphone or speaker/ the type of audio/is  "
+                "value": "Analog Audio: This is the type of audio is present at a that headphone or speaker."
             },
             {
-                "value": "Analog Audio: This is the type of audio is present at  that a headphone or speaker.  "
+                "value": "Analog Audio: This is the type of audio is present at that a headphone or speaker."
             },
             {
-                "value": "Analog Audio: This is the type of audio that is present at a headphone or speaker.  "
+                "value": "Analog Audio: This is the type of audio that is present at a headphone or speaker."
             }
         ],
-        "answer": "answer",
+        "answer": "Analog Audio: This is the type of audio that is present at a headphone or speaker.",
         "selectedAnswer": null
     },
     {
         "id": 1106,
-        "question": "26. The signal  strength / the volume, and the frequency  determines the pitch/determines  ",
+        "question": "The signal  strength / the volume, and the frequency  determines the pitch/determines (Level 1)",
         "plans": [
             {
-                "value": "The signal  strength determines of the volume, and the frequency  determines the pitch.  "
+                "value": "The signal  strength determines of the volume, and the frequency determines the pitch."
             },
             {
-                "value": "The signal  strength  determines is the volume, and the frequency  determines the pitch.  "
+                "value": "The signal  strength  determines is the volume, and the frequency determines the pitch."
             },
             {
-                "value": "The signal  strength determines the volume, and the frequency  determines the pitch . "
+                "value": "The signal strength determines the volume, and the frequency determines the pitch."
             }
         ],
-        "answer": "answer",
+        "answer": "The signal strength determines the volume, and the frequency determines the pitch.",
         "selectedAnswer": null
     },
     {
         "id": 1107,
-        "question": "27. an analog audio signal /been sampled and converted /is /into a 16 -bit digital audio word/ ",
+        "question": "an analog audio signal /been sampled and converted /is /into a 16 -bit digital audio word/ PCM Audio: This/that /has (Level 1)",
         "plans": [
             {
-                "value": "Audio: This/ that /has  (Level 1)  "
+                "value": "PCM Audio: This is an analog audio signal that has been sampled and convert into a 16-bit digital audio word."
             },
             {
-                "value": "PCM Audio: This is an analog audio signal that has been sample and converted into a "
+                "value": "PCM Audio: This is an analog audio signal that has been sample and converted into a 16-bit digital audio word."
             },
             {
-                "value": "CM Audio: This/ that /has  (Level 1)  "
+                "value": "PCM Audio: This is an analog audio signal that has been sampled and converted into a 16-bit digital audio word."
             }
         ],
-        "answer": "answer",
+        "answer": "PCM Audio: This is an analog audio signal that has been sampled and converted into a 16-bit digital audio word.",
         "selectedAnswer": null
     },
     {
         "id": 1108,
-        "question": "28. MPES Audio System  utilizes only one type of video signal -Baseband Video/ the / ",
+        "question": "MPES Audio System  utilizes only one type of video signal -Baseband Video/ the / attached/ to/ an/ Video system. (Level 1)",
         "plans": [
             {
-                "value": "Audio System  utilizes only one type of video signal -Baseband Video/ the / "
+                "value": "The Video system attach to an MPES Audio System utilizes only one type of video signal-Baseband Video."
             },
             {
-                "value": "Baseband Video/ the / "
+                "value": "The Video system attached an MPES Audio System utilizes only to one type of video signal-Baseband Video."
             },
             {
-                "value": "The Video system attached to an MPES Audio System  utilizes only one type of video "
+                "value": "The Video system attached to an MPES Audio System utilizes only one type of video signal-Baseband Video."
             }
         ],
-        "answer": "answer",
+        "answer": "The Video system attached to an MPES Audio System utilizes only one type of video signal-Baseband Video.",
         "selectedAnswer": null
     },
     {
         "id": 1109,
-        "question": "29. PAL video signals /the Panasonic video /recognize and display  NTSC/ and / systems/ ",
+        "question": "PAL video signals /the Panasonic video /recognize and display  NTSC/ and / systems/ can (Level 1)",
         "plans": [
             {
-                "value": "AL video signals /the Panasonic video /recognize and display  NTSC/ and / systems/ "
+                "value": "The Panasonic video systems can and recognize display NTSC and PAL video signals."
             },
             {
-                "value": "The Panasonic video systems  and can recognize display  NTSC  and PAL video "
+                "value": "The Panasonic video systems and can recognize display NTSC and PAL video signals."
             },
             {
-                "value": "C/ and / systems/ "
+                "value": "The Panasonic video systems can recognize and display NTSC and PAL video signals."
             }
         ],
-        "answer": "answer",
+        "answer": "The Panasonic video systems can recognize and display NTSC and PAL video signals.",
         "selectedAnswer": null
     },
     {
         "id": 1110,
-        "question": "30. and/ require different decoding  frequencies before /they can be displayed/ these/ each ",
+        "question": "and/ require different decoding  frequencies before /they can be displayed/ these/ each formatted /to /a different standard /are (Level 1)",
         "plans": [
             {
-                "value": "These are ea ch formatted  a different standard and require different  to decoding  "
+                "value": "These are ea ch formatted  a different standard and require different  to decoding frequencies before they can be displayed."
             },
             {
-                "value": "These are each formatted a different standard and require to different decoding  "
+                "value": "These are each formatted a different standard and require to different decoding frequencies before they can be displayed."
             },
             {
-                "value": "These are each formatted  to a different standard and require different decoding  "
+                "value": "These are each formatted to a different standard and require different decoding frequencies before they can be displayed."
             }
         ],
-        "answer": "answer",
+        "answer": "These are each formatted to a different standard and require different decoding frequencies before they can be displayed.",
         "selectedAnswer": null
     },
     {
         "id": 1111,
-        "question": "31. a power switch for MPES at / configurations / include/ the Forward  Attendant Panel/  ",
+        "question": "a power switch for MPES at / configurations / include/ the Forward  Attendant Panel/ will/most (Level 1)",
         "plans": [
             {
-                "value": "Attendant Panel/  "
+                "value": "Most configurations will be include a power switch for MPES at the Forward Attendant Panel"
             },
             {
-                "value": "Most configurations  will a power switch for  include MPES at the Forward  Attendant "
+                "value": "Most configurations will a power switch for  include MPES at the Forward Attendant Panel"
             },
             {
-                "value": "Most configurations  will include a power switch for MPES at the Forward  Attendant "
+                "value": "Most configurations will include a power switch for MPES at the Forward Attendant Panel"
             }
         ],
-        "answer": "answer",
+        "answer": "Most configurations will include a power switch for MPES at the Forward Attendant Panel",
         "selectedAnswer": null
     },
     {
         "id": 1112,
-        "question": "32. OVS / powered / the PVSCU  power switch/ is/ by  (Level 1)  ",
+        "question": "OVS / powered / the PVSCU  power switch/ is/ by  (Level 1)  ",
         "plans": [
             {
-                "value": "OVS is power by the PVSCU  power switch.  "
+                "value": "OVS is power by the PVSCU  power switch."
             },
             {
-                "value": "OVS is powered by the PVSCU  is power switch.  "
+                "value": "OVS is powered by the PVSCU  is power switch."
             },
             {
-                "value": "CU  power switch/ is/ by  (Level 1)  "
+                "value": "OVS is powered by the PVSCU power switch."
             }
         ],
-        "answer": "answer",
+        "answer": "OVS is powered by the PVSCU power switch.",
         "selectedAnswer": null
     },
     {
         "id": 1113,
-        "question": "33. the seat boxes /MPES /music audio and video audio  (soundtrack) /to/ / provides  (Level ",
+        "question": "the seat boxes /MPES /music audio and video audio  (soundtrack) /to/ / provides  (Level 1)",
         "plans": [
             {
-                "value": "MPES provides  to music audio and video audio  (soundtrack) the seat boxes.  "
+                "value": "MPES provides  to music audio and video audio (soundtrack) the seat boxes."
             },
             {
-                "value": "MPES provides music audio and video audio  (soundtrack) the to seat boxes.  "
+                "value": "MPES provides music audio and video audio (soundtrack) the to seat boxes."
             },
             {
-                "value": "MPES provides music audio and video audio  (soundtrack) to the seat boxes.  "
+                "value": "MPES provides music audio and video audio (soundtrack) to the seat boxes."
             }
         ],
-        "answer": "answer",
+        "answer": "MPES provides music audio and video audio (soundtrack) to the seat boxes.",
         "selectedAnswer": null
     },
     {
         "id": 1114,
-        "question": "34. The system /line maintenance personnel/ with the ability/  /to the seat boxes with BITE/ ",
+        "question": "The system /line maintenance personnel/ with the ability/  /to the seat boxes with BITE/ also provides/ to/ troubleshoot (Level 1)",
         "plans": [
             {
-                "value": "The system also  provides line maintenance personnel with the ability to  troubleshoot "
+                "value": " The system also provides line maintenance personnel with the ability to troubleshoot the seat boxes to with BITE."
             },
             {
-                "value": "BITE/ "
+                "value": " The system also provides line to maintenance personnel with the ability to troubleshoot the seat boxes with BITE."
             },
             {
-                "value": "The system also  provides line maintenance personnel with the ability to  troubleshoot "
+                "value": "The system also provides line maintenance personnel with the ability to troubleshoot to the seat boxes with BITE."
             }
         ],
-        "answer": "answer",
+        "answer": "The system also provides line maintenance personnel with the ability to troubleshoot to the seat boxes with BITE.",
         "selectedAnswer": null
     },
     {
         "id": 1115,
-        "question": "35. corresponding PA audio  data / the SEB/ This/ will /the Main Mux/ to/ send/ the/tell/to   ",
+        "question": "corresponding PA audio  data / the SEB/ This/ will /the Main Mux/ to/ send/ the/tell/to (Level 2)",
         "plans": [
             {
-                "value": "A audio  data / the SEB/ This/ will /the Main Mux/ to/ send/ the/tell/to   "
+                "value": "This will tell the Main Mux to send the corresponding PA to audio data the SEB"
             },
             {
-                "value": "B/ This/ will /the Main Mux/ to/ send/ the/tell/to   "
+                "value": " This will tell the Main Mux to send the corresponding to PA audio data the SEB."
             },
             {
-                "value": "This will tell the Main Mux to send the corresponding PA audio  data to the SE "
+                "value": "This will tell the Main Mux to send the corresponding PA audio data to the SEB."
             }
         ],
-        "answer": "answer",
+        "answer": "This will tell the Main Mux to send the corresponding PA audio data to the SEB.",
         "selectedAnswer": null
     },
     {
         "id": 1116,
-        "question": "36. the seat ( headset)/It should be / PA audio  overrides / that PA /will be/ the only  /MPES ",
+        "question": "the seat ( headset)/It should be / PA audio  overrides / that PA /will be/ the only  /MPES audio heard at/ / noted that/entertainment audio, so (Level 2)",
         "plans": [
             {
-                "value": "A audio  overrides / that PA /will be/ the only  /MPES "
+                "value": "It should be noted that PA audio so overrides entertainment audio, that PA will be the only MPES audio heard at the seat (headset)."
             },
             {
-                "value": "It should be noted that PA audio  overrides entertainment audio, so that PA will be is "
+                "value": "It should be noted that PA audio overrides entertainment audio, so that PA will be is the only MPES audio heard at the seat (headset)."
             },
             {
-                "value": "It should be noted that PA audio  overrides entertainment audio, so that PA will be the "
+                "value": "It should be noted that PA audio overrides entertainment audio, so that PA will be the only MPES audio heard at the seat (headset)."
             }
         ],
-        "answer": "answer",
+        "answer": "It should be noted that PA audio overrides entertainment audio, so that PA will be the only MPES audio heard at the seat (headset).",
         "selectedAnswer": null
     },
     {
         "id": 1117,
-        "question": "37. an unused DPCU channel (depending on the audio  source)/ Video audio (movie ",
+        "question": "an unused DPCU channel (depending on the audio  source)/ Video audio (movie soundtrack) / can be/ to/ inputs /assigned (Level 1)",
         "plans": [
             {
-                "value": "Video audio (movie soundtrack) can be assigned  to an unused  inputs DPCU channel "
+                "value": "Video audio (movie soundtrack) can be assigned to an unused inputs DPCU channel (depending on the audio source)."
             },
             {
-                "value": "Video audio (movie soundtrack) inputs can be assigned  an unused DPCU  to channel "
+                "value": "Video audio (movie soundtrack) inputs can be assigned an unused DPCU to channel (depending on the audio source)."
             },
             {
-                "value": "CU channel (depending on the audio  source)/ Video audio (movie "
+                "value": "Video audio (movie soundtrack) inputs can be assigned to an unused DPCU channel (depending on the audio source)."
             }
         ],
-        "answer": "answer",
+        "answer": "Video audio (movie soundtrack) inputs can be assigned to an unused DPCU channel (depending on the audio source).",
         "selectedAnswer": null
     },
     {
         "id": 1118,
-        "question": "38. Wall Disc onnect Boxes/ for two -way data  communications via 2 sets /of data lines that ",
+        "question": "Wall Disc onnect Boxes/ for two -way data  communications via 2 sets /of data lines that send configuration and layout data/ the Main Mux / to two SEB columns through/connected/ is. (Level 2)",
         "plans": [
             {
-                "value": "The Main Mux is connected is to two SEB columns through  Wall Disconnect Boxes for "
+                "value": "The Main Mux is connected is to two SEB columns through Wall Disconnect Boxes for two-way data communications via 2 sets of data lines that send configuration and layout data."
             },
             {
-                "value": "Boxes/ for two -way data  communications via 2 sets /of data lines that "
+                "value": "The Main Mux is connected to two SEB columns through Wall Disconnect Boxes for two-way data communications via 2 sets of the data lines that send configuration and layout data"
             },
             {
-                "value": "The Main Mux is connected to two SEB columns through  Wall Disconnect Boxes for "
+                "value": "The Main Mux is connected to two SEB columns through Wall Disconnect Boxes for two-way data communications via 2 sets of data lines that send configuration and layout data."
             }
         ],
-        "answer": "answer",
+        "answer": "The Main Mux is connected to two SEB columns through Wall Disconnect Boxes for two-way data communications via 2 sets of data lines that send configuration and layout data.",
         "selectedAnswer": null
     },
     {
         "id": 1119,
-        "question": "39. the opposite direction /the /repeats/ the process, but/next  data cycle/ in  (Level 1)  ",
+        "question": "the opposite direction /the /repeats/ the process, but/next  data cycle/ in  (Level 1)",
         "plans": [
             {
-                "value": "The next data cycle repeats in the process, but  the opposite direction.  "
+                "value": "The next data cycle repeats in the process, but  the opposite direction."
             },
             {
-                "value": "The next data cycle in repeats the process, but  the opposite direction.  "
+                "value": "The next data cycle in repeats the process, but  the opposite direction."
             },
             {
-                "value": "The next data cycle repeats the process, but in  the opposite direction.  "
+                "value": "The next data cycle repeats the process, but in  the opposite direction."
             }
         ],
-        "answer": "answer",
+        "answer": "The next data cycle repeats the process, but in  the opposite direction.",
         "selectedAnswer": null
     },
     {
         "id": 1120,
-        "question": "40. In some older / will / the seat electronics boxes/ installations, the Mux/ supply 115VAC/  ",
+        "question": "In some older / will / the seat electronics boxes/ installations, the Mux/ supply 115VAC/ to (Level 1)",
         "plans": [
             {
-                "value": "AC/  "
+                "value": "In some older installations, to the Mux will supply 115VAC the seat electronics boxes (SEBs)."
             },
             {
-                "value": "Bs).  "
+                "value": "In some older installations, the Mux will supply 115VAC the seat to electronics boxes (SEBs)."
             },
             {
-                "value": "C/  to (Level 1)  "
+                "value": "In some older installations, the Mux will supply 115VAC to the seat electronics boxes (SEBs)."
             }
         ],
-        "answer": "answer",
+        "answer": "In some older installations, the Mux will supply 115VAC to the seat electronics boxes (SEBs).",
         "selectedAnswer": null
     },
     {
         "id": 1121,
-        "question": "41. the Mux / and/ video PA keyline  information / also/  transmits zone information/ to the ",
+        "question": "the Mux / and/ video PA keyline  information / also/  transmits zone information/ to the SEBs (Level 2)",
         "plans": [
             {
-                "value": "A keyline  information / also/  transmits zone information/ to the "
+                "value": "The Mux also transmits zone information and video PA a keyline information to the SEBs."
             },
             {
-                "value": "Bs   (Level 2)  "
+                "value": "The Mux also transmits zone information and video PA keyline information is to the SEBs."
             },
             {
-                "value": "The Mux also  transmits zone information and video PA keyline  information to the "
+                "value": "The Mux also transmits zone information and video PA keyline information to the SEBs."
             }
         ],
-        "answer": "answer",
+        "answer": "The Mux also transmits zone information and video PA keyline information to the SEBs.",
         "selectedAnswer": null
     },
     {
         "id": 1122,
-        "question": "42. DIP switch / inside /mono channel programming/ settings/ the Main Mux determine ",
+        "question": "DIP switch / inside /mono channel programming/ settings/ the Main Mux determine stereo/ or (Level 2)",
         "plans": [
             {
-                "value": "DIP switch settings inside the Main Mux determine stereo  mono channel  or "
+                "value": "DIP switch settings inside the Main Mux determine stereo  mono channel or programming"
             },
             {
-                "value": "DIP switch settings inside the Main Mux determine stereo  mono  or channel "
+                "value": "DIP switch settings inside the Main Mux determine stereo  mono  or channel programming"
             },
             {
-                "value": "DIP switch settings inside the Main Mux determine stereo  or mono channel "
+                "value": "DIP switch settings inside the Main Mux determine stereo or mono channel programming"
             }
         ],
-        "answer": "answer",
+        "answer": "DIP switch settings inside the Main Mux determine stereo or mono channel programming",
         "selectedAnswer": null
     },
     {
         "id": 1123,
-        "question": "43. the DPCU part number /DPCU channel / are/ a combination of audio  input wiring / the ",
+        "question": "the DPCU part number /DPCU channel / are/ a combination of audio  input wiring / the Main Mux /and / assignments/ to (Level 1)",
         "plans": [
             {
-                "value": "DPCU channel assignments are a combination  and of audio  input wiring to the Main "
+                "value": "DPCU channel assignments are a combination and of audio input wiring to the Main Mux the DPCU part number."
             },
             {
-                "value": "DPCU channel assignments are a combination of audio  and input wiring to the Main "
+                "value": "DPCU channel assignments are a combination of audio  and input wiring to the Main Mux the DPCU part number."
             },
             {
-                "value": "CU part number /DPCU channel / are/ a combination of audio  input wiring / the "
+                "value": "DPCU channel assignments are a combination of audio input wiring to the Main Mux and the DPCU part number."
             }
         ],
-        "answer": "answer",
+        "answer": "DPCU channel assignments are a combination of audio input wiring to the Main Mux and the DPCU part number.",
         "selectedAnswer": null
     },
     {
         "id": 1124,
-        "question": "44. Video audio / be / by/and / zone depending on  system wiring, configuration data / airline ",
+        "question": "Video audio / be / by/and / zone depending on  system wiring, configuration data / airline choice/can/ selected (Level 2)",
         "plans": [
             {
-                "value": "Video audio can be selected by the zone depending on  system wiring, configuration "
+                "value": "Video audio can be selected by the zone depending on  system wiring, configuration data and airline choice."
             },
             {
-                "value": "Video  audio can be select by zone depending on  system wiring, configuration data "
+                "value": "Video  audio can be select by zone depending on  system wiring, configuration data and airline choice."
             },
             {
-                "value": "Video audio can be selected by zone depending on  system wiring, configuration data "
+                "value": "Video audio can be selected by zone depending on system wiring, configuration data and airline choice."
             }
         ],
-        "answer": "answer",
+        "answer": "Video audio can be selected by zone depending on system wiring, configuration data and airline choice.",
         "selectedAnswer": null
     },
     {
         "id": 1125,
-        "question": "45. The video audio / be / to / or /an existing audio  DPCU c hannel / an empty non -audio ",
+        "question": "The video audio / be / to / or /an existing audio  DPCU c hannel / an empty non -audio channel/can/assigned (Level 2)",
         "plans": [
             {
-                "value": "The video audio can assigned to an existing  be audio  DPCU channel, or an empty "
+                "value": "The video audio can assigned to an existing  be audio  DPCU channel, or an empty non-audio channel."
             },
             {
-                "value": "The video audio can be assigned an existing  to audio  DPCU channel, or an empty "
+                "value": "The video audio can be assigned an existing  to audio  DPCU channel, or an empty non-audio channel."
             },
             {
-                "value": "CU c hannel / an empty non -audio "
+                "value": "The video audio can be assigned to an existing audio DPCU channel, or an empty non-audio channel."
             }
         ],
-        "answer": "answer",
+        "answer": "The video audio can be assigned to an existing audio DPCU channel, or an empty non-audio channel.",
         "selectedAnswer": null
     },
     {
         "id": 1126,
-        "question": "46. the Main Mux /stereo or mono /channels / assigned/ with DIP  switches / can be/inside  ",
+        "question": "the Main Mux /stereo or mono /channels / assigned/ with DIP  switches / can be/inside (Level 1)",
         "plans": [
             {
-                "value": "Stereo or mono channels can be assigned with DIP  switches inside is the Main Mux.  "
+                "value": "Stereo or mono channels can be assigned with DIP  switches inside is the Main Mux."
             },
             {
-                "value": "Stereo or mono channels can be assign with DIP  switches inside the Main Mux.  "
+                "value": "Stereo or mono channels can be assign with DIP  switches inside the Main Mux."
             },
             {
-                "value": "Stereo or mono channels can be assigned with DIP  switches inside the Main Mux.  "
+                "value": "Stereo or mono channels can be assigned with DIP  switches inside the Main Mux."
             }
         ],
-        "answer": "answer",
+        "answer": "Stereo or mono channels can be assigned with DIP  switches inside the Main Mux.",
         "selectedAnswer": null
     },
     {
         "id": 1127,
-        "question": "47. the PVSCU for PA use /the proper video source / be /  and executed /from/ mus t/ ",
+        "question": "the PVSCU for PA use /the proper video source / be / and executed /from/ must/ designated (Level 1)",
         "plans": [
             {
-                "value": "A use /the proper video source / be /  and executed /from/ mus t/ "
+                "value": "The proper video source be must designated and executed from the PVSCU for PA use"
             },
             {
-                "value": "The proper video source must designated  and be executed from the PVSCU for PA "
+                "value": "The proper video source must designated and be executed from the PVSCU for PA use."
             },
             {
-                "value": "CU for PA use /the proper video source / be /  and executed /from/ mus t/ "
+                "value": "The proper video source must be designated and executed from the PVSCU for PA use."
             }
         ],
-        "answer": "answer",
+        "answer": "The proper video source must be designated and executed from the PVSCU for PA use.",
         "selectedAnswer": null
     },
     {
         "id": 1128,
-        "question": "48. The video audio /  applied /the correct cabin zone based / video keylines/ will/the MPES  ",
+        "question": "The video audio /  applied /the correct cabin zone based / video keylines/ will/the MPES configuration and/ the active/ on/ to/ be (Level 2)",
         "plans": [
             {
-                "value": "The video audio will be  applied the correct cabin zone based on the MPES to  "
+                "value": "The video audio will be applied the correct cabin zone based on the MPES to configuration and the active video keylines."
             },
             {
-                "value": "The video audio will be  applied to the correct  on cabin zone based the MPES  "
+                "value": "The video audio will be applied to the correct on cabin zone based the MPES configuration and the active video keylines."
             },
             {
-                "value": "The video audio will be  applied to the correct cabin zone based on the MPES  "
+                "value": "The video audio will be applied to the correct cabin zone based on the MPES configuration and the active video keylines."
             }
         ],
-        "answer": "answer",
+        "answer": "The video audio will be applied to the correct cabin zone based on the MPES configuration and the active video keylines.",
         "selectedAnswer": null
     },
     {
         "id": 1129,
-        "question": "49. the installed/  video components, including the Video Players and TUs/ initiates/ BITE for/ ",
+        "question": "the installed/  video components, including the Video Players and TUs/ initiates/ BITE for/ at power-up, the PVSCU (Level 2)",
         "plans": [
             {
-                "value": "At power -up, the PVSCU initiates the BITE for the installed  video components, "
+                "value": "At power-up, the PVSCU initiates the BITE for the installed video components, including the Video Players and TUs."
             },
             {
-                "value": "BITE for/ "
+                "value": "At power-up, the PVSCU initiates BITE for the installed video component, including the Video Players and TUs."
             },
             {
-                "value": "CU   (Level 2)  "
+                "value": "At power-up, the PVSCU initiates BITE for the installed video components, including the Video Players and TUs."
             }
         ],
-        "answer": "answer",
+        "answer": "At power-up, the PVSCU initiates BITE for the installed video components, including the Video Players and TUs.",
         "selectedAnswer": null
     },
     {
         "id": 1130,
-        "question": "50. to view important video messages / the s afety video /when their monitors / for take -off ",
+        "question": "to view important video messages / the s afety video /when their monitors / for take -off and landing/ these monitors/ allow passengers/ who/ are seated/ in the front rows/ such as/ are stowed (Level 1)",
         "plans": [
             {
-                "value": "These monitors allow passengers who are seated in the front rows to view important "
+                "value": "These monitors allow passengers who are seated in the front rows to view important video messages such as the safety video when their monitors are stowed by for takeoff and landing."
             },
             {
-                "value": "These monitors allow passengers who are seated in the front rows to view important "
+                "value": "These monitors allow passengers who are seated in the front rows to view important video messages such as the safety video when their monitors are stowed is for takeoff and landing."
             },
             {
-                "value": "These monitors allow passengers who are seated in the front rows to view important "
+                "value": "These monitors allow passengers who are seated in the front rows to view important video messages such as the safety video when their monitors are stowed for take-off and landing."
             }
         ],
-        "answer": "answer",
+        "answer": "These monitors allow passengers who are seated in the front rows to view important video messages such as the safety video when their monitors are stowed for take-off and landing.",
         "selectedAnswer": null
     },
     {
         "id": 1131,
-        "question": "51. monitors / to /display /passengers / the progress of their fl ight without /exit ",
+        "question": "monitors / to /display /passengers / the progress of their fl ight without /exit theentertainment that / playing/ on their seatback monitors/ are also used/ the moving map so that/ can see/ having to/ is (Level 1)",
         "plans": [
             {
-                "value": "Monitors are also used to display the moving map so that passengers can see the "
+                "value": "Monitors are also used to display the moving map so that passengers can see the progress by of their flight without having to exit theentertainment that is playing on their seatback monitors."
             },
             {
-                "value": "Monitors are also used to display the moving map so that passengers can see the "
+                "value": "Monitors are also used to display the moving map so that passengers can see the progress is of their flight without having to exit theentertainment that is playing on their seatback monitors."
             },
             {
-                "value": "Monitors are also used to display the moving map so that passengers can see the "
+                "value": "Monitors are also used to display the moving map so that passengers can see the progress of their flight without having to exit theentertainment that is playing on their seatback monitors."
             }
         ],
-        "answer": "answer",
+        "answer": "Monitors are also used to display the moving map so that passengers can see the progress of their flight without having to exit theentertainment that is playing on their seatback monitors.",
         "selectedAnswer": null
     },
     {
         "id": 1132,
-        "question": "52. the IFE  system /cabin crew/ maintenance personnel/ Cabin Management  Interface (CMI) ",
+        "question": "the IFE  system /cabin crew/ maintenance personnel/ Cabin Management  Interface (CMI) screens to /operate, control, and monitor / and / use (Level 1)",
         "plans": [
             {
-                "value": "Cabin crew and maintenance personnel Cabin Management  Interface (CMI) use "
+                "value": "Cabin crew and maintenance personnel Cabin Management Interface (CMI) use screens to operate, control, and monitor the IFE system."
             },
             {
-                "value": "Cabin crew and  use maintenance personnel Cabin Management  Interface (CMI) "
+                "value": "Cabin crew and use maintenance personnel Cabin Management Interface (CMI) screens to operate, control, and monitor the IFE system."
             },
             {
-                "value": "Cabin Management  Interface (CMI) "
+                "value": "Cabin crew and maintenance personnel use Cabin Management Interface (CMI) screens to operate, control, and monitor the IFE system."
             }
         ],
-        "answer": "answer",
+        "answer": "Cabin crew and maintenance personnel use Cabin Management Interface (CMI) screens to operate, control, and monitor the IFE system.",
         "selectedAnswer": null
     },
     {
         "id": 1133,
-        "question": "53. display interactive menu screens/ passenger  /monitors / provide / various entertainment ",
+        "question": "display interactive menu screens/ passenger  /monitors / provide / various entertainment services/ which/ access to (Level 1)",
         "plans": [
             {
-                "value": "Passenger monitors display interactive menu  provide screens which access to various "
+                "value": "Passenger monitors display interactive menu  provide screens which access to various entertainment services."
             },
             {
-                "value": "Passenger monitors disp lay interactive menu screens which  access to provide various "
+                "value": "Passenger monitors disp lay interactive menu screens which  access to provide various entertainment services."
             },
             {
-                "value": "Passenger monitors display interactive menu screens which provide  access to various "
+                "value": "Passenger monitors display interactive menu screens which provide  access to various entertainment services."
             }
         ],
-        "answer": "answer",
+        "answer": "Passenger monitors display interactive menu screens which provide  access to various entertainment services.",
         "selectedAnswer": null
     },
     {
         "id": 1134,
-        "question": "54. touch -screen feature  of each monitor / screen navigation /servi ce selection /and/ control ",
+        "question": "touch -screen feature  of each monitor / screen navigation /servi ce selection /and/ control /the / enables/as well as (Level 1)",
         "plans": [
             {
-                "value": "The touch -screen feature  of each monitor enables  and screen navigation as well as "
+                "value": "The touch -screen feature  of each monitor enables  and screen navigation as well as service selection control."
             },
             {
-                "value": "The touch -screen feature  of each monitor enables screen  and navigation as well as "
+                "value": "The touch -screen feature  of each monitor enables screen  and navigation as well as service selection control."
             },
             {
-                "value": "The touch -screen feature  of each monitor enables screen navigation as well as "
+                "value": "The touch -screen feature  of each monitor enables screen navigation as well as service selection and control."
             }
         ],
-        "answer": "answer",
+        "answer": "The touch -screen feature  of each monitor enables screen navigation as well as service selection and control.",
         "selectedAnswer": null
     },
     {
         "id": 1135,
-        "question": "55. this /allows / devices/ to / with/ each other using the Internet Protocol (IP)/ /network/ all ",
+        "question": "this /allows / devices/ to / with/ each other using the Internet Protocol (IP)/ /network/ all connected/communicate (Level 1)",
         "plans": [
             {
-                "value": "This network allows all connected devices communicate to with each other using the "
+                "value": "This network allows all connected devices communicate to with each other using the Internet Protocol (IP)."
             },
             {
-                "value": "This network allows all to connected devices communicate with each other using the "
+                "value": "This network allows all to connected devices communicate with each other using the Internet Protocol (IP)."
             },
             {
-                "value": "This network allows all connected devices to communicate with each other using the "
+                "value": "This network allows all connected devices to communicate with each other using the Internet Protocol (IP)."
             }
         ],
-        "answer": "answer",
+        "answer": "This network allows all connected devices to communicate with each other using the Internet Protocol (IP).",
         "selectedAnswer": null
     },
     {
         "id": 1136,
-        "question": "56. are manually /IP addresses / assigned /LRUs by / the system is configured/ to the IFE ",
+        "question": "are manually /IP addresses / assigned /LRUs by / the system is configured/ to the IFE system/ Panasonic when (Level 1)",
         "plans": [
             {
-                "value": "IP addresses are manually assigned to the IFE system LRUs by Pan asonic when is "
+                "value": "IP addresses are manually assigned to the IFE system LRUs by Pan asonic when is the system is configured."
             },
             {
-                "value": "IP addresses are manually assign to the IFE system LRUs by Panasonic when the "
+                "value": "IP addresses are manually assign to the IFE system LRUs by Panasonic when the system is configured."
             },
             {
-                "value": "IP addresses are manually assigned to the IFE system LRUs by Panasonic when the "
+                "value": "IP addresses are manually assigned to the IFE system LRUs by Panasonic when the system is configured."
             }
         ],
-        "answer": "answer",
+        "answer": "IP addresses are manually assigned to the IFE system LRUs by Panasonic when the system is configured.",
         "selectedAnswer": null
     },
     {
         "id": 1137,
-        "question": "57. the cabin/ ha s/ the A350/ a total of nine wallmounted / located/ on the bulkhead walls of/ ",
+        "question": "the cabin/ ha s/ the A350/ a total of nine wallmounted / located/ on the bulkhead walls of/ overhead monitors (Level 1)",
         "plans": [
             {
-                "value": "A350/ a total of nine wallmounted / located/ on the bulkhead walls of/ "
+                "value": "The A350 has a total of nine wallmounted overhead monitors located on the bulkhead wall of the cabin."
             },
             {
-                "value": "The A350 has a total of nine wallmounted overhea d monitors located the bulkhead "
+                "value": "The A350 has a total of nine wallmounted overhead monitors located the bulkhead walls of the cabin."
             },
             {
-                "value": "The A350 has a total of nine wallmounted overhead monitors located on the bulkhead "
+                "value": "The A350 has a total of nine wallmounted overhead monitors located on the bulkhead walls of the cabin."
             }
         ],
-        "answer": "answer",
+        "answer": "The A350 has a total of nine wallmounted overhead monitors located on the bulkhead walls of the cabin.",
         "selectedAnswer": null
     },
     {
         "id": 1138,
-        "question": "58. normal phases/ emergency related/ can/ these conditions/ be/ or / of a fligh/occur during  ",
+        "question": "normal phases/ emergency related/ can/ these conditions/ be/ or / of a fligh/occur during",
         "plans": [
             {
                 "value": "These conditions can be emergency related occur or during normal phases of a fligh.  "
@@ -19339,151 +19339,151 @@ export default  [
                 "value": "These conditions can be emergency or related occur during normal phases of a fligh.  "
             },
             {
-                "value": "These conditions can be emergency related or occur during normal phases of a fligh.  "
+                "value": "These conditions can be emergency related or occur during normal phases of a fligh."
             }
         ],
-        "answer": "answer",
+        "answer": "These conditions can be emergency related or occur during normal phases of a fligh.",
         "selectedAnswer": null
     },
     {
         "id": 1139,
-        "question": "59. occurs/ if a cabin decompression / in flight, / automatically /specific actions/the IFE ",
+        "question": "occurs/ if a cabin decompression / in flight, / automatically /specific actions/the IFE system/ performs (Level 1)",
         "plans": [
             {
-                "value": "If a cabin decompression occurs in flight, the IFE is system automatically performs "
+                "value": "If a cabin decompression occurs in flight, the IFE is system automatically performs specific actions."
             },
             {
-                "value": "If a cabin decompression occurs in flig ht, the IFE  a system automatically performs "
+                "value": "If a cabin decompression occurs in flig ht, the IFE  a system automatically performs specific actions."
             },
             {
-                "value": "If a cabin decompression occurs in flight, the IFE system automatically performs "
+                "value": "If a cabin decompression occurs in flight, the IFE system automatically performs specific actions."
             }
         ],
-        "answer": "answer",
+        "answer": "If a cabin decompression occurs in flight, the IFE system automatically performs specific actions.",
         "selectedAnswer": null
     },
     {
         "id": 1140,
-        "question": "60. of the IFE system /a physical power reset / required /must be/ cleared/ in order to/ ",
+        "question": "of the IFE system /a physical power reset / required /must be/ cleared/ in order to/ resume normal operation/ is / and the decompression discrete (Level 1)",
         "plans": [
             {
-                "value": "A physical power reset required and the decompression discrete must be cleared in "
+                "value": "A physical power reset required and the decompression discrete must be cleared in order is to resume normal operation of the IFE system."
             },
             {
-                "value": "A physical power reset required and the decompression discrete must be cleared in "
+                "value": "A physical power reset required and the decompression discrete must be cleared in order is to resume normal operation of the IFE system."
             },
             {
-                "value": "A physical power reset is required and the decompression discrete must be cleared in "
+                "value": "A physical power reset is required and the decompression discrete must be cleared in order to resume normal operation of the IFE system."
             }
         ],
-        "answer": "answer",
+        "answer": "A physical power reset is required and the decompression discrete must be cleared in order to resume normal operation of the IFE system.",
         "selectedAnswer": null
     },
     {
         "id": 1141,
-        "question": "61. data feed/ the last rows/ in each of / / a separate Fiber Optic SIB /in Business Class, ",
+        "question": "data feed/ the last rows/ in each of / / a separate Fiber Optic SIB /in Business Class, there/ is / for a redundant data/ feed to /in the event of / of the primary/ to provide/ the EcoSEB/ a failure (Level 2)",
         "plans": [
             {
-                "value": "In each of the last rows in Business Class, there a separate Fiber Optic SIB to pro vide "
+                "value": "In each of the last rows in Business Class, there a separate Fiber Optic SIB to provide for is a redundant data feed to the EcoSEB in the event of a failure of the primary data feed."
             },
             {
-                "value": "B /in Business Class, "
+                "value": "In each of the last rows in Business Class, there a separate Fiber Optic SIB to provide for a redundant data feed is to the EcoSEB in the event of a failure of the primary data feed."
             },
             {
-                "value": "Class, "
+                "value": "In each of the last rows in Business Class, there is a separate Fiber Optic SIB to provide for a redundant data feed to the EcoSEB in the event of a failure of the primary data feed."
             }
         ],
-        "answer": "answer",
+        "answer": "In each of the last rows in Business Class, there is a separate Fiber Optic SIB to provide for a redundant data feed to the EcoSEB in the event of a failure of the primary data feed.",
         "selectedAnswer": null
     },
     {
         "id": 1142,
-        "question": "62. connection/ this/ is /for passengers/ row sea ts / their SM is st owed/ provided/ in front/ ",
+        "question": "connection/ this/ is /for passengers/ row sea ts / their SM is st owed/ provided/ in front/ only/ and used when (Level 1)",
         "plans": [
             {
                 "value": "Analog  audio /the SM / the streamed digital media /video /and/ /converts/ into"
             },
             {
-                "value": "This connection is provided for passengers in front row seats only and used when "
+                "value": "This connection is provided for passengers in front row seats only and used when their SM is stowed."
             },
             {
-                "value": "The SM converts the streamed digital media into video and analog audio.  "
+                "value": "The SM converts the streamed digital media into video and analog audio."
             }
         ],
-        "answer": "answer",
+        "answer": "The SM converts the streamed digital media into video and analog audio.",
         "selectedAnswer": null
     },
     {
         "id": 1143,
-        "question": "63. displayed /the CMI screens/ on/ / and /the Crew Terminal provide cabin crew / ",
+        "question": "displayed /the CMI screens/ on/ / and /the Crew Terminal provide cabin crew / maintenance personnel the ability / operate, control, and / the IFE system/to/monitor (Level 1)",
         "plans": [
             {
-                "value": "The CMI screens displayed on and the Crew Terminal provide cabin crew and "
+                "value": "The CMI screens displayed on and the Crew Terminal provide cabin crew and maintenance personnel the ability to operate, control, monitor the IFE system."
             },
             {
-                "value": "The CMI screens displayed on the Crew Terminal provide cabin crew and "
+                "value": "The CMI screens displayed on the Crew Terminal provide cabin crew and maintenance and personnel the ability to operate, control, monitor the IFE system."
             },
             {
-                "value": "CMI screens/ on/ / and /the Crew Terminal provide cabin crew / "
+                "value": "The CMI screens displayed on the Crew Terminal provide cabin crew and maintenance personnel the ability to operate, control, and monitor the IFE system."
             }
         ],
-        "answer": "answer",
+        "answer": "The CMI screens displayed on the Crew Terminal provide cabin crew and maintenance personnel the ability to operate, control, and monitor the IFE system.",
         "selectedAnswer": null
     },
     {
         "id": 1144,
-        "question": "64. service controls /interactive screens / passengers / entertai nment menus/ and/ / ",
+        "question": "service controls /interactive screens / passengers / entertai nment menus/ and/ provide/with (Level 1)",
         "plans": [
             {
-                "value": "Interactive screens provide and passengers with entertainment menus service "
+                "value": "Interactive screens provide and passengers with entertainment menus service controls."
             },
             {
-                "value": "Interactive screens provide passengers with entertainment menus service and "
+                "value": "Interactive screens provide passengers with entertainment menus service and controls."
             },
             {
-                "value": "Interactive screens provide passengers wi th entertainment menus and service "
+                "value": "Interactive screens provide passengers wi th entertainment menus and service controls."
             }
         ],
-        "answer": "answer",
+        "answer": "Interactive screens provide passengers wi th entertainment menus and service controls.",
         "selectedAnswer": null
     },
     {
         "id": 1145,
-        "question": "65. of your finger /when / on -screen button, press /with the tip/touching an/ gently  (Level 1)  ",
+        "question": "of your finger /when / on -screen button, press /with the tip/touching an/ gently(Level 1)",
         "plans": [
             {
-                "value": "When touching an on -screen button, press gently with the tip of the your finger.  "
+                "value": "When touching an on -screen button, press gently with the tip of the your finger."
             },
             {
-                "value": "When touching an on -screen button, press gently with on the tip of your finger.  "
+                "value": "When touching an on -screen button, press gently with on the tip of your finger."
             },
             {
-                "value": "When touching an on -screen button, press gently with the tip of your finger.  "
+                "value": "When touching an on -screen button, press gently with the tip of your finger."
             }
         ],
-        "answer": "answer",
+        "answer": "When touching an on -screen button, press gently with the tip of your finger.",
         "selectedAnswer": null
     },
     {
         "id": 1146,
-        "question": "66. Selection/do / repeatedly / the same/not/ push  (Level 1)  ",
+        "question": "Selection/do / repeatedly / the same/not/ push(Level 1)",
         "plans": [
             {
-                "value": "Do not a repeatedly push the same selection.  "
+                "value": "Do not a repeatedly push the same selection."
             },
             {
-                "value": "Do not repeatedly push is the sa me selection.  "
+                "value": "Do not repeatedly push is the sa me selection."
             },
             {
-                "value": "Do not repeatedly push the same selection.  "
+                "value": "Do not repeatedly push the same selection."
             }
         ],
-        "answer": "answer",
+        "answer": "Do not repeatedly push the same selection.",
         "selectedAnswer": null
     },
     {
         "id": 1147,
-        "question": "67. 3000 psi hydraulic fluid/the metering valve/to the actuator/directs  (Level 1)  ",
+        "question": "3000 psi hydraulic fluid/the metering valve/to the actuator/directs(Level 1)",
         "plans": [
             {
                 "value": "The metering valve directs 3000 psi hydraulic fluid is to the actuator"
@@ -19492,32 +19492,32 @@ export default  [
                 "value": "The metering valve direct 3000 psi hydraulic fluid  to the actuator"
             },
             {
-                "value": "The metering valve directs 3000 psi hydraulic fluid to the actuator  "
+                "value": "The metering valve directs 3000 psi hydraulic fluid to the actuator"
             }
         ],
-        "answer": "answer",
+        "answer": "The metering valve directs 3000 psi hydraulic fluid to the actuator",
         "selectedAnswer": null
     },
     {
         "id": 1148,
-        "question": "68. entering the system/to prevent oil/seals/are installed  (Level 1)  ",
+        "question": "entering the system/to prevent oil/seals/are installed  (Level 1)",
         "plans": [
             {
-                "value": "Seals are installed to prevent oil entering the system.  "
+                "value": "Seals are installed to prevent oil entering the system."
             },
             {
-                "value": "Seals are installed is to prevent oil entering the  system.  "
+                "value": "Seals are installed is to prevent oil entering the  system."
             },
             {
-                "value": "Seals are installed to prevent oil is entering the system  "
+                "value": "Seals are installed to prevent oil is entering the system"
             }
         ],
-        "answer": "answer",
+        "answer": "Seals are installed to prevent oil entering the system.",
         "selectedAnswer": null
     },
     {
         "id": 1149,
-        "question": "69. controls/to dampen yaw axis movement/the yaw damper system/the rudder  (Level 1)  ",
+        "question": "controls/to dampen yaw axis movement/the yaw damper system/the rudder  (Level 1)  ",
         "plans": [
             {
                 "value": "The yaw damper system controls the rudder to dampen yaw axis movement"
@@ -19526,15 +19526,15 @@ export default  [
                 "value": "The yaw damper system controls the rudder is to dampen yaw axis movement"
             },
             {
-                "value": "The yaw damper system control the rudder to dampen yaw axis movement  "
+                "value": "The yaw damper system control the rudder to dampen yaw axis movement"
             }
         ],
-        "answer": "answer",
+        "answer": "The yaw damper system controls the rudder to dampen yaw axis movement",
         "selectedAnswer": null
     },
     {
         "id": 1150,
-        "question": "70. a signal/the sensor/to turn on the red warning/provides  (Level 1)  ",
+        "question": "a signal/the sensor/to turn on the red warning/provides  (Level 1)  ",
         "plans": [
             {
                 "value": "The sensor provides a signal to turn on the red warning"
@@ -19546,12 +19546,12 @@ export default  [
                 "value": "The sensor provides a signal is to turn on the red warning  "
             }
         ],
-        "answer": "answer",
+        "answer": "The sensor provides a signal to turn on the red warning",
         "selectedAnswer": null
     },
     {
         "id": 1151,
-        "question": "71. the push -button/the system/pushing/resets  (Level 1)  ",
+        "question": "the push -button/the system/pushing/resets(Level 1)",
         "plans": [
             {
                 "value": "Pushing the push -button resets the system"
@@ -19560,15 +19560,15 @@ export default  [
                 "value": "Pushing the resets push -button the system"
             },
             {
-                "value": "Pushing the push -button resets i s the system  "
+                "value": "Pushing the push -button resets i s the system"
             }
         ],
-        "answer": "answer",
+        "answer": "Pushing the push -button resets the system",
         "selectedAnswer": null
     },
     {
         "id": 1152,
-        "question": "72. the valve/opens and closes/to control the fuel flow/an electrical motor  (Level 1)  ",
+        "question": "the valve/opens and closes/to control the fuel flow/an electrical motor(Level 1)",
         "plans": [
             {
                 "value": "An electrical motor opens and closes the valve to control the fuel flow"
@@ -19577,162 +19577,164 @@ export default  [
                 "value": "An electrical motor opens and closes on the valve to control the fuel flow"
             },
             {
-                "value": "An electrical motor opens and closes is the valve to control the fuel flow  "
+                "value": "An electrical motor opens and closes is the valve to control the fuel flow"
             }
         ],
-        "answer": "answer",
+        "answer": "An electrical motor opens and closes the valve to control the fuel flow",
         "selectedAnswer": null
     },
     {
         "id": 1153,
-        "question": "73. the bleed air temperature/a pre -cooler/controls.  (Level 1)  ",
+        "question": "the bleed air temperature/a pre -cooler/controls.(Level 1)",
         "plans": [
             {
-                "value": "A pre -cooler controls the bleed air temperature.  "
+                "value": "A pre -cooler controls the bleed air temperature."
             },
             {
-                "value": "A pre -cooler control the bleed air temperature.  "
+                "value": "A pre -cooler control the bleed air temperature."
             },
             {
-                "value": "A pre -cooler controls is the bleed air temperature.  "
+                "value": "A pre -cooler controls is the bleed air temperature."
             }
         ],
-        "answer": "answer",
+        "answer": "A pre -cooler controls the bleed air temperature",
         "selectedAnswer": null
     },
     {
         "id": 1154,
-        "question": "74. with two fasteners/the seat unit/to the seat track/an attachment fitting/attaches.  (Level 1)  ",
+        "question": "with two fasteners/the seat unit/to the seat track/an attachment fitting/attaches.(Level 1)",
         "plans": [
             {
-                "value": "An attachment fitting attaches the seat unit to the seat track with two fasteners.  "
+                "value": "An attachment fitting attaches the seat unit to the seat track with two fasteners."
             },
             {
-                "value": "An attachment fitting the seat unit to the seat track with attaches  two fasteners.  "
+                "value": "An attachment fitting the seat unit to the seat track with attaches  two fasteners."
             },
             {
-                "value": "An attachment fitting the seat unit to the attaches seat track with two fasteners.  "
+                "value": "An attachment fitting the seat unit to the attaches seat track with two fasteners."
             }
         ],
-        "answer": "answer",
+        "answer": "An attachment fitting attaches the seat unit to the seat track with two fasteners.",
         "selectedAnswer": null
     },
     {
         "id": 1155,
-        "question": "75. inhibits/ an electronic device/ of several transmitters/ the simultaneous selection.  (Level ",
+        "question": "inhibits/ an electronic device/ of several transmitters/ the simultaneous selection.(Level 1)",
         "plans": [
             {
-                "value": "An electronic device inhibits the simultaneous selection of se veral transmitters.  "
+                "value": "An electronic device inhibits the simultaneous selection of se veral transmitters."
             },
             {
-                "value": "An electronic device the simultaneous selection of inhibits several transmitters.  "
+                "value": "An electronic device the simultaneous selection of inhibits several transmitters."
             },
             {
-                "value": "An electronic device inhibit the simultaneous selection of several transmitters.  "
+                "value": "An electronic device inhibit the simultaneous selection of several transmitters."
             }
         ],
-        "answer": "answer",
+        "answer": "An electronic device inhibits the simultaneous selection of se veral transmitters.",
         "selectedAnswer": null
     },
     {
         "id": 1156,
-        "question": "76. the 115 V 400 Hz current/ the exciters/ to enable ignition/ into high vol tage, pulsating ",
+        "question": "the 115 V 400 Hz current/ the exciters/ to enable ignition/ into high vol tage, pulsating current/ transform. (Level 1)",
         "plans": [
             {
-                "value": "The exciters transform the 115 V 400 Hz current into high voltage, pulsating current to "
+                "value": "The exciters transform the 115 V 400 Hz current into high voltage, pulsating current to enable ignition."
             },
             {
-                "value": "The exciters transform in the 115 V 400 Hz current into high voltage, pulsating current "
+                "value": "The exciters transform in the 115 V 400 Hz current into high voltage, pulsating current to enable ignition."
             },
             {
-                "value": "The exciters the 115 V 400 Hz current into high voltage, transform pulsating current to "
+                "value": "The exciters the 115 V 400 Hz current into high voltage, transform pulsating current to enable ignition."
             }
         ],
-        "answer": "answer",
+        "answer": "The exciters transform the 115 V 400 Hz current into high voltage, pulsating current to enable ignition.",
         "selectedAnswer": null
     },
     {
         "id": 1157,
-        "question": "77. from the engine HP compressor/by a heat exchange process/cools/the pre -cooler/the hot ",
+        "question": "from the engine HP compressor/by a heat exchange process/cools/the pre -cooler/the hot air. (Level 1)",
         "plans": [
             {
-                "value": "The pre -cooler cools the hot air from th e engine HP compressor by a heat exchange "
+                "value": "The pre -cooler cools the hot air from th e engine HP compressor by a heat exchange process"
             },
             {
-                "value": "The pre -cooler cools is the hot air from the engine HP compressor by a heat exchange "
+                "value": "The pre -cooler cools is the hot air from the engine HP compressor by a heat exchange process"
             },
             {
-                "value": "The pre -cooler cools of the hot air from the engine HP compressor by a heat "
+                "value": "The pre -cooler cools of the hot air from the engine HP compressor by a heat exchange process."
             }
         ],
-        "answer": "answer",
+        "answer": "The pre -cooler cools the hot air from th e engine HP compressor by a heat exchange process",
         "selectedAnswer": null
     },
     {
         "id": 1158,
-        "question": "78. to open the valve /necessary/a minimum upstream pressure of 8 psig/is  (Level 1)      ",
+        "question": "to open the valve /necessary/a minimum upstream pressure of 8 psig/is(Level 1)",
         "plans": [
             {
-                "value": "A minimum upstream pressure of 8 psig is necessary to open the valve.  "
+                "value": "A minimum upstream pressure of 8 psig is necessary to open the valve."
             },
             {
-                "value": "A minimum is upstream pressure of 8 psig necessary to open the valve.  "
+                "value": "A minimum is upstream pressure of 8 psig necessary to open the valve."
             },
             {
-                "value": "A minimum upstream pressure of 8 psig necessary to ope n is the valve.  "
+                "value": "A minimum upstream pressure of 8 psig necessary to ope n is the valve."
             }
         ],
-        "answer": "answer",
+        "answer": "A minimum upstream pressure of 8 psig is necessary to open the valve.",
         "selectedAnswer": null
     },
     {
         "id": 1159,
-        "question": "79. comprises/extending from frame 1 to frame 24/ the lower section of the fuselage/3 skin ",
+        "question": "comprises/extending from frame 1 to frame 24/ the lower section of the fuselage/3 skin panels. (Level 1)",
         "plans": [
             {
-                "value": "The lower section of the fuselage comprises 3 skin panels extending from frame 1 to "
+                "value": "The lower section of the fuselage comprises 3 skin panels extending from frame 1 to frame 24.",
+                "value": "The lower section of the fuselage 3 skin panels extending from frame 1 to comprises frame 24.",
+                "value": "The lower section of the fuselage 3 skin panels extending comprises from frame 1 to frame 24."
             }
         ],
-        "answer": "answer",
+        "answer": "The lower section of the fuselage comprises 3 skin panels extending from frame 1 to frame 24.",
         "selectedAnswer": null
     },
     {
         "id": 1160,
-        "question": "80. to drive the valve/if the other motor does not operate/permits/the gear system/one motor.  ",
+        "question": "to drive the valve/if the other motor does not operate/permits/the gear system/one motor.",
         "plans": [
             {
-                "value": "The gear system permits one motor to drive the valve if the other motor does not "
+                "value": "The gear system permits one motor to drive the valve if the other motor does not operate"
             },
             {
-                "value": "The gear system one motor to drive the permits valve if the other motor does not "
+                "value": "The gear system one motor to drive the permits valve if the other motor does not operate"
             },
             {
-                "value": "The gear system one motor to drive the valve if the other permits motor does not "
+                "value": "The gear system one motor to drive the valve if the other permits motor does not operate"
             }
         ],
-        "answer": "answer",
+        "answer": "The gear system permits one motor to drive the valve if the other motor does not operate",
         "selectedAnswer": null
     },
     {
         "id": 1161,
-        "question": "81. the position/two switches/according to a logic/give.  (Level 1)  ",
+        "question": "the position/two switches/according to a logic/give.(Level 1)",
         "plans": [
             {
-                "value": "Two switches give the position according to a logi "
+                "value": "Two switches give the position according to a logic"
             },
             {
-                "value": "Two switches give by the position according to a logi "
+                "value": "Two switches give by the position according to a logic"
             },
             {
-                "value": "Two switches give on the position according to a logi "
+                "value": "Two switches give on the position according to a logic"
             }
         ],
-        "answer": "answer",
+        "answer": "Two switches give the position according to a logic",
         "selectedAnswer": null
     },
     {
         "id": 1162,
-        "question": "82. Distribution/ cabin/ co nditioned/ system/air/aft  (Level 1)  ",
+        "question": "Distribution/ cabin/ co nditioned/ system/air/aft(Level 1)",
         "plans": [
             {
                 "value": "Aft cabin conditioned air distribution system"
@@ -19741,15 +19743,15 @@ export default  [
                 "value": "Aft cabin air conditioned distribution system"
             },
             {
-                "value": "Aft conditioned air cabin distribution system  "
+                "value": "Aft conditioned air cabin distribution system"
             }
         ],
-        "answer": "answer",
+        "answer": "Aft cabin conditioned air distribution system",
         "selectedAnswer": null
     },
     {
         "id": 1163,
-        "question": "83. System/ oxygen/ crew/ flight  (Level 1)  ",
+        "question": "System/ oxygen/ crew/ flight(Level 1)",
         "plans": [
             {
                 "value": "Flight crew oxygen system"
@@ -19758,15 +19760,15 @@ export default  [
                 "value": "Flight crew oxygen is system"
             },
             {
-                "value": "Flight oxygen crew system  "
+                "value": "Flight oxygen crew system"
             }
         ],
-        "answer": "answer",
+        "answer": "Flight crew oxygen system",
         "selectedAnswer": null
     },
     {
         "id": 1164,
-        "question": "84. Column/ captain/ control  (Level 1)  ",
+        "question": "Column/ captain/ control(Level 1)",
         "plans": [
             {
                 "value": "Captain control column"
@@ -19775,15 +19777,15 @@ export default  [
                 "value": "Captain control the column"
             },
             {
-                "value": "Column/ captain/ control  (Level 1)  "
+                "value": "Captain control is column"
             }
         ],
-        "answer": "answer",
+        "answer": "Captain control column",
         "selectedAnswer": null
     },
     {
         "id": 1165,
-        "question": "85. Marker/ light/ inner  (Level 1)  ",
+        "question": "Marker/ light/ inner(Level 1)",
         "plans": [
             {
                 "value": "Inner marker light"
@@ -19792,32 +19794,32 @@ export default  [
                 "value": "Inner marker in light"
             },
             {
-                "value": "Inner marker on light  "
+                "value": "Inner marker on light"
             }
         ],
-        "answer": "answer",
+        "answer": "Inner marker light",
         "selectedAnswer": null
     },
     {
         "id": 1166,
-        "question": "86. Box/ gea r/ nose/ interphone  (Level 1)      ",
+        "question": "Box/ gea r/ nose/ interphone(Level 1)",
         "plans": [
             {
                 "value": "Nose gear interphone box"
             },
             {
-                "value": "Box/ gea r/ nose/ interphone  (Level 1)      "
+                "value": "Nose gear box interphone"
             },
             {
-                "value": "Nose gear interphone is box  "
+                "value": "Nose gear interphone is box"
             }
         ],
-        "answer": "answer",
+        "answer": "Nose gear interphone box",
         "selectedAnswer": null
     },
     {
         "id": 1167,
-        "question": "87. Recline/ button/ control  (Level 1)  ",
+        "question": "Recline/ button/ control  (Level 1)",
         "plans": [
             {
                 "value": "Recline control button"
@@ -19826,15 +19828,15 @@ export default  [
                 "value": "Recline control is button"
             },
             {
-                "value": "Recline is control button  "
+                "value": "Recline is control button"
             }
         ],
-        "answer": "answer",
+        "answer": "Recline control button",
         "selectedAnswer": null
     },
     {
         "id": 1168,
-        "question": "88. Receptacle/ ground/ door/ access/ power  (Level 1)  ",
+        "question": "Receptacle/ ground/ door/ access/ power(Level 1)",
         "plans": [
             {
                 "value": "Ground power receptacle access door"
@@ -19843,15 +19845,15 @@ export default  [
                 "value": "Ground power access receptacle door"
             },
             {
-                "value": "Ground power access receptacle door  "
+                "value": "Ground power access door receptacle"
             }
         ],
-        "answer": "answer",
+        "answer": "Ground power receptacle access door",
         "selectedAnswer": null
     },
     {
         "id": 1169,
-        "question": "89. Wing/ left /fairing/ hand / tip  (Level 1)  ",
+        "question": "Wing/ left /fairing/ hand / tip(Level 1)",
         "plans": [
             {
                 "value": "Left hand wing tip fairing"
@@ -19860,15 +19862,15 @@ export default  [
                 "value": "Left tip hand wing fairing"
             },
             {
-                "value": "Left hand the wing tip fairing  "
+                "value": "Left hand the wing tip fairing"
             }
         ],
-        "answer": "answer",
+        "answer": "Left hand wing tip fairing",
         "selectedAnswer": null
     },
     {
         "id": 1170,
-        "question": "90. Fuel/  integral/ tank  (Level 1)  ",
+        "question": "Fuel/  integral/ tank(Level 1)",
         "plans": [
             {
                 "value": "Integral fuel tank"
@@ -19877,15 +19879,15 @@ export default  [
                 "value": "Integral is fuel tank"
             },
             {
-                "value": "Integral fuel by the tank  "
+                "value": "Integral fuel by the tank"
             }
         ],
-        "answer": "answer",
+        "answer": "Integral fuel tank",
         "selectedAnswer": null
     },
     {
         "id": 1171,
-        "question": "91. Door/ cargo/ fittings/ lock  (Level 1)  ",
+        "question": "Door/ cargo/ fittings/ lock(Level 1)",
         "plans": [
             {
                 "value": "Cargo door lock fittings"
@@ -19894,15 +19896,15 @@ export default  [
                 "value": "Cargo lock door fittings"
             },
             {
-                "value": "Cargo door lock fittings"
+                "value": "Cargo door is lock fittings"
             }
         ],
-        "answer": "answer",
+        "answer": "Cargo door lock fittings",
         "selectedAnswer": null
     },
     {
         "id": 1172,
-        "question": "92. Panel/ lighting/ exterior/ control  (Level 1)  ",
+        "question": "Panel/ lighting/ exterior/ control(Level 1)",
         "plans": [
             {
                 "value": "Exterior lighting control panel"
@@ -19911,15 +19913,15 @@ export default  [
                 "value": "Exterior lighting is control panel"
             },
             {
-                "value": "Exterior lighting control the panel  "
+                "value": "Exterior lighting control the panel"
             }
         ],
-        "answer": "answer",
+        "answer": "Exterior lighting control panel",
         "selectedAnswer": null
     },
     {
         "id": 1173,
-        "question": "93. Unit/ display/ lower  (Level 1)  ",
+        "question": "Unit/ display/ lower(Level 1)",
         "plans": [
             {
                 "value": "Lower display unit"
@@ -19928,32 +19930,32 @@ export default  [
                 "value": "Lower is display unit"
             },
             {
-                "value": "Lower a display unit  "
+                "value": "Lower a display unit"
             }
         ],
-        "answer": "answer",
+        "answer": "Lower display unit",
         "selectedAnswer": null
     },
     {
         "id": 1174,
-        "question": "94. Main/ doors/ gear  (Level 1)  ",
+        "question": "Main/ doors/ gear(Level 1)",
         "plans": [
             {
                 "value": "Main gear doors"
             },
             {
-                "value": "Main gear is doo rs"
+                "value": "Main gear is doors"
             },
             {
-                "value": "Main gear are doors  "
+                "value": "Main gear are doors"
             }
         ],
-        "answer": "answer",
+        "answer": "Main gear doors",
         "selectedAnswer": null
     },
     {
         "id": 1175,
-        "question": "95. Edge/ right/ trailing/ upper  (Level 1)  ",
+        "question": "Edge/ right/ trailing/ upper(Level 1)",
         "plans": [
             {
                 "value": "Upper right trailing edge"
@@ -19962,15 +19964,15 @@ export default  [
                 "value": "Upper right is trailing edge"
             },
             {
-                "value": "Upper right trailing by edge      "
+                "value": "Upper right trailing by edge"
             }
         ],
-        "answer": "answer",
+        "answer": "Upper right trailing edge",
         "selectedAnswer": null
     },
     {
         "id": 1176,
-        "question": "96. Handle/ control /spoiler  (Level 1)  ",
+        "question": "Handle/ control /spoiler(Level 1)",
         "plans": [
             {
                 "value": "Poiler control handle"
@@ -19979,15 +19981,15 @@ export default  [
                 "value": "Poiler control is handle"
             },
             {
-                "value": "Poiler control by handle  "
+                "value": "Poiler control by handle"
             }
         ],
-        "answer": "answer",
+        "answer": "Poiler control handle",
         "selectedAnswer": null
     },
     {
         "id": 1177,
-        "question": "97. clips / turnbuckles / from / and / remove / discard / safety  (Level 1)  ",
+        "question": "clips / turnbuckles / from / and / remove / discard / safety(Level 1)",
         "plans": [
             {
                 "value": "Remove safety clips from turnbuckles and discard"
@@ -19996,15 +19998,15 @@ export default  [
                 "value": "Remove safety clips and from turnbuckles discard"
             },
             {
-                "value": "Remove safety clips from and turnbuckles discard  "
+                "value": "Remove safety clips from and turnbuckles discard"
             }
         ],
-        "answer": "answer",
+        "answer": "Remove safety clips from turnbuckles and discard",
         "selectedAnswer": null
     },
     {
         "id": 1178,
-        "question": "98. cable / pulley / remove / mounts / fro m /  guards  (Level 1)  ",
+        "question": "cable / pulley / remove / mounts / fro m /  guards(Level 1)",
         "plans": [
             {
                 "value": "Remove cable guards from pulley mounts"
@@ -20013,15 +20015,15 @@ export default  [
                 "value": "Remove cable guards pulley from mounts"
             },
             {
-                "value": "Remove cable pulley guards from mounts  "
+                "value": "Remove cable pulley guards from mounts"
             }
         ],
-        "answer": "answer",
+        "answer": "Remove cable guards from pulley mounts",
         "selectedAnswer": null
     },
     {
         "id": 1179,
-        "question": "99. safety / tighten / and / pins / cotter / with / nuts  (Level 1)  ",
+        "question": "safety / tighten / and / pins / cotter / with / nuts(Level 1)",
         "plans": [
             {
                 "value": "Tighten nuts and safety with cotter pins"
@@ -20030,32 +20032,32 @@ export default  [
                 "value": "Tighten nuts and with safety cotter pins"
             },
             {
-                "value": "Tighten nuts cotter and safety with pins  "
+                "value": "Tighten nuts cotter and safety with pins"
             }
         ],
-        "answer": "answer",
+        "answer": "Tighten nuts and safety with cotter pins",
         "selectedAnswer": null
     },
     {
         "id": 1180,
-        "question": "100. P/N11001/ pin / in / tension / rigging / cable / insert / lever  (Level 1)  ",
+        "question": "P/N11001/ pin / in / tension / rigging / cable / insert / lever(Level 1)",
         "plans": [
             {
-                "value": "Insert  rigging pin p/n11001 in cable tension lever"
+                "value": "Insert rigging pin p/n11001 in cable tension lever"
             },
             {
-                "value": "Insert  rigging pin p/n11001 in a cable tension lever"
+                "value": "Insert rigging pin p/n11001 in a cable tension lever"
             },
             {
-                "value": "Insert  rigging pin in p/n11001 cable tension lever  "
+                "value": "Insert rigging pin in p/n11001 cable tension lever"
             }
         ],
-        "answer": "answer",
+        "answer": "Insert rigging pin p/n11001 in cable tension lever",
         "selectedAnswer": null
     },
     {
         "id": 1181,
-        "question": "101. digital/authority/full/control/engine  (Level 1)  ",
+        "question": "digital/authority/full/control/engine(Level 1)",
         "plans": [
             {
                 "value": "Full authority digital engine control"
@@ -20064,32 +20066,32 @@ export default  [
                 "value": "Full authority digital an engine control"
             },
             {
-                "value": "Full authority digital is engine control  "
+                "value": "Full authority digital is engine control"
             }
         ],
-        "answer": "answer",
+        "answer": "Full authority digital engine control",
         "selectedAnswer": null
     },
     {
         "id": 1182,
-        "question": "102. pressure/cabin/controller  (Level 1)  ",
+        "question": "pressure/cabin/controller(Level 1)",
         "plans": [
             {
-                "value": "Cabin  pressure controller"
+                "value": "Cabin pressure by controller"
             },
             {
-                "value": "Cabin  pressure the controller"
+                "value": "Cabin pressure the controller"
             },
             {
-                "value": "Cabin  pressure controller"
+                "value": "Cabin pressure controller"
             }
         ],
-        "answer": "answer",
+        "answer": "Cabin pressure controller",
         "selectedAnswer": null
     },
     {
         "id": 1183,
-        "question": "103. system/entertainment/pax  (Level 1)  ",
+        "question": "system/entertainment/pax(Level 1)",
         "plans": [
             {
                 "value": "Pax entertainment system"
@@ -20098,49 +20100,49 @@ export default  [
                 "value": "Pax entertainment a system"
             },
             {
-                "value": "Pax entertainment is system  "
+                "value": "Pax entertainment is system"
             }
         ],
-        "answer": "answer",
+        "answer": "Pax entertainment system",
         "selectedAnswer": null
     },
     {
         "id": 1184,
-        "question": "104. unit/decoder/encoder  (Level 1)  ",
+        "question": "unit/decoder/encoder(Level 1)",
         "plans": [
             {
-                "value": "Decoder  encoder unit"
+                "value": "Decoder encoder unit"
             },
             {
-                "value": "Decoder  is encoder unit"
+                "value": "Decoder is encoder unit"
             },
             {
-                "value": "Decoder  the encoder unit  "
+                "value": "Decoder the encoder unit"
             }
         ],
-        "answer": "answer",
+        "answer": "Decoder encoder unit",
         "selectedAnswer": null
     },
     {
         "id": 1185,
-        "question": "105. guidance/flight/computer/management/and  (Level 1)  ",
+        "question": "guidance/flight/computer/management/and(Level 1)",
         "plans": [
             {
-                "value": "Flight  management guidance end computer"
+                "value": "Flight management guidance end computer"
             },
             {
-                "value": "Flight  management guidance the end computer"
+                "value": "Flight management guidance the end computer"
             },
             {
-                "value": "Flight  management guidance  end computer  "
+                "value": "Flight management guidance  end computer"
             }
         ],
-        "answer": "answer",
+        "answer": "Flight management guidance end computer",
         "selectedAnswer": null
     },
     {
         "id": 1186,
-        "question": "106. 3000 psi hydraulic fluid/the metering va lve/to the actuator/directs  (Level 1)  ",
+        "question": "3000 psi hydraulic fluid/the metering va lve/to the actuator/directs(Level 1)",
         "plans": [
             {
                 "value": "The metering valve directs 3000 psi hydraulic fluid to the actuator"
@@ -20149,15 +20151,15 @@ export default  [
                 "value": "The metering valve directs are 3000 psi hydraulic fluid to the actuator"
             },
             {
-                "value": "The metering valve directs is 3000 psi hydraulic fluid to the actuator  "
+                "value": "The metering valve directs is 3000 psi hydraulic fluid to the actuator"
             }
         ],
-        "answer": "answer",
+        "answer": "The metering valve directs 3000 psi hydraulic fluid to the actuator",
         "selectedAnswer": null
     },
     {
         "id": 1187,
-        "question": "107. Enterin g the system/to prevent oil/seals/are installed  (Level 1)  ",
+        "question": "Entering the system/to prevent oil/seals/are installed(Level 1)",
         "plans": [
             {
                 "value": "Seals are installed to prevent oil entering the system"
@@ -20166,15 +20168,15 @@ export default  [
                 "value": "Seals are installed is to prevent oil entering the system"
             },
             {
-                "value": "Seals are installed a to prevent oil entering the system  "
+                "value": "Seals are installed a to prevent oil entering the system"
             }
         ],
-        "answer": "answer",
+        "answer": "Seals are installed to prevent oil entering the system",
         "selectedAnswer": null
     },
     {
         "id": 1188,
-        "question": "108. Controls/to dampen yaw axis movement/the yaw damper system/the rudder  (Level 1)  ",
+        "question": "Controls/to dampen yaw axis movement/the yaw damper system/the rudder(Level 1)",
         "plans": [
             {
                 "value": "The yaw damper system controls the rudder to dampen yaw axis movement"
@@ -20183,32 +20185,32 @@ export default  [
                 "value": "The yaw damper system controls of the rudder to dampen yaw axis movement"
             },
             {
-                "value": "Controls/to dampen yaw axis movement/the yaw damper system/the rudder  (Level 1)  "
+                "value": "The yaw damper system controls is the rudder to dampen yaw axis movement"
             }
         ],
-        "answer": "answer",
+        "answer": "The yaw damper system controls the rudder to dampen yaw axis movement",
         "selectedAnswer": null
     },
     {
         "id": 1189,
-        "question": "109. A signal/the sensor/to turn on the red warning/provides  (Level 1)  ",
+        "question": "A signal/the sensor/to turn on the red warning/provides(Level 1)",
         "plans": [
             {
-                "value": "A signal/the sensor/to turn on the red warning/provides  (Level 1)  "
+                "value": "The sensor provides a signal to turn on the red warning"
             },
             {
                 "value": "The sensor provides a signal is to turn on the red warning"
             },
             {
-                "value": "The sensor provides a signal the to turn on the red warning  "
+                "value": "The sensor provides a signal the to turn on the red warning"
             }
         ],
-        "answer": "answer",
+        "answer": "The sensor provides a signal to turn on the red warning",
         "selectedAnswer": null
     },
     {
         "id": 1190,
-        "question": "110. The push -button/the system/pushing/resets  (Level 1)  ",
+        "question": "The push -button/the system/pushing/resets(Level 1)",
         "plans": [
             {
                 "value": "Pushing the push -button resets the system"
@@ -20217,15 +20219,15 @@ export default  [
                 "value": "Pushing the push -button resets is the system"
             },
             {
-                "value": "Pushing the push -button resets of the system  "
+                "value": "Pushing the push -button resets of the system"
             }
         ],
-        "answer": "answer",
+        "answer": "Pushing the push -button resets the system",
         "selectedAnswer": null
     },
     {
         "id": 1191,
-        "question": "111. The valve/opens and closes/to control the fuel flow/an electrical motor  (Level 1)  ",
+        "question": "The valve/opens and closes/to control the fuel flow/an electrical motor(Level 1)",
         "plans": [
             {
                 "value": "An electrical motor opens and closes the valve to control the fuel flow"
@@ -20234,32 +20236,32 @@ export default  [
                 "value": "An electrical motor opens and closes the valve is to control the fuel flow"
             },
             {
-                "value": "An electrical motor opens and closes of the valve to control the fuel flow  "
+                "value": "An electrical motor opens and closes of the valve to control the fuel flow"
             }
         ],
-        "answer": "answer",
+        "answer": "An electrical motor opens and closes the valve to control the fuel flow",
         "selectedAnswer": null
     },
     {
         "id": 1192,
-        "question": "112. The bleed air temperature/a  pre-cooler/controls  (Level 1)  ",
+        "question": "The bleed air temperature/a pre-cooler/controls(Level 1)",
         "plans": [
             {
-                "value": "A pre -cooler controls the bleed air temperature"
+                "value": "A pre-cooler controls the bleed air temperature"
             },
             {
-                "value": "A pre -cooler controls is the bleed air temperature"
+                "value": "A pre-cooler controls is the bleed air temperature"
             },
             {
-                "value": "A pre -cooler controls on the bleed air temperature  "
+                "value": "A pre-cooler controls on the bleed air temperature"
             }
         ],
-        "answer": "answer",
+        "answer": "A pre-cooler controls the bleed air temperature",
         "selectedAnswer": null
     },
     {
         "id": 1193,
-        "question": "113. With two fasteners/the seat unit/to the seat track/an attachment fitting/at taches  (Level ",
+        "question": "With two fasteners/the seat unit/to the seat track/an attachment fitting/at taches  (Level 1)",
         "plans": [
             {
                 "value": "An attachment fitting attaches the seat unit to the seat track with two fasteners"
@@ -20268,15 +20270,15 @@ export default  [
                 "value": "An attachment fitting attaches is the seat unit to the seat track with two fasteners"
             },
             {
-                "value": "An attachment fitting attaches on the seat unit to the seat track with t wo fasteners  "
+                "value": "An attachment fitting attaches on the seat unit to the seat track with t wo fasteners"
             }
         ],
-        "answer": "answer",
+        "answer": "An attachment fitting attaches the seat unit to the seat track with two fasteners",
         "selectedAnswer": null
     },
     {
         "id": 1194,
-        "question": "114. Inhibits/ an electronic device/ of several transmitters/ the simultaneous selection  (Level ",
+        "question": "Inhibits/ an electronic device/ of several transmitters/ the simultaneous selection  (Level 1)",
         "plans": [
             {
                 "value": "An electronic device inhibits the simultaneous selection of several transmitters"
@@ -20285,49 +20287,49 @@ export default  [
                 "value": "An electronic device inhibits is the simultaneous selection of sever al transmitters"
             },
             {
-                "value": "An electronic device inhibits of the simultaneous selection of several transmitters  "
+                "value": "An electronic device inhibits of the simultaneous selection of several transmitters"
             }
         ],
-        "answer": "answer",
+        "answer": "An electronic device inhibits the simultaneous selection of several transmitters",
         "selectedAnswer": null
     },
     {
         "id": 1195,
-        "question": "115. Comprises/extending from frame 1 to frame 24/ the lower section of the fuselage/3 skin ",
+        "question": "Comprises/extending from frame 1 to frame 24/ the lower section of the fuselage/3 skin panels (Level 1)",
         "plans": [
             {
-                "value": "The lower section of the fuselage comprises 3 skin panels extending from frame 1 to "
+                "value": "The lower section of the fuselage comprises 3 skin panels extending from frame 1 to frame 2"
             },
             {
-                "value": "The lower section of the fuselage comprises 3 skin panels of theextending from frame "
+                "value": "The lower section of the fuselage comprises 3 skin panels of theextending from frame 1 to frame 2"
             },
             {
-                "value": "Comprises/extending from frame 1 to frame 24/ the lower section of the fuselage/3 skin "
+                "value": "The lower section of the fuselage comprises 3 skin panels is extending from frame 1 to frame 2"
             }
         ],
-        "answer": "answer",
+        "answer": "The lower section of the fuselage comprises 3 skin panels extending from frame 1 to frame 2",
         "selectedAnswer": null
     },
     {
         "id": 1196,
-        "question": "116. To drive the valve/if the other motor does not operate/permits/the gear system/one ",
+        "question": "To drive the valve/if the other motor does not operate/permits/the gear system/one motor (Level 1)",
         "plans": [
             {
-                "value": "The gear system permits one motor to drive the valve if the other motor does not "
+                "value": "The gear system permits one motor to drive the valve if the other motor does not operate"
             },
             {
-                "value": "The gear system is permits one motor to drive the valve if the other motor does not "
+                "value": "The gear system is permits one motor to drive the valve if the other motor does not operate"
             },
             {
-                "value": "The gear system a permits one motor to drive the valve if the other motor does not "
+                "value": "The gear system a permits one motor to drive the valve if the other motor does not operate"
             }
         ],
-        "answer": "answer",
+        "answer": "The gear system permits one motor to drive the valve if the other motor does not operate",
         "selectedAnswer": null
     },
     {
         "id": 1197,
-        "question": "117. The position/two switches/according to a logic/give  (Level 1)  ",
+        "question": "The position/two switches/according to a logic/give(Level 1)",
         "plans": [
             {
                 "value": "Two switches give the position according to a logic"
@@ -20336,66 +20338,66 @@ export default  [
                 "value": "Two switches a give the position according to a l ogic"
             },
             {
-                "value": "Two switches are give the position according to a logic  "
+                "value": "Two switches are give the position according to a logic"
             }
         ],
-        "answer": "answer",
+        "answer": "Two switches give the position according to a logic",
         "selectedAnswer": null
     },
     {
         "id": 1198,
-        "question": "118. examine/ of/ the shock absorber/ of oil leaks/ the gland seals/ for signs  (Level 1)  ",
+        "question": "examine/ of/ the shock absorber/ of oil leaks/ the gland seals/ for signs(Level 1)",
         "plans": [
             {
-                "value": "Examine  the gland seals of the shock absorber for signs of oil leaks.  "
+                "value": "Examine  the gland seals of the shock absorber for signs of oil leaks."
             },
             {
-                "value": "Examine  the gland seals of the shock absorber for a signs of oil leaks.  "
+                "value": "Examine  the gland seals of the shock absorber for a signs of oil leaks."
             },
             {
-                "value": "Examine  the gland of seals of the shock absorber for signs oil leaks.  "
+                "value": "Examine  the gland of seals of the shock absorber for signs oil leaks."
             }
         ],
-        "answer": "answer",
+        "answer": "Examine  the gland seals of the shock absorber for signs of oil leaks.",
         "selectedAnswer": null
     },
     {
         "id": 1199,
-        "question": "119. extension “h”/and/ the shock absorber/ write down/ measure  (Level 1)  ",
+        "question": "extension “h”/and/ the shock absorber/ write down/ measure(Level 1)",
         "plans": [
             {
-                "value": "Measure  and write down the shock absorber extension “h”  "
+                "value": "Measure  and write down the shock absorber extension “h”"
             },
             {
-                "value": "Measure  and a write down the shock absorber extension “h”  "
+                "value": "Measure  and a write down the shock absorber extension “h”"
             },
             {
-                "value": "Measure  and write down the shocked absorber extension “h”  "
+                "value": "Measure  and write down the shocked absorber extension “h”"
             }
         ],
-        "answer": "answer",
+        "answer": "Measure  and write down the shock absorber extension “h”",
         "selectedAnswer": null
     },
     {
         "id": 1200,
-        "question": "120. applied / to the surface / is / glue  (Level 1)  ",
+        "question": "applied / to the surface / is / glue(Level 1)",
         "plans": [
             {
-                "value": "Glue is applied to the surface.  "
+                "value": "Glue is applied to the surface."
             },
             {
-                "value": "Glue is appl ied is to the surface.  "
+                "value": "Glue is appl ied is to the surface."
             },
             {
-                "value": "Glue applied is to the surface.  "
+                "value": "Glue applied is to the surface."
             }
         ],
-        "answer": "answer",
+        "answer": "Glue is applied to the surface.",
         "selectedAnswer": null
     },
     {
         "id": 1201,
-        "question": "121. the planes / checked / are /before every flight  (Level 1)  ",
+        "question": "the planes / checked / are /before every flight(Level 1)",
         "plans": [
             {
                 "value": "The planes are checked before every flight"
@@ -20407,12 +20409,12 @@ export default  [
                 "value": "The planes are checks before every flight  "
             }
         ],
-        "answer": "answer",
+        "answer": "The planes are checked before every flight",
         "selectedAnswer": null
     },
     {
         "id": 1202,
-        "question": "122. were /  during th e last check /all faults /corrected  (Level 1)  ",
+        "question": "were /  during th e last check /all faults /corrected(Level 1)",
         "plans": [
             {
                 "value": "All faults were corrected during the last check"
@@ -20421,100 +20423,100 @@ export default  [
                 "value": "All faults was corrected during the last check"
             },
             {
-                "value": "All faults were is corrected during the last check  "
+                "value": "All faults were is corrected during the last check"
             }
         ],
-        "answer": "answer",
+        "answer": "All faults were corrected during the last check",
         "selectedAnswer": null
     },
     {
         "id": 1203,
-        "question": "123. plane / in / our / fleet / the / A380 / is / the / biggest  (Leve l 1) ",
+        "question": "plane / in / our / fleet / the / A380 / is / the / biggest  (Level 1)",
         "plans": [
             {
-                "value": "A380 / is / the / biggest  (Leve l 1) "
+                "value": "The A380 is the biggest plane in our fleet"
             },
             {
                 "value": "The A380 is the biggest in plane our fleet"
             },
             {
-                "value": "The A380 the biggest plane is in our fleet  "
+                "value": "The A380 the biggest plane is in our fleet"
             }
         ],
-        "answer": "answer",
+        "answer": "The A380 is the biggest plane in our fleet",
         "selectedAnswer": null
     },
     {
         "id": 1204,
-        "question": "124. of / all / these / planes / the / B737 / has / the / narrowest / cabin  (Level 1)  ",
+        "question": "of / all / these / planes / the / B737 / has / the / narrowest / cabin(Level 1)",
         "plans": [
             {
                 "value": "The B737 has the narrowest cabin of all these planes"
             },
             {
-                "value": "B737 / has / the / narrowest / cabin  (Level 1)  "
+                "value": "The B737 has the narrowest cabin of the all these planes"
             },
             {
-                "value": "The B737 has the narrowest cabin the all these planes  "
+                "value": "The B737 has the narrowest cabin the all these planes"
             }
         ],
-        "answer": "answer",
+        "answer": "The B737 has the narrowest cabin of all these planes",
         "selectedAnswer": null
     },
     {
         "id": 1205,
-        "question": "125. The / the / B737 / cabin / of /  is / narrow  (Level 1)  ",
+        "question": "The / the / B737 / cabin / of /  is / narrow  (Level 1)",
         "plans": [
             {
                 "value": "The cabin of the B737 is narrow"
             },
             {
-                "value": "B737 / cabin / of /  is / narrow  (Level 1)  "
+                "value": "The cabin is of the B737 narrow"
             },
             {
-                "value": "The cabin of the B737 is a narrow  "
+                "value": "The cabin of the B737 is a narrow"
             }
         ],
-        "answer": "answer",
+        "answer": "The cabin of the B737 is narrow",
         "selectedAnswer": null
     },
     {
         "id": 1206,
-        "question": "126.  expensive / than / an / A320 / an / A340 / is / more  (Level 1)  ",
+        "question": "expensive / than / an / A320 / an / A340 / is / more(Level 1)",
         "plans": [
             {
-                "value": "A320 / an / A340 / is / more  (Level 1)  "
+                "value": "An A340 is more expensive than an A320"
             },
             {
                 "value": "An A340 more expensive than is an A320"
             },
             {
-                "value": "An A340 is more expensive more than an A320  "
+                "value": "An A340 is more expensive more than an A320"
             }
         ],
-        "answer": "answer",
+        "answer": "An A340 is more expensive than an A320",
         "selectedAnswer": null
     },
     {
         "id": 1207,
-        "question": "127. than / an / A340 / cabin / an / A320 / cabin / is  / narrower  (Level 1)  ",
+        "question": "than / an / A340 / cabin / an / A320 / cabin / is  / narrower(Level 1)",
         "plans": [
             {
-                "value": "A340 / cabin / an / A320 / cabin / is  / narrower  (Level 1)  "
+                "value": "An A320 cabin is narrower than an A340 cabin"
             },
             {
                 "value": "An A320 cabin narrower is than an A340 cabin"
             },
             {
-                "value": "An A320 cabin an narrower than is A340 cabin  "
+                "value": "An A320 cabin an narrower than is A340 cabin"
             }
         ],
-        "answer": "answer",
+        "answer": "An A320 cabin is narrower than an A340 cabin",
         "selectedAnswer": null
     },
     {
         "id": 1208,
-        "question": "128. The / fuel / consumption / of / the / aircraft  (Level 1)  ",
+        "question": "The / fuel / consumption / of / the / aircraft(Level 1)",
         "plans": [
             {
                 "value": "The fuel consumption of the aircraft"
@@ -20523,15 +20525,15 @@ export default  [
                 "value": "The fuel consumption on the aircraft"
             },
             {
-                "value": "The fuel consumption is the aircraft  "
+                "value": "The fuel consumption is the aircraft"
             }
         ],
-        "answer": "answer",
+        "answer": "The fuel consumption of the aircraft",
         "selectedAnswer": null
     },
     {
         "id": 1209,
-        "question": "129. of / the / aircraft / the / floor / path / marking / system  (Level 1)  ",
+        "question": "of / the / aircraft / the / floor / path / marking / system(Level 1)",
         "plans": [
             {
                 "value": "The floor path marking system of the aircraft"
@@ -20540,15 +20542,15 @@ export default  [
                 "value": "The floor path marking system on the aircraft"
             },
             {
-                "value": "floor path marking syste m is the aircraft  "
+                "value": "floor path marking syste m is the aircraft"
             }
         ],
-        "answer": "answer",
+        "answer": "The floor path marking system of the aircraft",
         "selectedAnswer": null
     },
     {
         "id": 1210,
-        "question": "130. the / aircraft / the / business / class / seats / in  (Level 1)  ",
+        "question": "the / aircraft / the / business / class / seats / in(Level 1)",
         "plans": [
             {
                 "value": "The Business Class seats in the aircraft"
@@ -20557,15 +20559,15 @@ export default  [
                 "value": "Business Class seats in the aircraft"
             },
             {
-                "value": "Class seats in the aircraft"
+                "value": "The Business Class seats of the aircraft"
             }
         ],
-        "answer": "answer",
+        "answer": "The Business Class seats in the aircraft",
         "selectedAnswer": null
     },
     {
         "id": 1211,
-        "question": "131. of / this / airplane / the / maximum / take -off / w eight  (Level 1)  ",
+        "question": "of / this / airplane / the / maximum / take -off / weight(Level 1)",
         "plans": [
             {
                 "value": "The maximum take -off weight of this airplane"
@@ -20574,15 +20576,15 @@ export default  [
                 "value": "The maximum take -off weight of a this airplane"
             },
             {
-                "value": "The maximum is take -off weight of this airplane  "
+                "value": "The maximum is take -off weight of this airplane"
             }
         ],
-        "answer": "answer",
+        "answer": "The maximum take -off weight of this airplane",
         "selectedAnswer": null
     },
     {
         "id": 1212,
-        "question": "132. this / airplane / the / fuselage / of  (Level 1)      ",
+        "question": "this / airplane / the / fuselage / of  (Level 1)",
         "plans": [
             {
                 "value": "The fuselage of this airplane"
@@ -20591,15 +20593,15 @@ export default  [
                 "value": "The fuselage of the this airplane"
             },
             {
-                "value": "The fuselage of  this is airplane  "
+                "value": "The fuselage of  this is airplane"
             }
         ],
-        "answer": "answer",
+        "answer": "The fuselage of this airplane",
         "selectedAnswer": null
     },
     {
         "id": 1213,
-        "question": "133. than / the  / wiring  / diagram / the / test / is / more / complicated  (Level 1)  ",
+        "question": "than / the  / wiring  / diagram / the / test / is / more / complicated(Level 1)",
         "plans": [
             {
                 "value": "The test is more complicated than the wiring diagram"
@@ -20608,15 +20610,15 @@ export default  [
                 "value": "The test is more complicate than by the wiring diagram"
             },
             {
-                "value": "The test is more co mplicated thann on the wiring diagram  "
+                "value": "The test is more co mplicated thann on the wiring diagram"
             }
         ],
-        "answer": "answer",
+        "answer": "The test is more complicated than the wiring diagram",
         "selectedAnswer": null
     },
     {
         "id": 1214,
-        "question": "134. the / new / engine / this / engine / consumes / more / fuel / than  (Level 1)  ",
+        "question": "the / new / engine / this / engine / consumes / more / fuel / than  (Level 1)",
         "plans": [
             {
                 "value": "This engine consumes more fuel than the new engine"
@@ -20625,18 +20627,18 @@ export default  [
                 "value": "This engine consumes more than fuel than the new engine"
             },
             {
-                "value": "This engine is consumes more fuel than the new engine  "
+                "value": "This engine is consumes more fuel than the new engine"
             }
         ],
-        "answer": "answer",
+        "answer": "This engine consumes more fuel than the new engine",
         "selectedAnswer": null
     },
     {
         "id": 1215,
-        "question": "135. more / than / A321 / the / cost / of / buying / A350 / aircraft / is  (Level 1)  ",
+        "question": "more / than / A321 / the / cost / of / buying / A350 / aircraft / is  (Level 1)",
         "plans": [
             {
-                "value": "A321 / the / cost / of / buying / A350 / aircraft / is  (Level 1)  "
+                "value": "The cost of buying A350 aircraft is more than A321"
             },
             {
                 "value": "The cost of the buying A350 aircraft is more than A321"
@@ -20645,63 +20647,63 @@ export default  [
                 "value": "The cost of buying A350 aircraft is a more than A321  "
             }
         ],
-        "answer": "answer",
+        "answer": "The cost of buying A350 aircraft is more than A321",
         "selectedAnswer": null
     },
     {
         "id": 1216,
-        "question": "136. Noi Bai airport /  is / larger / than / Tan Son Nhat airport  (Level 1)  ",
+        "question": "Noi Bai airport /  is / larger / than / Tan Son Nhat airport(Level 1)",
         "plans": [
             {
                 "value": "Noi Bai airport is larger than Tan Son Nhat airport"
             },
             {
-                "value": "Bai airport /  is / larger / than / Tan Son Nhat airport  (Level 1)  "
+                "value": "Noi Bai airport is a lager than Tan Son Nhat airport"
             },
             {
-                "value": "Noi Bai airport is a lager more than Tan Son Nhat airport  "
+                "value": "Noi Bai airport is a lager more than Tan Son Nhat airport"
             }
         ],
-        "answer": "answer",
+        "answer": "Noi Bai airport is larger than Tan Son Nhat airport",
         "selectedAnswer": null
     },
     {
         "id": 1217,
-        "question": "137. A321 / flies / fa ster / than / A330  (Level 1)  ",
+        "question": "A321 / flies / fa ster / than / A330  (Level 1)",
         "plans": [
             {
-                "value": "A321 / flies / fa ster / than / A330  (Level 1)  "
+                "value": "A321 flies faster than A330"
             },
             {
                 "value": "A321 flies more fast than A330"
             },
             {
-                "value": "A321 flies more fast by than A330  "
+                "value": "A321 flies more fast by than A330"
             }
         ],
-        "answer": "answer",
+        "answer": "A321 flies faster than A330",
         "selectedAnswer": null
     },
     {
         "id": 1218,
-        "question": "138. The / B747 /  than /  the /  B737 / flies /  faster  (Level 1)  ",
+        "question": "The / B747 /  than /  the /  B737 / flies /  faster(Level 1)",
         "plans": [
             {
                 "value": "The B747 flies faster than the B737"
             },
             {
-                "value": "B747 /  than /  the /  B737 / flies /  faster  (Level 1)  "
+                "value": "The B747 flies faster than is the B737"
             },
             {
                 "value": "The B747 flies than faster the B737  "
             }
         ],
-        "answer": "answer",
+        "answer": "The B747 flies faster than the B737",
         "selectedAnswer": null
     },
     {
         "id": 1219,
-        "question": "139. The new / materials /  the / old / materials/ are / better / than  (Level 1)  ",
+        "question": "The new / materials /  the / old / materials/ are / better / than(Level 1)",
         "plans": [
             {
                 "value": "The new materials are better than the old materials"
@@ -20710,15 +20712,15 @@ export default  [
                 "value": "The new materials is better than the old materials"
             },
             {
-                "value": "The new materials are better than is  the old materials  "
+                "value": "The new materials are better than is  the old materials"
             }
         ],
-        "answer": "answer",
+        "answer": "The new materials are better than the old materials",
         "selectedAnswer": null
     },
     {
         "id": 1220,
-        "question": "140. The / HF / reception / than /  FM  / reception / was / worse  (Level 1)  ",
+        "question": "The / HF / reception / than /  FM  / reception / was / worse  (Level 1)",
         "plans": [
             {
                 "value": "The HF reception  was worse than FM reception"
@@ -20727,32 +20729,32 @@ export default  [
                 "value": "The HF reception were worse than FM reception"
             },
             {
-                "value": "The HF reception was worse  more than FM reception  "
+                "value": "The HF reception was worse  more than FM reception"
             }
         ],
-        "answer": "answer",
+        "answer": "The HF reception was worse than FM reception",
         "selectedAnswer": null
     },
     {
         "id": 1221,
-        "question": "141. BOEING  airplanes / prod uce / the USA  (Level 1)  ",
+        "question": "BOEING  airplanes / prod uce / the USA  (Level 1)",
         "plans": [
             {
-                "value": "A  (Level 1)  "
+                "value": "BOEING airplanes are produced in the USA"
             },
             {
-                "value": "BOEING  airplanes / prod uce / the USA  (Level 1)  "
+                "value": "BOEING airplanes are produce in the USA"
             },
             {
-                "value": "BOEING  airplanes are produced the USA      "
+                "value": "BOEING airplanes are produced the USA"
             }
         ],
-        "answer": "answer",
+        "answer": "BOEING airplanes are produced in the USA",
         "selectedAnswer": null
     },
     {
         "id": 1222,
-        "question": "142. The course / change / autopilot  (Level 1)  ",
+        "question": "The course / change / autopilot  (Level 1)",
         "plans": [
             {
                 "value": "The course was changed by autopilot"
@@ -20761,15 +20763,15 @@ export default  [
                 "value": "The course were change autopilot"
             },
             {
-                "value": "The course are change by autopilot  "
+                "value": "The course are change by autopilot"
             }
         ],
-        "answer": "answer",
+        "answer": "The course was changed by autopilot",
         "selectedAnswer": null
     },
     {
         "id": 1223,
-        "question": "143. The repairs / do / qualified personnel  (Level 1)  ",
+        "question": "The repairs / do / qualified personnel  (Level 1)",
         "plans": [
             {
                 "value": "The repairs were done by qualified personnel"
@@ -20778,15 +20780,15 @@ export default  [
                 "value": "The repairs do qualified personnel"
             },
             {
-                "value": "The repairs were done a qualified personnel  "
+                "value": "The repairs were done a qualified personnel"
             }
         ],
-        "answer": "answer",
+        "answer": "The repairs were done by qualified personnel",
         "selectedAnswer": null
     },
     {
         "id": 1224,
-        "question": "144. Cracks / examine / specialists yesterday  (Level 1) ",
+        "question": "Cracks / examine / specialists yesterday  (Level 1)",
         "plans": [
             {
                 "value": "Cracks were examined by specialists yesterday"
@@ -20795,66 +20797,66 @@ export default  [
                 "value": "Cracks examine specialists yesterday"
             },
             {
-                "value": "Cracks / examine / specialists yesterday  (Level 1) "
+                "value": "Cracks is examine by specialists yesterday"
             }
         ],
-        "answer": "answer",
+        "answer": "Cracks were examined by specialists yesterday",
         "selectedAnswer": null
     },
     {
         "id": 1225,
-        "question": "145. Many broken screws / replace / sheet metal workers during the last overhaul  (Level 1)  ",
+        "question": "Many broken screws / replace / sheet metal workers during the last overhaul  (Level 1)",
         "plans": [
             {
-                "value": "Many broken screws were replaced by sheet  metal workers during the last overhaul"
+                "value": "Many broken screws were replaced by sheet metal workers during the last overhaul"
             },
             {
                 "value": "Many broken screws replace sheet metal workers during the last overhaul"
             },
             {
-                "value": "Many broken screws was replace of the sheet metal workers during the last overhaul  "
+                "value": "Many broken screws was replace of the sheet metal workers during the last overhaul"
             }
         ],
-        "answer": "answer",
+        "answer": "Many broken screws were replaced by sheet metal workers during the last overhaul",
         "selectedAnswer": null
     },
     {
         "id": 1226,
-        "question": "146. Bolts / not tighten / English teachers  (Level 1)  ",
+        "question": "Bolts / not tighten / English teachers  (Level 1)",
         "plans": [
             {
                 "value": "Bolts are not tightened by English teachers"
             },
             {
-                "value": "Bolts / not tighten / English teachers  (Level 1)  "
+                "value": "Bolts not tighten English teachers"
             },
             {
-                "value": "Bolts are not tighten English teachers  "
+                "value": "Bolts are not tighten English teachers"
             }
         ],
-        "answer": "answer",
+        "answer": "Bolts are not tightened by English teachers",
         "selectedAnswer": null
     },
     {
         "id": 1227,
-        "question": "147. planes / fly / pilots and co -pilots  (Level 1)  ",
+        "question": "planes / fly / pilots and co -pilots  (Level 1)",
         "plans": [
             {
-                "value": "Planes are flown by pilots and co -pilots"
+                "value": "Planes are flown by pilots and co-pilots"
             },
             {
                 "value": "Planes fly pilots and co -pilots"
             },
             {
-                "value": "Planes are fly by the pilots and co -pilots  "
+                "value": "Planes are fly by the pilots and co -pilots"
             }
         ],
-        "answer": "answer",
+        "answer": "Planes are flown by pilots and co-pilots",
         "selectedAnswer": null
     },
     {
         "id": 1228,
-        "question": "148. Coffee / serve / flight attendants  (Level 1)  ",
+        "question": "Coffee / serve / flight attendants  (Level 1)",
         "plans": [
             {
                 "value": "Coffee is served by flight attendants"
@@ -20863,49 +20865,49 @@ export default  [
                 "value": "Coffee serve flight attendants"
             },
             {
-                "value": "Coffee / serve / flight attendants  (Level 1)  "
+                "value": "Coffee is serve in the flight attendants"
             }
         ],
-        "answer": "answer",
+        "answer": "Coffee is served by flight attendants",
         "selectedAnswer": null
     },
     {
         "id": 1229,
-        "question": "149. The surface / treat / the apprentices tomorrow  (Level 1)  ",
+        "question": "The surface / treat / the apprentices tomorrow  (Level 1)",
         "plans": [
             {
-                "value": "The surface will be treated by  the apprentices tomorrow"
+                "value": "The surface will be treated by the apprentices tomorrow"
             },
             {
                 "value": "The surface treat the apprentices tomorrow"
             },
             {
-                "value": "The surface is treat the apprentices tomorrow  "
+                "value": "The surface is treat the apprentices tomorrow"
             }
         ],
-        "answer": "answer",
+        "answer": "The surface will be treated by the apprentices tomorrow",
         "selectedAnswer": null
     },
     {
         "id": 1230,
-        "question": "150. Adhesive / use / fixing placards  (Level 1)  ",
+        "question": "Adhesive / use / fixing placards  (Level 1)",
         "plans": [
             {
-                "value": "Adhesive / use / fixing placards  (Level 1)  "
+                "value": "Adhesive is used for fixing placards"
             },
             {
                 "value": "Adhesive use fixing placards"
             },
             {
-                "value": "Adhesive is use of fixing placards  "
+                "value": "Adhesive is use of fixing placards"
             }
         ],
-        "answer": "answer",
+        "answer": "Adhesive is used for fixing placards",
         "selectedAnswer": null
     },
     {
         "id": 1231,
-        "question": "151. Defective windows / remove / Charles during his last night shift  (Level 1)  ",
+        "question": "Defective windows / remove / Charles during his last night shift  (Level 1)",
         "plans": [
             {
                 "value": "Defective windows were removed by Charles during his last night shift"
@@ -20914,15 +20916,15 @@ export default  [
                 "value": "Defective windows remove Charles during his last night shift"
             },
             {
-                "value": "Charles during his last night shift  (Level 1)  "
+                "value": "Defective windows the remove Charles during his last night shift"
             }
         ],
-        "answer": "answer",
+        "answer": "Defective windows were removed by Charles during his last night shift",
         "selectedAnswer": null
     },
     {
         "id": 1232,
-        "question": "152. Old lockwire / not reuse / Lufthansa  (Level 1)  ",
+        "question": "Old lockwire / not reuse / Lufthansa  (Level 1)",
         "plans": [
             {
                 "value": "Old lockwire are not reused by Lufthansa"
@@ -20931,32 +20933,32 @@ export default  [
                 "value": "Old lockwire not reuse Lufthansa"
             },
             {
-                "value": "Old lockwire do not reuse Lufthansa  "
+                "value": "Old lockwire do not reuse Lufthansa"
             }
         ],
-        "answer": "answer",
+        "answer": "Old lockwire are not reused by Lufthansa",
         "selectedAnswer": null
     },
     {
         "id": 1233,
-        "question": "153. The next C -Check / do / the mechanics in Munich on Monday  (Level 1)  ",
+        "question": "The next C -Check / do / the mechanics in Munich on Monday  (Level 1)",
         "plans": [
             {
-                "value": "The nex t C-Check will be done by the mechanics in Munich on Monday"
+                "value": "The next C-Check will be done by the mechanics in Munich on Monday"
             },
             {
                 "value": "The next C -Check do the mechanics in Munich on Monday"
             },
             {
-                "value": "C -Check / do / the mechanics in Munich on Monday  (Level 1)  "
+                "value": "The next C-Check will done the mechanics in Munich on Monday"
             }
         ],
-        "answer": "answer",
+        "answer": "The next C-Check will be done by the mechanics in Munich on Monday",
         "selectedAnswer": null
     },
     {
         "id": 1234,
-        "question": "154. Landing gears / extend and retract / cockpit crew  (Level 1)  ",
+        "question": "Landing gears / extend and retract / cockpit crew  (Level 1)",
         "plans": [
             {
                 "value": "Landing gears are extended and retracted by the cockpit crew"
@@ -20965,32 +20967,32 @@ export default  [
                 "value": "Landing gears extend and retract cockpit crew"
             },
             {
-                "value": "Landing gears is extend and retract by cockpit crew  "
+                "value": "Landing gears is extend and retract by cockpit crew"
             }
         ],
-        "answer": "answer",
+        "answer": "Landing gears are extended and retracted by the cockpit crew",
         "selectedAnswer": null
     },
     {
         "id": 1235,
-        "question": "155. An instrument on a B727 / monitor / the flight engineer  (Level 1)  ",
+        "question": "An instrument on a B727 / monitor / the flight engineer(Level 1)",
         "plans": [
             {
-                "value": "An instrument on a B727 / monitor / the flight engineer  (Level 1)  "
+                "value": "An instrument on a B727 is monitored by the flight engineer"
             },
             {
-                "value": "B727 / monitor / the flight engineer  (Level 1)  "
+                "value": "An instrument on a B727 monitor the flight engineer"
             },
             {
-                "value": "An instrument on a B727 and monitor the flight engineer  "
+                "value": "An instrument on a B727 and monitor the flight engineer"
             }
         ],
-        "answer": "answer",
+        "answer": "An instrument on a B727 is monitored by the flight engineer",
         "selectedAnswer": null
     },
     {
         "id": 1236,
-        "question": "156. New timetables / print / next month  (Level 1)  ",
+        "question": "New timetables / print / next month  (Level 1)",
         "plans": [
             {
                 "value": "New timetables will be printed next month"
@@ -20999,66 +21001,66 @@ export default  [
                 "value": "New timetables next month print"
             },
             {
-                "value": "New timetables print next month  "
+                "value": "New timetables print next month"
             }
         ],
-        "answer": "answer",
+        "answer": "New timetables will be printed next month",
         "selectedAnswer": null
     },
     {
         "id": 1237,
-        "question": "157. Old paint / remove / the surface  (Level 1)  ",
+        "question": "Old paint / remove / the surface  (Level 1)",
         "plans": [
             {
-                "value": "Old paint is removed from the surface.  "
+                "value": "Old paint is removed from the surface."
             },
             {
                 "value": "Old paint the surface remove"
             },
             {
-                "value": "The surface remove old paint  "
+                "value": "The surface remove old paint"
             }
         ],
-        "answer": "answer",
+        "answer": "Old paint is removed from the surface.",
         "selectedAnswer": null
     },
     {
         "id": 1238,
-        "question": "158. It (take) eight man -hours (dismantle) the unit. (Level 1)  ",
+        "question": "It (take) eight man -hours (dismantle) the unit. (Level 1)",
         "plans": [
             {
-                "value": "It takes eight man -hours to dismantle  the unit.   "
+                "value": "It takes eight man-hours to dismantle the unit."
             },
             {
-                "value": "It take eight man -hours to dismantling the unit.  "
+                "value": "It take eight man-hours to dismantling the unit."
             },
             {
-                "value": "It tooken eight man -hours to dismantled the unit.  "
+                "value": "It tooken eight man-hours to dismantled the unit."
             }
         ],
-        "answer": "answer",
+        "answer": "It takes eight man-hours to dismantle the unit.",
         "selectedAnswer": null
     },
     {
         "id": 1239,
-        "question": "159. The anti -shimmy (prevent) the nose gear from (v ibrate). (Level 1)  ",
+        "question": "The anti -shimmy (prevent) the nose gear from (v ibrate). (Level 1)",
         "plans": [
             {
-                "value": "The anti -shimmy prevents the nose gear from vibrating.   "
+                "value": "The anti-shimmy prevents the nose gear from vibrating."
             },
             {
-                "value": "The anti -shimmy preventing the nose gear from vibrated.      "
+                "value": "The anti-shimmy preventing the nose gear from vibrated."
             },
             {
-                "value": "The anti -shimmy prevented the nose gear from vibrate.  "
+                "value": "The anti-shimmy prevented the nose gear from vibrate."
             }
         ],
-        "answer": "answer",
+        "answer": "The anti-shimmy prevents the nose gear from vibrating.",
         "selectedAnswer": null
     },
     {
         "id": 1240,
-        "question": "160. When one pump (fail), the pressure (drop)  . (Level 1)  ",
+        "question": "When one pump (fail), the pressure (drop).(Level 1)",
         "plans": [
             {
                 "value": "When one pump fails, the pressure drops"
@@ -21067,447 +21069,457 @@ export default  [
                 "value": "When one pump failed, the pressure drop"
             },
             {
-                "value": "When one pump fail, the pressure dropping  "
+                "value": "When one pump fail, the pressure dropping"
             }
         ],
-        "answer": "answer",
+        "answer": "When one pump fails, the pressure drops",
         "selectedAnswer": null
     },
     {
         "id": 1241,
-        "question": "161.  (increase) engine thrust, (advance) the throttle levers. (Level 1)  ",
+        "question": "(increase) engine thrust, (advance) the throttle levers. (Level 1)",
         "plans": [
             {
-                "value": "To increase, advance engine thrust the throttle levers.  "
+                "value": "To increase, advance engine thrust the throttle levers."
             },
             {
-                "value": "To increase engine thr ust, advance the levers throttle.  "
+                "value": "To increase engine thr ust, advance the levers throttle."
             },
             {
-                "value": "To increase engine thrust, advance the throttle levers.   "
+                "value": "To increase engine thrust, advance the throttle levers."
             }
         ],
-        "answer": "answer",
+        "answer": "To increase engine thrust, advance the throttle levers.",
         "selectedAnswer": null
     },
     {
         "id": 1242,
-        "question": "162.  (lift) the guard (use) the emergency switch. (Level 1)  ",
+        "question": "(lift) the guard (use) the emergency switch. (Level 1)",
         "plans": [
             {
                 "value": "Lift the guard to use the switch emergency"
             },
             {
-                "value": "To use Lift the guard the emergency switch.  "
+                "value": "To use Lift the guard the emergency switch."
             },
             {
-                "value": "Lift the guard to u se the emergency switch.   "
+                "value": "Lift the guard to use the emergency switch."
             }
         ],
-        "answer": "answer",
+        "answer": "Lift the guard to use the emergency switch.",
         "selectedAnswer": null
     },
     {
         "id": 1243,
-        "question": "163. Lighting equipment is mainly (use) in the cockpit to (provide) sufficient general ",
+        "question": "Lighting equipment is mainly (use) in the cockpit to (provide) sufficient general brightness and to illuminate the working areas. (Level 1)",
         "plans": [
             {
-                "value": "Lighting equipment is mainly use in the cockpit to provided  sufficient general "
+                "value": "Lighting equipment is mainly use in the cockpit to provided  sufficient general brightness and to illuminate the working areas."
             },
             {
-                "value": "Lighting equipment is mainly using  in the cockpit to provideing  sufficient general "
+                "value": "Lighting equipment is mainly using in the cockpit to provideing  sufficient general brightness and to illuminate the working areas."
             },
             {
-                "value": "Lighting equipment is mainly used  in the cockpit to provide sufficient general "
+                "value": "Lighting equipment is mainly used in the cockpit to provide sufficient general brightness and to illuminate the working areas."
             }
         ],
-        "answer": "answer",
+        "answer": "Lighting equipment is mainly used in the cockpit to provide sufficient general brightness and to illuminate the working areas.",
         "selectedAnswer": null
     },
     {
         "id": 1244,
-        "question": "164. The air temperature (change) the density. (Level 1)  ",
+        "question": "The air temperature (change) the density. (Level 1)",
         "plans": [
             {
-                "value": "The air temperature changing  the density.  "
+                "value": "The air temperature changing the density."
             },
             {
-                "value": "The air temperature changes  the density.   "
+                "value": "The air temperature changes the density."
             },
             {
-                "value": "The air temperature change  the density.  "
+                "value": "The air temperature change the density."
             }
         ],
-        "answer": "answer",
+        "answer": "The air temperature changes the density.",
         "selectedAnswer": null
     },
     {
         "id": 1245,
-        "question": "165. The (high) the air pressure gets, the higher the resulting thrust (be). (Level 1)  ",
+        "question": "The (high) the air pressure gets, the higher the resulting thrust (be). (Level 1)",
         "plans": [
             {
-                "value": "The highed  the air pressure gets, the higher the resulting thrust is.  "
+                "value": "The highed the air pressure gets, the higher the resulting thrust is."
             },
             {
-                "value": "The higher  the air pressure gets, the higher the resulting thrust are.  "
+                "value": "The higher the air pressure gets, the higher the resulting thrust are."
             },
             {
-                "value": "The higher  the air pressure gets, the higher the resulting thrust is.      "
+                "value": "The higher the air pressure gets, the higher the resulting thrust is."
             }
         ],
-        "answer": "answer",
+        "answer": "The higher the air pressure gets, the higher the resulting thrust is.",
         "selectedAnswer": null
     },
     {
         "id": 1246,
-        "question": "166. With (increase) altitudes, the ambient pressure (decrease) and the temperature ",
+        "question": "With (increase) altitudes, the ambient pressure (decrease) and the temperature decreases continuously until 36000ft is reached. (Level 1)",
         "plans": [
             {
-                "value": "With increase  altitudes, the ambient pressure decrease d and the temperature "
+                "value": "With increase  altitudes, the ambient pressure decrease d and the temperature decreases continuously until 36000ft is reached."
             },
             {
-                "value": "With increasing  altitudes, the ambient pressure decrease d and the temperature "
+                "value": "With increasing  altitudes, the ambient pressure decrease d and the temperature decreases continuously until 36000ft is reached."
             },
             {
-                "value": "With increasing  altitudes, the ambient pressure decrease s and the temperature "
+                "value": "With increasing altitudes, the ambient pressure decreases and the temperature decreases continuously until 36000ft is reached."
             }
         ],
-        "answer": "answer",
+        "answer": "With increasing altitudes, the ambient pressure decreases and the temperature decreases continuously until 36000ft is reached.",
         "selectedAnswer": null
     },
     {
         "id": 1247,
-        "question": "167. The colder air temperatures at (high) altitudes (give) a small increase in thrust. ",
+        "question": "The colder air temperatures at (high) altitudes (give) a small increase in thrust. (Level 1)",
         "plans": [
             {
-                "value": "The colder air temperatures at higher  altitudes give a small increase in thrust.   "
+                "value": "The colder air temperatures at higher altitudes give a small increase in thrust."
             },
             {
-                "value": "The colder air temperatures at highe r altitudes gives  a small increase in thrust.  "
+                "value": "The colder air temperatures at higher altitudes gives  a small increase in thrust."
             },
             {
-                "value": "The colder air temperatures at high  altitudes gived  a small increase in thrust.  "
+                "value": "The colder air temperatures at high altitudes gived  a small increase in thrust."
             }
         ],
-        "answer": "answer",
+        "answer": "The colder air temperatures at higher altitudes give a small increase in thrust.",
         "selectedAnswer": null
     },
     {
         "id": 1248,
-        "question": "168. Another factor of the airspeed (cause) an opposite change on the (generate) ",
+        "question": "Another factor of the airspeed (cause) an opposite change on the (generate) thrust. (Level 1)",
         "plans": [
             {
-                "value": "Another factor of the airspeed (cause) an opposite change on the (generate) "
+                "value": "Another factor of the airspeed causes an opposite change on the generated thrust."
             },
             {
-                "value": "Another factor of the airspeed causing  an opposite change on the generate  "
+                "value": "Another factor of the airspeed causing an opposite change on the generate thrust."
             },
             {
-                "value": "Another factor of the airspeed cause s an opposite change on the generate  thrust.  "
+                "value": "Another factor of the airspeed cause s an opposite change on the generate thrust."
             }
         ],
-        "answer": "answer",
+        "answer": "Another factor of the airspeed causes an opposite change on the generated thrust.",
         "selectedAnswer": null
     },
     {
         "id": 1249,
-        "question": "169. Electrical power for (heat) is mainly (use) in the galleys for ovens and coffee ",
+        "question": "Electrical power for (heat) is mainly (use) in the galleys for ovens and coffee machines. (Level 1)",
         "plans": [
             {
-                "value": "Electrical power for heating  is mainly used  in the galleys for ovens and coffee "
+                "value": "Electrical power for heating is mainly used in the galleys for ovens and coffee machines"
             },
             {
-                "value": "Electrical power for heated  is mainly useing in the galleys for o vens and coffee "
+                "value": "Electrical power for heated is mainly useing in the galleys for o vens and coffee machines"
             },
             {
-                "value": "Electrical power for heatin g is mainly are use  in the galleys for ovens and coffee "
+                "value": "Electrical power for heating is mainly are use in the galleys for ovens and coffee machines"
             }
         ],
-        "answer": "answer",
+        "answer": "Electrical power for heating is mainly used in the galleys for ovens and coffee machines",
         "selectedAnswer": null
     },
     {
         "id": 1250,
-        "question": "170. (operate) all this equipment, a large amount of electrical energy (be) necessary. ",
+        "question": "(operate) all this equipment, a large amount of electrical energy (be) necessary.",
         "plans": [
             {
-                "value": "To operate  all this equipment, a large amo unt of electrical energy is necessary.   "
+                "value": "To operate all this equipment, a large amount of electrical energy is necessary."
             },
             {
-                "value": "Operate  all this equipment, a large amount of electrical energy is necessary.  "
+                "value": "Operate  all this equipment, a large amount of electrical energy is necessary."
             },
             {
-                "value": "To operate  all this equipment, a large amount of electrical energy are necessary.  "
+                "value": "To operate  all this equipment, a large amount of electrical energy are necessary."
             }
         ],
-        "answer": "answer",
+        "answer": "To operate all this equipment, a large amount of electrical energy is necessary.",
         "selectedAnswer": null
     },
     {
         "id": 1251,
-        "question": "171. Most aircraft (have) two main gears and a (support) g ear. (Level 1)  ",
+        "question": "Most aircraft (have) two main gears and a (support) g ear. (Level 1)  ",
         "plans": [
             {
-                "value": "Most aircraft had two main gears and a supported  gear.  "
+                "value": "Most aircraft had two main gears and a supported gear."
             },
             {
-                "value": "Most aircraft having two main gears and a support  gear.  "
+                "value": "Most aircraft having two main gears and a support gear."
             },
             {
-                "value": "Most aircraft have  two main gears and a supporting  gear.   "
+                "value": "Most aircraft have two main gears and a supporting gear."
             }
         ],
-        "answer": "answer",
+        "answer": "Most aircraft have two main gears and a supporting gear.",
         "selectedAnswer": null
     },
     {
         "id": 1252,
-        "question": "172. English (speak) by about 800 million people. (Level 1)  ",
+        "question": "English (speak) by about 800 million people. (Level 1)",
         "plans": [
             {
-                "value": "English spoken  by about 800 million people.  "
+                "value": "English spoken  by about 800 million people."
             },
             {
-                "value": "English are spoke d by about 800 million people.  "
+                "value": "English are spoke d by about 800 million people."
             },
             {
-                "value": "English is spoken  by about 800 million people.   "
+                "value": "English is spoken by about 800 million people."
             }
         ],
-        "answer": "answer",
+        "answer": "English is spoken by about 800 million people.",
         "selectedAnswer": null
     },
     {
         "id": 1253,
-        "question": "173. ’s technical apprentices (train) in FRA, HAM and MU(Level 1)  ",
+        "question": "VAECO’s technical apprentices (train) in FRA, HAM and MUC(Level 1)",
         "plans": [
             {
-                "value": "A, HAM and MU(Level 1)  "
+                "value": "VAECO’s technical apprentices trained in FRA, HAM and MUC."
             },
             {
-                "value": "’s technical apprentices were training  in FRA, HAM and MU "
+                "value": "VAECO’s technical apprentices were training in FRA, HAM and MUC."
             },
             {
-                "value": "(Level 1)  "
+                "value": "VAECO’s technical apprentices are trained in FRA, HAM and MUC."
             }
         ],
-        "answer": "answer",
+        "answer": "VAECO’s technical apprentices are trained in FRA, HAM and MUC.",
         "selectedAnswer": null
     },
     {
         "id": 1254,
-        "question": "1993. (Level 1)  ",
-        "plans": [],
-        "answer": "answer",
+        "question": "The first A340 (deliver) to Lufthansa in 1993. (Level 1)",
+        "plans": [
+            {
+                "value": "The first A340 delivered to Lufthansa in 1993."
+            },
+            {
+                "value": "The first A340 was delivering to Lufthansa in 1993"
+            },
+            {
+                "value": "The first A340 was delivered to Lufthansa in 1993."
+            }
+        ],
+        "answer": "The first A340 was delivered to Lufthansa in 1993.",
         "selectedAnswer": null
     },
     {
         "id": 1255,
-        "question": "175. The damage (cause) by a bird strike. (Level 1)  ",
+        "question": "The damage (cause) by a bird strike. (Level 1)  ",
         "plans": [
             {
-                "value": "The damage caused  by a bird strike.  "
+                "value": "The damage caused by a bird strike."
             },
             {
-                "value": "The damage was causing  by a bird strike.  "
+                "value": "The damage was causing by a bird strike."
             },
             {
-                "value": "The damage was caused  by a bird strike.   "
+                "value": "The damage was caused by a bird strike."
             }
         ],
-        "answer": "answer",
+        "answer": "The damage was caused by a bird strike.",
         "selectedAnswer": null
     },
     {
         "id": 1256,
-        "question": "176. The first Airbuses (build) in the seventies. (Level 1)  ",
+        "question": "The first Airbuses (build) in the seventies. (Level 1)",
         "plans": [
             {
-                "value": "Airbuses (build) in the seventies. (Level 1)  "
+                "value": "The first Airbuses built in the seventies."
             },
             {
-                "value": "The first Airbuses was builted  in the seventies.  "
+                "value": "The first Airbuses was builted in the seventies."
             },
             {
-                "value": "The first Airbuses were built  in the seventies.   "
+                "value": "The first Airbuses were built in the seventies."
             }
         ],
-        "answer": "answer",
+        "answer": "The first Airbuses were built in the seventies.",
         "selectedAnswer": null
     },
     {
         "id": 1257,
-        "question": "177. The function of the combustion chamber is (produce) a ho t stream of gas for the ",
+        "question": "The function of the combustion chamber is (produce) a ho t stream of gas for the turbines and for the jet nozzle. (Level 1)",
         "plans": [
             {
-                "value": "The function of the combustion chamber is to  produce d a hot stream of gas for "
+                "value": "The function of the combustion chamber is to  produce d a hot stream of gas for the turbines and for the jet nozzle"
             },
             {
-                "value": "The function of the combustion chamber is to  produce  a hot stream of gas for the "
+                "value": "The function of the combustion chamber is to produce a hot stream of gas for the turbines and for the jet nozzle."
             },
             {
-                "value": "The function of the combustion chamber is to  producing  a hot stream of gas for "
+                "value": "The function of the combustion chamber is to producing a hot stream of gas for the turbines and for the jet nozzle."
             }
         ],
-        "answer": "answer",
+        "answer": "The function of the combustion chamber is to produce a hot stream of gas for the turbines and for the jet nozzle.",
         "selectedAnswer": null
     },
     {
         "id": 1258,
-        "question": "178. Combustion is a very difficult process on aircraft engines because of many ",
+        "question": "Combustion is a very difficult process on aircraft engines because of many (oppose) factors and requirements. (Level 1)",
         "plans": [
             {
-                "value": "Combustion is a very difficult process on aircraft engines because of many "
+                "value": "Combustion is a very difficult process on aircraft engines because of many opposition factors and requirements."
             },
             {
-                "value": "Combustion is a very difficult process on aircraft engines because of many "
+                "value": "Combustion is a very difficult process on aircraft engines because of many oppositting factors and requirements."
             },
             {
-                "value": "Combustion is a very difficult process on aircraft engines because of many "
+                "value": "Combustion is a very difficult process on aircraft engines because of many opposing factors and requirements."
             }
         ],
-        "answer": "answer",
+        "answer": "Combustion is a very difficult process on aircraft engines because of many opposing factors and requirements.",
         "selectedAnswer": null
     },
     {
         "id": 1259,
-        "question": "179. The combustion chamber should have a high (operate) lifetime because the ",
+        "question": "The combustion chamber should have a high (operate) lifetime because the replacement of these engine components is very time (consume). (Level 1)",
         "plans": [
             {
-                "value": "The combustion chamber should have a high  operated lifetime because the "
+                "value": "The combustion chamber should have a high  operated lifetime because the replacement of these engine components is very time consumer."
             },
             {
-                "value": "The combustion chamber should have a high  operating  lifetime because the "
+                "value": "The combustion chamber should have a high  operating  lifetime because the replacement of these engine components is very time consuming."
             },
             {
-                "value": "The combustion chamber should have a high  operate  lifetime because the "
+                "value": "The combustion chamber should have a high  operate  lifetime because the replacement of these engine components is very time consum."
             }
         ],
-        "answer": "answer",
+        "answer": "The combustion chamber should have a high  operating  lifetime because the replacement of these engine components is very time consuming.",
         "selectedAnswer": null
     },
     {
         "id": 1260,
-        "question": "180. Several (type) of combustion chambers (use) on jet engines. (Level 1)  ",
+        "question": "Several (type) of combustion chambers (use) on jet engines. (Level 1)",
         "plans": [
             {
-                "value": "Several type of combustion chambers are  use on jet engines.  "
+                "value": "Several type of combustion chambers are  use on jet engines."
             },
             {
-                "value": "Several types  of combustion chambers are  used  on jet engines.   "
+                "value": "Several types of combustion chambers are used on jet engines."
             },
             {
-                "value": "Several typing of combu stion chambers are  use on jet engines.  "
+                "value": "Several typing of combu stion chambers are  use on jet engines."
             }
         ],
-        "answer": "answer",
+        "answer": "Several types of combustion chambers are used on jet engines.",
         "selectedAnswer": null
     },
     {
         "id": 1261,
-        "question": "181. The fuel air mixture (be) then electrically (ignite) by an igniter plug. (Level 1)  ",
+        "question": "The fuel air mixture (be) then electrically (ignite) by an igniter plug. (Level 1)",
         "plans": [
             {
-                "value": "The fuel air mixture are then electrically ignited  by an igniter plug.  "
+                "value": "The fuel air mixture are then electrically ignited by an igniter plug."
             },
             {
-                "value": "The fuel air mixture is then electrically ignited  by an igni ter plug.       "
+                "value": "The fuel air mixture is then electrically ignited by an igniter plug."
             },
             {
-                "value": "The fuel air mixture are then electrically igniting  by an igniter plug.  "
+                "value": "The fuel air mixture are then electrically igniting by an igniter plug."
             }
         ],
-        "answer": "answer",
+        "answer": "The fuel air mixture is then electrically ignited by an igniter plug.",
         "selectedAnswer": null
     },
     {
         "id": 1262,
-        "question": "182. The rest of the airflow bypasses the primary combustion zone and (mix) with the ",
+        "question": "The rest of the airflow bypasses the primary combustion zone and (mix) with the hot gas in the dilution zone of the combustion chamber. (Level 1)",
         "plans": [
             {
-                "value": "The rest of the airflow bypasses the primary combustion zone and mixing with "
+                "value": "The rest of the airflow bypasses the primary combustion zone and mixing with the hot gas in the dilution zone of the combustion chamber."
             },
             {
-                "value": "The rest of the airflow bypasses the primary combustion zone and mixed with the "
+                "value": "The rest of the airflow bypasses the primary combustion zone and mixed with the the hot gas in the dilution zone of the combustion chamber."
             },
             {
-                "value": "The rest of the airflow bypasses the primary combustion zone and mixes with the "
+                "value": "The rest of the airflow bypasses the primary combustion zone and mixes with the hot gas in the dilution zone of the combustion chamber."
             }
         ],
-        "answer": "answer",
+        "answer": "The rest of the airflow bypasses the primary combustion zone and mixes with the hot gas in the dilution zone of the combustion chamber.",
         "selectedAnswer": null
     },
     {
         "id": 1263,
-        "question": "183. The secondary airflow (form) a (cool) film on the inner surface of the liners, which ",
+        "question": "The secondary airflow (form) a (cool) film on the inner surface of the liners, which (help) to protect the liner from the intense heat of the combustion gases. (Level 1)",
         "plans": [
             {
-                "value": "The secondary airflow form a cooll  film on the inner surface of the liners, which "
+                "value": "The secondary airflow form a cooll  film on the inner surface of the liners, which help to protect the liner from the intense heat of the combustion gases."
             },
             {
-                "value": "The secondary airflow forms a  cooling  film on the inner surface of the liners, "
+                "value": "The secondary airflow forms a  cooling  film on the inner surface of the liners, which helps to protect the liner from the intense heat of the combustion gases."
             },
             {
-                "value": "The secondary airflow form a coolled  film on the inner surface of the liners, "
+                "value": "The secondary airflow form a coolled  film on the inner surface of the liners, which help to protect the liner from the intense heat of the combustion gases."
             }
         ],
-        "answer": "answer",
+        "answer": "The secondary airflow forms a  cooling  film on the inner surface of the liners, which helps to protect the liner from the intense heat of the combustion gases.",
         "selectedAnswer": null
     },
     {
         "id": 1264,
-        "question": "184. There are many different (method) of (design) flame tubes to get an optimum ",
+        "question": "There are many different (method) of (design) flame tubes to get an optimum cooling film. (Level 1)",
         "plans": [
             {
-                "value": "There are many different method of design  flame tubes to get an optimum "
+                "value": "There are many different method of design flame tubes to get an optimum cooling film."
             },
             {
-                "value": "There are many different methods of  designed  flame tubes to get an optimum "
+                "value": "There are many different methods of  designed flame tubes to get an optimum cooling film."
             },
             {
-                "value": "There are many different methods of designing  flame tubes to get an optimum "
+                "value": "There are many different methods of designing flame tubes to get an optimum cooling film."
             }
         ],
-        "answer": "answer",
+        "answer": "There are many different methods of designing flame tubes to get an optimum cooling film.",
         "selectedAnswer": null
     },
     {
         "id": 1265,
-        "question": "185. Related / t / its / overall / is / shorter / than / the / CF6 -50 / engine / length / the / ",
+        "question": "Related / t / its / overall / is / shorter / than / the / CF6 -50 / engine / length / the / CF6-80 / engine (Level 1)",
         "plans": [
             {
-                "value": "Related to its overall length the CF6 -80 engine is than shorter the CF6 -50 engine"
+                "value": "Related to its overall length the CF6-80 engine is than shorter the CF6-50 engine"
             },
             {
-                "value": "Related to its overall length the CF6 -80 engine is shorte r than the CF6 -50 engine"
+                "value": "Related to its overall length the CF6-80 engine is shorter than the CF6-50 engine"
             },
             {
-                "value": "CF6 -50 / engine / length / the / "
+                "value": "Related to its the CF6-80 overall length engine is shorter than the CF6-50 engine"
             }
         ],
-        "answer": "answer",
+        "answer": "Related to its overall length the CF6-80 engine is shorter than the CF6-50 engine",
         "selectedAnswer": null
     },
     {
         "id": 1266,
-        "question": "186. 10 meters / longer / than / the A340 -300 / the A340 -600 /  is  / more / than (Level ",
+        "question": "10 meters / longer / than / the A340 -300 / the A340 -600 /  is  / more / than (Level 1)",
         "plans": [
             {
-                "value": "A340 -300 / the A340 -600 /  is  / more / than (Level "
+                "value": "The A340-600 is more than longer than the 10 metters A340-300"
             },
             {
-                "value": "The A340 -600 is more than 10 metters longer than the A340 -300"
+                "value": "The A340-600 is more than 10 metters longer than the A340-300"
             },
             {
-                "value": "The A340 -300 is more than 10 metters longer than the A340 -600 "
+                "value": "The A340-300 is more than 10 metters longer than the A340-600 "
             }
         ],
-        "answer": "answer",
+        "answer": "The A340-600 is more than 10 metters longer than the A340-300",
         "selectedAnswer": null
     },
     {
         "id": 1267,
-        "question": "188. The / new / sliding / windows / have / to / be / adjusted /  / easier / than /  / the / old ",
+        "question": "The / new / sliding / windows / have / to / be / adjusted /  / easier / than /  / the / old / ones (Level 2)",
         "plans": [
             {
                 "value": "The new sliding windows the old ones have to be adjusted easier than"
@@ -21516,49 +21528,49 @@ export default  [
                 "value": "The new sliding windows have to be adjusted than easier the old ones"
             },
             {
-                "value": "The new sliding windows have to be adjusted easier than the old ones   "
+                "value": "The new sliding windows have to be adjusted easier than the old ones"
             }
         ],
-        "answer": "answer",
+        "answer": "The new sliding windows have to be adjusted easier than the old ones",
         "selectedAnswer": null
     },
     {
         "id": 1268,
-        "question": "189. It / is / more / complicated / to / do / an / operational / check / of / a / system / than ",
+        "question": "It / is / more / complicated / to / do / an / operational / check / of / a / system / than / to / service / it (Level 1)",
         "plans": [
             {
                 "value": "It is more complicated to do an operational check to service it of a system than"
             },
             {
-                "value": "It is m ore complicated to do an operational check of a system than to service it"
+                "value": "It is more complicated to do an operational check of a system than to service it"
             },
             {
-                "value": "It is more complicated to do check of a system than to service it an operational  "
+                "value": "It is more complicated to do check of a system than to service it an operational"
             }
         ],
-        "answer": "answer",
+        "answer": "It is more complicated to do an operational check of a system than to service it",
         "selectedAnswer": null
     },
     {
         "id": 1269,
-        "question": "190. The / adjustment / of / a / reading / light / is / easier / than / the / adjustment / of / ",
+        "question": "The / adjustment / of / a / reading / light / is / easier / than / the / adjustment / of / the / landing / gear / switches (Level 1)",
         "plans": [
             {
-                "value": "The adjustment of a reading light is easier than the adjustment of the gear "
+                "value": "The adjustment of a reading light is easier than the adjustment of the gear switches landing"
             },
             {
-                "value": "The adjustment of a reading light is easier than the adjustment of the landing gear "
+                "value": "The adjustment of a reading light is easier than the adjustment of the landing gear switches"
             },
             {
-                "value": "The adjustment of a reading light of  the landing gear switches is easier than the "
+                "value": "The adjustment of a reading light of  the landing gear switches is easier than the adjustment"
             }
         ],
-        "answer": "answer",
+        "answer": "The adjustment of a reading light is easier than the adjustment of the landing gear switches",
         "selectedAnswer": null
     },
     {
         "id": 1270,
-        "question": "192. If / the / part / is / replace / it / damaged / he / will (Level 1)  ",
+        "question": "If / the / part / is / replace / it / damaged / he / will (Level 1)",
         "plans": [
             {
                 "value": "If he is damaged, the part it will  replace"
@@ -21567,15 +21579,15 @@ export default  [
                 "value": "If he is the part will replace damaged, it"
             },
             {
-                "value": "If the part is damaged, he will replace it   "
+                "value": "If the part is damaged, he will replace it"
             }
         ],
-        "answer": "answer",
+        "answer": "If the part is damaged, he will replace it",
         "selectedAnswer": null
     },
     {
         "id": 1271,
-        "question": "193. If / the / part / had / would / have / replaced / it / been / damaged / I  (Level 1)   ",
+        "question": "If / the / part / had / would / have / replaced / it / been / damaged / I  (Level 1)",
         "plans": [
             {
                 "value": "If the part had been damaged, I replaced it would have"
@@ -21584,15 +21596,15 @@ export default  [
                 "value": "If the part dama ged, I had been would have replaced it"
             },
             {
-                "value": "If the part had been damaged, I would have replaced it   "
+                "value": "If the part had been damaged, I would have replaced it"
             }
         ],
-        "answer": "answer",
+        "answer": "If the part had been damaged, I would have replaced it",
         "selectedAnswer": null
     },
     {
         "id": 1272,
-        "question": "194. He / doesn’t / whether / the / part / is / available / know (Level 1)       ",
+        "question": "He / doesn’t / whether / the / part / is / available / know (Level 1)",
         "plans": [
             {
                 "value": "He doesn’t know whether the part is available"
@@ -21604,12 +21616,12 @@ export default  [
                 "value": "He doesn’t know whether availablethe part is  "
             }
         ],
-        "answer": "answer",
+        "answer": "He doesn’t know whether the part is available",
         "selectedAnswer": null
     },
     {
         "id": 1273,
-        "question": "195. I / cannot / whether / this / crack / is / see / within / the / allowable / limits  (Level ",
+        "question": "I / cannot / whether / this / crack / is / see / within / the / allowable / limits  (Level 1)",
         "plans": [
             {
                 "value": "I cannot see whether this crack the allowable limits is within"
@@ -21618,15 +21630,15 @@ export default  [
                 "value": "This crack is within the allowable I cann ot see whether limits"
             },
             {
-                "value": "I cannot see whether this crack is within the allowable limits  "
+                "value": "I cannot see whether this crack is within the allowable limits"
             }
         ],
-        "answer": "answer",
+        "answer": "I cannot see whether this crack is within the allowable limits",
         "selectedAnswer": null
     },
     {
         "id": 1274,
-        "question": "196. David / will / do / the / work, / unless / have / to / Vanessa / comes  (Level 1)  ",
+        "question": "David / will / do / the / work, / unless / have / to / Vanessa / comes  (Level 1)",
         "plans": [
             {
                 "value": "David will have to do the work, unless Vanessa comes"
@@ -21638,12 +21650,12 @@ export default  [
                 "value": "David will have, unless Vanessa comes  to do the work  "
             }
         ],
-        "answer": "answer",
+        "answer": "David will have to do the work, unless Vanessa comes",
         "selectedAnswer": null
     },
     {
         "id": 1275,
-        "question": "197. You /  my / car / provided / that / you / can / borrow / return / it / with / a / full / tank ",
+        "question": "You /  my / car / provided / that / you / can / borrow / return / it / with / a / full / tank (Level 1)",
         "plans": [
             {
                 "value": "You can borrow my car provided with a full tank that you return it"
@@ -21652,39 +21664,49 @@ export default  [
                 "value": "You can borro w my a full tank car provided that you return it with"
             },
             {
-                "value": "You can borrow my car provided that you return it with a full tank   "
+                "value": "You can borrow my car provided that you return it with a full tank"
             }
         ],
-        "answer": "answer",
+        "answer": "You can borrow my car provided that you return it with a full tank",
         "selectedAnswer": null
     },
     {
         "id": 1276,
-        "question": "198. We / will / out / the / repair / provided / that / the / proper / carry / spare / parts / ",
+        "question": "We / will / out / the / repair / provided / that / the / proper / carry / spare / parts / are / available / at / the / store (Level 1)",
         "plans": [
             {
-                "value": "We will carry out the repair provided that the available at the store proper spare "
+                "value": "We will carry out the repair provided that the available at the store proper spare parts are"
             },
             {
-                "value": "We will carry out the repair provided that the proper spare parts are available at "
+                "value": "We will carry out the repair provided that the proper spare parts are available at the store"
             },
             {
-                "value": "We will carry out the repair provided that the available at the s tore proper spare "
+                "value": "We will carry out the repair provided that the available at the s tore proper spare parts are"
             }
         ],
-        "answer": "answer",
+        "answer": "We will carry out the repair provided that the proper spare parts are available at the store",
         "selectedAnswer": null
     },
     {
         "id": 1277,
-        "question": "202. 3.95m/is/the/of/width/the/fuselage  (Level 1)  ",
-        "plans": [],
-        "answer": "answer",
+        "question": "3.95m/is/the/of/width/the/fuselage(Level 1)",
+        "plans": [
+            {
+                "value": "The width 3.95 m of the fuselage is"
+            },
+            {
+                "value": "The width of is 3.95 m the fuselage"
+            },
+            {
+                "value": "The width of the fuselage is 3.95 m"
+            }
+        ],
+        "answer": "The width of the fuselage is 3.95 m",
         "selectedAnswer": null
     },
     {
         "id": 1278,
-        "question": "203. Is/spacer/2mm/thickness/the/of/the  (Level 1)  ",
+        "question": "Is/spacer/2mm/thickness/the/of/the  (Level 1)",
         "plans": [
             {
                 "value": "The thickness is 2 mm of the spacer"
@@ -21693,15 +21715,15 @@ export default  [
                 "value": "The thickness of the spacer is 2 mm"
             },
             {
-                "value": "The thickness spacer of the is 2 mm       "
+                "value": "The thickness spacer of the is 2 mm"
             }
         ],
-        "answer": "answer",
+        "answer": "The thickness of the spacer is 2 mm",
         "selectedAnswer": null
     },
     {
         "id": 1279,
-        "question": "204. Thick/2mm/th/is/spacer  (Level 1)  ",
+        "question": "Thick/2mm/th/is/spacer(Level 1)",
         "plans": [
             {
                 "value": "The thick spacer is 2 mm"
@@ -21710,15 +21732,15 @@ export default  [
                 "value": "The spacer is 2 mm thick"
             },
             {
-                "value": "The is 2 mm spacer thick   "
+                "value": "The is 2 mm spacer thick"
             }
         ],
-        "answer": "answer",
+        "answer": "The spacer is 2 mm thick",
         "selectedAnswer": null
     },
     {
         "id": 1280,
-        "question": "205. Is/57000kg/of/the/aircraft/the/weight  (Level 1)  ",
+        "question": "Is/57000kg/of/the/aircraft/the/weight(Level 1)",
         "plans": [
             {
                 "value": "The weight aircraft is 57,000 kg of the"
@@ -21727,15 +21749,15 @@ export default  [
                 "value": "The weight of the aircraft is 57,000 kg"
             },
             {
-                "value": "The weight of is 57,000 kg  the aircraft   "
+                "value": "The weight of is 57,000 kg  the aircraft"
             }
         ],
-        "answer": "answer",
+        "answer": "The weight of the aircraft is 57,000 kg",
         "selectedAnswer": null
     },
     {
         "id": 1281,
-        "question": "206. 6900 litres/the/inner/is/tank/capacity/the/of   (Level 1)  ",
+        "question": "6900 litres/the/inner/is/tank/capacity/the/of(Level 1)",
         "plans": [
             {
                 "value": "The capacity 6,900 litres of the inner tank is"
@@ -21744,15 +21766,15 @@ export default  [
                 "value": "The of the inner tank capacity is 6,900 litres"
             },
             {
-                "value": "The capacity of the i nner tank is 6,900 litres  "
+                "value": "The capacity of the inner tank is 6,900 litres"
             }
         ],
-        "answer": "answer",
+        "answer": "The capacity of the inner tank is 6,900 litres",
         "selectedAnswer": null
     },
     {
         "id": 1282,
-        "question": "207. Connectors/disconnect/electrical/the/following  (Level 1)   ",
+        "question": "Connectors/disconnect/electrical/the/following(Level 1)",
         "plans": [
             {
                 "value": "Disconnect the following connectors electrical"
@@ -21761,15 +21783,15 @@ export default  [
                 "value": "Disconnect the following electrical connectors"
             },
             {
-                "value": "Connectors/disconnect/electrical/the/following  (Level 1)   "
+                "value": "Disconnect electrical the following connectors"
             }
         ],
-        "answer": "answer",
+        "answer": "Disconnect the following electrical connectors",
         "selectedAnswer": null
     },
     {
         "id": 1283,
-        "question": "208. Electrical/dustcap/from/remove/connector  (Level 1)  ",
+        "question": "Electrical/dustcap/from/remove/connector(Level 1)",
         "plans": [
             {
                 "value": "Remove connector dustcap from electrical"
@@ -21778,15 +21800,15 @@ export default  [
                 "value": "Remove dustcap from electrical connector"
             },
             {
-                "value": "Remove dustcap connector from electrical   "
+                "value": "Remove dustcap connector from electrical"
             }
         ],
-        "answer": "answer",
+        "answer": "Remove dustcap from electrical connector",
         "selectedAnswer": null
     },
     {
         "id": 1284,
-        "question": "209. From/release/shockmount/aft/support  (Level 1)  ",
+        "question": "From/release/shockmount/aft/support(Level 1)",
         "plans": [
             {
                 "value": "Release from support aft shockmou nt"
@@ -21795,32 +21817,32 @@ export default  [
                 "value": "Shockmount from support Release aft"
             },
             {
-                "value": "Release aft shockmount from support    "
+                "value": "Release aft shockmount from support"
             }
         ],
-        "answer": "answer",
+        "answer": "Release aft shockmount from support",
         "selectedAnswer": null
     },
     {
         "id": 1285,
-        "question": "210. Blanking/line/fuel/remove/feed/cap/from (Level 1)  ",
+        "question": "Blanking/line/fuel/remove/feed/cap/from (Level 1)",
         "plans": [
             {
                 "value": "Remove fuel feed from blanking cap line"
             },
             {
-                "value": "Blanking/line/fuel/remove/feed/cap/from (Level 1)  "
+                "value": "Remove blanking cap from fuel feed line"
             },
             {
-                "value": "Remove blanking cap feed line from fuel    "
+                "value": "Remove blanking cap feed line from fuel"
             }
         ],
-        "answer": "answer",
+        "answer": "Remove blanking cap from fuel feed line",
         "selectedAnswer": null
     },
     {
         "id": 1286,
-        "question": "212. To adjust/the lights/the dim knob/used/is/ (Level 1)   ",
+        "question": "To adjust/the lights/the dim knob/used/is/ (Level 1)",
         "plans": [
             {
                 "value": "The the lights dim knob is used adjust to"
@@ -21829,15 +21851,15 @@ export default  [
                 "value": "The dim knob is used to adjust the lights"
             },
             {
-                "value": "The lights is used to adjust The dim knob  "
+                "value": "The lights is used to adjust The dim knob"
             }
         ],
-        "answer": "answer",
+        "answer": "The dim knob is used to adjust the lights",
         "selectedAnswer": null
     },
     {
         "id": 1287,
-        "question": "213. Antenna/is designed/the/signals/for transmitting  (Level 1)  ",
+        "question": "Antenna/is designed/the/signals/for transmitting  (Level 1)",
         "plans": [
             {
                 "value": "Antenna/is designed/the/signals/for transmitting  (Level 1)  "
@@ -21846,49 +21868,49 @@ export default  [
                 "value": "Is designed signals. For transmitting The antenna"
             },
             {
-                "value": "The antenna is designed for transmitting signals.   "
+                "value": "The antenna is designed for transmitting signals."
             }
         ],
-        "answer": "answer",
+        "answer": "The antenna is designed for transmitting signals.",
         "selectedAnswer": null
     },
     {
         "id": 1288,
-        "question": "214. Is made to/the/seal unions/O -ring/ensure tightess  (Level 1)  ",
+        "question": "Is made to/the/seal unions/O -ring/ensure tightess(Level 1)",
         "plans": [
             {
-                "value": "Ensure tightness and The O -ring is made to seal unions"
+                "value": "Ensure tightness and The O-ring is made to seal unions"
             },
             {
                 "value": "The O-ring unions and ensure tightness is made to seal"
             },
             {
-                "value": "The O -ring is made to seal unions and ensure tightness   "
+                "value": "The O-ring is made to seal unions and ensure tightness"
             }
         ],
-        "answer": "answer",
+        "answer": "The O-ring is made to seal unions and ensure tightness",
         "selectedAnswer": null
     },
     {
         "id": 1289,
-        "question": "215. Electrical power/the/provides/on the ground/GPU/ (Level 1)   ",
+        "question": "Electrical power/the/provides/on the ground/GPU/ (Level 1)",
         "plans": [
             {
                 "value": "The GPU provides on the ground electrical power"
             },
             {
-                "value": "The GPU provides electrical power on th e ground"
+                "value": "The GPU provides electrical power on the ground"
             },
             {
-                "value": "Electrical power on the ground The GPU provides  "
+                "value": "Electrical power on the ground The GPU provides"
             }
         ],
-        "answer": "answer",
+        "answer": "The GPU provides electrical power on the ground",
         "selectedAnswer": null
     },
     {
         "id": 1290,
-        "question": "216. Surge vent tank/connecting/acts as means of/ the tanks to the atmosphere/the",
+        "question": "Surge vent tank/connecting/acts as means of/ the tanks to the atmosphere/the(Level 1)",
         "plans": [
             {
                 "value": "The surge vent tank acts as a means of the tanks to the atmosphere.connecting"
@@ -21897,15 +21919,15 @@ export default  [
                 "value": "The surge vent tank acts as a tanks to the atmosphere.means of connecting the"
             },
             {
-                "value": "The surge vent tank acts as a means of connecting the tanks to the atmosphere.    "
+                "value": "The surge vent tank acts as a means of connecting the tanks to the atmosphere."
             }
         ],
-        "answer": "answer",
+        "answer": "The surge vent tank acts as a means of connecting the tanks to the atmosphere.",
         "selectedAnswer": null
     },
     {
         "id": 1291,
-        "question": "217. Electrical power/serve to supply/an emergency/ in/the batteries  (Level 1)  ",
+        "question": "Electrical power/serve to supply/an emergency/ in/the batteries(Level 1)",
         "plans": [
             {
                 "value": "The batteries serve to  supply electrical an emergency power in"
@@ -21914,15 +21936,15 @@ export default  [
                 "value": "The batteries serve to supply electrical power in an emergency"
             },
             {
-                "value": "The batteries electrical power in an emergency serve to supply  "
+                "value": "The batteries electrical power in an emergency serve to supply"
             }
         ],
-        "answer": "answer",
+        "answer": "The batteries serve to supply electrical power in an emergency",
         "selectedAnswer": null
     },
     {
         "id": 1292,
-        "question": "218. Enable/the/throttle/engine control/levers  (Level 1)  ",
+        "question": "Enable/the/throttle/engine control/levers  (Level 1)",
         "plans": [
             {
                 "value": "The throttle levers control enable engine"
@@ -21931,15 +21953,15 @@ export default  [
                 "value": "The enable engine control throttle levers"
             },
             {
-                "value": "The throttle levers enable engine control   "
+                "value": "The throttle levers enable engine control"
             }
         ],
-        "answer": "answer",
+        "answer": "The throttle levers enable engine control",
         "selectedAnswer": null
     },
     {
         "id": 1293,
-        "question": "219. To trap/filter/particles/the/is designed  (Level 1)  ",
+        "question": "To trap/filter/particles/the/is designed  (Level 1)",
         "plans": [
             {
                 "value": "The filter is designed to trap (catch, collect) particles"
@@ -21948,15 +21970,15 @@ export default  [
                 "value": "To trap The filter is designed (catch, collect) parti cles"
             },
             {
-                "value": "The filter is designed particles to trap (catch, collect)  "
+                "value": "The filter is designed particles to trap (catch, collect)"
             }
         ],
-        "answer": "answer",
+        "answer": "The filter is designed to trap (catch, collect) particles",
         "selectedAnswer": null
     },
     {
         "id": 1294,
-        "question": "220. Of/is to coordinate/turns and reduce lift/the purpose/the spoiler/on the wing",
+        "question": "Of/is to coordinate/turns and reduce lift/the purpose/the spoiler/on the wing",
         "plans": [
             {
                 "value": "The spoiler is to purpose of coordinate The turns and reduce lift on the wing"
@@ -21965,15 +21987,15 @@ export default  [
                 "value": "The purpose of the spoiler is to coordinate turns and reduce lift on the wing"
             },
             {
-                "value": "The purpose coordinate turns of the spoiler is to and on the wing reduce lift  "
+                "value": "The purpose coordinate turns of the spoiler is to and on the wing reduce lift"
             }
         ],
-        "answer": "answer",
+        "answer": "The purpose of the spoiler is to coordinate turns and reduce lift on the wing",
         "selectedAnswer": null
     },
     {
         "id": 1295,
-        "question": "221. Check valve/the/a flow/provides/in one direction  (Level 1)  ",
+        "question": "Check valve/the/a flow/provides/in one direction(Level 1)",
         "plans": [
             {
                 "value": "The check one direction valve provides a flow in"
@@ -21982,15 +22004,15 @@ export default  [
                 "value": "The chec k valve provides one direction a flow in"
             },
             {
-                "value": "Check valve/the/a flow/provides/in one direction  (Level 1)  "
+                "value": "The check valve provides a flow in one direction"
             }
         ],
-        "answer": "answer",
+        "answer": "The check valve provides a flow in one direction",
         "selectedAnswer": null
     },
     {
         "id": 1296,
-        "question": "222. Temperature monitoring/enables/temperature sensor/the  (Level 1)  ",
+        "question": "Temperature monitoring/enables/temperature sensor/the(Level 1)",
         "plans": [
             {
                 "value": "The temperature monitoring sensor temperature enables"
@@ -21999,18 +22021,18 @@ export default  [
                 "value": "The temperature monitoring enables temperature sensor"
             },
             {
-                "value": "The temperature sensor enables temperature monitoring   "
+                "value": "The temperature sensor enables temperature monitoring"
             }
         ],
-        "answer": "answer",
+        "answer": "The temperature sensor enables temperature monitoring",
         "selectedAnswer": null
     },
     {
         "id": 1297,
-        "question": "223. On the yaw axis/of is to control/the rudder pedals/ the aircraft /the purpose ",
+        "question": "On the yaw axis/of is to control/the rudder pedals/ the aircraft /the purpose ",
         "plans": [
             {
-                "value": "The purpose of the rudder pedals is to control the aircraft on the yaw axis.   "
+                "value": "The purpose of the rudder pedals is to control the aircraft on the yaw axis."
             },
             {
                 "value": "The purpose on the yaw axis . Of the is to control the aircraft rudder pedals"
@@ -22019,29 +22041,29 @@ export default  [
                 "value": "The purpose on the yaw axis. Of the rudder pedals is to control the aircraft  "
             }
         ],
-        "answer": "answer",
+        "answer": "The purpose of the rudder pedals is to control the aircraft on the yaw axis.",
         "selectedAnswer": null
     },
     {
         "id": 1298,
-        "question": "224. To the aircraft/provides/APU/electric power/the  (Level 1)  ",
+        "question": "To the aircraft/provides/APU/electric power/the(Level 1)",
         "plans": [
             {
-                "value": "APU/electric power/the  (Level 1)  "
+                "value": "The APU provides the aircraft to electric power"
             },
             {
                 "value": "The power to the air craft APU provides electric"
             },
             {
-                "value": "The APU provides electric power to the aircraft   "
+                "value": "The APU provides electric power to the aircraft"
             }
         ],
-        "answer": "answer",
+        "answer": "The APU provides electric power to the aircraft",
         "selectedAnswer": null
     },
     {
         "id": 1299,
-        "question": "225. Drain water/of/the/drain valves/is to/of/the purpose (Level 1)   ",
+        "question": "Drain water/of/the/drain valves/is to/of/the purpose (Level 1)",
         "plans": [
             {
                 "value": "The purpose of the drain water drain valves is to"
@@ -22050,117 +22072,117 @@ export default  [
                 "value": "The purpose of the drain valves is to drain water"
             },
             {
-                "value": "The purpose of the drain water to is drain valves  "
+                "value": "The purpose of the drain water to is drain valves"
             }
         ],
-        "answer": "answer",
+        "answer": "The purpose of the drain valves is to drain water",
         "selectedAnswer": null
     },
     {
         "id": 1300,
-        "question": "226. A safety valve/the/spill valve/ fuel pump/in the/acts as/  (Level 1)  ",
+        "question": "A safety valve/the/spill valve/ fuel pump/in the/acts as/  (Level 1)",
         "plans": [
             {
-                "value": "A safety valve/the/spill valve/ fuel pump/in the/acts as/  (Level 1)  "
+                "value": "The as a safety valvespill valve in the fuel pump acts "
             },
             {
                 "value": "The spill valve in the fuel pump acts as a safety valve"
             },
             {
-                "value": "The spill valve in as a safety valve the fuel pump acts  "
+                "value": "The spill valve in as a safety valve the fuel pump acts"
             }
         ],
-        "answer": "answer",
+        "answer": "The spill valve in the fuel pump acts as a safety valve",
         "selectedAnswer": null
     },
     {
         "id": 1301,
-        "question": "227. Lubrication/the/oil system/for/provides/the bearings  (Level 1)  ",
+        "question": "Lubrication/the/oil system/for/provides/the bearings(Level 1)",
         "plans": [
             {
                 "value": "The bearings. For the oil system provides lubrication"
             },
             {
-                "value": "The oil system provides lubrication for the bearings.  "
+                "value": "The oil system provides lubrication for the bearings."
             },
             {
-                "value": "The oil system for the bearings. Provides lubrication    "
+                "value": "The oil system for the bearings. Provides lubrication"
             }
         ],
-        "answer": "answer",
+        "answer": "The oil system provides lubrication for the bearings.",
         "selectedAnswer": null
     },
     {
         "id": 1302,
-        "question": "228. Before/to/make sure that/all/isolated/the circuits/supply/you/the aircraft/electrical ",
+        "question": "Before/to/make sure that/all/isolated/the circuits/supply/you/the aircraft/electrical power (Level 1)",
         "plans": [
             {
-                "value": "Make sure that all the circuits are isolated before you electrical power to supply "
+                "value": "Make sure that all the circuits are isolated before you electrical power to supply the aircraft "
             },
             {
-                "value": "Before/to/make sure that/all/isolated/the circuits/supply/you/the aircraft/electrical "
+                "value": "Make sure that all the circuits are isolated before you supply electrical power to the aircraft"
             },
             {
-                "value": "Make sure that all before you supply electrical power to the aircraft the circuits are "
+                "value": "Make sure that all before you supply electrical power to the aircraft the circuits are isolated"
             }
         ],
-        "answer": "answer",
+        "answer": "Make sure that all the circuits are isolated before you supply electrical power to the aircraft",
         "selectedAnswer": null
     },
     {
         "id": 1303,
-        "question": "229. The HP ground connector/ to tell/to pressurize/a warning notice / put / the / ",
+        "question": "The HP ground connector/ to tell/to pressurize/a warning notice / put / the / system / pneumatic / the persons (Level 1)",
         "plans": [
             {
-                "value": "Put a warning notice on the HP the pneumatic system. Ground connector to tell to "
+                "value": "Put a warning notice on the HP the pneumatic system. Ground connector to tell to pressurize persons not"
             },
             {
-                "value": "Put a warning notice on the HP ground connector to tell persons not to pressurize "
+                "value": "Put a warning notice on the HP ground connector to tell persons not to pressurize the pneumatic system."
             },
             {
-                "value": "Put a warning notice on the HP ground connecto r to tell the pneumatic "
+                "value": "Put a warning notice on the HP ground connecto r to tell the pneumatic system.persons not to pressurize"
             }
         ],
-        "answer": "answer",
+        "answer": "Put a warning notice on the HP ground connector to tell persons not to pressurize the pneumatic system.",
         "selectedAnswer": null
     },
     {
         "id": 1304,
-        "question": "230. The return line/the case drain hose/from/of/disconnect  (Level 1)      ",
+        "question": "The return line/the case drain hose/from/of/disconnect  (Level 1)",
         "plans": [
             {
                 "value": "Disconnect drain hose the return line of the hydraulic power from the case"
             },
             {
-                "value": "Disconnect of the hydraulic power the return line from th e case drain hose.   "
+                "value": "Disconnect of the hydraulic power the return line from th e case drain hose."
             },
             {
-                "value": "Disconnect the return line of the hydraulic power from the case drain hose.    "
+                "value": "Disconnect the return line of the hydraulic power from the case drain hose."
             }
         ],
-        "answer": "answer",
+        "answer": "Disconnect the return line of the hydraulic power from the case drain hose.",
         "selectedAnswer": null
     },
     {
         "id": 1305,
-        "question": "231. The sense line/the anti ice valve/between/the air cycle machine / remove / start / ",
+        "question": "The sense line/the anti ice valve/between/the air cycle machine / remove / start / before / these procedures/ and/ you (Level 1)",
         "plans": [
             {
-                "value": "Remove the sense -line betwee n the air -cycle machine the anti ice and valve "
+                "value": "Remove the sense -line betwee n the air -cycle machine the anti ice and valve before you start these procedures. "
             },
             {
-                "value": "Remove the sense -line between the air -cycle machine the anti ice valve before "
+                "value": "Remove the sense -line between the air -cycle machine the anti ice valve before and you start these procedures."
             },
             {
-                "value": "Remove the sense -line between the air -cycle machine and the an ti ice valve "
+                "value": "Remove the sense-line between the air-cycle machine and the anti ice valve before you start these procedures."
             }
         ],
-        "answer": "answer",
+        "answer": "Remove the sense-line between the air-cycle machine and the anti ice valve before you start these procedures.",
         "selectedAnswer": null
     },
     {
         "id": 1306,
-        "question": "232. Spacer/thickness/2mm//the/of/the/is  (Level 1)  ",
+        "question": "Spacer/thickness/2mm//the/of/the/is  (Level 1)",
         "plans": [
             {
                 "value": "The thickness of the spacer is 2 mm"
@@ -22169,15 +22191,15 @@ export default  [
                 "value": "The spacer is 2 mm thickness of the"
             },
             {
-                "value": "The thickness of spacer is 2 mm the   "
+                "value": "The thickness of spacer is 2 mm the"
             }
         ],
-        "answer": "answer",
+        "answer": "The thickness of the spacer is 2 mm",
         "selectedAnswer": null
     },
     {
         "id": 1307,
-        "question": "233. Tank/the/inner/is/capacity/the/of/6900 litres  (Level 1)  ",
+        "question": "Tank/the/inner/is/capacity/the/of/6900 litres  (Level 1)",
         "plans": [
             {
                 "value": "The capacity 6,900 litres of the inner tank is"
@@ -22186,15 +22208,15 @@ export default  [
                 "value": "The capacity of the inner tank is 6,900 litres"
             },
             {
-                "value": "The capacity tank is 6,900 litres of the inner    "
+                "value": "The capacity tank is 6,900 litres of the inner"
             }
         ],
-        "answer": "answer",
+        "answer": "The capacity of the inner tank is 6,900 litres",
         "selectedAnswer": null
     },
     {
         "id": 1308,
-        "question": "234. Drain water/the/drain valves/drain  (Level 1)  ",
+        "question": "Drain water/the/drain valves/drain  (Level 1)",
         "plans": [
             {
                 "value": "The drain valves drain water"
@@ -22206,46 +22228,46 @@ export default  [
                 "value": "Drain The valves drain water  "
             }
         ],
-        "answer": "answer",
+        "answer": "The drain valves drain water",
         "selectedAnswer": null
     },
     {
         "id": 1309,
-        "question": "235. Brakes/pilot/ applies/ the/the  (Level 1)  ",
+        "question": "Brakes/pilot/ applies/ the/the  (Level 1)",
         "plans": [
             {
                 "value": "The pilot applies the brakes"
             },
             {
-                "value": "Brakes/pilot/ applies/ the/the  (Level 1)  "
+                "value": "The pilot the brakes applies"
             },
             {
-                "value": "The brakes The pilot applies  "
+                "value": "The brakes The pilot applies"
             }
         ],
-        "answer": "answer",
+        "answer": "The pilot applies the brakes",
         "selectedAnswer": null
     },
     {
         "id": 1310,
-        "question": "236. AMM/Apply/procedure/the (Level 1)   ",
+        "question": "AMM/Apply/procedure/the (Level 1)",
         "plans": [
             {
-                "value": "AMM/Apply/procedure/the (Level 1)   "
+                "value": "Apply the AMM procedure"
             },
             {
                 "value": "Apply procedure the AMM"
             },
             {
-                "value": "The AMM Apply procedure  "
+                "value": "The AMM Apply procedure"
             }
         ],
-        "answer": "answer",
+        "answer": "Apply the AMM procedure",
         "selectedAnswer": null
     },
     {
         "id": 1311,
-        "question": "237. Is/every/sealant/500 hours/applied  (Level 1)  ",
+        "question": "Is/every/sealant/500 hours/applied  (Level 1)",
         "plans": [
             {
                 "value": "Sealant every 500 hours is applied"
@@ -22254,32 +22276,32 @@ export default  [
                 "value": "Sealant is applied every 500 hours"
             },
             {
-                "value": "Every 500 hours Sealant applied is  "
+                "value": "Every 500 hours Sealant applied is"
             }
         ],
-        "answer": "answer",
+        "answer": "Sealant is applied every 500 hours",
         "selectedAnswer": null
     },
     {
         "id": 1312,
-        "question": "238. Audio/cancel push -button/the/the/aural warning/stops (Level 1)   ",
+        "question": "Audio/cancel push -button/the/the/aural warning/stops (Level 1)",
         "plans": [
             {
-                "value": "Audio/cancel push -button/the/the/aural warning/stops (Level 1)   "
+                "value": "The audio cancel aural warning push-button stops the "
             },
             {
                 "value": "Push -button The audio cancel stops the aural warning"
             },
             {
-                "value": "The audio cancel push -button stops the aural warning  "
+                "value": "The audio cancel push-button stops the aural warning"
             }
         ],
-        "answer": "answer",
+        "answer": "The audio cancel push-button stops the aural warning",
         "selectedAnswer": null
     },
     {
         "id": 1313,
-        "question": "239. Operational test/carries out/mechanic/the /the  (Level 1)      ",
+        "question": "Operational test/carries out/mechanic/the /the  (Level 1)",
         "plans": [
             {
                 "value": "The mechanic carries out the operational test"
@@ -22291,46 +22313,46 @@ export default  [
                 "value": "Carrie s out the operational test The mechanic"
             }
         ],
-        "answer": "answer",
+        "answer": "The mechanic carries out the operational test",
         "selectedAnswer": null
     },
     {
         "id": 1314,
-        "question": "240. The flight instruments/is connected/ADC/to/the (Level 1)   ",
+        "question": "The flight instruments/is connected/ADC/to/the (Level 1)",
         "plans": [
             {
-                "value": "ADC/to/the (Level 1)   "
+                "value": "The ADC instruments is connected to the flight "
             },
             {
                 "value": "The connected to ADC is the flight instruments"
             },
             {
-                "value": "C/to/the (Level 1)   "
+                "value": "The ADC is connected to the flight instruments"
             }
         ],
-        "answer": "answer",
+        "answer": "The ADC is connected to the flight instruments",
         "selectedAnswer": null
     },
     {
         "id": 1315,
-        "question": "241. When/wing anti -ice system/the/is/the/A/C is on  the ground/deactivated  (Level ",
+        "question": "When/wing anti -ice system/the/is/the/A/C is on  the ground/deactivated  (Level 1)",
         "plans": [
             {
-                "value": "A/C is on  the ground/deactivated  (Level "
+                "value": "The wing anti-ice system is deactivated the a/c when is on the ground"
             },
             {
                 "value": "When the a/c The wing anti -ice system is deactivated is on the ground"
             },
             {
-                "value": "C is on  the ground/deactivated  (Level "
+                "value": "The wing anti-ice system is deactivated when the a/c is on the ground"
             }
         ],
-        "answer": "answer",
+        "answer": "The wing anti-ice system is deactivated when the a/c is on the ground",
         "selectedAnswer": null
     },
     {
         "id": 1316,
-        "question": "243. Outlet/ tightened/ the/ valve/the plumber (Level 1)   ",
+        "question": "Outlet/ tightened/ the/ valve/the plumber (Level 1)",
         "plans": [
             {
                 "value": "Outlet valve the plumber tightened the"
@@ -22339,15 +22361,15 @@ export default  [
                 "value": "The plumber the outlet valve tightened"
             },
             {
-                "value": "The plumber tightened the outlet valve   "
+                "value": "The plumber tightened the outlet valve"
             }
         ],
-        "answer": "answer",
+        "answer": "The plumber tightened the outlet valve",
         "selectedAnswer": null
     },
     {
         "id": 1317,
-        "question": "244. Flying /an altitude /we /are /at /currently / of /15,000 metters  (Level 1)  ",
+        "question": "Flying /an altitude /we /are /at /currently / of /15,000 metters  (Level 1)",
         "plans": [
             {
                 "value": "We are an altitude of currently flying at 15,000 metters"
@@ -22356,15 +22378,15 @@ export default  [
                 "value": "We are an altitude of 15,000 metters currently flying at"
             },
             {
-                "value": "We are currently flying at an altitude of 15,000 metters  "
+                "value": "We are currently flying at an altitude of 15,000 metters"
             }
         ],
-        "answer": "answer",
+        "answer": "We are currently flying at an altitude of 15,000 metters",
         "selectedAnswer": null
     },
     {
         "id": 1318,
-        "question": "245. Its final/ / to heathrow /approach /is now/ making /the plane  (Level 1)  ",
+        "question": "Its final/ / to heathrow /approach /is now/ making /the plane(Level 1)",
         "plans": [
             {
                 "value": "The plane is now making its final approach to Heathrow"
@@ -22373,32 +22395,32 @@ export default  [
                 "value": "The plane is approach to Heathrow now making its final"
             },
             {
-                "value": "The plane is approach to Heathrow now making its final   "
+                "value": "The plane is approach to Heathrow now making its final"
             }
         ],
-        "answer": "answer",
+        "answer": "The plane is now making its final approach to Heathrow",
         "selectedAnswer": null
     },
     {
         "id": 1319,
-        "question": "246. A pitch motion/ is /an up or down /movement /of /the nose /of /the aircraft  (Level ",
+        "question": "A pitch motion/ is /an up or down /movement /of /the nose /of /the aircraft  (Level 1)",
         "plans": [
             {
-                "value": "A pitch motion/ is /an up or down /movement /of /the nose /of /the aircraft  (Level "
+                "value": "A pitch down movement motion is an up or of the nose of the aircraft"
             },
             {
                 "value": "A pitch motion is an up or down movement of the nose of the aircraft"
             },
             {
-                "value": "A pitch movement of the nose of the aircraft motion is an up or down  "
+                "value": "A pitch movement of the nose of the aircraft motion is an up or down"
             }
         ],
-        "answer": "answer",
+        "answer": "A pitch motion is an up or down movement of the nose of the aircraft",
         "selectedAnswer": null
     },
     {
         "id": 1320,
-        "question": "247. The airport/ its final descent/ the plane/ is m aking /into  (Level 1)  ",
+        "question": "The airport/ its final descent/ the plane/ is m aking /into  (Level 1)",
         "plans": [
             {
                 "value": "The plane is making its final descent into the airport"
@@ -22407,15 +22429,15 @@ export default  [
                 "value": "The plane final descent is making its into the airport"
             },
             {
-                "value": "Final descent the plane is making its into the airport  "
+                "value": "Final descent the plane is making its into the airport"
             }
         ],
-        "answer": "answer",
+        "answer": "The plane is making its final descent into the airport",
         "selectedAnswer": null
     },
     {
         "id": 1321,
-        "question": "248. Trim/ is/ on/ center/ the/ rudder/ the/ pedestal/ panel  (Level 1)  ",
+        "question": "Trim/ is/ on/ center/ the/ rudder/ the/ pedestal/ panel  (Level 1)",
         "plans": [
             {
                 "value": "The center pedestal  rudder trim panel is on the"
@@ -22424,15 +22446,15 @@ export default  [
                 "value": "The rudder trim the center panel is on pedestal"
             },
             {
-                "value": "The rudder trim panel is on the center pedestal   "
+                "value": "The rudder trim panel is on the center pedestal"
             }
         ],
-        "answer": "answer",
+        "answer": "The rudder trim panel is on the center pedestal",
         "selectedAnswer": null
     },
     {
         "id": 1322,
-        "question": "249. System/ flight/ computer/ management/ and/ guidance (Level 1)   ",
+        "question": "System/ flight/ computer/ management/ and/ guidance (Level 1)",
         "plans": [
             {
                 "value": "Flight management and computer system guidance"
@@ -22441,32 +22463,32 @@ export default  [
                 "value": "Flight computer system management and guidance"
             },
             {
-                "value": "Flight management and guidance computer system   "
+                "value": "Flight management and guidance computer system"
             }
         ],
-        "answer": "answer",
+        "answer": "Flight management and guidance computer system",
         "selectedAnswer": null
     },
     {
         "id": 1323,
-        "question": "250. Valve/ disconnect/ the electrical/ the bypass / connector/ from (Level 1)  ",
+        "question": "Valve/ disconnect/ the electrical/ the bypass / connector/ from (Level 1)",
         "plans": [
             {
-                "value": "Disconnect the electrical connector from the bypass  valve"
+                "value": "Disconnect the electrical connector from the bypass valve"
             },
             {
                 "value": "Disconnect bypass valve the electrical connector from the"
             },
             {
-                "value": "Disconnect the from the bypass valve electrical connector  "
+                "value": "Disconnect the from the bypass valve electrical connector"
             }
         ],
-        "answer": "answer",
+        "answer": "Disconnect the electrical connector from the bypass valve",
         "selectedAnswer": null
     },
     {
         "id": 1324,
-        "question": "251. On /the /connectors /disconnected /put /blanking caps /electrical (Level 1)  ",
+        "question": "On /the /connectors /disconnected /put /blanking caps /electrical (Level 1)",
         "plans": [
             {
                 "value": "Put blanking caps on the disconnected electrical connectors"
@@ -22478,12 +22500,12 @@ export default  [
                 "value": "Disconnected electrical connectors put blanking caps the on  "
             }
         ],
-        "answer": "answer",
+        "answer": "Put blanking caps on the disconnected electrical connectors",
         "selectedAnswer": null
     },
     {
         "id": 1325,
-        "question": "252. The bypass/ check valve/ shall/ be/ inspected/ per/ daily check  (Level 1)  ",
+        "question": "The bypass/ check valve/ shall/ be/ inspected/ per/ daily check(Level 1)",
         "plans": [
             {
                 "value": "The bypass check valve shall be inspected per daily check"
@@ -22492,15 +22514,15 @@ export default  [
                 "value": "The bypass check valve shall be daily check inspected per"
             },
             {
-                "value": "The bypass shall be inspected check valve per daily check   "
+                "value": "The bypass shall be inspected check valve per daily check"
             }
         ],
-        "answer": "answer",
+        "answer": "The bypass check valve shall be inspected per daily check",
         "selectedAnswer": null
     },
     {
         "id": 1326,
-        "question": "253. The FWD / bypass check valve/ is / extract /fan/ blocked  (Level 1)  ",
+        "question": "The FWD / bypass check valve/ is / extract /fan/ blocked  (Level 1)",
         "plans": [
             {
                 "value": "The FWD extract fan bypass check valve is blocked"
@@ -22509,270 +22531,270 @@ export default  [
                 "value": "The FWD extract fan byp ass valve is blocked check"
             },
             {
-                "value": "Bypass check valve is the FWD extract fan blocked  "
+                "value": "Bypass check valve is the FWD extract fan blocked"
             }
         ],
-        "answer": "answer",
+        "answer": "The FWD extract fan bypass check valve is blocked",
         "selectedAnswer": null
     },
     {
         "id": 1327,
-        "question": "254. Examine/the/shock/of/gland/the/seals/absorber/of/oil/for/leak/ signs (Level 1)  ",
+        "question": "Examine/the/shock/of/gland/the/seals/absorber/of/oil/for/leak/ signs (Level 1)  ",
         "plans": [
             {
                 "value": "Examine signs of oil leaks. The gland seals of the shock absorber for"
             },
             {
-                "value": "Examine the the shock absorber gland seals of for signs of oil leaks.  "
+                "value": "Examine the the shock absorber gland seals of for signs of oil leaks."
             },
             {
-                "value": "Examine the gland seals of the shock absorber for signs of oil leaks.  "
+                "value": "Examine the gland seals of the shock absorber for signs of oil leaks."
             }
         ],
-        "answer": "answer",
+        "answer": "Examine the gland seals of the shock absorber for signs of oil leaks.",
         "selectedAnswer": null
     },
     {
         "id": 1328,
-        "question": "255. Sure/that/you/make/put/warning/a/notice/in/the/cockpit/person/not/ to tell/to/ ",
+        "question": "Sure/that/you/make/put/warning/a/notice/in/the/cockpit/person/not/ to tell/to/ operate/gear/landing/the (Level 2)",
         "plans": [
             {
-                "value": "Make sure that operate the Landing Gear.you put a warning notice persons not to "
+                "value": "Make sure that operate the Landing Gear.you put a warning notice persons not to in the cockpit to tell "
             },
             {
-                "value": "To tell persons not to operate Make sure that you put a warning notice in the "
+                "value": "To tell persons not to operate Make sure that you put a warning notice in the cockpit the Landing Gear."
             },
             {
-                "value": "Make sure that you put a warning notice in the cockpit to tell persons not to "
+                "value": "Make sure that you put a warning notice in the cockpit to tell persons not to operate the Landing Gear."
             }
         ],
-        "answer": "answer",
+        "answer": "Make sure that you put a warning notice in the cockpit to tell persons not to operate the Landing Gear.",
         "selectedAnswer": null
     },
     {
         "id": 1329,
-        "question": "256. Through the reservoir filling system/ The mechanic/ to replenish the system/ fills/ ",
+        "question": "Through the reservoir filling system/ The mechanic/ to replenish the system/ fills/ the reservoir. (Level 1)",
         "plans": [
             {
-                "value": "The mechanic fills the reservoir through the reservoir filling system to replenish "
+                "value": "The mechanic fills the reservoir through the reservoir filling system to replenish the system"
             },
             {
-                "value": "Fills the reservoir  through the reservoir filling system to replenish the system The "
+                "value": "Fills the reservoir  through the reservoir filling system to replenish the system The mechanic"
             },
             {
-                "value": "Reservoir filling system The mechanic fills the reservoir through the to replenish "
+                "value": "Reservoir filling system The mechanic fills the reservoir through the to replenish the system"
             }
         ],
-        "answer": "answer",
+        "answer": "The mechanic fills the reservoir through the reservoir filling system to replenish the system",
         "selectedAnswer": null
     },
     {
         "id": 1330,
-        "question": "257. Stores/ the selected track number/ A battery -buffer memory/ for later use. (Level ",
+        "question": "Stores/ the selected track number/ A battery -buffer memory/ for later use. (Level 1)",
         "plans": [
             {
-                "value": "A battery -buffer memory/ for later use. (Level "
+                "value": "A battery-buffer memory stores the selected track number for later use."
             },
             {
-                "value": "The selected A track number battery -buffer memory stores for later use.   "
+                "value": "The selected A track number battery -buffer memory stores for later use."
             },
             {
-                "value": "A stores the selected track number for later use  battery -buffer memory  "
+                "value": "A stores the selected track number for later use  battery -buffer memory"
             }
         ],
-        "answer": "answer",
+        "answer": "A battery-buffer memory stores the selected track number for later use.",
         "selectedAnswer": null
     },
     {
         "id": 1331,
-        "question": "258. The fuel supply/ controls/ to the other wing/ A cross -feed valve. (Level 1)  ",
+        "question": "The fuel supply/ controls/ to the other wing/ A cross -feed valve. (Level 1)",
         "plans": [
             {
-                "value": "A cross -feed valve. (Level 1)  "
+                "value": "The fuel supply a cross-feed valve controls to the other wing"
             },
             {
-                "value": "A cross -feed the fuel supply to the other wing valve controls"
+                "value": "A cross-feed the fuel supply to the other wing valve controls"
             },
             {
-                "value": "A cross -feed valve controls the fuel supply to the othe r wing   "
+                "value": "A cross-feed valve controls the fuel supply to the other wing"
             }
         ],
-        "answer": "answer",
+        "answer": "A cross-feed valve controls the fuel supply to the other wing",
         "selectedAnswer": null
     },
     {
         "id": 1332,
-        "question": "259. To control the aircraft/ the main information/ presents/ The screen (Level 1)  ",
+        "question": "To control the aircraft/ the main information/ presents/ The screen (Level 1)",
         "plans": [
             {
-                "value": "The screen presents the main information to control the aircraft.   "
+                "value": "The screen presents the main information to control the aircraft."
             },
             {
-                "value": "Presents The screen the main information to control the aircraft.  "
+                "value": "Presents The screen the main information to control the aircraft."
             },
             {
-                "value": "The aircraft. The screen presents the main information to control  "
+                "value": "The aircraft. The screen presents the main information to control"
             }
         ],
-        "answer": "answer",
+        "answer": "The screen presents the main information to control the aircraft.",
         "selectedAnswer": null
     },
     {
         "id": 1333,
-        "question": "260. To open the valve/ necessary/ a minimum/ upstream pressure of 8 psig/ is (Level ",
+        "question": "To open the valve/ necessary/ a minimum/ upstream pressure of 8 psig/ is (Level 1)",
         "plans": [
             {
-                "value": "A minimum upstream pressure of 8 psig is necessary to open the valve.   "
+                "value": "A minimum upstream pressure of 8 psig is necessary to open the valve."
             },
             {
                 "value": "A minimum open the valve. Upstream pressure of 8 psig is necessary to"
             },
             {
-                "value": "A minimum to open upstream pressure is necessary the valve. Of 8 psig  "
+                "value": "A minimum to open upstream pressure is necessary the valve. Of 8 psig"
             }
         ],
-        "answer": "answer",
+        "answer": "A minimum upstream pressure of 8 psig is necessary to open the valve.",
         "selectedAnswer": null
     },
     {
         "id": 1334,
-        "question": "261. Entering/ the system/ to prevent/ oil/ Seals/ are installed (Level 1)  ",
+        "question": "Entering/ the system/ to prevent/ oil/ Seals/ are installed (Level 1)",
         "plans": [
             {
                 "value": "Seals entering the system. Are installed to prevent oil"
             },
             {
-                "value": "Seals are installed to prevent oil entering the system.   "
+                "value": "Seals are installed to prevent oil entering the system."
             },
             {
                 "value": "Seals prevent oil are installed to entering the system.  "
             }
         ],
-        "answer": "answer",
+        "answer": "Seals are installed to prevent oil entering the system.",
         "selectedAnswer": null
     },
     {
         "id": 1335,
-        "question": "262. A signal/ the sensor/ To turn on the red warning/ provides (Level 1)  ",
+        "question": "A signal/ the sensor/ To turn on the red warning/ provides (Level 1)",
         "plans": [
             {
                 "value": "A signal/ the sensor/ To turn on the red warning/ provides (Level 1)  "
             },
             {
-                "value": "The sensor provides a signal to turn on  the red warning.   "
+                "value": "The sensor provides a signal to turn on the red warning."
             },
             {
-                "value": "The signal to turn on the red warning. Sensor provides a  "
+                "value": "The signal to turn on the red warning. Sensor provides a"
             }
         ],
-        "answer": "answer",
+        "answer": "The sensor provides a signal to turn on the red warning.",
         "selectedAnswer": null
     },
     {
         "id": 1336,
-        "question": "263. The/ of/ an/ a/ with/ ceramic core/ continuous loop/ sensing element/ consists/ ",
+        "question": "The/ of/ an/ a/ with/ ceramic core/ continuous loop/ sensing element/ consists/ Inconel tube/ filled (Level 1)",
         "plans": [
             {
-                "value": "The continuous tube filled with a ceramic core. Loop sensing element consists of "
+                "value": "The continuous tube filled with a ceramic core. Loop sensing element consists of an Inconel"
             },
             {
-                "value": "The continuous loop sensing element consists of an Inconel tube filled with a "
+                "value": "The continuous loop sensing element consists of an Inconel tube filled with a ceramic core."
             },
             {
-                "value": "The consists of an Inconel tube filled with a ceramic core continuous loop sensing "
+                "value": "The consists of an Inconel tube filled with a ceramic core continuous loop sensing element"
             }
         ],
-        "answer": "answer",
+        "answer": "The continuous loop sensing element consists of an Inconel tube filled with a ceramic core.",
         "selectedAnswer": null
     },
     {
         "id": 1337,
-        "question": "264.  Supply/ the/ aileron/ valve/ shutoff/ is/ of/ a/ component/ the aileron/     modular ",
+        "question": "Supply/ the/ aileron/ valve/ shutoff/ is/ of/ a/ component/ the aileron/ modular unit/ system. (Level 1)",
         "plans": [
             {
-                "value": "The aileron aileron system modular unit. Supply shutoff valve is a component of "
+                "value": "The aileron aileron system modular unit. Supply shutoff valve is a component of the"
             },
             {
-                "value": "The aileron supply shutoff valve is a co mponent of the aileron system modular "
+                "value": "The aileron supply shutoff valve is a component of the aileron system modular unit"
             },
             {
-                "value": "The aileron supply the aileron system modular unit shutoff valve is a component "
+                "value": "The aileron supply the aileron system modular unit shutoff valve is a component of"
             }
         ],
-        "answer": "answer",
+        "answer": "The aileron supply shutoff valve is a component of the aileron system modular unit",
         "selectedAnswer": null
     },
     {
         "id": 1338,
-        "question": "265. Remove/which/the/connects/clamp/condenser/the/pack/to/the/ air/ outlet -bellows. ",
+        "question": "Remove/which/the/connects/clamp/condenser/the/pack/to/the/ air/ outlet -bellows.",
         "plans": [
             {
-                "value": "Remove the clamp which the pack air outlet -bellows connects the condenser to.  "
+                "value": "Remove the clamp which the pack air outlet -bellows connects the condenser to."
             },
             {
-                "value": "Remove the clamp which connects the condenser to the pack air outlet -bellows.   "
+                "value": "Remove the clamp which connects the condenser to the pack air outlet-bellows."
             },
             {
-                "value": "Remove the clamp which connects the the pack air outlet -bellows condenser to.  "
+                "value": "Remove the clamp which connects the the pack air outlet -bellows condenser to."
             }
         ],
-        "answer": "answer",
+        "answer": "Remove the clamp which connects the condenser to the pack air outlet-bellows.",
         "selectedAnswer": null
     },
     {
         "id": 1339,
-        "question": "266. The/connector/from/ valve/electrical/the/disconnect/bypass (Level 1)  ",
+        "question": "The/connector/from/ valve/electrical/the/disconnect/bypass (Level 1)",
         "plans": [
             {
                 "value": "Disconnect the bypass valve. The electrical connector from"
             },
             {
-                "value": "Disconnect the electrical connector from the bypass valve.   "
+                "value": "Disconnect the electrical connector from the bypass valve."
             },
             {
-                "value": "Disconnect from the bypass valve. The electrical connector  "
+                "value": "Disconnect from the bypass valve. The electrical connector"
             }
         ],
-        "answer": "answer",
+        "answer": "Disconnect the electrical connector from the bypass valve.",
         "selectedAnswer": null
     },
     {
         "id": 1340,
-        "question": "267. Put/on/blanking/ the/caps/el ectrical/disconnected/connectors (Level 1)  ",
+        "question": "Put/on/blanking/ the/caps/el ectrical/disconnected/connectors (Level 1)",
         "plans": [
             {
                 "value": "On the connectors disconnected electrical. Put blanking caps"
             },
             {
-                "value": "Put blanking caps on the disconnected electrical connectors.   "
+                "value": "Put blanking caps on the disconnected electrical connectors."
             },
             {
-                "value": "Put disconnected blanking caps on the connectors. Electrical  "
+                "value": "Put disconnected blanking caps on the connectors. Electrical"
             }
         ],
-        "answer": "answer",
+        "answer": "Put blanking caps on the disconnected electrical connectors.",
         "selectedAnswer": null
     },
     {
         "id": 1341,
-        "question": "268. To / cables/fairleads and pulleys / aft / gain access / to / in / of / fuselage / section ",
+        "question": "To / cables/fairleads and pulleys / aft / gain access / to / in / of / fuselage / section / door 812 and 152AZ / open (Level 1)",
         "plans": [
             {
-                "value": "AZ / open (Level 1)  "
+                "value": "Open door 812 and 152AZ in aft section of fuselage to gain access fairleads and pulleys to cables"
             },
             {
-                "value": "Open door 812 and 152AZ fairl eads and pulleys to gain access to cables in aft "
+                "value": "Open door 812 and 152AZ fairleads and pulleys to gain access to cables in aft section of fuselage"
             },
             {
-                "value": "Open door 812 and 152AZ to gain access to cables  fairleads and pulleys in aft "
+                "value": "Open door 812 and 152AZ to gain access to cables fairleads and pulleys in aft section of fuselage"
             }
         ],
-        "answer": "answer",
+        "answer": "Open door 812 and 152AZ to gain access to cables fairleads and pulleys in aft section of fuselage",
         "selectedAnswer": null
     },
     {
         "id": 1342,
-        "question": "269. Clips / turnbuckles / from / and / remove / discard / safety  (Level 1)  ",
+        "question": "Clips / turnbuckles / from / and / remove / discard / safety  (Level 1)",
         "plans": [
             {
                 "value": "Remove turnbuckles safety clips from and discard"
@@ -22781,15 +22803,15 @@ export default  [
                 "value": "Safety clips from Remove turnbuckles and discard"
             },
             {
-                "value": "Clips / turnbuckles / from / and / remove / discard / safety  (Level 1)  "
+                "value": "Remove safety clips from turnbuckles and discard"
             }
         ],
-        "answer": "answer",
+        "answer": "Remove safety clips from turnbuckles and discard",
         "selectedAnswer": null
     },
     {
         "id": 1343,
-        "question": "270. Cable / pulley / remove / mounts / from /  guards  (Level 1)   ",
+        "question": "Cable / pulley / remove / mounts / from /  guards  (Level 1)",
         "plans": [
             {
                 "value": "Remove cable guards from pulley mounts"
@@ -22798,15 +22820,15 @@ export default  [
                 "value": "Remove mounts cable guards from pulley"
             },
             {
-                "value": "Cable / pulley / remove / mounts / from /  guards  (Level 1)   "
+                "value": "Remove pulley mounts cable guards from"
             }
         ],
-        "answer": "answer",
+        "answer": "Remove cable guards from pulley mounts",
         "selectedAnswer": null
     },
     {
         "id": 1344,
-        "question": "271. Safety / tighten / and / pins / cotter / with / nuts (Level 1)    ",
+        "question": "Safety / tighten / and / pins / cotter / with / nuts (Level 1)",
         "plans": [
             {
                 "value": "Tighten nuts and safety with cotter pins"
@@ -22818,12 +22840,12 @@ export default  [
                 "value": "Cotter pins Tighten nuts and saf ety with  "
             }
         ],
-        "answer": "answer",
+        "answer": "Tighten nuts and safety with cotter pins",
         "selectedAnswer": null
     },
     {
         "id": 1345,
-        "question": "272. P/N11001/ pin / in / tension / rigging / cable / insert / lever  (Level 1)  ",
+        "question": "P/N11001/ pin / in / tension / rigging / cable / insert / lever  (Level 1)",
         "plans": [
             {
                 "value": "Tension lever  Insert rigging pin P/N11001 in cable"
@@ -22832,15 +22854,15 @@ export default  [
                 "value": "P/N11001 in cable tension lever Insert rigging pin"
             },
             {
-                "value": "Insert rigging pin P/N11001 in cable tension lever   "
+                "value": "Insert rigging pin P/N11001 in cable tension lever"
             }
         ],
-        "answer": "answer",
+        "answer": "Insert rigging pin P/N11001 in cable tension lever",
         "selectedAnswer": null
     },
     {
         "id": 1346,
-        "question": "273. Flap / trailing / edge / inboard  (Level 1)  ",
+        "question": "Flap / trailing / edge / inboard  (Level 1)",
         "plans": [
             {
                 "value": "Inboard flaptrailing edge"
@@ -22852,12 +22874,12 @@ export default  [
                 "value": "Inboard trailing edge flap   "
             }
         ],
-        "answer": "answer",
+        "answer": "Inboard trailing edge flap",
         "selectedAnswer": null
     },
     {
         "id": 1347,
-        "question": "274. The associate / remove / brake equalizer / rods / the truck/ from (Level 1)   ",
+        "question": "The associate / remove / brake equalizer / rods / the truck/ from (Level 1)",
         "plans": [
             {
                 "value": "Remove the truck the associate brake equalizer rods from"
@@ -22866,15 +22888,15 @@ export default  [
                 "value": "Brake equali zer rods remove the associate from the truck"
             },
             {
-                "value": "Remove the associate brake equalizer rods from the  truck   "
+                "value": "Remove the associate brake equalizer rods from the truck"
             }
         ],
-        "answer": "answer",
+        "answer": "Remove the associate brake equalizer rods from the truck",
         "selectedAnswer": null
     },
     {
         "id": 1348,
-        "question": "275. Landing / strut / gear / gauges /  pressure  (Level 1)  ",
+        "question": "Landing / strut / gear / gauges /  pressure  (Level 1)",
         "plans": [
             {
                 "value": "Gauges landing gear strut pressure"
@@ -22886,12 +22908,12 @@ export default  [
                 "value": "Strut pressure gauges landing gear  "
             }
         ],
-        "answer": "answer",
+        "answer": "Landing gear strut pressure gauges",
         "selectedAnswer": null
     },
     {
         "id": 1349,
-        "question": "276. Wing/ tip /navigation/ light/ lens   (Level 2)  ",
+        "question": "Wing/ tip /navigation/ light/ lens(Level 2)",
         "plans": [
             {
                 "value": "Light lens wing tip navigation"
@@ -22900,15 +22922,15 @@ export default  [
                 "value": "Navigation wing tip light lens"
             },
             {
-                "value": "Wing tip navigation light lens   "
+                "value": "Wing tip navigation light lens"
             }
         ],
-        "answer": "answer",
+        "answer": "Wing tip navigation light lens",
         "selectedAnswer": null
     },
     {
         "id": 1350,
-        "question": "277. Overwing / covers / light / emergency  (Level 2)   ",
+        "question": "Overwing / covers / light / emergency  (Level 2)",
         "plans": [
             {
                 "value": "Light covers  overwing emerge ncy"
@@ -22917,15 +22939,15 @@ export default  [
                 "value": "Overwing emergency light covers"
             },
             {
-                "value": "Overwing light covers emergency  "
+                "value": "Overwing light covers"
             }
         ],
-        "answer": "answer",
+        "answer": "Overwing emergency light covers",
         "selectedAnswer": null
     },
     {
         "id": 1351,
-        "question": "278. Broken / two main /  wheel tiebolts / gear / per wheel may be  (Level 2)  ",
+        "question": "Broken / two main /  wheel tiebolts / gear / per wheel may be  (Level 2)",
         "plans": [
             {
                 "value": "May be broken two main gear wheel tiebolts per wheel"
@@ -22934,15 +22956,15 @@ export default  [
                 "value": "Broken / two main /  wheel tiebolts / gear / per wheel may be  (Level 2)  "
             },
             {
-                "value": "Two main gear wheel tiebolts per wheel may be  broken   "
+                "value": "Two main gear wheel tiebolts per wheel may be broken"
             }
         ],
-        "answer": "answer",
+        "answer": "Two main gear wheel tiebolts per wheel may be broken",
         "selectedAnswer": null
     },
     {
         "id": 1352,
-        "question": "279. Gear / retracting / the landing / system is / to be inoperative / allowed  (Level 2)  ",
+        "question": "Gear / retracting / the landing / system is / to be inoperative / allowed  (Level 2)",
         "plans": [
             {
                 "value": "Retracting system is allowed to be the landing gear inoperative"
@@ -22951,32 +22973,32 @@ export default  [
                 "value": "The landing gear is allowed to be inoperative retracting system"
             },
             {
-                "value": "The landing gear retracting system is allowed to be  inoperative  "
+                "value": "The landing gear retracting system is allowed to be inoperative"
             }
         ],
-        "answer": "answer",
+        "answer": "The landing gear retracting system is allowed to be inoperative",
         "selectedAnswer": null
     },
     {
         "id": 1353,
-        "question": "280. Of / performance / wing / decrement / the / illumination / the / light  (Level 2)  ",
+        "question": "Of / performance / wing / decrement / the / illumination / the / light  (Level 2)",
         "plans": [
             {
-                "value": "The performance decrement of the wing illumination  light"
+                "value": "The performance decrement of the wing illumination light"
             },
             {
                 "value": "The performance the wing decrement of illumination light"
             },
             {
-                "value": "The performance illumination light decrement of the wing   "
+                "value": "The performance illumination light decrement of the wing"
             }
         ],
-        "answer": "answer",
+        "answer": "The performance decrement of the wing illumination light",
         "selectedAnswer": null
     },
     {
         "id": 1354,
-        "question": "281. May be / overwing / light / emergency /covers / missing / all   (Level 2)  ",
+        "question": "May be / overwing / light / emergency /covers / missing / all(Level 2)",
         "plans": [
             {
                 "value": "All overwing emergency covers may be missing light"
@@ -22985,35 +23007,35 @@ export default  [
                 "value": "All overwing light covers emergency may be missing"
             },
             {
-                "value": "All overwing emergency light covers may be missing   "
+                "value": "All overwing emergency light covers may be missing"
             }
         ],
-        "answer": "answer",
+        "answer": "All overwing emergency light covers may be missing",
         "selectedAnswer": null
     },
     {
         "id": 1355,
-        "question": "282. Be / all / components / have to / secured / inoperative/ properly / on the gear   ",
+        "question": "Be / all / components / have to / secured / inoperative/ properly / on the gear",
         "plans": [
             {
                 "value": "All secured properly inoperative components on the gear have to be"
             },
             {
-                "value": "Be / all / components / have to / secured / inoperative/ properly / on the gear   "
+                "value": "All inoperative components on the gear have to be secured properly"
             },
             {
                 "value": "The gear have to be secured all inoperative components on properly  "
             }
         ],
-        "answer": "answer",
+        "answer": "All inoperative components on the gear have to be secured properly",
         "selectedAnswer": null
     },
     {
         "id": 1356,
-        "question": "283. The / gear / visually / each / inspected / landing / before / take -off / is  (Level 2)  ",
+        "question": "The / gear / visually / each / inspected / landing / before / take -off / is  (Level 2)",
         "plans": [
             {
-                "value": "The landing gear is visually inspected before each  take-off"
+                "value": "The landing gear is visually inspected before each take-off"
             },
             {
                 "value": "The each take -off landing gear is visually inspected before"
@@ -23022,29 +23044,29 @@ export default  [
                 "value": "Visually inspected each take -off before the landing gear is  "
             }
         ],
-        "answer": "answer",
+        "answer": "The landing gear is visually inspected before each take-off",
         "selectedAnswer": null
     },
     {
         "id": 1357,
-        "question": "284. That the truck will tilt to / to ensure  / the retract position / one forward and one aft ",
+        "question": "That the truck will tilt to / to ensure  / the retract position / one forward and one aft brake / must be removed / on the same side (Level 2)",
         "plans": [
             {
-                "value": "\"to ensure that the must be removed truck will tilt to the retract position, one "
+                "value": "to ensure that the must be removed truck will tilt to the retract position, one forward and one aft brake on the same side "
             },
             {
-                "value": "\" the retract position to ensure that the truck will tilt to, one forward and one aft "
+                "value": "the retract position to ensure that the truck will tilt to, one forward and one aft brake on the same side must be removed"
             },
             {
-                "value": "\"to ensure that the truck will tilt to the retract position,  one forward and one aft "
+                "value": "to ensure that the truck will tilt to the retract position, one forward and one aft brake on the same side must be removed"
             }
         ],
-        "answer": "answer",
+        "answer": "to ensure that the truck will tilt to the retract position, one forward and one aft brake on the same side must be removed",
         "selectedAnswer": null
     },
     {
         "id": 1358,
-        "question": "285. For / cap and / and electrical wiring / the affected brakes / the hydraulic lines /  ",
+        "question": "For / cap and / and electrical wiring / the affected brakes / the hydraulic lines / secure (Level 2)",
         "plans": [
             {
                 "value": "The affected brakes cap and secure the hydraulic lines and electrical wiring for"
@@ -23053,15 +23075,15 @@ export default  [
                 "value": "Cap and secure and electrical wiring for the affected brakes the hydraulic lines"
             },
             {
-                "value": "Cap and secure and electrical wiring for the affected brakes the hydraulic lines"
+                "value": "Cap and secure the hydraulic lines and electrical wiring for the affected brakes"
             }
         ],
-        "answer": "answer",
+        "answer": "Cap and secure the hydraulic lines and electrical wiring for the affected brakes",
         "selectedAnswer": null
     },
     {
         "id": 1359,
-        "question": "286. Chocked / en sure / wheels / adequately / that / the wheels / are    (Level 2)  ",
+        "question": "Chocked / en sure / wheels / adequately / that / the wheels / are(Level 2)",
         "plans": [
             {
                 "value": "Chocked ensure that the wheels are adequately"
@@ -23070,69 +23092,69 @@ export default  [
                 "value": "The wheels are adequately chocked ensure that"
             },
             {
-                "value": "Chocked / en sure / wheels / adequately / that / the wheels / are    (Level 2)  "
+                "value": "Ensure that the wheels are adequately chocked"
             }
         ],
-        "answer": "answer",
+        "answer": "Ensure that the wheels are adequately chocked",
         "selectedAnswer": null
     },
     {
         "id": 1360,
-        "question": "287. Airplane / configuration / restore / to / required /  its   (Level 2)  ",
+        "question": "Airplane / configuration / restore / to / required /  its(Level 2)",
         "plans": [
             {
-                "value": "Airplane / configuration / restore / to / required /  its   (Level 2)  "
+                "value": "Restore required configuration airplane to its"
             },
             {
                 "value": "Airplane to its required configuration restore"
             },
             {
-                "value": "Restore airplane to its required configuration  "
+                "value": "Restore airplane to its required configuration"
             }
         ],
-        "answer": "answer",
+        "answer": "Restore airplane to its required configuration",
         "selectedAnswer": null
     },
     {
         "id": 1361,
-        "question": "288. Freezing/ high pack discharge temperatures/at low/ ambient temperatures/ and/ to ",
+        "question": "Freezing/ high pack discharge temperatures/at low/ ambient temperatures/ and/ to limit/ to prevent (Level 2)",
         "plans": [
             {
-                "value": "To prevent freezing at low high pack discharge temperatures ambient "
+                "value": "To prevent freezing at low high pack discharge temperatures ambient temperatures and to limit "
             },
             {
-                "value": "Ambient temperatures and to limit high pack discha rge temperatures to prevent "
+                "value": "Ambient temperatures and to limit high pack discha rge temperatures to prevent freezing at low"
             },
             {
-                "value": "To prevent freezing at low ambient temperatures and to limit high pack discharge "
+                "value": "To prevent freezing at low ambient temperatures and to limit high pack discharge temperatures"
             }
         ],
-        "answer": "answer",
+        "answer": "To prevent freezing at low ambient temperatures and to limit high pack discharge temperatures",
         "selectedAnswer": null
     },
     {
         "id": 1362,
-        "question": "289. Machine/ fan/ the cooling airflow/ supplies/ the air -cycle  (Level 2)  ",
+        "question": "Machine/ fan/ the cooling airflow/ supplies/ the air -cycle  (Level 2)",
         "plans": [
             {
-                "value": "Cooling airflow the air -cycle machine fan suppl ies the"
+                "value": "Cooling airflow the air-cycle machine fan suppl ies the"
             },
             {
-                "value": "The air -cycle machine fan supplies the cooling airflow"
+                "value": "The air-cycle machine fan supplies the cooling airflow"
             },
             {
-                "value": "Cooling airflow the air -cycle machine fan suppl ies the"
+                "value": "Cooling airflow the air-cycle machine fan suppl ies the"
             }
         ],
-        "answer": "answer",
+        "answer": "The air-cycle machine fan supplies the cooling airflow",
         "selectedAnswer": null
     },
     {
         "id": 1363,
-        "question": "290. Valve/ disconnect/ the electrical/ the bypass / connector/ from  (Level 2)  ",
+        "question": "Valve/ disconnect/ the electrical/ the bypass / connector/ from  (Level 2)",
         "plans": [
             {
-                "value": "Disconnect the electrical connector  from the bypass valve"
+                "value": "Disconnect the electrical connector from the bypass valve"
             },
             {
                 "value": "Disconnect valve the electrical connector from the bypass"
@@ -23141,12 +23163,12 @@ export default  [
                 "value": "Disconnect from the bypass valve the electrical connector  "
             }
         ],
-        "answer": "answer",
+        "answer": "Disconnect the electrical connector from the bypass valve",
         "selectedAnswer": null
     },
     {
         "id": 1364,
-        "question": "291. The FWD / bypass check valve/ is / extract /fan/ blocked   (Level 2)   ",
+        "question": "The FWD / bypass check valve/ is / extract /fan/ blocked   (Level 2)",
         "plans": [
             {
                 "value": "The FWD extract fan bypass check valve is blocked"
@@ -23158,12 +23180,12 @@ export default  [
                 "value": "Bypass check valve is blocked the FWD extract fan  "
             }
         ],
-        "answer": "answer",
+        "answer": "The FWD extract fan bypass check valve is blocked",
         "selectedAnswer": null
     },
     {
         "id": 1365,
-        "question": "292. These /horns /preliminary /studies /are /burning /that /have /shown   (Level 2)  ",
+        "question": "These /horns /preliminary /studies /are /burning /that /have /shown   (Level 2)",
         "plans": [
             {
                 "value": "Preliminary studies have shown that these horns are burning"
@@ -23172,49 +23194,49 @@ export default  [
                 "value": "Have shown preliminary studi es that these horns are burning"
             },
             {
-                "value": "That these horns are burning preliminary studies have shown  "
+                "value": "That these horns are burning preliminary studies have shown"
             }
         ],
-        "answer": "answer",
+        "answer": "Preliminary studies have shown that these horns are burning",
         "selectedAnswer": null
     },
     {
         "id": 1366,
-        "question": "293. As/ a result/ of /the /call horn/ ground crew/ these warnings trigger  (Level 2)   ",
+        "question": "As/ a result/ of /the /call horn/ ground crew/ these warnings trigger  (Level 2)",
         "plans": [
             {
-                "value": "As/ a result/ of /the /call horn/ ground crew/ these warnings trigger  (Level 2)   "
+                "value": "These warnings trigger as a result of the ground crew call horn"
             },
             {
                 "value": "These warnings crew call horn trigger as a result of the ground"
             },
             {
-                "value": "These trigger as a result of the ground warnings crew call horn   "
+                "value": "These trigger as a result of the ground warnings crew call horn"
             }
         ],
-        "answer": "answer",
+        "answer": "These warnings trigger as a result of the ground crew call horn",
         "selectedAnswer": null
     },
     {
         "id": 1367,
-        "question": "294. Against/ the/ protected/ antenna /is/ erosion/ caused/ by rain  (Level 2)    ",
+        "question": "Against/ the/ protected/ antenna /is/ erosion/ caused/ by rain  (Level 2)",
         "plans": [
             {
-                "value": "Against/ the/ protected/ antenna /is/ erosion/ caused/ by rain  (Level 2)    "
+                "value": "The antenna is protected against erosion caused by rain"
             },
             {
                 "value": "The ante nna is protected against caused by rain erosion"
             },
             {
-                "value": "The antenna is protected against by rain erosion caused  "
+                "value": "The antenna is protected against by rain erosion caused"
             }
         ],
-        "answer": "answer",
+        "answer": "The antenna is protected against erosion caused by rain",
         "selectedAnswer": null
     },
     {
         "id": 1368,
-        "question": "295. Connected/ by/ means of rods/ the screen/ the structure/ is/ to  (Level 2)   ",
+        "question": "Connected/ by/ means of rods/ the screen/ the structure/ is/ to  (Level 2)",
         "plans": [
             {
                 "value": "The screen is connected to the structure by means of rods"
@@ -23223,61 +23245,78 @@ export default  [
                 "value": "The screen of rods is connected to the structure by means"
             },
             {
-                "value": "Connected/ by/ means of rods/ the screen/ the structure/ is/ to  (Level 2)   "
+                "value": "Connected to the the screen is structure by means of rods "
             }
         ],
-        "answer": "answer",
+        "answer": "The screen is connected to the structure by means of rods",
         "selectedAnswer": null
     },
     {
         "id": 1369,
-        "question": "296. During ground tests/ the air is still hot/ Extreme caution/ of thermal anti−ice ",
+        "question": "During ground tests/ the air is still hot/ Extreme caution/ of thermal anti−ice systems/ is necessary/ because (Level 2)",
         "plans": [
             {
-                "value": "Extreme caution is necessary during ground tests of thermal anti−ice systems "
+                "value": "Extreme caution is necessary during ground tests of thermal anti−ice systems because the air is still hot."
             },
             {
-                "value": "Extreme caution is necessary the air is still hot. During ground tests of thermal "
+                "value": "Extreme caution is necessary the air is still hot. During ground tests of thermal anti−ice systems because"
             },
             {
-                "value": "Extreme caution is necessary of thermal anti−ice systems during ground tests "
+                "value": "Extreme caution is necessary of thermal anti−ice systems during ground tests because the air is still hot."
             }
         ],
-        "answer": "answer",
+        "answer": "Extreme caution is necessary during ground tests of thermal anti−ice systems because the air is still hot.",
         "selectedAnswer": null
     },
     {
         "id": 1370,
-        "question": "297.  And long when the slats/ is short/ when the slats are retracted/ The telescoping ",
+        "question": "297.  And long when the slats/ is short/ when the slats are retracted/ The telescoping duct/ are extended (Level 2)",
         "plans": [
             {
-                "value": "And long when the slats/ is short/ when the slats are retracted/ The telescoping "
+                "value": "The telescoping duct is short when the slats are retracted and long when the slats are extended."
             },
             {
-                "value": "The slats are extended. Is short when the slats are retracted and long when the "
+                "value": "The slats are extended. Is short when the slats are retracted and long when the telescoping duct"
             },
             {
-                "value": "The telescoping duct is short when the slats are retracted and when the slats are "
+                "value": "The telescoping duct is short when the slats are retracted and when the slats are long extended."
             }
         ],
-        "answer": "answer",
+        "answer": "The telescoping duct is short when the slats are retracted and long when the slats are extended.",
         "selectedAnswer": null
     },
     {
         "id": 1371,
-        "question": "298. By the bleed valve/ anti−ice system/ The left and right wing/ uses/ which is ",
+        "question": "By the bleed valve/ anti−ice system/ The left and right wing/ uses/ which is already regulated/ hot air (Level 2)",
         "plans": [
             {
-                "value": "The bleed valve. Uses hot air which is already regulated by The left and right wing "
+                "value": "The bleed valve. Uses hot air which is already regulated by The left and right wing anti−ice system"
             },
             {
-                "value": "By the bleed valve/ anti−ice system/ The left and right wing/ uses/ which is "
+                "value": "The left and right wing already regulated uses hot air which is by anti−ice system the bleed valve."
             },
             {
-                "value": "The left and right wing anti−ice system uses hot air which is already regulated by "
+                "value": "The left and right wing anti−ice system uses hot air which is already regulated by the bleed valve."
             }
         ],
-        "answer": "answer",
+        "answer": "The left and right wing anti−ice system uses hot air which is already regulated by the bleed valve.",
         "selectedAnswer": null
-    }       
+    },
+    {
+        "id": 1372,
+        "question": "To the engine combustor/ supplies/ The compressor of a gas turbine engine/ a continuous flow of air (Level 2)",
+        "plans": [
+            {
+                "value": "The compressor of a gas turbine engine supplies a continuous flow of air to the engine combustor."
+            },
+            {
+                "value": "The engine combustor of a gas turbine engine supplies a continuous flow of air to. The compressor "
+            },
+            {
+                "value": " The compressor of a engine combustor. A continuous flow of air to the gas turbine engine supplies"
+            }
+        ],
+        "answer": "The compressor of a gas turbine engine supplies a continuous flow of air to the engine combustor.",
+        "selectedAnswer": null
+    }
 ]

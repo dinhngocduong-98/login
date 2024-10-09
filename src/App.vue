@@ -13,8 +13,10 @@
 				v-bind:question="question"
 				v-bind:index="index"
 				v-on:handleChecked="handleChecked"
+				v-on:handleCheckedChil="handleCheckedChil"
 				:isSubmit="isSubmit"
 				v-on:handleSubmit="handleSubmit"
+				:listIdLong ="listIdLong"
 			/>
 		</div>
 		<button v-if="isShowForm" @click="handleSubmit">Nộp câu trả lời</button>
@@ -25,15 +27,22 @@
 import question from '../mocks/data/question'
 import CompQuestion from './components/CompQuestion.vue'
 import CompTitleVue from './components/CompTitle.vue'
+import questionLong from '../mocks/data/questionLong3'
 
 export default {
 	name: 'app',
 	data () {
 		return {
 			isShowForm: false,
-			listQuestion: this.shuffle(question).slice(0, 10),
-			isSubmit: false
+			listQuestion: [],
+			isSubmit: false,
+			listIdLong: []
 		}
+	},
+	created() {
+		const list = this.shuffle(question).slice(0, 10);
+		this.listQuestion = [...list, ...questionLong]
+		this.listIdLong = questionLong.map(question => question.id);
 	},
 	components: {
 		CompQuestion,
@@ -51,15 +60,29 @@ export default {
 			this.isSubmit = true;
 		},
 		handleChecked(index, value) {
-			this.listQuestion[index].selectedAnswer = value; 
+			this.listQuestion[index].selectedAnswer = value;
+		},
+		handleCheckedChil(index, value) {
+			this.listQuestion[index].items.forEach((questionChil, i) => {
+				questionChil.selectedAnswer = value[i];
+			});
 		},
 		handleStart() {
 			this.isShowForm = true;
 		},
 		handleResetData() {
-			this.listQuestion.forEach(question => {
+			if (question.selectedAnswer) {
+				this.listQuestion.forEach(question => {
 				question.selectedAnswer = null;
-			});
+				});
+			} else {
+				this.listQuestion.forEach(question => {
+					question.items.forEach(questionChil => {
+						questionChil.selectedAnswer = null;
+					});
+				});
+			}
+			
 		}
 	}
 }

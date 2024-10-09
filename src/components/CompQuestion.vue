@@ -1,23 +1,48 @@
 <template>
-  <div class="quiz-container">
-        <h2>Câu hỏi: {{index + 1 }} : {{ question.question }}
-            <span v-if="isSubmit && isCorrect" style="color: green;">✔️</span>
-            <span v-if="isSubmit && !isCorrect" style="color: red;">
-                X
-            </span>
-        </h2>
+    <div>
+        <div v-if="!isQuestionLong" class="quiz-container">
+            <h2>Câu hỏi: {{index + 1 }} : {{ question.question }}
+                <span v-if="isSubmit && isCorrect" style="color: green;">✔️</span>
+                <span v-if="isSubmit && !isCorrect" style="color: red;">
+                    X
+                </span>
+            </h2>
 
-        <div v-for="(plan, index) in shuffledPlans" :key="index">
-            <label>
-                <input
-                    type="radio"
-                    :value="plan.value"
-                    v-model="selectedAnswer"
-                    >
-                {{ plan.value }}
-            </label>
+            <div v-for="(plan, index) in shuffledPlans" :key="index">
+                <label>
+                    <input
+                        type="radio"
+                        :value="plan.value"
+                        v-model="selectedAnswer"
+                        >
+                    {{ plan.value }}
+                </label>
+            </div>
+        </div>
+        <div v-if="isQuestionLong" class="quiz-container">
+            <h2>Câu hỏi: {{index + 1 }} : {{ question.title }}</h2>
+            <h2 v-html="question.questionParent"></h2>
+            <div v-for="(questionChil, indexchil) in shuffledQuestionChil" :key="indexchil">
+                <h2> {{ indexchil + 1 }} : {{questionChil.question}}
+                    <span v-if="isSubmit && questionChil.answer === questionChil.selectedAnswer" style="color: green;">✔️</span>
+                    <span v-if="isSubmit && questionChil.answer !== questionChil.selectedAnswer" style="color: red;">
+                        X
+                    </span>
+                </h2>
+                <div v-for="(plan, index) in questionChil.plans" :key="index">
+                    <label>
+                        <input
+                            type="radio"
+                            :value="plan.value"
+                            v-model="selectedAnswerChil[indexchil]"
+                            >
+                        {{ plan.value }}
+                    </label>
+                </div>
+            </div>
         </div>
     </div>
+
 </template>
 
 <script>
@@ -35,26 +60,48 @@ export default {
         isSubmit: {
             type: Boolean,
             default: false
+        },
+        listIdLong: {
+            type: Array,
+            default: []
         }
     },
     data() {
         return {
             shuffledPlans: [],
-            selectedAnswer: this.question.selectedAnswer
+            selectedAnswer: null,
+            shuffledQuestionChil: [],
+            selectedAnswerChil: [],
         }
     },
     created() {
-        this.shuffledPlans = this.shuffleArray(this.question.plans);
-        
+        if (this.question.plans && this.question.plans.length > 0) {
+            this.shuffledPlans = this.shuffleArray(this.question.plans);
+        }
+        if (this.question.items && this.question.items.length > 0) {
+            // this.shuffledQuestionChil = this.shuffleArray(this.question.items);
+            this.shuffledQuestionChil = this.question.items;
+        }
+        if (this.question.plans ){
+            this.selectedAnswer = this.question.selectedAnswer;
+        } else {
+            this.selectedAnswerChil = Array(this.shuffledQuestionChil.length).fill(null);
+        }
     },
     watch: {
         selectedAnswer(newValue) {
             this.$emit('handleChecked', this.index, newValue);
+        },
+        selectedAnswerChil(newValue) {
+            this.$emit('handleCheckedChil', this.index, newValue);
         }
     },
     computed: {
         isCorrect() {
             return this.isSubmit && this.selectedAnswer === this.question.answer;
+        },
+        isQuestionLong() {
+            return this.listIdLong.includes(this.question.id);
         }
   },
     methods: {
@@ -67,6 +114,9 @@ export default {
         },
         handleSubmit() {
             this.$emit('handleSubmit');
+        },
+        handleClick() {
+
         }
     }
 }
@@ -78,7 +128,7 @@ export default {
       padding: 20px;
       border-radius: 8px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      width: 400px;
+      width: 1000px;
       text-align: left;
     }
 
