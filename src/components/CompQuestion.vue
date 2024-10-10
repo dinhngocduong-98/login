@@ -94,6 +94,9 @@ export default {
         },
         selectedAnswerChil(newValue) {
             this.$emit('handleCheckedChil', this.index, newValue);
+        },
+        isSubmit(newVal) {
+            this.$emit('handleSubmitQuestion', this.correctAnswersCount);
         }
     },
     computed: {
@@ -102,8 +105,17 @@ export default {
         },
         isQuestionLong() {
             return this.listIdLong.includes(this.question.id);
+        },
+        correctAnswersCount() {
+            if (!this.isQuestionLong) {
+            return this.isSubmit && this.isCorrect ? 1 : 0;
+            } else {
+            return this.shuffledQuestionChil.reduce((count, questionChil) => {
+                return count + (this.isSubmit && questionChil.answer === questionChil.selectedAnswer ? 1 : 0);
+            }, 0);
+            }
         }
-  },
+    },
     methods: {
         shuffleArray(array) {
             for (let i = array.length - 1; i > 0; i--) {
@@ -113,7 +125,8 @@ export default {
             return array;
         },
         handleSubmit() {
-            this.$emit('handleSubmit');
+            console.log(this.correctAnswersCount);
+            this.$emit('handleSubmit', this.correctAnswersCount);
         },
         handleClick() {
 

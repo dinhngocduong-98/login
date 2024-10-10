@@ -6,6 +6,9 @@
 		</button>
 		<comp-title-vue
 			v-bind:isSubmit="isSubmit"
+			:timeStart ="timeStart"
+			:timeEnd="timeEnd"
+			:totalScore="totalScore"
 		/>
 		<div v-if="isShowForm">
 			<comp-question v-for="(question, index) in listQuestion"
@@ -15,11 +18,12 @@
 				v-on:handleChecked="handleChecked"
 				v-on:handleCheckedChil="handleCheckedChil"
 				:isSubmit="isSubmit"
-				v-on:handleSubmit="handleSubmit"
+				v-on:handleSubmitQuestion="handleSubmitQuestion"
 				:listIdLong ="listIdLong"
 			/>
 		</div>
-		<button v-if="isShowForm" @click="handleSubmit">Nộp câu trả lời</button>
+		<button v-if="isShowForm && !isSubmit" @click="handleSubmit">Nộp câu trả lời</button>
+		<button v-if="isShowForm && isSubmit" @click="handleNew">Thi mới</button>
 	</div>
 </template>
 
@@ -36,13 +40,21 @@ export default {
 			isShowForm: false,
 			listQuestion: [],
 			isSubmit: false,
-			listIdLong: []
+			listIdLong: [],
+			timeStart: "",
+			timeEnd: "",
+			totalScore : 0
 		}
 	},
 	created() {
-		const list = this.shuffle(question).slice(0, 10);
-		this.listQuestion = [...list, ...questionLong]
-		this.listIdLong = questionLong.map(question => question.id);
+		const listLong = this.shuffle(questionLong).slice(0, 4);
+		let number = 0;
+		listLong.forEach(question => {
+			number = number + question.total;
+		});
+		const list = this.shuffle(question).slice(0, 100 - number);
+		this.listQuestion = [...list, ...listLong]
+		this.listIdLong = listLong.map(question => question.id);
 	},
 	components: {
 		CompQuestion,
@@ -58,6 +70,10 @@ export default {
 		},
 		handleSubmit() {
 			this.isSubmit = true;
+			this.timeEnd = this.getCurrentTimeString();
+		},
+		handleSubmitQuestion(correctAnswersCount) {
+			this.totalScore += correctAnswersCount;
 		},
 		handleChecked(index, value) {
 			this.listQuestion[index].selectedAnswer = value;
@@ -69,20 +85,47 @@ export default {
 		},
 		handleStart() {
 			this.isShowForm = true;
+			this.timeStart = this.getCurrentTimeString();
 		},
-		handleResetData() {
-			if (question.selectedAnswer) {
-				this.listQuestion.forEach(question => {
-				question.selectedAnswer = null;
-				});
-			} else {
-				this.listQuestion.forEach(question => {
-					question.items.forEach(questionChil => {
-						questionChil.selectedAnswer = null;
-					});
-				});
-			}
+		handleResetData() {		
+			this.listQuestion.forEach(question => {
+					if (question.question){
+						question.selectedAnswer = null;
+					} else {
+						question.items.forEach(questionChil => {
+							questionChil.selectedAnswer = null;
+						});
+					}				
+			});	
+			this.isShowForm = false;
+			this.timeStart = "";
+			this.isSubmit = false;
+			this.timeEnd = "";
+			this.totalScore = 0;
+			const listLong = this.shuffle(questionLong).slice(0, 4);
+			let number = 0;
+			listLong.forEach(question => {
+				number = number + question.total;
+			});
+			const list = this.shuffle(question).slice(0, 100 - number);
+			this.listQuestion = [...list, ...listLong]
+			this.listIdLong = listLong.map(question => question.id);	
+		},
+		getCurrentTimeString() {
+			const now = new Date();
+			const year = now.getFullYear();
+			const month = String(now.getMonth() + 1).padStart(2, '0');
+			const day = String(now.getDate()).padStart(2, '0');
 			
+			const hours = String(now.getHours()).padStart(2, '0');
+			const minutes = String(now.getMinutes()).padStart(2, '0');
+			const seconds = String(now.getSeconds()).padStart(2, '0');
+			
+			return `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;
+		},
+		handleNew() {
+			this.handleResetData();
+			this.handleStart();
 		}
 	}
 }

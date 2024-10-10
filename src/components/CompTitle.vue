@@ -2,11 +2,12 @@
     <div>
         <div v-if="isSubmit">
             <h2>Chi tiết bài làm</h2>
-            <h4>Bài thi</h4>
-            <h4>Thời gian làm bài</h4>
-            <h4>Thời gian kết thúc</h4>
-            <h4>Điểm thi</h4>
-            <h4>Kết quả</h4>
+            <h4>Bài thi : TIENG ANG KY THUAT</h4>
+            <h4>Thời gian làm bài : {{ timeStart }}</h4>
+            <h4>Thời gian kết thúc : {{ timeEnd }}</h4>
+            <h4>Điểm thi : {{ totalScore }} / 100</h4>
+            <h4 v-if="totalScore >= 80">Kết quả: Pass</h4>
+            <h4 v-else>Kết quả: Fail</h4>
         </div>
     </div> 
 </template>
@@ -18,11 +19,23 @@ export default {
         isSubmit: {
             type: Boolean,
             default: false
+        },
+        timeStart: {
+            type: String,
+            default: ""
+        },
+        timeEnd: {
+            type: String,
+            default: ""
+        },
+        totalScore: {
+            type: Number,
+            default: 0
         }
     },
     data() {
         return {
-
+            
         }
     }
 }
