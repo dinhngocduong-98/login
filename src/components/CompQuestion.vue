@@ -79,7 +79,6 @@ export default {
             this.shuffledPlans = this.shuffleArray(this.question.plans);
         }
         if (this.question.items && this.question.items.length > 0) {
-            // this.shuffledQuestionChil = this.shuffleArray(this.question.items);
             this.shuffledQuestionChil = this.question.items;
         }
         if (this.question.plans ){

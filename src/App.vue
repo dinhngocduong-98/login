@@ -47,14 +47,16 @@ export default {
 		}
 	},
 	created() {
-		const listLong = this.shuffle(questionLong).slice(0, 4);
-		let number = 0;
-		listLong.forEach(question => {
-			number = number + question.total;
-		});
-		const list = this.shuffle(question).slice(0, 100 - number);
-		this.listQuestion = [...list, ...listLong]
-		this.listIdLong = listLong.map(question => question.id);
+		// const listLong = this.shuffle(questionLong).slice(0, 4);
+		// let number = 0;
+		// listLong.forEach(question => {
+		// 	number = number + question.total;
+		// });
+		// const list = this.shuffle(question).slice(0, 100 - number);
+		// this.listQuestion = [...list, ...listLong]
+		// this.listIdLong = listLong.map(question => question.id);
+		this.listQuestion = questionLong;
+		this.listIdLong = questionLong.map(question => question.id);
 	},
 	components: {
 		CompQuestion,
