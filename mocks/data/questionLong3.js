@@ -100,24 +100,19 @@ const Paragraph_50 = "SERVICE BULLETIN (A)</br>(3) SPARES AFFECTED</br>Cooling a
 
 const Paragraph_51 = "TITLE: FLIGHT CONTROLS - TRIMMABLE HORIZONTAL STABILIZER CONTROL -INSTALL IMPROVED SPROCKET SHAFT AND NEEDLE ROLLER BEARINGS.</br>Pitch trim hand wheels can become difficult to move. This stiffness originates from deterioration of the pitch trim control drive shaft and needle bearings. </br>This Service Bulletin recommends the installation of a new sprocket shaft which has been improved by hardening and grinding of the needle bearing race and the exchange of the needle roller bearings. "
 
+const Paragraph_52 = "Diamond surfacing</br>Diamond surfacing should be (1)_____ out in a precision lathe fitted with a compressiblecenter to prevent (2)_____ of the armature shaft (tallow the center).</br>Drive the part to be surfaced at a (3)_____ of 3 000 rpm and take one or more very light cuts(maximum diametrical depth: 0.015 mm (0.00059 in) (4)_____ a cutting speed of approx.0.05 mm (0.0019 in) per revolution.</br>Take (5)_____ many cuts as required to obtain a perfect commutator surface.</br>After surfacing, clean the segments with a small brush made(6)_____ very soft bristle.Check that the commutator diameter is not less (7)_____ the minimum dimension specifiedin the page block FITS AND CLEARANCES.</br>Protect the commutator (8)_____ the armature is to be installed in the starter-generator.</br>NOTE: Never touch the commutator with the fingers after diamond surfacing.</br>When (9)_____ the armature after diamond surfacing of the commutator, it is advisableto operate the starter-generator for a few hours with light load applied in order to(10)_____ a glossy finish, as this is the essential requirement to be met to obtain correctcommutation and to limit brush wear."
 
+const Paragraph_53 = "A. Frame</br>The frame houses a set of field coils whose output leads, (1)_____ by a gasket andan insulator are connected to a terminal block</br>The terminal block is secured to the frame by screws and tab washers It (2)_____ twomain terminals (E and B) to which the (3)_____ leads are secured by nuts and washersand two auxiliary terminals (A and D) to which the connecting leads are secured bynuts and washers .</br>A (4)_____ is secured to the frame by screws and washers by means of a box securedby screws and tab washers.</br>The identification plate, the (5)_____ plate and the indicating plate are secured byrivets to the external surface of the frame.</br>B. Flanged bearing</br>The flanged bearing, (6)_____ at the front with a baffle for (7)_____ air exhaust, fitsinto the frame to which it is secured by screws.</br>A locating pin is provided at the front to (8)_____ position the starter-generator on itsmount.</br>The flanged bearing (9)_____ with a central bore accommodating a ball bearing. Thisball bearing is retained in the (10)_____ bearing by a flange secured by screws and onthe armature shaft by a key."
 
+const Paragraph_54 = "SYSTEM DESCRIPTION SECTION</br>INTRODUCTION</br>This section contains a system description of the Rockwell Collins Total EntertainmentSystem (TES). System operation is also provided.</br>GENERAL EQUIPMENT DESCRIPTION</br>The TES consists of four basic functional areas.</br>• Head-End</br>• Area Distribution</br>• Seat Group</br>• Overhead System</br>The above functional areas control the following subsystems.</br>• Audio Entertainment System</br>• Video Entertainment System</br>• Passenger Video Information System</br>• Interactive Cabin Management System</br>• Passenger Services System</br>• Overhead Services System</br>Head-End</br>The head-end equipment digitizes and multiplexes audio signals, which are modulatedonto an RF carrier. The modulated RF audio and RF video signals are then mixed anddistributed throughout the IFE system.</br>Area Distribution</br>Area distribution provides intelligent data routing, RF signal splitting and leveladjustment, and seat column driver capabilities.</br>Seat Group</br>The seat group equipment provides entertainment selection, channel tuning,audio/video presentation, and access to the service functions for passengers.</br>Overhead System</br>The overhead video system provides the video information such as VA (videoannouncement) video to the overhead (15-inch LCD and 10.4-inch LCD) display units(DU) in the cabin. The overhead system consists of equipment such as VDUs and DUs.The Video Distribution Unit (VDU) receives the Radio Frequency (RF) signal from theVideo Modulator (VMOD) and the control signal from the Passenger EntertainmentSystem Controller - Video (PESC-V). The received RF signal is decoded by the VDUsand distributed to the DUs. The DUs are installed throughout the aircraft above theaisles and/or on bulkheads. Alternating Current (AC) power will also be distributed fromthe VDUs to the DUs."
 
+const Paragraph_55 = "1. The Universal Passenger Control Unit (UPCU)/Cradle Assembly …………… (1) part ofthe Total Entertainment System (TES) onboard commercial aircraft. It ………… (2)passenger in-flight telephone and Passenger Entertainment/Passenger Service (PE/PS)functions at the seat.</br>2. The Line Replaceable Unit (LRU) ………… (3) of the components given below.</br>    1.1 Handset (UPCU). The handsets are made in a range of colors to ………… (4)customer specifications.</br>    1.2 Cradle ………… (5) in a range of colors to match the handset. ………… (6)available configurations include.</br>    a. Standard cradle assembly with …………. (7) ratcheting, integrated constant tension,or combination cord reel.</br>    b. Stepped cradle assembly with an attached ratcheting, constant tension, orcombination cord reel.</br>    c. In-line stepped cradle assembly with ………… (8) attached in-line ratcheting,constant tension, or combination cord reel.</br>    d. Stand-alone cradle with remote ratcheting, constant tension, or combination cordreel.</br>    e. 50 degree armrest cradle assembly</br>3. Multiple configurations of the each UPCU ………… (9) covered in this CMM. Theconfigurations are identical except ……….. (10) the color and cradle/cord reelconfiguration."
 
+const Paragraph_56 = "A 300 SB35.007 p. 10</br>(1) Remove oxygen masks from cabin attendant seat located forward of RHemergency exit.</br>Refer to Figure 1, Sheet 2.</br>(a) Remove three oxygen masks (first aid) B114019-28, Item 14, and return tostores.</br>(2) Remove oxygen masks complete with container assy and replace life vestreceptacle at cabin attendant seat located aft of LH FWD passenger/crew door.Refer to Figure 1, Sheet 2.</br>(a) Remove and discard two screws NSA503908-03, Item 16, four washersAN960PD8, Item 17, two nuts NAS1021N08, Item 18, from oxyen mask containerassy A2567028200000, Item 19.</br>(b) Remove and retain manual release tool 995000, Item 15.</br>(c ) Remove and return to stores 3 oxygen masks (first aid) 114019-28, Item 14.</br>(d) Discard oxygen mask container assy, Item 19.</br>(e) Remove and retain life vest (crew) 52-VE-6, Item 9, life vest (demonstration)52 –VE-8, Item 10, and oxygen mask (demonstration) 14019-31, Item 11.</br>(f) Remove and retain two screws NSA5039-08-2, Item 12, two screws NSA5039-08-1, Item 20, and four washers AN960PD8, Item 13, and remove and discard lifevest receptacle A2567026000400, Item 8.</br>(g) Install new vest receptacle A2567028500600, Item 27, using retained screws,Items 12 and 20, and washers, Item 13.</br>(h) Install retained manual release tool, Item 15, life vest (crew), Item 9, life vest(demonstration), Item 10, and oxygen mask (demonstration), Item 11.</br>(3) Replace placards on cabin attendant seats.</br>Refer to Figure 1, Sheet 2."
 
+const Paragraph_57 = "A. Seat bottom</br>(1) Horizontal displacement</br>Push control handle, installed on the side of the seat and in the meantime, slide the seaton tracks fore or aft, then release the control handle, the seat must be stay in the selectedposition.</br>(2) Vertical displacement</br>Push control handle, installed on the seat side under occupant's weight. The seat movesdownward. Release the control handle, the seat and must locked in the selected position.</br>The seat is in lower position and unoccupied, push control handle, then the seat go upautomatically by means of gas cylinders."
 
-
-
-
-
-
-
-
-
-
-
-
-
+const Paragraph_58 = "Fire blocking is the term used to (1) ………… the method or system of (2)………………increased thermal protection for the foam in seat cushions.</br>For that reason, the cushions, fire blocking liner and dress cover (3)…………….considered to be a fire blocking system. Changes to any of the three components of thesystem can (4)……………………. the thermal protection capability of that system. Twofactors that (5)……………………. capability are the cleanliness of all the components andthe integrity of the fire blocking liner.</br>Liners (6)……………………. of materials, which, because of their chemical composition,provide inherent capability and do not (7)……………………. on yarn or fabric treatmentsand coatings. Liners have no shelf life and their capability is not (8)……………………. bydry cleaning. Liner capability will be decreased by mechanical damage and, as(9)……………………. above, will (10)……………………. by the cleanliness of allcomponents of the fire blocking system (cushion, liner and dress cover.)"
 
 const QUESTIONLONG = [
     {
@@ -7584,7 +7579,1080 @@ const QUESTIONLONG = [
         "total": 5
     },
     {
-        
+        "id" : 30052,
+        "title": "Fill in the blanks with correct answer (A, B or C) Level 2",
+        "questionParent": Paragraph_52,
+        "items" : [
+            {
+		        "id": 1,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "performed"
+                    },
+                    {
+                        "value": "carried"
+                    },
+                    {
+                        "value": "going"
+                    }
+                ],
+                "answer": "carried",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 2,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "overwhelming"
+                    },
+                    {
+                        "value": "overacting"
+                    },
+                    {
+                        "value": "overheating"
+                    }
+                ],
+                "answer": "overheating",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 3,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "speed"
+                    },
+                    {
+                        "value": "altitude"
+                    },
+                    {
+                        "value": "height"
+                    }
+                ],
+                "answer": "speed",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 4,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "by"
+                    },
+                    {
+                        "value": "with"
+                    },
+                    {
+                        "value": "of"
+                    }
+                ],
+                "answer": "with",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 5,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "more"
+                    },
+                    {
+                        "value": "as"
+                    },
+                    {
+                        "value": "less"
+                    }
+                ],
+                "answer": "as",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 6,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "from"
+                    },
+                    {
+                        "value": "in"
+                    },
+                    {
+                        "value": "of"
+                    }
+                ],
+                "answer": "of",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 7,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "than"
+                    },
+                    {
+                        "value": "as"
+                    },
+                    {
+                        "value": "to"
+                    }
+                ],
+                "answer": "than",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 8,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "until"
+                    },
+                    {
+                        "value": "before"
+                    },
+                    {
+                        "value": "after"
+                    }
+                ],
+                "answer": "until",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 9,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "reinstalled"
+                    },
+                    {
+                        "value": "reinstalling"
+                    },
+                    {
+                        "value": "be installed"
+                    }
+                ],
+                "answer": "reinstalling",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 10,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "collect"
+                    },
+                    {
+                        "value": "maintain"
+                    },
+                    {
+                        "value": "obtain"
+                    }
+                ],
+                "answer": "obtain",
+                "selectedAnswer": null
+            }
+	    ],
+        "total": 10
+    },
+    {
+        "id" : 30053,
+        "title": "Read the paragraph and complete the blanks in the text belowwith an appropriate form of the words in brackets Level 1",
+        "questionParent": Paragraph_53,
+        "items" : [
+            {
+		        "id": 1,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "protecting"
+                    },
+                    {
+                        "value": "protected"
+                    },
+                    {
+                        "value": "protect"
+                    }
+                ],
+                "answer": "protected",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 2,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "comprises"
+                    },
+                    {
+                        "value": "comprise"
+                    },
+                    {
+                        "value": "comprising"
+                    }
+                ],
+                "answer": "comprises",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 3,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "connected"
+                    },
+                    {
+                        "value": "connect"
+                    },
+                    {
+                        "value": "connecting"
+                    }
+                ],
+                "answer": "connecting",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 4,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "connector"
+                    },
+                    {
+                        "value": "connected"
+                    },
+                    {
+                        "value": "connects"
+                    }
+                ],
+                "answer": "connector",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 5,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "modificate"
+                    },
+                    {
+                        "value": "modification"
+                    },
+                    {
+                        "value": "modificative"
+                    }
+                ],
+                "answer": "modification",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 6,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "fitting"
+                    },
+                    {
+                        "value": "fitted"
+                    },
+                    {
+                        "value": "fits"
+                    }
+                ],
+                "answer": "fitted",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 7,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "cooling"
+                    },
+                    {
+                        "value": "cooled"
+                    },
+                    {
+                        "value": "cool"
+                    }
+                ],
+                "answer": "cooling",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 8,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "correct"
+                    },
+                    {
+                        "value": "correctly"
+                    },
+                    {
+                        "value": "corrects"
+                    }
+                ],
+                "answer": "correctly",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 9,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "provided"
+                    },
+                    {
+                        "value": "is provided"
+                    },
+                    {
+                        "value": "providing"
+                    }
+                ],
+                "answer": "is provided",
+                "selectedAnswer": null
+            },
+            {
+		        "id": 10,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "flanged"
+                    },
+                    {
+                        "value": "flange"
+                    },
+                    {
+                        "value": "flanging"
+                    }
+                ],
+                "answer": "flanged",
+                "selectedAnswer": null
+            }
+	    ],
+        "total": 10
+    },
+    {
+        "id" : 30054,
+        "title": "Read the following passage and choose the correct answer to each of the questions Level 2",
+        "questionParent": Paragraph_54,
+        "items" : [
+            {
+                "id": 1,
+                "question": "What is one of the functions of overhead video system?",
+                "plans": [
+                    {
+                        "value": "Provides the video information"
+                    },
+                    {
+                        "value": "Provides intelligent data routing"
+                    },
+                    {
+                        "value": "Provides entertainment selection"
+                    }
+                ],
+                "answer": "Provides the video information",
+                "selectedAnswer": null
+            },
+            {
+                "id": 2,
+                "question": "What can VDUs decode?",
+                "plans": [
+                    {
+                        "value": "The multiplexes audio signals"
+                    },
+                    {
+                        "value": "The received RF signal"
+                    },
+                    {
+                        "value": "The control signal"
+                    }
+                ],
+                "answer": "The received RF signal",
+                "selectedAnswer": null
+            },
+            {
+                "id": 3,
+                "question": "How many subsystems are controlled by basic functional areas of the TES?",
+                "plans": [
+                    {
+                        "value": "4"
+                    },
+                    {
+                        "value": "5"
+                    },
+                    {
+                        "value": "6"
+                    }
+                ],
+                "answer": "6",
+                "selectedAnswer": null
+            },
+            {
+                "id": 4,
+                "question": "Which is not the basic functional area of the TES.",
+                "plans": [
+                    {
+                        "value": "Head-End"
+                    },
+                    {
+                        "value": "Area Distribution"
+                    },
+                    {
+                        "value": "Overhead ServicesSystem"
+                    }
+                ],
+                "answer": "Overhead ServicesSystem",
+                "selectedAnswer": null
+            },
+            {
+                "id": 5,
+                "question": "Which is not the subsystem of the TES",
+                "plans": [
+                    {
+                        "value": "Video Entertainment System"
+                    },
+                    {
+                        "value": "Overhead System"
+                    },
+                    {
+                        "value": "Passenger Video Information System"
+                    }
+                ],
+                "answer": "Overhead System",
+                "selectedAnswer": null
+            },
+            {
+                "id": 6,
+                "question": "The modulated RF audio distributed throughout which system.",
+                "plans": [
+                    {
+                        "value": "Video Modulator"
+                    },
+                    {
+                        "value": "IFE system"
+                    },
+                    {
+                        "value": "Video Distribution Unit"
+                    }
+                ],
+                "answer": "IFE system",
+                "selectedAnswer": null
+            },
+            {
+                "id": 7,
+                "question": "Area distribution provides.",
+                "plans": [
+                    {
+                        "value": "Intelligent RF signal"
+                    },
+                    {
+                        "value": "Intelligent audio/video presentation"
+                    },
+                    {
+                        "value": "Intelligent data routing"
+                    }
+                ],
+                "answer": "Intelligent data routing",
+                "selectedAnswer": null
+            },
+            {
+                "id": 8,
+                "question": "The seat group equipment does not provide.",
+                "plans": [
+                    {
+                        "value": "entertainment selection"
+                    },
+                    {
+                        "value": "entertainment selection"
+                    },
+                    {
+                        "value": "control signal"
+                    }
+                ],
+                "answer": "control signal",
+                "selectedAnswer": null
+            },
+            {
+                "id": 9,
+                "question": "The VA and DU in the cabin are provided by.",
+                "plans": [
+                    {
+                        "value": "Overhead System"
+                    },
+                    {
+                        "value": "Overhead Video System"
+                    },
+                    {
+                        "value": "Overhead Services System"
+                    }
+                ],
+                "answer": "Overhead Video System",
+                "selectedAnswer": null
+            },
+            {
+                "id": 10,
+                "question": "The received RF signal is decoded by.",
+                "plans": [
+                    {
+                        "value": "VA"
+                    },
+                    {
+                        "value": "DUs"
+                    },
+                    {
+                        "value": "VDUs"
+                    }
+                ],
+                "answer": "VDUs",
+                "selectedAnswer": null
+            }
+        ],
+        "total": 10
+    },
+    {
+        "id" : 30055,
+        "title": "Read the following paragraph and then decide which is True (A) or False (B) or Not given (C). Level 1",
+        "questionParent": Paragraph_55,
+        "items" : [
+            {
+                "id": 1,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "are"
+                    },
+                    {
+                        "value": "was"
+                    },
+                    {
+                        "value": "is"
+                    }
+                ],
+                "answer": "is",
+                "selectedAnswer": null
+            },
+            {
+                "id": 2,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "has"
+                    },
+                    {
+                        "value": "provides"
+                    },
+                    {
+                        "value": "shows"
+                    }
+                ],
+                "answer": "provides",
+                "selectedAnswer": null
+            },
+            {
+                "id": 3,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "consists"
+                    },
+                    {
+                        "value": "includes"
+                    },
+                    {
+                        "value": "contains"
+                    }
+                ],
+                "answer": "consists",
+                "selectedAnswer": null
+            },
+            {
+                "id": 4,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "gain"
+                    },
+                    {
+                        "value": "reply"
+                    },
+                    {
+                        "value": "meet"
+                    }
+                ],
+                "answer": "meet",
+                "selectedAnswer": null
+            },
+            {
+                "id": 5,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "assembly"
+                    },
+                    {
+                        "value": "part"
+                    },
+                    {
+                        "value": "unit"
+                    }
+                ],
+                "answer": "assembly",
+                "selectedAnswer": null
+            },
+            {
+                "id": 6,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "a"
+                    },
+                    {
+                        "value": "an"
+                    },
+                    {
+                        "value": "the"
+                    }
+                ],
+                "answer": "the",
+                "selectedAnswer": null
+            },
+            {
+                "id": 7,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "integrate"
+                    },
+                    {
+                        "value": "integrated"
+                    },
+                    {
+                        "value": "integrating"
+                    }
+                ],
+                "answer": "integrated",
+                "selectedAnswer": null
+            },
+            {
+                "id": 8,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "a"
+                    },
+                    {
+                        "value": "an"
+                    },
+                    {
+                        "value": "the"
+                    }
+                ],
+                "answer": "an",
+                "selectedAnswer": null
+            },
+            {
+                "id": 9,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "are"
+                    },
+                    {
+                        "value": "is"
+                    },
+                    {
+                        "value": "was"
+                    }
+                ],
+                "answer": "are",
+                "selectedAnswer": null
+            },
+            {
+                "id": 10,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "from"
+                    },
+                    {
+                        "value": "for"
+                    },
+                    {
+                        "value": "of"
+                    }
+                ],
+                "answer": "for",
+                "selectedAnswer": null
+            }
+        ],
+        "total": 10
+    },
+    {
+        "id" : 30056,
+        "title": "Read the following paragraph and then decide which is True (A) or False (B) or Not given (C). Level 1",
+        "questionParent": Paragraph_56,
+        "items" : [
+            {
+                "id": 1,
+                "question": "What is the special tool called?",
+                "plans": [
+                    {
+                        "value": "Manual release"
+                    },
+                    {
+                        "value": "Tool 995000"
+                    },
+                    {
+                        "value": "Retained screws"
+                    }
+                ],
+                "answer": "Manual release",
+                "selectedAnswer": null
+            },
+            {
+                "id": 2,
+                "question": "What do you need to install the new life vest receptacle?",
+                "plans": [
+                    {
+                        "value": "two screws"
+                    },
+                    {
+                        "value": "two screws NSA5039-08-2"
+                    },
+                    {
+                        "value": "Screws and washers"
+                    }
+                ],
+                "answer": "Screws and washers",
+                "selectedAnswer": null
+            },
+            {
+                "id": 3,
+                "question": "What type of mask do you remove from the RH emergency exit attendant seat?",
+                "plans": [
+                    {
+                        "value": "B114019-28"
+                    },
+                    {
+                        "value": "First aid"
+                    },
+                    {
+                        "value": "Both A & B."
+                    }
+                ],
+                "answer": "First aid",
+                "selectedAnswer": null
+            },
+            {
+                "id": 4,
+                "question": "What do you install on the attendant seats at the end of the procedure?",
+                "plans": [
+                    {
+                        "value": "Placards"
+                    },
+                    {
+                        "value": "Nothing"
+                    },
+                    {
+                        "value": "Retained manual release tool"
+                    }
+                ],
+                "answer": "Placards",
+                "selectedAnswer": null
+            },
+            {
+                "id": 5,
+                "question": "Is the life vest receptacle S/N A2567029500600?",
+                "plans": [
+                    {
+                        "value": "No, It’s A2567028500600."
+                    },
+                    {
+                        "value": "No, It’s A2567026000400"
+                    },
+                    {
+                        "value": "Yes, It is."
+                    }
+                ],
+                "answer": "No, It’s A2567028500600.",
+                "selectedAnswer": null
+            }
+        ],
+        "total": 5
+    },
+    {
+        "id" : 30057,
+        "title": "Read the following paragraph and determine which sentence is True (A), False (B) or Not Given (C) Level 1",
+        "questionParent": Paragraph_57,
+        "items" : [
+            {
+                "id": 1,
+                "question": "The control handle is assembled on the side of the seat",
+                "plans": [
+                    {
+                        "value": "TRUE"
+                    },
+                    {
+                        "value": "FALSE"
+                    },
+                    {
+                        "value": "NOT GIVEN"
+                    }
+                ],
+                "answer": "TRUE",
+                "selectedAnswer": null
+            },
+            {
+                "id": 2,
+                "question": "The seat must be stay in the selected position before sliding the seat on tracks fore or aft.",
+                "plans": [
+                    {
+                        "value": "TRUE"
+                    },
+                    {
+                        "value": "FALSE"
+                    },
+                    {
+                        "value": "NOT GIVEN"
+                    }
+                ],
+                "answer": "FALSE",
+                "selectedAnswer": null
+            },
+            {
+                "id": 3,
+                "question": "Horizontal displacement must be done before Vertical displacement",
+                "plans": [
+                    {
+                        "value": "TRUE"
+                    },
+                    {
+                        "value": "FALSE"
+                    },
+                    {
+                        "value": "NOT GIVEN"
+                    }
+                ],
+                "answer": "NOT GIVEN",
+                "selectedAnswer": null
+            },
+            {
+                "id": 4,
+                "question": "The seat go up and down automatically by means of gas cylinders",
+                "plans": [
+                    {
+                        "value": "TRUE"
+                    },
+                    {
+                        "value": "FALSE"
+                    },
+                    {
+                        "value": "NOT GIVEN"
+                    }
+                ],
+                "answer": "FALSE",
+                "selectedAnswer": null
+            },
+            {
+                "id": 5,
+                "question": "The lock of the seat back/ bottom assembly in the horizontal or vertical direction in given by locking systems",
+                "plans": [
+                    {
+                        "value": "TRUE"
+                    },
+                    {
+                        "value": "FALSE"
+                    },
+                    {
+                        "value": "NOT GIVEN"
+                    }
+                ],
+                "answer": "NOT GIVEN",
+                "selectedAnswer": null
+            }
+        ],
+        "total": 5
+    },
+    {
+        "id" : 30058,
+        "title": "Complete the blanks in the text below with an appropriate form of the verb in brackets Level 1",
+        "questionParent": Paragraph_58,
+        "items" : [
+            {
+                "id": 1,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "describe"
+                    },
+                    {
+                        "value": "be described"
+                    },
+                    {
+                        "value": "described"
+                    }
+                ],
+                "answer": "describe",
+                "selectedAnswer": null
+            },
+            {
+                "id": 2,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "provides"
+                    },
+                    {
+                        "value": "provided"
+                    },
+                    {
+                        "value": "providing"
+                    }
+                ],
+                "answer": "providing",
+                "selectedAnswer": null
+            },
+            {
+                "id": 3,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "being"
+                    },
+                    {
+                        "value": "is"
+                    },
+                    {
+                        "value": "are"
+                    }
+                ],
+                "answer": "are",
+                "selectedAnswer": null
+            },
+            {
+                "id": 4,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "be affected"
+                    },
+                    {
+                        "value": "affected"
+                    },
+                    {
+                        "value": "affect"
+                    }
+                ],
+                "answer": "affect",
+                "selectedAnswer": null
+            },
+            {
+                "id": 5,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "is affected"
+                    },
+                    {
+                        "value": "are affected"
+                    },
+                    {
+                        "value": "affect"
+                    }
+                ],
+                "answer": "affect",
+                "selectedAnswer": null
+            },
+            {
+                "id": 6,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "are made"
+                    },
+                    {
+                        "value": "make"
+                    },
+                    {
+                        "value": "is made"
+                    }
+                ],
+                "answer": "are made",
+                "selectedAnswer": null
+            },
+            {
+                "id": 7,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "depending"
+                    },
+                    {
+                        "value": "depends"
+                    },
+                    {
+                        "value": "depend"
+                    }
+                ],
+                "answer": "depend",
+                "selectedAnswer": null
+            },
+            {
+                "id": 8,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "decrease"
+                    },
+                    {
+                        "value": "decreased"
+                    },
+                    {
+                        "value": "decreasing"
+                    }
+                ],
+                "answer": "decreased",
+                "selectedAnswer": null
+            },
+            {
+                "id": 9,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "be state"
+                    },
+                    {
+                        "value": "stated"
+                    },
+                    {
+                        "value": "stating"
+                    }
+                ],
+                "answer": "stated",
+                "selectedAnswer": null
+            },
+            {
+                "id": 10,
+                "question": null,
+                "plans": [
+                    {
+                        "value": "be influenced"
+                    },
+                    {
+                        "value": "influence"
+                    },
+                    {
+                        "value": "influenced"
+                    }
+                ],
+                "answer": "be influenced",
+                "selectedAnswer": null
+            }
+        ],
+        "total": 10
     }
 ]
 

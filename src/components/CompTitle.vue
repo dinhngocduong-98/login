@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div v-if="isSubmit">
+        <div v-if="isSubmit" class = "title">
             <h2>Chi tiết bài làm</h2>
             <h4>Bài thi : TIENG ANG KY THUAT</h4>
             <h4>Thời gian làm bài : {{ timeStart }}</h4>
@@ -42,5 +42,14 @@ export default {
 </script>
 
 <style>
-
+    .title {
+      margin-top: 10px;
+      margin-left: 10%;
+      background-color: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      width: 80%;
+      text-align: left;
+    }
 </style>

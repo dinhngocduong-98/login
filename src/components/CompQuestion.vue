@@ -136,11 +136,13 @@ export default {
 
 <style>
     .quiz-container {
+      margin-top: 2px;
+      margin-left: 10%;
       background-color: white;
       padding: 20px;
       border-radius: 8px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      width: 1000px;
+      width: 80%;
       text-align: left;
     }
 
