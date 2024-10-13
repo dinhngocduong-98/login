@@ -1426,5 +1426,311 @@ export default  [
         ],
         "answer": "as good as",
         "selectedAnswer": null
+    },
+    {
+        "id": 5085,
+        "question": "Don’t carry out this repair______the correct tools.",
+        "plans": [
+            {
+                "value": "within"
+            },
+            {
+                "value": "with"
+            },
+            {
+                "value": "without"
+            }
+        ],
+        "answer": "without",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5086,
+        "question": "This fluid must not have contact with metal surfaces____it causes corrosion.",
+        "plans": [
+            {
+                "value": "because of "
+            },
+            {
+                "value": "because"
+            },
+            {
+                "value": "due to"
+            }
+        ],
+        "answer": "because",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5087,
+        "question": "______bad weather conditions the flight was cancelled",
+        "plans": [
+            {
+                "value": "Due to"
+            },
+            {
+                "value": "Because"
+            },
+            {
+                "value": "By"
+            }
+        ],
+        "answer": "Due to",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5088,
+        "question": "If the pressure in all the reservoirs _____ less than 3.5 bars, continue as follows. use special materials and do a leak test. _____ (level 2)",
+        "plans": [
+            {
+                "value": "are/ you repair the leak if each reservoir < 3.5 bars"
+            },
+            {
+                "value": "have/ you repair the leak if any reservoir < 3.5 bars"
+            },
+            {
+                "value": "is/ you test the system if each reservoir < 3.5 bars"
+            }
+        ],
+        "answer": "is/ you test the system if each reservoir < 3.5 bars",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5089,
+        "question": "How can you read “12.34”. (level 1)",
+        "plans": [
+            {
+                "value": "twelve point thirty four"
+            },
+            {
+                "value": "twelve point three four"
+            },
+            {
+                "value": "one two point three four"
+            }
+        ],
+        "answer": "twelve point three four",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5090,
+        "question": "The floor pan and the mat assembly are leak-proof to a minimum of _______101.6 mm (4 inches) above the floor panel on all sides, except at the door threshold(level 1)",
+        "plans": [
+            {
+                "value": "thickness"
+            },
+            {
+                "value": "high"
+            },
+            {
+                "value": "height"
+            }
+        ],
+        "answer": "height",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5091,
+        "question": "The defective parts are repaired in workshops or are replaced by ________parts. (level 1)",
+        "plans": [
+            {
+                "value": "unseviceable"
+            },
+            {
+                "value": "serviceable"
+            },
+            {
+                "value": "wrong"
+            }
+        ],
+        "answer": "serviceable",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5092,
+        "question": "The possible failures causes for this cabin attendant seat could be _______ by a defective assembly or adjustment during the assembly of different sub-assemblies.(level 1)",
+        "plans": [
+            {
+                "value": "cause"
+            },
+            {
+                "value": "caused"
+            },
+            {
+                "value": "causing"
+            }
+        ],
+        "answer": "caused",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5093,
+        "question": "The __________ oxygen system supplies oxygen to the flight crew. It is used if there is a loss of cabin pressurization or smoke or dangerous gases in the cockpit. (level 1)",
+        "plans": [
+            {
+                "value": "Flight Crew"
+            },
+            {
+                "value": "Cabin Attendants"
+            },
+            {
+                "value": "Passengers"
+            }
+        ],
+        "answer": "Flight Crew",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5094,
+        "question": "Oxygen _____________ through the flexible supply hose to the mask. (level 1)",
+        "plans": [
+            {
+                "value": "flowed"
+            },
+            {
+                "value": "flows"
+            },
+            {
+                "value": "s flowing"
+            }
+        ],
+        "answer": "flows",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5095,
+        "question": "Passenger/Light/Reading. (level 1)",
+        "plans": [
+            {
+                "value": "Light Passenger Reading"
+            },
+            {
+                "value": "Passenger Reading Light"
+            },
+            {
+                "value": "Passenger Light Reading"
+            }
+        ],
+        "answer": "Passenger Reading Light",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5096,
+        "question": "Lavatory/Signs/Lighted. (level 1)",
+        "plans": [
+            {
+                "value": "Lavatory Signs Lighted"
+            },
+            {
+                "value": "Lighted Lavatory Signs"
+            },
+            {
+                "value": "Lavatory Lighted Signs"
+            }
+        ],
+        "answer": "Lavatory Lighted Signs",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5097,
+        "question": "._________ review all notifications while performing a reset procedure to ensure you are aware of the affected seats. (level 1)",
+        "plans": [
+            {
+                "value": "Quickly"
+            },
+            {
+                "value": "Fully"
+            },
+            {
+                "value": "Carefully"
+            }
+        ],
+        "answer": "Carefully",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5098,
+        "question": "The / electrical / systems / of / my / old / car / have / more / energy / than / those / of / my / new / car (Level 1)",
+        "plans": [
+            {
+                "value": "The electrical systems of my old car have more energy than those of my new car"
+            },
+            {
+                "value": "The systems electrical of my old car have more energy than those of my new car"
+            },
+            {
+                "value": "The electrical systems have of my old car more energy than those of my new car"
+            }
+        ],
+        "answer": "The electrical systems of my old car have more energy than those of my new car",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5099,
+        "question": "Will / understand / the / written / instructions / if / you / speak / English / you / will / understand / the / written / instructions (Level 1)",
+        "plans": [
+            {
+                "value": "If you speak English the written instructions, you will understand"
+            },
+            {
+                "value": "You will understand instructions the written If you speak English"
+            },
+            {
+                "value": "If you speak English, you will understand the written instructions"
+            }
+        ],
+        "answer": "If you speak English, you will understand the written instructions",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5100,
+        "question": "Vertical/the/ is /11.76 m/ hig/ /stabilizer (Level 1)",
+        "plans": [
+            {
+                "value": "The vertical stabilizer high is 11.76 m"
+            },
+            {
+                "value": "The vertical stabilizer is 11.76 m high"
+            },
+            {
+                "value": "The stabilizer vertical is 11.76 m high"
+            }
+        ],
+        "answer": "The vertical stabilizer is 11.76 m high",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5101,
+        "question": "Length/of/the/the/37.57m/is/fuselage (Level 1)",
+        "plans": [
+            {
+                "value": "The fuselage length of the is 37.57 m"
+            },
+            {
+                "value": "The length of the fuselage is 37.57 m"
+            },
+            {
+                "value": "The length fuselage is of the 37.57 m"
+            }
+        ],
+        "answer": "The length of the fuselage is 37.57 m",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5102,
+        "question": "Long/37.57m/fuselage/the/is (Level 1)",
+        "plans": [
+            {
+                "value": "The fuselage long is 37.57 m"
+            },
+            {
+                "value": "The fuselage is 37.57 m long"
+            },
+            {
+                "value": "The fuselage 37.57 m is long"
+            }
+        ],
+        "answer": "The fuselage is 37.57 m long",
+        "selectedAnswer": null
     }
 ]
