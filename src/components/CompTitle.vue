@@ -2,12 +2,12 @@
     <div>
         <div v-if="isSubmit" class = "title">
             <h2>Chi tiết bài làm</h2>
-            <h4>Bài thi : TIENG ANG KY THUAT</h4>
+            <h4>Bài thi : TIENG ANH KY THUAT</h4>
             <h4>Thời gian làm bài : {{ timeStart }}</h4>
             <h4>Thời gian kết thúc : {{ timeEnd }}</h4>
             <h4>Điểm thi : {{ totalScore }} / 100</h4>
-            <h4 v-if="totalScore >= 80">Kết quả: Pass</h4>
-            <h4 v-else>Kết quả: Fail</h4>
+            <h4 v-if="totalScore >= 80">Kết quả: <span style = "color: green;">Pass</span></h4>
+            <h4 v-else>Kết quả: <span style = "color: red;">Fail </span></h4>
         </div>
     </div> 
 </template>

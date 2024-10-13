@@ -79,6 +79,11 @@ export default {
 		handleSubmit() {
 			this.isSubmit = true;
 			this.timeEnd = this.getCurrentTimeString();
+			// Cuộn lên đầu trang
+			window.scrollTo({
+				top: 0,
+				behavior: "smooth"
+			});
 		},
 		handleSubmitQuestion(correctAnswersCount) {
 			this.totalScore += correctAnswersCount;

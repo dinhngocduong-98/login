@@ -630,7 +630,7 @@ export default  [
     },
     {
         "id": 38,
-        "question": "38. Choose the correct group of words.   ",
+        "question": "Choose the correct group of words.   ",
         "plans": [
             {
                 "value": "FLIGHT CONTROL ELECTRICAL SYSTEM"
