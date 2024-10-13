@@ -933,5 +933,498 @@ export default  [
         ],
         "answer": "down",
         "selectedAnswer": null
+    },
+    {
+        "id": 5056,
+        "question": "Hung is in his room. He ______ the guitar now.",
+        "plans": [
+            {
+                "value": "play"
+            },
+            {
+                "value": "played"
+            },
+            {
+                "value": "is playing"
+            }
+        ],
+        "answer": "is playing",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5057,
+        "question": "What’s the______ like today? It's rainy and cold",
+        "plans": [
+            {
+                "value": "sun"
+            },
+            {
+                "value": "feeling"
+            },
+            {
+                "value": "weather"
+            }
+        ],
+        "answer": "weather",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5058,
+        "question": "_______ were you born? - In Nam Dinh",
+        "plans": [
+            {
+                "value": "When"
+            },
+            {
+                "value": "Where"
+            },
+            {
+                "value": "Which"
+            }
+        ],
+        "answer": "Where",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5059,
+        "question": "Did you_______ any photos on your vacation?",
+        "plans": [
+            {
+                "value": "took"
+            },
+            {
+                "value": "take"
+            },
+            {
+                "value": "to take"
+            }
+        ],
+        "answer": "take",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5060,
+        "question": "Last year we _______ Da Lat, Nha Trang and Phu Quoc",
+        "plans": [
+            {
+                "value": "visiting"
+            },
+            {
+                "value": "visited"
+            },
+            {
+                "value": "will visit"
+            }
+        ],
+        "answer": "visited",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5061,
+        "question": "You must ____________ this machine carefully.",
+        "plans": [
+            {
+                "value": "checked"
+            },
+            {
+                "value": "to check"
+            },
+            {
+                "value": "check"
+            }
+        ],
+        "answer": "check",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5062,
+        "question": "Huy repaired the motorbike ________",
+        "plans": [
+            {
+                "value": "himself"
+            },
+            {
+                "value": "yourself"
+            },
+            {
+                "value": "itself"
+            }
+        ],
+        "answer": "himself",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5063,
+        "question": "This English test is ________ difficult than that one",
+        "plans": [
+            {
+                "value": "many"
+            },
+            {
+                "value": "more"
+            },
+            {
+                "value": "any"
+            }
+        ],
+        "answer": "more",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5064,
+        "question": "My wife always drives ________",
+        "plans": [
+            {
+                "value": "care"
+            },
+            {
+                "value": "carefully"
+            },
+            {
+                "value": "fun"
+            }
+        ],
+        "answer": "carefully",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5065,
+        "question": "Which month has only 28 days?",
+        "plans": [
+            {
+                "value": "March"
+            },
+            {
+                "value": "May"
+            },
+            {
+                "value": "February"
+            }
+        ],
+        "answer": "February",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5066,
+        "question": "My brother is a ______. He writes articles for VnExpress",
+        "plans": [
+            {
+                "value": "mechanic"
+            },
+            {
+                "value": "doctor"
+            },
+            {
+                "value": "journalist"
+            }
+        ],
+        "answer": "journalist",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5067,
+        "question": "Do you know the man _____ talking to the leader? He is new intern. His name’s Phong.",
+        "plans": [
+            {
+                "value": "who"
+            },
+            {
+                "value": "which"
+            },
+            {
+                "value": "where"
+            }
+        ],
+        "answer": "who",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5068,
+        "question": "Do you _____ the new uniforms?",
+        "plans": [
+            {
+                "value": "likes"
+            },
+            {
+                "value": "like"
+            },
+            {
+                "value": "to like"
+            }
+        ],
+        "answer": "like",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5069,
+        "question": "Look! The pilot_____the handle",
+        "plans": [
+            {
+                "value": "have moved"
+            },
+            {
+                "value": "is moving"
+            },
+            {
+                "value": "will be moved"
+            }
+        ],
+        "answer": "is moving",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5070,
+        "question": "The trouble shooting______performed next week",
+        "plans": [
+            {
+                "value": "will be"
+            },
+            {
+                "value": "have to be "
+            },
+            {
+                "value": "will be"
+            }
+        ],
+        "answer": "will be",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5071,
+        "question": "Normally a BOEING 737_____long range routes",
+        "plans": [
+            {
+                "value": "doesn’t fly"
+            },
+            {
+                "value": "never fly"
+            },
+            {
+                "value": "don’t fly"
+            }
+        ],
+        "answer": "doesn’t fly",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5072,
+        "question": "When this plane had its last overhaul, all faults____eliminated.",
+        "plans": [
+            {
+                "value": "were"
+            },
+            {
+                "value": "are"
+            },
+            {
+                "value": "had"
+            }
+        ],
+        "answer": "were",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5073,
+        "question": "A defective part______whenever it is necessary",
+        "plans": [
+            {
+                "value": "is changed"
+            },
+            {
+                "value": "are changed"
+            },
+            {
+                "value": "was changed"
+            }
+        ],
+        "answer": "is changed",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5074,
+        "question": "The rivets____we need for this repair are available at the workshop.",
+        "plans": [
+            {
+                "value": "whose"
+            },
+            {
+                "value": "who"
+            },
+            {
+                "value": "which"
+            }
+        ],
+        "answer": "which",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5075,
+        "question": "Do you know how____airplanes were overhauled in Hamburg last year?",
+        "plans": [
+            {
+                "value": "much"
+            },
+            {
+                "value": "less"
+            },
+            {
+                "value": "many"
+            }
+        ],
+        "answer": "many",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5076,
+        "question": "_____seats are dirty. We have to clean them",
+        "plans": [
+            {
+                "value": "Much"
+            },
+            {
+                "value": "This"
+            },
+            {
+                "value": "These"
+            }
+        ],
+        "answer": "These",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5077,
+        "question": "All persons______follow the safety precautions when using acids.",
+        "plans": [
+            {
+                "value": "have to"
+            },
+            {
+                "value": "has to "
+            },
+            {
+                "value": "must not"
+            }
+        ],
+        "answer": "have to",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5078,
+        "question": "The First Officer is the person_______sits on the left hand side in the cockpit.",
+        "plans": [
+            {
+                "value": "who"
+            },
+            {
+                "value": "which"
+            },
+            {
+                "value": "whose"
+            }
+        ],
+        "answer": "who",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5079,
+        "question": "Keep away from fire____an aircraft.",
+        "plans": [
+            {
+                "value": "when refueling"
+            },
+            {
+                "value": "by refueling"
+            },
+            {
+                "value": "by refueled"
+            }
+        ],
+        "answer": "when refueling",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5080,
+        "question": "If the temperatures are below freezing point, the planes_____de-iced before takeoff.",
+        "plans": [
+            {
+                "value": "have to"
+            },
+            {
+                "value": "have to be"
+            },
+            {
+                "value": "must"
+            }
+        ],
+        "answer": "have to be",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5081,
+        "question": "The AIRBUS A320 is big enough. We don’t need a______",
+        "plans": [
+            {
+                "value": "more big plane"
+            },
+            {
+                "value": "bigger plane"
+            },
+            {
+                "value": "bigger"
+            }
+        ],
+        "answer": "bigger plane",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5082,
+        "question": "_____working in the a/c hangar smoking is not allowed.",
+        "plans": [
+            {
+                "value": "As"
+            },
+            {
+                "value": "By"
+            },
+            {
+                "value": "When"
+            }
+        ],
+        "answer": "When",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5083,
+        "question": "The pilot______extend the landing gear before landing.",
+        "plans": [
+            {
+                "value": "have to"
+            },
+            {
+                "value": "must"
+            },
+            {
+                "value": "doesn’t have to"
+            }
+        ],
+        "answer": "must",
+        "selectedAnswer": null
+    },
+    {
+        "id": 5084,
+        "question": "The tires have been overhauled. Now they are____new.",
+        "plans": [
+            {
+                "value": "good"
+            },
+            {
+                "value": "less good"
+            },
+            {
+                "value": "as good as"
+            }
+        ],
+        "answer": "as good as",
+        "selectedAnswer": null
     }
 ]
